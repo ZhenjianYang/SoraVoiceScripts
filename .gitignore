@@ -100,5 +100,5 @@ tmp/
 pack/
 
 # .dir files
-.dir
+*.dir
 
