@@ -89,3 +89,16 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# dir pack
+pack/
+
+# dir tmp
+tmp/
+
+# dir pack
+pack/
+
+# .dir files
+.dir
+
