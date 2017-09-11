@@ -1,0 +1,878 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x101
+
+#002FWe checked it over, but it looks[x01]
+like there's nobody inside...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x102
+
+#012FThere's a high possibility the[x01]
+passengers were transferred[x01]
+to the sky bandits' airship.[x02][x03]
+
+And then to wherever their[x01]
+hideout is...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x101
+
+#002FAgreed.[x02][x03]
+
+But this sucks... Right when[x01]
+I thought we had some clues,[x01]
+we're back to zero.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x103
+
+#020FCome on, cheer up already.[x02][x03]
+
+
+It's not like every clue has[x01]
+completely vanished.[x02][x03]
+
+Why do you think the sky bandits[x01]
+hid the airliner in a place like this?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x101
+
+#002FHuh...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x103
+
+#020FAs far as I can tell, the orbal energy in the ship[x01]
+has completely stopped.[x02][x03]
+
+Which means that the orbal engine was stripped[x01]
+from the aircraft.[x02][x03]
+
+Furthermore, the sky bandits made multiple trips[x01]
+to carry off a large amount of cargo.[x02][x03]
+
+Considering the time and risk involved, don't you[x01]
+think it would have been more effective just to[x01]
+take the entire airliner to their hideout?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x101
+
+#000FYeah, that does seem a little[x01]
+odd that they didn't...[x02][x03]
+
+So, why'd they hide the airliner[x01]
+here then?[x02][x03]
+
+Umm, all I can think of is that[x01]
+they did it in order to...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x103
+
+#026FIt's true this may have been a[x01]
+good place to sort the cargo[x01]
+because of the space...[x02][x03]
+
+However, it doesn't account for[x01]
+the fact that they didn't take[x01]
+the airliner to their hideout.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x103
+
+#026FIt's true they would have needed to[x01]
+land in order to move the hostages...[x02][x03]
+
+However, it doesn't account for[x01]
+the fact that they didn't take[x01]
+the airliner to their hideout.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x103
+
+#026FIt's true they would have needed[x01]
+to land in order to remove the[x01]
+orbal engine...[x02][x03]
+
+However, it doesn't account for[x01]
+the fact that they didn't take[x01]
+the airliner to their hideout.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x103
+
+#026FIt's true the airliner is rather[x01]
+large and easily seen...[x02][x03]
+
+And in that sense, it would seem highly[x01]
+likely that they would leave it in a[x01]
+different place than their hideout.[x02][x03]
+
+However, that alone couldn't be[x01]
+considered a decisive reason.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x103
+
+#020FYes, that's exactly right.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x103
+
+#020FFrom my guess, I would imagine[x01]
+that their hideout is in a slightly[x01]
+peculiar place.[x02][x03]
+
+Maybe 10 to 15 arge in size...[x02][x03]
+
+In short, a peculiar place on which[x01]
+only a small aircraft like the sky[x01]
+bandits' airship could land.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x101
+
+#000FInteresting...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x102
+
+#012FHow about terrain covered with[x01]
+extreme differences in height,[x01]
+like mountains and ravines...?[x02][x03]
+
+That seems like a likely place[x01]
+for the sky bandits' hideout.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x103
+
+#020FYes, that's what I've been[x01]
+thinking, too.[x02][x03]
+
+However, if that's the case...then we[x01]
+may be unable to do anything else.[x02][x03]
+
+There's the possibility that their[x01]
+hideout may be in a place we can't[x01]
+reach by foot.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x101
+
+#002FTh-Then what CAN we do?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x103
+
+#022FWell...[x02][x03]
+
+I hate to say it, but we may have[x01]
+to share our conclusions with the[x01]
+army and ask for their cooperation.[x02][x03]
+
+Because they're the ones with[x01]
+the patrol ships.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x101
+
+#004FWhat...? Now you're trying to tell[x01]
+us we should go crawling back to[x01]
+the army and ask them for help?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x102
+
+#012FEither way, we still have to report[x01]
+to them about the airliner.[x02][x03]
+
+Personally speaking, I still think[x01]
+we should cooperate with the army,[x01]
+whatever their attitude may be.[x02][x03]
+
+Especially if that means bringing[x01]
+the hostages back safe and sound.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x101
+
+#002FI guess you're right...[x02][x03]
+
+This isn't the time or place to be[x01]
+letting my personal feelings get[x01]
+the best of me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x103
+
+#020FFor the time being, let's get back[x01]
+to the guild and report our findings[x01]
+to Lugran.[x02][x03]
+
+We should be able to contact[x01]
+the Haken Gate if we use the[x01]
+orbal telephone.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x101
+
+#004FHuh?![x02][x03]
+
+Wh-What the heck?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x102
+
+#017FGreat... Now this was something[x01]
+I did not expect.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x103
+
+#025FI wonder if we should be glad,[x01]
+since they've saved us the trouble of[x01]
+having to contact them...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x9
+
+We have found a suspicious[x01]
+armed group![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x9
+
+Put your hands in the air! All of you![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x9
+
+What is this world coming to? A woman[x01]
+and two kids are the sky bandits...?[x01]
+Though the girl DOES look shifty...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x101
+
+#009FH-Hey! I do not! And who are[x01]
+you calling sky bandits?![x02][x03]
+
+Can't you see this shiny emblem[x01]
+on my chest?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #29
+0x8
+Man's Voice
+
+Hmph! The bracer emblem, huh...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #30
+0x8
+Man's Voice
+
+I hope you don't think for a moment[x01]
+something like that proves your[x01]
+innocence.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x101
+
+#004FG-General Morgan?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x102
+
+#014FWhy are you here...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x8
+
+#160FAfter looking over the reports of my men, I[x01]
+found this place to have been insufficiently[x01]
+investigated, so I came to see for myself...[x02][x03]
+
+Who would have thought the lot of you[x01]
+were conspiring with the sky bandits?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x103
+
+#022FMight I get you to stop with the[x01]
+accusations, General?[x02][x03]
+
+We happened to find this place[x01]
+one step ahead of your men.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x8
+
+#160FIf that's the truth, then why don't[x01]
+you tell me where the sky bandits[x01]
+are?[x02][x03]
+
+Are the hostages inside that[x01]
+airliner?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x102
+
+#012FWe almost had the sky bandits,[x01]
+but they managed to escape...[x02][x03]
+
+And there are no hostages to be[x01]
+found here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x8
+
+#160FHmph! It looks like the truth[x01]
+has come out...[x02][x03]
+
+Most likely, you notified the sky[x01]
+bandits to let them know we were[x01]
+coming![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x101
+
+#005FW-Wait a minute here![x01]
+How about you cut with the crap![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x8
+
+#162FMy thoughts exactly![x02][x03]
+
+All right, men![x01]
+Take them into custody![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #40
+
+
+[x07][x00]And that's about the gist of[x01]
+the sky bandit incident that[x01]
+occurred in northern Liberl...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #41
+
+
+[x07][x00]...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #42
+
+
+[x07][x00]And to think that the bankrupt[x01]
+Capua family drifted all the way[x01]
+down here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #43
+
+
+[x07][x00]You might be contacted by Liberl[x01]
+regarding the incident, so deal[x01]
+with it as you see fit.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #44
+
+
+[x07][x00]...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #45
+
+
+[x07][x00]Yeah, it turns out I wasn't able to[x01]
+meet him in the end. It seems like[x01]
+something else must have come up.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #46
+
+
+[x07][x00]Also, the connection with the sky bandit[x01]
+incident is still unknown, but it's clear[x01]
+that another power is at work here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #47
+
+
+[x07][x00]...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #48
+
+
+[x07][x00]No, it's not like that at all.[x01]
+I've also become acquainted[x01]
+with an interesting bunch.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #49
+
+
+[x07][x00]The food's great, and there are babes[x01]
+everywhere. This is unquestionably[x01]
+my kind of country.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #50
+
+
+[x07][x00]Maybe I'll just take up permanent[x01]
+residence here while I'm at it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #51
+
+
+[x07][x00]...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #52
+
+
+[x07][x00]All right, all right.[x01]
+There's no need to throw a fit.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #53
+
+
+[x07][x00]Anyway, see what else you can find out.[x01]
+Just don't get caught looking into things[x01]
+by the chancellor.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #54
+
+
+[x07][x00]I'll contact you again...my dear friend.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0x104
+
+#030FHa ha. I love messing with that guy.[x02][x03]
+
+
+He's just so stuffy and uptight[x01]
+that I can't help myself...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #56
+0x103
+Woman's Voice
+
+A portable phone, huh...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #57
+0x103
+Woman's Voice
+
+Well, aren't you carrying around[x01]
+quite the nifty gadget?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0x104
+
+#030FSch-Schera...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0x103
+
+#020FAnd the fact that you're carrying around[x01]
+an orbment that even the Zeiss Central[x01]
+Factory couldn't create, well...[x02][x03]
+
+How about you tell me who you[x01]
+really are?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x104
+
+#030FCome on, Schera. Don't treat me[x01]
+like I'm some kind of stranger.[x02][x03]
+
+I'm Olivier Lenheim, the wandering bard[x01]
+and gifted musician you've come to adore.[x02][x03]
+
+
+But if you'd like to get to know me better,[x01]
+I'm sure we could arrange something...[x01]
+A little pillow talk, perhaps...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x103
+
+#020FHow about we skip the foreplay and go[x01]
+straight to the climax. Your cheap[x01]
+antics don't fool me, Olivier.[x02][x03]
+
+Or should I call you[x01]
+'Mr. Erebonian Operative'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0x104
+
+#030F...[x02][x03]
+
+Heh. It looks like the title 'Silver Streak'[x01]
+isn't just for show.[x02][x03]
+
+So I guess you were pretending[x01]
+that you didn't notice in front[x01]
+of Estelle and Joshua, huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0x103
+
+#020FI don't want to worry those two[x01]
+any more than they already are.[x02][x03]
+
+So back to the subject at hand,[x01]
+why don't you start talking?[x02][x03]
+
+Who are you, and what are you[x01]
+doing in Liberl?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0x104
+
+#030FBefore that...I'm going to have to[x01]
+correct you on two points.[x02][x03]
+
+First off, these 'cheap antics', as[x01]
+you call them, are totally natural.[x02][x03]
+
+I'm not playacting or anything.[x01]
+That's just who I am.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0x103
+
+#020FOh, I'm sure.[x02][x03]
+
+So do you mean to tell me that you[x01]
+drank that wine without paying just[x01]
+because you felt like it?[x02][x03]
+
+And after that, being taken to the Haken[x01]
+Gate so you could gather information was[x01]
+all a part of the plan?[x02][x03]
+
+And you even set yourself up to[x01]
+run into us? I don't think so...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #66
+0x104
+
+#030FHeh... I'll leave that part[x01]
+up to your imagination.[x02][x03]
+
+The other thing I must correct you on[x01]
+is that this device is not an orbment.[x02][x03]
+
+It is an artifact which was unearthed[x01]
+in the Empire.[x02][x03]
+
+It can piggyback off any orbal communications[x01]
+system and its transmissions can be encrypted,[x01]
+so there's no worry about them being intercepted.[x02][x03]
+
+It comes in handy for a busy man such as myself.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #67
+0x103
+
+#020FAn artifact...like one of the sacred relics[x01]
+the Septian Church has stewardship over?[x02][x03]
+
+Now I'm all the more curious to know[x01]
+what you're after.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0x104
+
+#030FOh no, no, no, Schera.[x02][x03]
+
+
+You should never try to pry into[x01]
+the secrets of a mysterious beauty[x01]
+all at once.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0x103
+
+#020F...[x02][x03]
+
+How would you like to get to know a[x01]
+real woman? I'd be more than willing[x01]
+to show you with my whip.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x104
+
+#030F...[x01]
+Schera...I don't see any humor[x01]
+in those eyes...[x02][x03]
+
+Well, jokes aside...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0x103
+
+#020FYou really should have just been[x01]
+straightforward from the beginning.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0x104
+
+#030FAs you have already figured out,[x01]
+my position is like that of an[x01]
+operative in the Empire.[x02][x03]
+
+But I have no intention of sabotaging[x01]
+anything or stealing classified[x01]
+information.[x02][x03]
+
+I merely came here to meet a certain[x01]
+someone.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x103
+
+#020FA certain someone...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0x104
+
+#030FYes, someone you know all too well.[x02][x03]
+
+The one lauded as the supreme swordsman[x01]
+and master strategist by the Royal Army.[x02][x03]
+
+The bracer with the special title belonging[x01]
+to but four people throughout the whole of[x01]
+the entire continent.[x02][x03]
+
+The Divine Blade--Cassius Bright[x01]
+is the one I seek.[x02]

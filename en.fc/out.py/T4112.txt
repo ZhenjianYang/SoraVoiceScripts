@@ -1,0 +1,326 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x8
+
+#6P#035FA dark cloud looms over the[x01]
+royal city, and yea, it signals[x01]
+a passion most black...[x02][x03]
+
+#030FHeh heh... But so fascinating[x01]
+a shade of black it seems.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #1
+0x9
+Man's Voice
+
+You are such an idiot...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x8
+
+#033F#6PAm I perchance...dreaming?[x02][x03]
+
+
+#031FMueller, my boon companion![x02][x03]
+
+Have you come all this way, all the[x01]
+long roads from the Imperial capital,[x01]
+just to see me? How delicious![x02][x03]
+
+On what wind did you fly hither?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x9
+
+#4P#270FWind?[x01]
+What are you talking about?[x02][x03]
+
+I'm here because I've had to[x01]
+follow your stupid ass all[x01]
+over Aidios' damned creation.[x02][x03]
+
+Do you have any idea how much[x01]
+time this has cost me?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x8
+
+#035F#6PPlease, my dear. Don't hide behind[x01]
+such base profanities.[x02][x03]
+
+Your lips spit venom, but the fire in [x01]
+your eyes show the depths of worry[x01]
+that drove you onward to my side.[x02][x03]
+
+Love... It is truly blind![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x9
+
+#4P#273FThat doesn't even make...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x8
+
+#031F#6PNo more words, dear Mueller![x01]
+Fly! Fly to my embrace![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x9
+
+#4P#272FI came here because I'm trying to bring[x01]
+you information...that YOU asked for.[x02][x03]
+
+But I'm guessing you'd rather hug than[x01]
+talk.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x8
+
+#036F#6PLo! I am hoist with my[x01]
+own petard![x02][x03]
+
+#035FVery well. Let us talk.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x9
+
+#4P#270FYes. Like SANE people.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x8
+
+#030F#6P*sigh* As you wish.[x02][x03]
+
+#035FAhem!...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x8
+
+#031F#6PWhat news, milord? ☆[x02][x03]
+
+#031FWhat news for your humble Olivier? ㈱[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x8
+
+#033F#6PNo? No.[x02][x03]
+
+#035FAll right. No clowning, then.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x8
+
+#039F#3S#6PDon't play like that, brother.[x01]
+Give a man some information.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x8
+
+#039F#3S#6PLay it on me, man!![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x9
+
+#4P#274FYou're making me stupider[x01]
+just by being around you.[x02][x03]
+
+Okay, I'll tell you. Just stop[x01]
+opening your mouth and making[x01]
+sounds come out of it. [x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x8
+
+#031F#6PHuzzah![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x9
+
+#4P#270FRegarding the guy we were talking[x01]
+about before... I managed to pick[x01]
+up his trail.[x02][x03]
+
+From what I found, he was at[x01]
+one of the Erebonian Bracer Guilds[x01]
+until about a month ago.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x8
+
+#033F#6POh...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x9
+
+#4P#270FOver the past several months, all[x01]
+of the guild branches in the Empire[x01]
+have been attacked, one after another.[x02][x03]
+
+Seems he was supposed to[x01]
+be investigating why.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x8
+
+#030F#6PAttacked, you say...[x02][x03]
+
+I should think it unlikely, but[x01]
+might these have been perpetrated[x01]
+by some military unit, somewhere?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x9
+
+#4P#272FYou picked up on it, too...[x01]
+It's not the world of ten years[x01]
+ago anymore, though.[x02][x03]
+
+As far as I know, no military force[x01]
+has been given marching orders.[x02][x03]
+
+I'd bet that someone hired[x01]
+jaegers to pull this off.[x02][x03]
+
+#270FAnyway, our boy's trail stopped[x01]
+for a while, right when that[x01]
+case was solved.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x8
+
+#034F#6PHmmmm...[x01]
+Oh dear, oh dear.[x02][x03]
+
+I took such pains coming to Liberl,[x01]
+and 'twould seem that I was[x01]
+following a wild goose.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x9
+
+#4P#270FI guess so.[x02][x03]
+
+But if the man we're after isn't[x01]
+here, there's no real reason to[x01]
+stick around, is there?[x02][x03]
+
+That storm you were talking[x01]
+about is going to be worse[x01]
+than expected. A lot worse.[x02][x03]
+
+You should come back to the[x01]
+Imperial capital before you[x01]
+get caught in it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x8
+
+#031F#6PHa ha ha... Ever a jester![x02][x03]
+
+How could I bear to part with[x01]
+the opportunity to play a role[x01]
+in the finest opera ever?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x9
+
+#4P#273F...What?[x02][x03]
+
+#271FTell me you're not actually[x01]
+thinking of...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x8
+
+#035F#6PI am, you might say, already in[x01]
+costume.[x02][x03]
+
+Sadly, the lead is unavailable,[x01]
+so the understudies must be used.[x02][x03]
+
+#030FI have the utmost faith that[x01]
+between the two of them, they[x01]
+will put on a grand performance.[x02]

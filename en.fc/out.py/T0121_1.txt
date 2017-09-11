@@ -1,0 +1,150 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xFE
+
+What's the deal with everything being[x01]
+in short supply around here?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xFE
+
+Damn it! Somehow I'm going to have[x01]
+to dig up a Grade-A product before[x01]
+I head to my next business deal...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xFE
+
+Somehow I'm going to have to[x01]
+dig up a Grade-A product before[x01]
+I head to my next business deal...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #3
+
+
+[x07][x05]There are no current job listings.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #4
+
+
+[x07][x05]There are no current job listings.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x8
+
+#741FGood job, you two. It seems like you[x01]
+were able to complete your objective[x01]
+without running into any major problems.[x02][x03]
+
+#741FAnother thing to take note of is that depending[x01]
+on how you handle a job, you may see an increase[x01]
+or decrease in the amount of pay you receive.[x02][x03]
+
+#740FWhen you report the results of your work[x01]
+to the guild, pay in the form of mira[x01]
+isn't the only thing you will receive.[x02][x03]
+
+You will also accumulate points which are[x01]
+known as BP (bracer points). BP are an[x01]
+indication of your achievements as a bracer.[x02][x03]
+
+When these points exceed a certain value, you[x01]
+will advance in rank as a bracer and be awarded[x01]
+with a piece of special equipment by the guild.[x02][x03]
+
+The ranks of a junior bracer start at 9 and[x01]
+go all the way up to 1. Please set your[x01]
+sights on making first-rank and work hard.[x02][x03]
+
+#740FThe amount of mira and BP you receive will[x01]
+also be recorded in your Bracer Notebooks,[x01]
+so please have a look sometime later on.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x9
+
+#020FAll that's left to do now is finalize[x01]
+your training.[x02][x03]
+
+Let's head back upstairs, shall we?[x02][x03]
+
+
+I'll talk to you later, Aina.[x01]
+And sorry about putting more work[x01]
+on your plate today than usual.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x8
+
+#741FDon't worry about it. Training new[x01]
+bracers is important for the future[x01]
+of the guild.[x02][x03]
+
+I fully intend to work these two[x01]
+to the bone in any case.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x101
+
+#008FTo the b-bone...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x102
+
+#019FAnd knowing Schera it'll involve[x01]
+the whip...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x8
+
+#740FGood work. It seems like you completed[x01]
+your objective without any trouble.[x02][x03]
+
+If you finish any other jobs, please[x01]
+come back and report again.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x8
+
+#740FIt looks like there's nothing to[x01]
+report at this time.[x02][x03]
+
+If you finish any other jobs, please[x01]
+come back and report again.[x02]
+

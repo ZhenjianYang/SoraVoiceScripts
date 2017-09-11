@@ -1,0 +1,1 @@
+Copy all .dir files in Trails in the Sky FC's installation folder to this folder 

@@ -1,0 +1,128 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x103
+
+#020FEstelle, that's the wrong way.[x01]
+That leads to the Ravennue Trail.[x02][x03]
+
+The Krone Pass is due west of here.[x02][x03]
+
+
+We can think about going to Ravennue[x01]
+Village after we've safely escorted our[x01]
+client to his destination.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x101
+
+#000FO-kay, I heard you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x103
+
+#020FThat's the wrong way.[x01]
+That leads to the Ravennue Trail.[x02][x03]
+
+The Krone Pass is due west of here.[x02][x03]
+
+
+We can think about going to Ravennue[x01]
+Village after we've safely escorted our[x01]
+client to his destination.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x103
+
+#020FJoshua, that's the wrong way.[x01]
+That leads to the Ravennue Trail.[x02][x03]
+
+The Krone Pass is due west of here.[x02][x03]
+
+
+Let's think about going to Ravennue[x01]
+Village after we've safely escorted[x01]
+our client to his destination.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x102
+
+#010FOh, right.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x103
+
+#020FThat's the wrong way.[x01]
+That leads to the Ravennue Trail.[x02][x03]
+
+The Krone Pass is due west of here.[x02][x03]
+
+
+We can think about going to Ravennue[x01]
+Village after we've safely escorted our[x01]
+client to his destination.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x103
+
+#023FOh...hold on.[x01]
+This leads to the Ravennue Trail.[x02][x03]
+
+We need to head due west to[x01]
+reach the Krone Pass.[x02][x03]
+
+We can think about going to Ravennue[x01]
+Village after we've safely escorted our[x01]
+client to his destination.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x103
+
+#020FThis leads to the Ravennue Trail.[x02][x03]
+
+We need to head due west to[x01]
+reach the Krone Pass.[x02][x03]
+
+We can think about going to Ravennue[x01]
+Village after we've safely escorted our[x01]
+client to his destination.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #8
+
+
+[x07][x05]North: Ravennue Village - 147 selge[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #9
+
+
+[x07][x05]East: Bose City - 140 selge[x01]
+West: Krone Pass - 301 selge[x02]

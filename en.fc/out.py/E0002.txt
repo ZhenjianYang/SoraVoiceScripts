@@ -1,0 +1,75 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x101
+
+#001FWow...[x01]
+Look how high up we are.[x02][x03]
+
+It's been a really long time[x01]
+since I was on an airship.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x102
+
+#010FNo kidding. We didn't exactly[x01]
+have time to go sightseeing on[x01]
+the sky bandit ship.[x02][x03]
+
+#013FNot that this even really compares. We're[x01]
+in an exponentially more dangerous situation[x01]
+now than we were at that point.[x02][x03]
+
+We need to stay alert. There's[x01]
+no telling what might happen.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x101
+
+#007FYeah, I know what you mean.[x02][x03]
+
+#003FI'm still having a hard time wrapping[x01]
+my head around the idea of something[x01]
+like this happening in Liberl, though.[x02][x03]
+
+It feels like the start of[x01]
+something really big.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x102
+
+#012F#2PMy thoughts exactly.[x02][x03]
+
+The sky bandits, and those men in[x01]
+black that were manipulating the[x01]
+mayor of Ruan behind the scenes...[x02][x03]
+
+#015FIf we can learn more about[x01]
+them, we might be able to[x01]
+get a solid lead.[x02][x03]
+
+#010FNot to mention...why Dad[x01]
+disappeared like that...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x101
+
+#501F#5PYeah...[x02][x03]
+
+#006FWell, while we're saving the[x01]
+professor, we can look around[x01]
+for clues![x02]
