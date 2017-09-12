@@ -49,8 +49,8 @@ PC游戏《空之轨迹》系列的语音脚本
   这里假定7zip路径为：`C:\Program Files\7-Zip\7z.exe`   
   还需要安装一些python库，具体请参考[tools/EDDecompiler](https://github.com/ZhenjianYang/EDDecompiler)。
 
-3.  将游戏安装目录下的**\.dir**文件复制到本项目   
-    **《空之轨迹 FC》**: 复制**\.dir**文件到`game_files/DIR_FC/`   
+3.  将游戏安装目录下的 **.dir**文件复制到本项目   
+    **《空之轨迹 FC》**: 复制 **\.dir**文件到`game_files/DIR_FC/`   
 
 4.  **生成脚本文件**   
   执行`DoAll.bat`即可    
