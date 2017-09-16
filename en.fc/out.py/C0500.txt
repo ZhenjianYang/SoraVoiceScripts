@@ -79,8 +79,8 @@ ChrTalk #1001
 
 #502FWell, that was easier than I thought.[x02][x03]
 
-#508FAll right, let's keep[x01]
-up this pace.[x02]
+#508FAll right, let's keep up this pace.[x02]
+
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -113,11 +113,11 @@ AnonymousTalk #1004
 [x07][x05]※In the Monster Guide are recorded basic informations about monsters, like their portrait,[x01]
 description, level and HP. It's also possible to check the effectiveness of elemental attacks.[x02][x03]
 
-[x07][x05]※It is also possible to check their resistance to status ailments, the kind and amount of[x01]
-sepith dropped upon defeat, and the obtainable items.[x02][x03]
+[x07][x05]※Resistance to status ailments, the kind and amount of Sepith dropped upon defeat,[x01]
+and the obtainable items are also recorded in the Monster Book.[x02][x03]
 
 [x07][x05]※Upon attacking a monster, its informations will partially be recorded in the Monster Guide.[x01]
-By equipping an 'Information' quartz, it'll be possible to record all informations.[x02]
+By equipping an 'Information' quartz, it'll be possible to record all of them at once.[x02]
 
 
 
