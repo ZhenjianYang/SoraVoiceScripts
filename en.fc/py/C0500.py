@@ -839,6 +839,57 @@ def main():
     QueueWorkItem(0x1, 1, lambda_ACD)
     Sleep(200)
     Battle(0x11, 0x10000B, 0x0, 0x0, 0x9)
+
+    EventBegin(0x0)
+    OP_44(0x101, 0xFF)
+    OP_44(0x102, 0xFF)
+    SetChrChipByIndex(0x101, 65535)
+    SetChrChipByIndex(0x102, 65535)
+    SetChrPos(0x101, 1810, 0, 10700, 0)
+    SetChrPos(0x102, 1810, 0, 9370, 0)
+    OP_69(0x101, 0x0)
+    FadeToBright(1000, 0)
+    OP_0D()
+
+    ChrTalk(    #1001
+        0x101,
+        (
+            "#502Fふふん、思ったより楽勝ね。\x02\x03",
+
+            "#508Fよ～し、\x01",
+            "この調子で先に進むわよ。\x02",
+        )
+    )
+
+    CloseMessageWindow()
+    TurnDirection(0x102, 0x101, 400)
+
+    ChrTalk(    #1002
+        0x102,
+        (
+            "#010Fエステル、ちょっと待って。\x02\x03",
+
+            "#010F今、戦った魔獣の情報を\x01",
+            "魔獣手帳に記しておこう。\x02",
+        )
+    )
+
+    CloseMessageWindow()
+    TurnDirection(0x101, 0x102, 400)
+
+    ChrTalk(    #1003
+        0x101,
+        (
+            "#008Fあっと、そうだったわね。\x02\x03",
+
+            "#502Fさらさらさらっと……\x02\x03",
+
+            "#006Fよしっ、これでオッケーね。\x02",
+        )
+    )
+
+    CloseMessageWindow()
+
     EventEnd(0x2)
     SetMapFlags(0x1)
     Return()
