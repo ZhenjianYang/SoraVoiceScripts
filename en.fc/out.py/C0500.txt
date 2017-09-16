@@ -77,9 +77,9 @@ being attacked by an enemy from behind is disadvantageous.[x02]
 ChrTalk #1001
 0x101
 
-#502FWell、that was easier than I thought.[x02][x03]
+#502FWell, that was easier than I thought.[x02][x03]
 
-#508FAll right、let's keep[x01]
+#508FAll right, let's keep[x01]
 up this pace.[x02]
 
 ;----------------------------------------------------------------------------------
@@ -88,7 +88,7 @@ up this pace.[x02]
 ChrTalk #1002
 0x102
 
-#010FEstelle、wait a second.[x02][x03]
+#010FEstelle, wait a second.[x02][x03]
 
 #010FWe should write down the informations about the[x01]
 monsters we've just fought in the Monster Guide.[x02]
@@ -99,11 +99,42 @@ monsters we've just fought in the Monster Guide.[x02]
 ChrTalk #1003
 0x101
 
-#008FAhh、you're right.[x02][x03]
+#008FAhh, you're right.[x02][x03]
 
 #502F*Murmur*...[x02][x03]
 
-#006FOkay、that should do it.[x02]
+#006FOkay, that should do it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1004
+
+[x07][x05]※In the Monster Guide are recorded basic informations about monsters, like their portrait,[x01]
+description, level and HP. It's also possible to check the effectiveness of elemental attacks.[x02][x03]
+
+[x07][x05]※It is also possible to check their resistance to status ailments, the kind and amount of[x01]
+sepith dropped upon defeat, and the obtainable items.[x02][x03]
+
+[x07][x05]※Upon attacking a monster, its informations will partially be recorded in the Monster Guide.[x01]
+By equipping an 'Information' quartz, it'll be possible to record all informations.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------

@@ -887,8 +887,19 @@ def main():
             "#006Fよしっ、これでオッケーね。\x02",
         )
     )
+    CloseMessageWindow()
+    FadeToDark(300, 0, 100)
+
+    AnonymousTalk(    #1004
+        (
+            "about Monsters and the Monster Guide",
+        )
+    )
 
     CloseMessageWindow()
+    OP_56(0x0)
+    FadeToBright(300, 0)
+    OP_A2(0x0)
 
     EventEnd(0x2)
     SetMapFlags(0x1)
