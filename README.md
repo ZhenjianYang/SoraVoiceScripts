@@ -4,9 +4,10 @@ They can be used for the project [SoraVoce](https://github.com/ZhenjianYang/Sora
 
 Scripts for these games were done:
 
-|Game Title                |Publisher|Platform        |Language |             |
-|--------------------------|---------|----------------|---------|-------------|
-|*Trails in the Sky FC*    |Xseed    |Steam/GOG/Humble|English  |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
+|Game Title                |Publisher|Platform        |Language          |             |
+|--------------------------|---------|----------------|------------------|-------------|
+|*Trails in the Sky FC*    |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
+|*Trails in the Sky FC*    |Xseed    |Steam           |Chinese Simplified|Unofficial
 
 ## Follow these steps
 
@@ -39,6 +40,7 @@ PC游戏《空之轨迹》系列的语音脚本
 |游戏标题       |发行商 |平台            |语言     |              |
 |---------------|-------|----------------|---------|--------------|
 |空之轨迹 FC    |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
+|空之轨迹 FC    |Xseed  |Steam           |简体中文 |非官方
 
 ## 步骤   
 
