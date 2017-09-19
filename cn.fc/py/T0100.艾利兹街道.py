@@ -6201,9 +6201,11 @@ def main():
     ChrTalk(    #360
         0x101,
         (
-            "#501F嘿，看来是件好东西啊。\x02\x03",
+            "#501F嘿，看来是件好东西啊。\x02",
         )
     )
+
+    CloseMessageWindow()
 #STEAM_ONLY_END
 
     ChrTalk(    #1000
