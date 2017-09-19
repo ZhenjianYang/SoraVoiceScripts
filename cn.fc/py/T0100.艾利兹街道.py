@@ -6138,6 +6138,7 @@ def main():
     )
 
     CloseMessageWindow()
+#STEAM_ONLY_BEGIN
     OP_22(0x11, 0x0, 0x64)
 
     AnonymousTalk(    #355
@@ -6145,12 +6146,16 @@ def main():
     )
 
     CloseMessageWindow()
+#STEAM_ONLY_END
     OP_56(0x0)
     OP_3E(0x1F5, 3)
+#STEAM_ONLY_BEGIN
     OP_3E(0x20F, 1)
+#STEAM_ONLY_END
     FadeToBright(300, 0)
     SetMessageWindowPos(72, 320, 56, 3)
 
+#STEAM_ONLY_BEGIN
     ChrTalk(    #356
         0x101,
         "#505F嗯？这本手册是……？\x02",
@@ -6197,17 +6202,25 @@ def main():
         0x101,
         (
             "#501F嘿，看来是件好东西啊。\x02\x03",
+        )
+    )
+#STEAM_ONLY_END
 
+    ChrTalk(    #1000
+        0x101,
+        (
             "#001F谢啦，雪拉姐！\x02",
         )
     )
 
+#STEAM_ONLY_BEGIN
     CloseMessageWindow()
 
     ChrTalk(    #361
         0x102,
         "#010F我们会充分利用的。\x02",
     )
+#STEAM_ONLY_END
 
     CloseMessageWindow()
     TurnDirection(0x101, 0x102, 400)

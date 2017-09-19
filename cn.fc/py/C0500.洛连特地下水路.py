@@ -839,6 +839,7 @@ def main():
     Sleep(200)
     Battle(0x11, 0x10000B, 0x0, 0x0, 0x9)
 
+#STEAM_ONLY_BEGIN
     EventBegin(0x0)
     OP_44(0x101, 0xFF)
     OP_44(0x102, 0xFF)
@@ -899,6 +900,7 @@ def main():
     OP_56(0x0)
     FadeToBright(300, 0)
     OP_A2(0x0)
+#STEAM_ONLY_END
 
     EventEnd(0x2)
     SetMapFlags(0x1)
