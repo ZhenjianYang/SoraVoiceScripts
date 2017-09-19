@@ -96,6 +96,9 @@ pack/
 # dir tmp
 tmp/
 
+# dir tmp.ori
+tmp.ori/
+
 # dir pack
 pack/
 
