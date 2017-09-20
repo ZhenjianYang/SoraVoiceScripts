@@ -8,6 +8,7 @@ Scripts for these games were done:
 |--------------------------|---------|----------------|------------------|-------------|
 |*Trails in the Sky FC*    |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
 |*Trails in the Sky FC*    |Xseed    |Steam           |Chinese Simplified|[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
+|*Sora no Kiseki FC*       |YLT      |                |Chinese Simplified|The Original PC ver
 
 ## Follow these steps
 
@@ -40,7 +41,8 @@ PC游戏《空之轨迹》系列的语音脚本
 |游戏标题       |发行商 |平台            |语言     |              |
 |---------------|-------|----------------|---------|--------------|
 |空之轨迹 FC    |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
-|空之轨迹 FC    |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
+|空之轨迹 FC    |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
+|空之轨迹 FC    |娱乐通 |                |简体中文 |原版PC
 
 ## 步骤   
 
