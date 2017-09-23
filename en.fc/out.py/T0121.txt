@@ -3762,7 +3762,7 @@ I'll just have to be more motivated.[x02]
 ChrTalk #375
 0x9
 
-#020FHIs that so?[x01]
+#020FIs that so?[x01]
 Had a change of heart, have you?[x02]
 
 ;----------------------------------------------------------------------------------
