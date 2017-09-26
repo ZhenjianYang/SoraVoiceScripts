@@ -708,7 +708,7 @@ def main():
 
     ChrTalk(    #0
         0x9,
-        "#020FHey, you two! Hurry up and report.\x02",
+        "#12954v#020FHey, you two! Hurry up and report.\x02",
     )
 
     CloseMessageWindow()
@@ -721,7 +721,7 @@ def main():
     ChrTalk(    #1
         0x9,
         (
-            "#020FQuit screwing around and check\x01",
+            "#12955v#020FQuit screwing around and check\x01",
             "the job description.\x02",
         )
     )
@@ -735,7 +735,7 @@ def main():
 
     ChrTalk(    #2
         0x9,
-        "#020FQuit wasting time and go get them.\x02",
+        "#12956v#020FQuit wasting time and go get them.\x02",
     )
 
     CloseMessageWindow()
@@ -797,16 +797,16 @@ def main():
     ChrTalk(    #3
         0x8,
         (
-            "#740FOh, you haven't left yet?\x02\x03",
+            "#21740v#740FOh, you haven't left yet?\x02\x03",
 
-            "In order to reach Bose, you'll\x01",
+            "#21741vIn order to reach Bose, you'll\x01",
             "need to head west on the Milch\x01",
             "Main Road.\x02\x03",
 
-            "I'll contact the Bracer Guild branch\x01",
+            "#21742vI'll contact the Bracer Guild branch\x01",
             "and let them know you're coming.\x02\x03",
 
-            "Make sure to be extra careful\x01",
+            "#21743vMake sure to be extra careful\x01",
             "while you're away.\x02",
         )
     )
@@ -820,11 +820,11 @@ def main():
     ChrTalk(    #4
         0x8,
         (
-            "#740FIn order to reach Bose, you'll\x01",
+            "#21744v#740FIn order to reach Bose, you'll\x01",
             "need to head west on the Milch\x01",
             "Main Road.\x02\x03",
 
-            "Make sure to be extra careful\x01",
+            "#21745vMake sure to be extra careful\x01",
             "while you're away.\x02",
         )
     )
@@ -855,14 +855,14 @@ def main():
 
     ChrTalk(    #5
         0x9,
-        "#020F#3POh, Estelle and Joshua.\x02",
+        "#12992v#020F#3POh, Estelle and Joshua.\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #6
         0x101,
-        "#004F#4PSchera? What are you doing here?\x02",
+        "#00796v#004F#4PSchera? What are you doing here?\x02",
     )
 
     CloseMessageWindow()
@@ -870,7 +870,7 @@ def main():
     ChrTalk(    #7
         0x102,
         (
-            "#010FThis is a rare occasion.\x01",
+            "#08087v#010FThis is a rare occasion.\x01",
             "You're usually out and about.\x02",
         )
     )
@@ -880,10 +880,10 @@ def main():
     ChrTalk(    #8
         0x9,
         (
-            "#020F#3PI just finished the jobs I took\x01",
+            "#12993v#020F#3PI just finished the jobs I took\x01",
             "over for your father.\x02\x03",
 
-            "#020FAnd I was reporting to the guild.\x02",
+            "#12994v#020FAnd I was reporting to the guild.\x02",
         )
     )
 
@@ -892,7 +892,7 @@ def main():
     ChrTalk(    #9
         0x101,
         (
-            "#001F#4PSo you finished your load, too,\x01",
+            "#00797v#001F#4PSo you finished your load, too,\x01",
             "huh?\x02",
         )
     )
@@ -902,12 +902,12 @@ def main():
     ChrTalk(    #10
         0x9,
         (
-            "#027F#3PSomehow or other, I guess.\x02\x03",
+            "#12995v#027F#3PSomehow or other, I guess.\x02\x03",
 
-            "#027FI heard from Aina that you guys\x01",
+            "#12996v#027FI heard from Aina that you guys\x01",
             "aren't doing too bad yourselves.\x02\x03",
 
-            "#027FI guess everything I went through\x01",
+            "#12997v#027FI guess everything I went through\x01",
             "to train the two of you amounted\x01",
             "to something.\x02",
         )
@@ -918,9 +918,9 @@ def main():
     ChrTalk(    #11
         0x101,
         (
-            "#008F#4PTee hee. We're grateful, too.\x02\x03",
+            "#00798v#008F#4PTee hee. We're grateful, too.\x02\x03",
 
-            "#008FWell, I guess we'll report in as\x01",
+            "#00799v#008FWell, I guess we'll report in as\x01",
             "well then.\x02",
         )
     )
@@ -932,7 +932,7 @@ def main():
     ChrTalk(    #12
         0x8,
         (
-            "#740FGo ahead.\x01",
+            "#21687v#740FGo ahead.\x01",
             "Let's hear what you've got.\x02",
         )
     )
@@ -958,9 +958,9 @@ def main():
     ChrTalk(    #14
         0x8,
         (
-            "#741FGood work, you two.\x02\x03",
+            "#21688v#741FGood work, you two.\x02\x03",
 
-            "How about you, Scherazard? Don't\x01",
+            "#21689vHow about you, Scherazard? Don't\x01",
             "you think they've done a fine job?\x02",
         )
     )
@@ -973,15 +973,15 @@ def main():
     ChrTalk(    #15
         0x9,
         (
-            "#022F#3PThey still have a long way to go.\x01",
+            "#12998v#022F#3PThey still have a long way to go.\x01",
             "Their actions in the tower show\x01",
             "a lot of wasted effort.\x02\x03",
 
-            "#022FWhen it's just the two of you, that's\x01",
+            "#12999v#022FWhen it's just the two of you, that's\x01",
             "one thing, but when it comes to\x01",
             "escorting someone, you get a C-.\x02\x03",
 
-            "#022FYou need to work carefully and\x01",
+            "#13000v#022FYou need to work carefully and\x01",
             "deliberately with everything you do.\x02",
         )
     )
@@ -993,7 +993,7 @@ def main():
 
     ChrTalk(    #16
         0x101,
-        "#007F#4PThat's harsh...\x02",
+        "#00800v#007F#4PThat's harsh...\x02",
     )
 
     CloseMessageWindow()
@@ -1005,13 +1005,13 @@ def main():
     ChrTalk(    #17
         0x9,
         (
-            "#027F#3PFor a bunch of newbies, you did\x01",
+            "#13001v#027F#3PFor a bunch of newbies, you did\x01",
             "an average job.\x02\x03",
 
-            "#027FBut you shouldn't be satisfied with\x01",
+            "#13002v#027FBut you shouldn't be satisfied with\x01",
             "that level of work.\x02\x03",
 
-            "#027FEspecially you, Estelle.\x01",
+            "#13003v#027FEspecially you, Estelle.\x01",
             "You're always the first to get\x01",
             "on that high horse of yours.\x02",
         )
@@ -1021,7 +1021,7 @@ def main():
 
     ChrTalk(    #18
         0x101,
-        "#502F#4POkay, okay, I get it already.\x02",
+        "#00801v#502F#4POkay, okay, I get it already.\x02",
     )
 
     CloseMessageWindow()
@@ -1031,7 +1031,7 @@ def main():
 
     ChrTalk(    #19
         0x8,
-        "#741FGreat work, all of you.\x02",
+        "#21690v#741FGreat work, all of you.\x02",
     )
 
     CloseMessageWindow()
@@ -1041,11 +1041,11 @@ def main():
     ChrTalk(    #20
         0x8,
         (
-            "#740FI'm surprised that we were able to\x01",
+            "#21691v#740FI'm surprised that we were able to\x01",
             "fill the work gap left by Cassius\x01",
             "so quickly.\x02\x03",
 
-            "I wonder if we'll be able to relax \x01",
+            "#21692vI wonder if we'll be able to relax \x01",
             "for a bit now.\x02",
         )
     )
@@ -1055,7 +1055,7 @@ def main():
     ChrTalk(    #21
         0x101,
         (
-            "#000F#6PI don't know... I can imagine that the\x01",
+            "#00802v#000F#6PI don't know... I can imagine that the\x01",
             "down time might be a bit of a drag.\x02",
         )
     )
@@ -1066,7 +1066,7 @@ def main():
     ChrTalk(    #22
         0x102,
         (
-            "#010FWell, that won't be a problem since there\x01",
+            "#08088v#010FWell, that won't be a problem since there\x01",
             "are plenty of other small jobs like patrolling\x01",
             "the roads and exterminating monsters.\x02",
         )
@@ -1077,15 +1077,15 @@ def main():
     ChrTalk(    #23
         0x9,
         (
-            "#027F#3PHeehee...\x01",
+            "#13004v#027F#3PHeehee...\x01",
             "It's been a while since I've been\x01",
             "able to take a break.\x02\x03",
 
-            "#021FAll right! It's time for my reward!\x01",
+            "#13005v#021FAll right! It's time for my reward!\x01",
             "I'm going to drink until I can't drink\x01",
             "anymore tonight!\x02\x03",
 
-            "#021FEstelle, Joshua.\x01",
+            "#13006v#021FEstelle, Joshua.\x01",
             "You two join me as well.\x02",
         )
     )
@@ -1102,7 +1102,7 @@ def main():
     ChrTalk(    #24
         0x101,
         (
-            "#004F#4PEh... We have to watch you get plastered\x01",
+            "#00803v#004F#4PEh... We have to watch you get plastered\x01",
             "and make a fool of yourself?\x02",
         )
     )
@@ -1112,10 +1112,10 @@ def main():
     ChrTalk(    #25
         0x9,
         (
-            "#022F#3POh, so what you're saying is that\x01",
+            "#13007v#022F#3POh, so what you're saying is that\x01",
             "you're turning down my invitation?\x02\x03",
 
-            "#022FYou've got a lot of nerve to do something\x01",
+            "#13008v#022FYou've got a lot of nerve to do something\x01",
             "like that to your mentor.\x02",
         )
     )
@@ -1125,10 +1125,10 @@ def main():
     ChrTalk(    #26
         0x101,
         (
-            "#007F#4PWhat am I supposed to say?\x01",
+            "#00804v#007F#4PWhat am I supposed to say?\x01",
             "Your drinking habits are intolerable.\x02\x03",
 
-            "#007FYou cause a ruckus, dance like a\x01",
+            "#00805v#007FYou cause a ruckus, dance like a\x01",
             "maniac and try to strip in public...\x02",
         )
     )
@@ -1137,7 +1137,7 @@ def main():
 
     ChrTalk(    #27
         0x102,
-        "#017FAgreed... It's pretty embarrassing...\x02",
+        "#08089v#017FAgreed... It's pretty embarrassing...\x02",
     )
 
     CloseMessageWindow()
@@ -1145,7 +1145,7 @@ def main():
     ChrTalk(    #28
         0x8,
         (
-            "#745FScherazard...just where do you\x01",
+            "#21693v#745FScherazard...just where do you\x01",
             "think you're going to take\x01",
             "these underage kids...?\x02",
         )
@@ -1156,10 +1156,10 @@ def main():
     ChrTalk(    #29
         0x9,
         (
-            "#024F#3PCome on...the alcohol is what\x01",
+            "#13009v#024F#3PCome on...the alcohol is what\x01",
             "makes things entertaining.\x02\x03",
 
-            "#025FBut if you're so against coming along\x01",
+            "#13010v#025FBut if you're so against coming along\x01",
             "with me, then I don't need you, Estelle.\x02",
         )
     )
@@ -1168,14 +1168,14 @@ def main():
 
     ChrTalk(    #30
         0x101,
-        "#501F#4PR-Really?\x02",
+        "#00806v#501F#4PR-Really?\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #31
         0x9,
-        "#020F#3PYup.\x02",
+        "#13011v#020F#3PYup.\x02",
     )
 
     CloseMessageWindow()
@@ -1188,7 +1188,7 @@ def main():
     ChrTalk(    #32
         0x9,
         (
-            "#021F#1PInstead, I'll just have Joshua make\x01",
+            "#13012v#021F#1PInstead, I'll just have Joshua make\x01",
             "up for your absence.\x02",
         )
     )
@@ -1201,9 +1201,9 @@ def main():
     ChrTalk(    #33
         0x102,
         (
-            "#018FWhy me...?\x02\x03",
+            "#08090v#018FWhy me...?\x02\x03",
 
-            "#018FU-Umm, Schera...?\x02",
+            "#08091v#018FU-Umm, Schera...?\x02",
         )
     )
 
@@ -1211,7 +1211,7 @@ def main():
 
     ChrTalk(    #34
         0x101,
-        "#005F#2PN-Now hold on a minute!\x02",
+        "#00807v#005F#2PN-Now hold on a minute!\x02",
     )
 
     CloseMessageWindow()
@@ -1219,11 +1219,11 @@ def main():
     ChrTalk(    #35
         0x9,
         (
-            "#027F#1PTeehee...\x01",
+            "#13013v#027F#1PTeehee...\x01",
             "Joshua, you look like you'll\x01",
             "make a fine companion.\x02\x03",
 
-            "#027FWhether we're talking booze or\x01",
+            "#13014v#027FWhether we're talking booze or\x01",
             "something else behind closed\x01",
             "doors, I'll help break you in.\x02",
         )
@@ -1233,7 +1233,7 @@ def main():
 
     ChrTalk(    #36
         0x102,
-        "#014FB-Break me in...?\x02",
+        "#08092v#014FB-Break me in...?\x02",
     )
 
     CloseMessageWindow()
@@ -1244,7 +1244,7 @@ def main():
     ChrTalk(    #37
         0x101,
         (
-            "#009F#2PAll right, you big pervert, Joshua!\x01",
+            "#00808v#009F#2PAll right, you big pervert, Joshua!\x01",
             "Why are you drooling like that?\x02",
         )
     )
@@ -1253,7 +1253,7 @@ def main():
 
     ChrTalk(    #38
         0x102,
-        "#012FI-It's not what you think!\x02",
+        "#08093v#012FI-It's not what you think!\x02",
     )
 
     CloseMessageWindow()
@@ -1264,7 +1264,7 @@ def main():
     NpcTalk(    #39
         0xF,
         "Old man's voice",
-        "W-We've got a major problem!\x02",
+        "#21402vW-We've got a major problem!\x02",
     )
 
     CloseMessageWindow()
@@ -1294,7 +1294,7 @@ def main():
 
     ChrTalk(    #40
         0x101,
-        "#004F#4PHuh? Mayor Klaus?\x02",
+        "#00809v#004F#4PHuh? Mayor Klaus?\x02",
     )
 
     CloseMessageWindow()
@@ -1302,9 +1302,9 @@ def main():
     ChrTalk(    #41
         0xF,
         (
-            "#603F*wheeze* *cough* *pant*\x02\x03",
+            "#21403v#603F*wheeze* *cough* *pant*\x02\x03",
 
-            "#604FEstelle, Joshua...and Scherazard.\x01",
+            "#21404v#604FEstelle, Joshua...and Scherazard.\x01",
             "Am I glad to see you!\x02",
         )
     )
@@ -1314,7 +1314,7 @@ def main():
     ChrTalk(    #42
         0x102,
         (
-            "#014F(S-Saved by the bell...!)\x01",
+            "#08094v#014F(S-Saved by the bell...!)\x01",
             "What's wrong, sir? And why\x01",
             "are you in such a hurry?\x02",
         )
@@ -1325,9 +1325,9 @@ def main():
     ChrTalk(    #43
         0xF,
         (
-            "#604FTh-This is terrible!\x02\x03",
+            "#21405v#604FTh-This is terrible!\x02\x03",
 
-            "M-My home! Disaster!\x01",
+            "#21406vM-My home! Disaster!\x01",
             "I-It's gone!\x02",
         )
     )
@@ -1336,7 +1336,7 @@ def main():
 
     ChrTalk(    #44
         0x101,
-        "#008F#4PWhat?\x02",
+        "#00810v#008F#4PWhat?\x02",
     )
 
     CloseMessageWindow()
@@ -1344,9 +1344,9 @@ def main():
     ChrTalk(    #45
         0x9,
         (
-            "#025FAll right, calm down, Mayor Klaus.\x02\x03",
+            "#13015v#025FAll right, calm down, Mayor Klaus.\x02\x03",
 
-            "#020FTake a deep breath and let it out.\x02",
+            "#13016v#020FTake a deep breath and let it out.\x02",
         )
     )
 
@@ -1356,13 +1356,13 @@ def main():
     ChrTalk(    #46
         0xF,
         (
-            "#604FHaaaaa...\x02\x03",
+            "#21407v#604FHaaaaa...\x02\x03",
 
-            "#603FSuuuuu... Haaaaa...\x02\x03",
+            "#21408v#603FSuuuuu... Haaaaa...\x02\x03",
 
-            "#603F...\x02\x03",
+            "#21409v#603F...\x02\x03",
 
-            "#602F...Apparently, it seems as though my\x01",
+            "#21410v#602F...Apparently, it seems as though my\x01",
             "home was robbed while I was out.\x02",
         )
     )
@@ -1383,14 +1383,14 @@ def main():
 
     ChrTalk(    #47
         0x101,
-        "#004F#4PWhaaaaat?!\x02",
+        "#00811v#004F#4PWhaaaaat?!\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #48
         0x102,
-        "#012F...\x02",
+        "#08095v#012F...\x02",
     )
 
     CloseMessageWindow()
@@ -1398,7 +1398,7 @@ def main():
     ChrTalk(    #49
         0x9,
         (
-            "#022FThat's not being calm at all,\x01",
+            "#13017v#022FThat's not being calm at all,\x01",
             "Estelle.\x02",
         )
     )
@@ -1408,11 +1408,11 @@ def main():
     ChrTalk(    #50
         0xF,
         (
-            "#602FI had something to speak with\x01",
+            "#21411v#602FI had something to speak with\x01",
             "Father Divine about, so I was\x01",
             "over at the chapel and...\x02\x03",
 
-            "When I came home, it was rather odd for no one\x01",
+            "#21412vWhen I came home, it was rather odd for no one\x01",
             "to greet me at the door, so I looked around and\x01",
             "the rooms were in a state of great disarray.\x02",
         )
@@ -1423,7 +1423,7 @@ def main():
     ChrTalk(    #51
         0x101,
         (
-            "#002F#4PW-Wait...what about your\x01",
+            "#00812v#002F#4PW-Wait...what about your\x01",
             "wife and Lita?\x02",
         )
     )
@@ -1433,7 +1433,7 @@ def main():
     ChrTalk(    #52
         0xF,
         (
-            "#600FDon't worry. They're both fine. I found\x01",
+            "#21413v#600FDon't worry. They're both fine. I found\x01",
             "them locked up in the attic room.\x02",
         )
     )
@@ -1442,7 +1442,7 @@ def main():
 
     ChrTalk(    #53
         0x101,
-        "#007F#4PTh-That's a relief to hear.\x02",
+        "#00813v#007F#4PTh-That's a relief to hear.\x02",
     )
 
     CloseMessageWindow()
@@ -1450,10 +1450,10 @@ def main():
     ChrTalk(    #54
         0x9,
         (
-            "#022FIt's lucky that no harm\x01",
+            "#13018v#022FIt's lucky that no harm\x01",
             "came to anyone.\x02\x03",
 
-            "#022FIt won't get us anywhere just sitting\x01",
+            "#13019v#022FIt won't get us anywhere just sitting\x01",
             "around here, so could you take us\x01",
             "to the crime scene, Mayor Klaus?\x02",
         )
@@ -1464,7 +1464,7 @@ def main():
     ChrTalk(    #55
         0xF,
         (
-            "#602FAbsolutely.\x01",
+            "#21414v#602FAbsolutely.\x01",
             "I appreciate your cooperation.\x02",
         )
     )
@@ -1473,7 +1473,7 @@ def main():
 
     ChrTalk(    #56
         0x101,
-        "#002F#4PWait for me, I'm going, too!\x02",
+        "#00814v#002F#4PWait for me, I'm going, too!\x02",
     )
 
     CloseMessageWindow()
@@ -1481,7 +1481,7 @@ def main():
     ChrTalk(    #57
         0x102,
         (
-            "#012FGood idea. We may be able to\x01",
+            "#08096v#012FGood idea. We may be able to\x01",
             "be of some help.\x02",
         )
     )
@@ -1490,7 +1490,7 @@ def main():
 
     ChrTalk(    #58
         0x9,
-        "#025FWell, if you insist.\x02",
+        "#13020v#025FWell, if you insist.\x02",
     )
 
     CloseMessageWindow()
@@ -1507,13 +1507,13 @@ def main():
     ChrTalk(    #59
         0x9,
         (
-            "#022FAina. We'll be at the mayor's place\x01",
+            "#13021v#022FAina. We'll be at the mayor's place\x01",
             "investigating the incident.\x02\x03",
 
-            "#022FIf you have anything come up, just\x01",
+            "#13022v#022FIf you have anything come up, just\x01",
             "toss it on Ridge's shoulders.\x02\x03",
 
-            "#022FI'm sure he's just relaxing at\x01",
+            "#13023v#022FI'm sure he's just relaxing at\x01",
             "the bar, anyway.\x02",
         )
     )
@@ -1523,7 +1523,7 @@ def main():
     ChrTalk(    #60
         0x8,
         (
-            "#742FYes, I'll do that. And everyone,\x01",
+            "#21694v#742FYes, I'll do that. And everyone,\x01",
             "be careful.\x02",
         )
     )
@@ -1544,11 +1544,11 @@ def main():
     ChrTalk(    #61
         0x8,
         (
-            "#740FIt must have been a pretty bold\x01",
+            "#21695v#740FIt must have been a pretty bold\x01",
             "group to rob the mayor's house\x01",
             "in broad daylight.\x02\x03",
 
-            "I'm counting on you three to handle\x01",
+            "#21696vI'm counting on you three to handle\x01",
             "the investigation.\x02",
         )
     )
@@ -1562,13 +1562,13 @@ def main():
     ChrTalk(    #62
         0x8,
         (
-            "#740FHow's the investigation coming\x01",
+            "#21697v#740FHow's the investigation coming\x01",
             "along?\x02\x03",
 
-            "Ridge is managing to take care\x01",
+            "#21698vRidge is managing to take care\x01",
             "of everything else.\x02\x03",
 
-            "You guys keep your focus on\x01",
+            "#21699vYou guys keep your focus on\x01",
             "the investigation.\x02",
         )
     )
@@ -1588,17 +1588,17 @@ def main():
     ChrTalk(    #63
         0x8,
         (
-            "#740FOh right, Rinon's mother came here\x01",
+            "#21677v#740FOh right, Rinon's mother came here\x01",
             "trying to set me up with her son.\x02\x03",
 
-            "#741FIt seems that she's been out asking\x01",
+            "#21678v#741FIt seems that she's been out asking\x01",
             "all the girls in town about the same\x01",
             "thing.\x02\x03",
 
-            "I'm sorry to say this, but I'm not\x01",
+            "#21679vI'm sorry to say this, but I'm not\x01",
             "ready to get married.\x02\x03",
 
-            "#740FAlthough if some handsome stranger\x01",
+            "#21680v#740FAlthough if some handsome stranger\x01",
             "showed up on my doorstep one day,\x01",
             "I just might change my mind.\x02",
         )
@@ -1613,10 +1613,10 @@ def main():
     ChrTalk(    #64
         0x8,
         (
-            "#740FSo you're heading to the Esmelas\x01",
+            "#21681v#740FSo you're heading to the Esmelas\x01",
             "Tower, huh? Be careful.\x02\x03",
 
-            "Even if you know the place,\x01",
+            "#21682vEven if you know the place,\x01",
             "you shouldn't get careless.\x02",
         )
     )
@@ -1647,7 +1647,7 @@ def main():
     ChrTalk(    #65
         0x8,
         (
-            "#740FGood work. It looks like you ran into a\x01",
+            "#21662v#740FGood work. It looks like you ran into a\x01",
             "bit of trouble at the mine though, huh?\x02",
         )
     )
@@ -1656,7 +1656,7 @@ def main():
 
     ChrTalk(    #66
         0x101,
-        "#004F#6PHuh? How'd you know?\x02",
+        "#00669v#004F#6PHuh? How'd you know?\x02",
     )
 
     CloseMessageWindow()
@@ -1664,11 +1664,11 @@ def main():
     ChrTalk(    #67
         0x8,
         (
-            "#740FI got a call from the mine.\x01",
+            "#21663v#740FI got a call from the mine.\x01",
             "They said that they were incredibly\x01",
             "grateful to the both of you.\x02\x03",
 
-            "Now, how about you give me a\x01",
+            "#21664vNow, how about you give me a\x01",
             "report of what happened.\x02",
         )
     )
@@ -1677,7 +1677,7 @@ def main():
 
     ChrTalk(    #68
         0x102,
-        "#010FOkay, then. This is what happened...\x02",
+        "#08028v#010FOkay, then. This is what happened...\x02",
     )
 
     CloseMessageWindow()
@@ -1689,14 +1689,14 @@ def main():
     ChrTalk(    #69
         0x8,
         (
-            "#740FVery nice! It looks like you\x01",
+            "#21665v#740FVery nice! It looks like you\x01",
             "did much more than anyone was\x01",
             "expecting from you.\x02\x03",
 
-            "Dealing with unexpected accidents is\x01",
+            "#21666vDealing with unexpected accidents is\x01",
             "also a part of our mission as bracers.\x02\x03",
 
-            "I hope to see more great things from\x01",
+            "#21667vI hope to see more great things from\x01",
             "you in the future.\x02",
         )
     )
@@ -1708,7 +1708,7 @@ def main():
 
     ChrTalk(    #70
         0x101,
-        "#001F#6PYou just leave that to us!☆\x02",
+        "#00670v#001F#6PYou just leave that to us!☆\x02",
     )
 
     CloseMessageWindow()
@@ -1716,7 +1716,7 @@ def main():
     ChrTalk(    #71
         0x102,
         (
-            "#015FWell, you don't have to worry about\x01",
+            "#08029v#015FWell, you don't have to worry about\x01",
             "Estelle missing anything since her\x01",
             "nose is always in everything.\x02",
         )
@@ -1726,7 +1726,7 @@ def main():
 
     ChrTalk(    #72
         0x101,
-        "#502F#6PYeah, what he said...\x02",
+        "#00671v#502F#6PYeah, what he said...\x02",
     )
 
     CloseMessageWindow()
@@ -1735,7 +1735,7 @@ def main():
     ChrTalk(    #73
         0x101,
         (
-            "#005F#4PHey! Why are you saying that\x01",
+            "#00672v#005F#4PHey! Why are you saying that\x01",
             "I'm super-nosy like that?!\x02",
         )
     )
@@ -1746,9 +1746,9 @@ def main():
     ChrTalk(    #74
         0x102,
         (
-            "#015FBecause you are.\x02\x03",
+            "#08030v#015FBecause you are.\x02\x03",
 
-            "Your skills lie in being direct,\x01",
+            "#08031vYour skills lie in being direct,\x01",
             "nosy, and naive, right?\x02",
         )
     )
@@ -1760,21 +1760,21 @@ def main():
 
     ChrTalk(    #75
         0x101,
-        "#009F#4PIsn't that being a bit harsh, Joshua?\x02",
+        "#00673v#009F#4PIsn't that being a bit harsh, Joshua?\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #76
         0x102,
-        "#019FAre you sure about that?\x02",
+        "#08032v#019FAre you sure about that?\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #77
         0x8,
-        "#740FAll right, that's enough, you two.\x02",
+        "#21668v#740FAll right, that's enough, you two.\x02",
     )
 
     CloseMessageWindow()
@@ -1784,10 +1784,10 @@ def main():
     ChrTalk(    #78
         0x8,
         (
-            "#740FOkay, this is the last of the jobs\x01",
+            "#21669v#740FOkay, this is the last of the jobs\x01",
             "you'll be doing for Cassius.\x02\x03",
 
-            "You've heard of the Liberl News, right?\x01",
+            "#21670vYou've heard of the Liberl News, right?\x01",
             "You'll be cooperating with them to get\x01",
             "some coverage for a news story.\x02",
         )
@@ -1798,10 +1798,10 @@ def main():
     ChrTalk(    #79
         0x101,
         (
-            "#004F#6PIsn't that the name of the news\x01",
+            "#00674v#004F#6PIsn't that the name of the news\x01",
             "magazine we bought the other day?\x02\x03",
 
-            "#004FWhat are the chances of that\x01",
+            "#00675v#004FWhat are the chances of that\x01",
             "happening?\x02",
         )
     )
@@ -1811,7 +1811,7 @@ def main():
     ChrTalk(    #80
         0x102,
         (
-            "#010FWhen you say 'cooperating with\x01",
+            "#08033v#010FWhen you say 'cooperating with\x01",
             "them to get some coverage'...just\x01",
             "exactly what does that entail?\x02",
         )
@@ -1822,18 +1822,18 @@ def main():
     ChrTalk(    #81
         0x8,
         (
-            "#740FIt seems that they're looking for a\x01",
+            "#21671v#740FIt seems that they're looking for a\x01",
             "skilled guide because they want to\x01",
             "get some shots of a dangerous place.\x02\x03",
 
-            "You'll need to ask the reporters\x01",
+            "#21672vYou'll need to ask the reporters\x01",
             "directly for the details.\x02\x03",
 
-            "The reporter and camerawoman\x01",
+            "#21673vThe reporter and camerawoman\x01",
             "from the news service are staying\x01",
             "at the Hotel Rolent.\x02\x03",
 
-            "Here's a referral from the guild.\x02",
+            "#21674vHere's a referral from the guild.\x02",
         )
     )
 
@@ -1860,7 +1860,7 @@ def main():
     ChrTalk(    #83
         0x101,
         (
-            "#000F#4PAll right, how about we get over to\x01",
+            "#00676v#000F#4PAll right, how about we get over to\x01",
             "the hotel and talk to these people?\x02",
         )
     )
@@ -1870,7 +1870,7 @@ def main():
 
     ChrTalk(    #84
         0x102,
-        "#010FGood idea, let's go.\x02",
+        "#08034v#010FGood idea, let's go.\x02",
     )
 
     CloseMessageWindow()
@@ -1885,17 +1885,17 @@ def main():
     ChrTalk(    #85
         0x8,
         (
-            "#740FOh, right, Rinon's mother came here\x01",
+            "#21683v#740FOh, right, Rinon's mother came here\x01",
             "trying to set me up with her son.\x02\x03",
 
-            "#741FIt seems that she's been out asking\x01",
+            "#21684v#741FIt seems that she's been out asking\x01",
             "all the girls in town about the same\x01",
             "thing.\x02\x03",
 
-            "I'm sorry to say this, but I'm not\x01",
+            "#21685vI'm sorry to say this, but I'm not\x01",
             "ready to get married.\x02\x03",
 
-            "#740FAlthough, if some handsome stranger\x01",
+            "#21686v#740FAlthough, if some handsome stranger\x01",
             "showed up on my doorstep one day,\x01",
             "I just might change my mind.\x02",
         )
@@ -1910,10 +1910,10 @@ def main():
     ChrTalk(    #86
         0x8,
         (
-            "#740FThe client for your next job is\x01",
+            "#21675v#740FThe client for your next job is\x01",
             "staying at the Hotel Rolent.\x02\x03",
 
-            "Show him your referral and ask\x01",
+            "#21676vShow him your referral and ask\x01",
             "him directly about the job.\x02",
         )
     )
@@ -1943,7 +1943,7 @@ def main():
     ChrTalk(    #87
         0x8,
         (
-            "#740FGood morning! How did the\x01",
+            "#21641v#740FGood morning! How did the\x01",
             "job at the farm go?\x02",
         )
     )
@@ -1953,7 +1953,7 @@ def main():
     ChrTalk(    #88
         0x101,
         (
-            "#000F#6PUm...we hit a few bumps in\x01",
+            "#00560v#000F#6PUm...we hit a few bumps in\x01",
             "the road, but...\x02",
         )
     )
@@ -1963,7 +1963,7 @@ def main():
     ChrTalk(    #89
         0x102,
         (
-            "#010FLet me give you a brief report\x01",
+            "#07964v#010FLet me give you a brief report\x01",
             "of the details.\x02",
         )
     )
@@ -1986,11 +1986,11 @@ def main():
     ChrTalk(    #91
         0x8,
         (
-            "#740FI see. So, you ended up setting the\x01",
+            "#21642v#740FI see. So, you ended up setting the\x01",
             "monsters free because the Perzel\x01",
             "family requested you to do so?\x02\x03",
 
-            "I think it was premature on their part,\x01",
+            "#21643vI think it was premature on their part,\x01",
             "but I won't pursue the matter any further.\x02",
         )
     )
@@ -1999,7 +1999,7 @@ def main():
 
     ChrTalk(    #92
         0x101,
-        "#004F#6PIs it okay to leave things at that?\x02",
+        "#00561v#004F#6PIs it okay to leave things at that?\x02",
     )
 
     CloseMessageWindow()
@@ -2007,14 +2007,14 @@ def main():
     ChrTalk(    #93
         0x8,
         (
-            "#740FThe mission of a bracer is to protect\x01",
+            "#21644v#740FThe mission of a bracer is to protect\x01",
             "civilians and uphold justice...\x02\x03",
 
-            "However, there are many ways we can protect\x01",
+            "#21645vHowever, there are many ways we can protect\x01",
             "those around us, and there are as many forms\x01",
             "of justice as there are stars in the heavens.\x02\x03",
 
-            "As a bracer, it is your job to be able\x01",
+            "#21646vAs a bracer, it is your job to be able\x01",
             "to discern these things.\x02",
         )
     )
@@ -2024,7 +2024,7 @@ def main():
     ChrTalk(    #94
         0x102,
         (
-            "#012FIndeed. Our work has very profound\x01",
+            "#07965v#012FIndeed. Our work has very profound\x01",
             "implications if you think about it in\x01",
             "that way.\x02",
         )
@@ -2035,11 +2035,11 @@ def main():
     ChrTalk(    #95
         0x8,
         (
-            "#744FThat's because we aren't an organization that\x01",
+            "#21647v#744FThat's because we aren't an organization that\x01",
             "deals strictly with monster problems--we also\x01",
             "intervene when disputes arise between nations.\x02\x03",
 
-            "To become a high-ranking bracer, one must have\x01",
+            "#21648vTo become a high-ranking bracer, one must have\x01",
             "more than combat strength. A well-honed mind and\x01",
             "flexible problem-solving skills are also required.\x02",
         )
@@ -2050,7 +2050,7 @@ def main():
     ChrTalk(    #96
         0x102,
         (
-            "#012FA sharp mind and problem-solving\x01",
+            "#07966v#012FA sharp mind and problem-solving\x01",
             "ability, huh?\x02",
         )
     )
@@ -2060,7 +2060,7 @@ def main():
     ChrTalk(    #97
         0x101,
         (
-            "#007F#6PSerious? The road to the big leagues\x01",
+            "#00562v#007F#6PSerious? The road to the big leagues\x01",
             "sounds a lot steeper than I originally\x01",
             "thought.\x02",
         )
@@ -2071,11 +2071,11 @@ def main():
     ChrTalk(    #98
         0x8,
         (
-            "#741FHa ha. Well, then your only choice\x01",
+            "#21649v#741FHa ha. Well, then your only choice\x01",
             "is to devote yourself to working hard\x01",
             "every day. \x02\x03",
 
-            "#740FAnd since you're both here, why\x01",
+            "#21650v#740FAnd since you're both here, why\x01",
             "don't I give you the details of\x01",
             "your next job?\x02",
         )
@@ -2086,10 +2086,10 @@ def main():
     ChrTalk(    #99
         0x101,
         (
-            "#006F#6PThose are the words I've been\x01",
+            "#00563v#006F#6PThose are the words I've been\x01",
             "waiting to hear!\x02\x03",
 
-            "#006FI'm ready for anything so what've you\x01",
+            "#00564v#006FI'm ready for anything so what've you\x01",
             "got lined up for us this time? Another\x01",
             "monster that needs a good whipping?\x02",
         )
@@ -2100,10 +2100,10 @@ def main():
     ChrTalk(    #100
         0x8,
         (
-            "#740FNot this time. This next job will\x01",
+            "#21651v#740FNot this time. This next job will\x01",
             "entail the transportation of goods.\x02\x03",
 
-            "And get this, your client is none\x01",
+            "#21652vAnd get this, your client is none\x01",
             "other than Mayor Klaus, himself.\x02",
         )
     )
@@ -2112,7 +2112,7 @@ def main():
 
     ChrTalk(    #101
         0x101,
-        "#004F#6PReally? A request from the mayor?\x02",
+        "#00565v#004F#6PReally? A request from the mayor?\x02",
     )
 
     CloseMessageWindow()
@@ -2120,7 +2120,7 @@ def main():
     ChrTalk(    #102
         0x102,
         (
-            "#014FDo you think it'll be all right leaving\x01",
+            "#07967v#014FDo you think it'll be all right leaving\x01",
             "such an important task up to us?\x02",
         )
     )
@@ -2130,10 +2130,10 @@ def main():
     ChrTalk(    #103
         0x8,
         (
-            "#740FFrom what I've heard,\x01",
+            "#21653v#740FFrom what I've heard,\x01",
             "it's a pretty simple job.\x02\x03",
 
-            "In any case, I'd like you to speak with\x01",
+            "#21654vIn any case, I'd like you to speak with\x01",
             "the mayor directly about the job details.\x02",
         )
     )
@@ -2151,10 +2151,10 @@ def main():
     ChrTalk(    #104
         0x8,
         (
-            "#744FI guess I didn't get enough to\x01",
+            "#21660v#744FI guess I didn't get enough to\x01",
             "drink last night.\x02\x03",
 
-            "#740FMaybe I should have had Schera join\x01",
+            "#21661v#740FMaybe I should have had Schera join\x01",
             "me for a bit longer instead of heading\x01",
             "home early...\x02",
         )
@@ -2170,10 +2170,10 @@ def main():
     ChrTalk(    #105
         0x8,
         (
-            "#740FThat's right. You'll be heading to\x01",
+            "#21658v#740FThat's right. You'll be heading to\x01",
             "the Malga Mine.\x02\x03",
 
-            "Good luck and be careful.\x02",
+            "#21659vGood luck and be careful.\x02",
         )
     )
 
@@ -2186,13 +2186,13 @@ def main():
     ChrTalk(    #106
         0x8,
         (
-            "#740FPlease ask Mayor Klaus directly\x01",
+            "#21655v#740FPlease ask Mayor Klaus directly\x01",
             "regarding the details of the next job.\x02\x03",
 
-            "Mayor Klaus' residence is at the\x01",
+            "#21656vMayor Klaus' residence is at the\x01",
             "east end of town.\x02\x03",
 
-            "...But I'm guessing you already\x01",
+            "#21657v...But I'm guessing you already\x01",
             "know that, right?\x02",
         )
     )
@@ -2225,9 +2225,9 @@ def main():
     ChrTalk(    #107
         0x8,
         (
-            "#740FOh, good morning Estelle and Joshua.\x02\x03",
+            "#21625v#740FOh, good morning Estelle and Joshua.\x02\x03",
 
-            "Has your father already left?\x02",
+            "#21626vHas your father already left?\x02",
         )
     )
 
@@ -2236,9 +2236,9 @@ def main():
     ChrTalk(    #108
         0x101,
         (
-            "#000F#6PYep, just barely.\x02\x03",
+            "#00429v#000F#6PYep, just barely.\x02\x03",
 
-            "#000FThat's why we came here to find\x01",
+            "#00430v#000FThat's why we came here to find\x01",
             "out about the jobs he left for us.\x02",
         )
     )
@@ -2248,12 +2248,12 @@ def main():
     ChrTalk(    #109
         0x8,
         (
-            "#740FSure.\x02\x03",
+            "#21627v#740FSure.\x02\x03",
 
-            "There are a total of three jobs\x01",
+            "#21628vThere are a total of three jobs\x01",
             "I have lined up for you.\x02\x03",
 
-            "For the first one, I'd like you to head\x01",
+            "#21629vFor the first one, I'd like you to head\x01",
             "out to the farm west of here.\x02",
         )
     )
@@ -2263,7 +2263,7 @@ def main():
     ChrTalk(    #110
         0x101,
         (
-            "#004F#6PThe farm west of here?\x01",
+            "#00431v#004F#6PThe farm west of here?\x01",
             "Isn't that where Tio lives?\x02",
         )
     )
@@ -2273,7 +2273,7 @@ def main():
     ChrTalk(    #111
         0x8,
         (
-            "#743FTio? I seem to have heard that\x01",
+            "#21630v#743FTio? I seem to have heard that\x01",
             "name somewhere before...\x02",
         )
     )
@@ -2283,10 +2283,10 @@ def main():
     ChrTalk(    #112
         0x102,
         (
-            "#010FTio Perzel. She was one of our\x01",
+            "#07870v#010FTio Perzel. She was one of our\x01",
             "classmates at Sunday School.\x02\x03",
 
-            "#010FShe's also the Perzel Farm\x01",
+            "#07871v#010FShe's also the Perzel Farm\x01",
             "owner's daughter.\x02",
         )
     )
@@ -2296,9 +2296,9 @@ def main():
     ChrTalk(    #113
         0x8,
         (
-            "#740FOh, really?\x02\x03",
+            "#21631v#740FOh, really?\x02\x03",
 
-            "It's actually the Perzel Farm that\x01",
+            "#21632vIt's actually the Perzel Farm that\x01",
             "put in a request to have someone\x01",
             "exterminate some monsters.\x02",
         )
@@ -2312,7 +2312,7 @@ def main():
     ChrTalk(    #114
         0x101,
         (
-            "#004F#6PAre they really having problems\x01",
+            "#00432v#004F#6PAre they really having problems\x01",
             "like that?\x02",
         )
     )
@@ -2322,11 +2322,11 @@ def main():
     ChrTalk(    #115
         0x8,
         (
-            "#740FFortunately nobody has been hurt, but the\x01",
+            "#21633v#740FFortunately nobody has been hurt, but the\x01",
             "owner and his family are upset over their\x01",
             "fields being destroyed by the creatures.\x02\x03",
 
-            "Therefore, the guild received an\x01",
+            "#21634vTherefore, the guild received an\x01",
             "extermination request.\x02",
         )
     )
@@ -2336,10 +2336,10 @@ def main():
     ChrTalk(    #116
         0x101,
         (
-            "#002F#6PI never would have expected something\x01",
+            "#00433v#002F#6PI never would have expected something\x01",
             "like that to happen...\x02\x03",
 
-            "#002FOkay! We'll head out there,\x01",
+            "#00434v#002FOkay! We'll head out there,\x01",
             "right now!\x02",
         )
     )
@@ -2348,7 +2348,7 @@ def main():
 
     ChrTalk(    #117
         0x8,
-        "#740FHere. Take this with you.\x02",
+        "#21635v#740FHere. Take this with you.\x02",
     )
 
     CloseMessageWindow()
@@ -2370,10 +2370,10 @@ def main():
     ChrTalk(    #119
         0x8,
         (
-            "#740FThis document certifies that you\x01",
+            "#21636v#740FThis document certifies that you\x01",
             "were dispatched by the guild.\x02\x03",
 
-            "Please give it to the owner of\x01",
+            "#21637vPlease give it to the owner of\x01",
             "the farm.\x02",
         )
     )
@@ -2383,10 +2383,10 @@ def main():
     ChrTalk(    #120
         0x101,
         (
-            "#501F#6PWe already know Tio's father pretty well,\x01",
+            "#00435v#501F#6PWe already know Tio's father pretty well,\x01",
             "so I don't think this is necessary...\x02\x03",
 
-            "#501FBut, we'll take it just in case.\x02",
+            "#00436v#501FBut, we'll take it just in case.\x02",
         )
     )
 
@@ -2400,15 +2400,15 @@ def main():
     ChrTalk(    #121
         0x8,
         (
-            "#740FThe first job I'm going to have you\x01",
+            "#21638v#740FThe first job I'm going to have you\x01",
             "do is a monster extermination at\x01",
             "the Perzel Farm.\x02\x03",
 
-            "The farm can be reached by heading\x01",
+            "#21639vThe farm can be reached by heading\x01",
             "south at the break along the Milch\x01",
             "Main Road.\x02\x03",
 
-            "Good luck.\x02",
+            "#21640vGood luck.\x02",
         )
     )
 
@@ -2427,13 +2427,13 @@ def main():
     ChrTalk(    #122
         0x8,
         (
-            "#741FI'm sure today was tough for your\x01",
+            "#21621v#741FI'm sure today was tough for your\x01",
             "first day as bracers.\x02\x03",
 
-            "But you had a fine showing.\x01",
+            "#21622vBut you had a fine showing.\x01",
             "I'll see you two tomorrow.\x02\x03",
 
-            "#740FI think this letter addressed to\x01",
+            "#21623v#740FI think this letter addressed to\x01",
             "your father is important, so don't\x01",
             "forget to give it to him.\x02",
         )
@@ -2448,7 +2448,7 @@ def main():
     ChrTalk(    #123
         0x8,
         (
-            "#740FI think this letter addressed to\x01",
+            "#21624v#740FI think this letter addressed to\x01",
             "your father is important, so don't\x01",
             "forget to give it to him.\x02",
         )
@@ -2467,13 +2467,13 @@ def main():
     ChrTalk(    #124
         0x8,
         (
-            "#740FI'm counting on you to bring\x01",
+            "#21606v#740FI'm counting on you to bring\x01",
             "back those boys safely.\x02\x03",
 
-            "The Esmelas Tower is at the west\x01",
+            "#21607vThe Esmelas Tower is at the west\x01",
             "end of the Malga Trail.\x02\x03",
 
-            "The Malga Trail is through the gate\x01",
+            "#21608vThe Malga Trail is through the gate\x01",
             "in town.\x02",
         )
     )
@@ -2490,10 +2490,10 @@ def main():
     ChrTalk(    #125
         0x8,
         (
-            "#740FCongratulations! You two are now\x01",
+            "#21587v#740FCongratulations! You two are now\x01",
             "official members of the Bracer Guild.\x02\x03",
 
-            "From now on I'm going to be passing\x01",
+            "#21588vFrom now on I'm going to be passing\x01",
             "jobs out to you like candy.\x02",
         )
     )
@@ -2502,7 +2502,7 @@ def main():
 
     ChrTalk(    #126
         0x101,
-        "#502F'Bring it on!' is all I have to say.\x02",
+        "#00222v#502F'Bring it on!' is all I have to say.\x02",
     )
 
     CloseMessageWindow()
@@ -2510,7 +2510,7 @@ def main():
     ChrTalk(    #127
         0x102,
         (
-            "#010FI look forward to working with\x01",
+            "#07722v#010FI look forward to working with\x01",
             "the guild.\x02",
         )
     )
@@ -2524,10 +2524,10 @@ def main():
     ChrTalk(    #128
         0x8,
         (
-            "#740FFrom now on I'm going to be passing\x01",
+            "#21589v#740FFrom now on I'm going to be passing\x01",
             "jobs out to you like candy.\x02\x03",
 
-            "I hope you'll work hard for\x01",
+            "#21590vI hope you'll work hard for\x01",
             "the guild.\x02",
         )
     )
@@ -2545,10 +2545,10 @@ def main():
     ChrTalk(    #129
         0x8,
         (
-            "#740FIf you've passed your qualification exam\x01",
+            "#21546v#740FIf you've passed your qualification exam\x01",
             "then there's one thing left to do.\x02\x03",
 
-            "When you want to report that you've\x01",
+            "#21547vWhen you want to report that you've\x01",
             "finished a job, please select the\x01",
             "'Report' option.\x02",
         )
@@ -2563,7 +2563,7 @@ def main():
 
     ChrTalk(    #130
         0x8,
-        "#740FThe bulletin board is over there.\x02",
+        "#21542v#740FThe bulletin board is over there.\x02",
     )
 
     CloseMessageWindow()
@@ -2579,7 +2579,7 @@ def main():
     ChrTalk(    #131
         0x8,
         (
-            "#740FThese are very important, so make\x01",
+            "#21541v#740FThese are very important, so make\x01",
             "sure not to lose them.\x02",
         )
     )
@@ -2609,18 +2609,18 @@ def main():
     ChrTalk(    #133
         0x9,
         (
-            "#020FBracer notebooks serve as the\x01",
+            "#12830v#020FBracer notebooks serve as the\x01",
             "official way to record the status\x01",
             "of your current jobs.\x02\x03",
 
-            "#020FAlso, anything you may hear or\x01",
+            "#12831v#020FAlso, anything you may hear or\x01",
             "anything that you may find and\x01",
             "where...\x02\x03",
 
-            "#020FThese kinds of trivial things can\x01",
+            "#12832v#020FThese kinds of trivial things can\x01",
             "often become clues.\x02\x03",
 
-            "#020FNo matter how insignificant something\x01",
+            "#12833v#020FNo matter how insignificant something\x01",
             "may seem, always write it down.\x02",
         )
     )
@@ -2636,7 +2636,7 @@ def main():
     ChrTalk(    #135
         0x101,
         (
-            "#509F#4P#1K(Crap, this sounds like it's going\x01",
+            "#00137v#509F#4P#1K(Crap, this sounds like it's going\x01",
             "to be a pain...)\x02",
         )
     )
@@ -2648,9 +2648,9 @@ def main():
     ChrTalk(    #136
         0x9,
         (
-            "#026FOh?\x02\x03",
+            "#12834v#026FOh?\x02\x03",
 
-            "Please tell me it was my ears playing\x01",
+            "#12835vPlease tell me it was my ears playing\x01",
             "tricks on me, because I swear I only\x01",
             "got one response.\x02",
         )
@@ -2660,7 +2660,7 @@ def main():
 
     ChrTalk(    #137
         0x101,
-        "#506FUh...I-I'm sure there were two...\x02",
+        "#00138v#506FUh...I-I'm sure there were two...\x02",
     )
 
     CloseMessageWindow()
@@ -2668,10 +2668,10 @@ def main():
     ChrTalk(    #138
         0x9,
         (
-            "#020FKeeping an accurate account of events\x01",
+            "#12836v#020FKeeping an accurate account of events\x01",
             "is an important duty for ALL bracers.\x02\x03",
 
-            "So, get with the program and stop\x01",
+            "#12837vSo, get with the program and stop\x01",
             "trying to make this out to be more\x01",
             "than it really is, Estelle.\x02",
         )
@@ -2681,7 +2681,7 @@ def main():
 
     ChrTalk(    #139
         0x101,
-        "#007FOkay, okay, I got it.\x02",
+        "#00139v#007FOkay, okay, I got it.\x02",
     )
 
     CloseMessageWindow()
@@ -2689,9 +2689,9 @@ def main():
     ChrTalk(    #140
         0x9,
         (
-            "#020FMake sure you do...\x02\x03",
+            "#12838v#020FMake sure you do...\x02\x03",
 
-            "#020FAll right then, let's begin.\x02",
+            "#12839v#020FAll right then, let's begin.\x02",
         )
     )
 
@@ -2702,7 +2702,7 @@ def main():
     ChrTalk(    #141
         0x9,
         (
-            "#020FLook over by the door. You can see\x01",
+            "#12840v#020FLook over by the door. You can see\x01",
             "that there's a bulletin board standing\x01",
             "there.\x02",
         )
@@ -2716,7 +2716,7 @@ def main():
     ChrTalk(    #142
         0x9,
         (
-            "#020FFirst, I want you to go and check\x01",
+            "#12841v#020FFirst, I want you to go and check\x01",
             "the job description posted there.\x02",
         )
     )
@@ -2761,13 +2761,13 @@ def main():
     ChrTalk(    #145
         0x8,
         (
-            "#740FOnce you finish today's training,\x01",
+            "#21543v#740FOnce you finish today's training,\x01",
             "you'll finally be recognized as\x01",
             "members of the Bracer Guild.\x02\x03",
 
-            "Scherazard's waiting for you upstairs.\x02\x03",
+            "#21544vScherazard's waiting for you upstairs.\x02\x03",
 
-            "Good luck to the both of you.\x02",
+            "#21545vGood luck to the both of you.\x02",
         )
     )
 
@@ -4327,7 +4327,7 @@ def main():
 
     ChrTalk(    #262
         0xB,
-        "Hello there, Estelle and Joshua.\x02",
+        "#26634vHello there, Estelle and Joshua.\x02",
     )
 
     CloseMessageWindow()
@@ -4335,7 +4335,7 @@ def main():
     ChrTalk(    #263
         0xB,
         (
-            "What are you in the market for today?\x01",
+            "#26635vWhat are you in the market for today?\x01",
             "A new pair of shoes?\x02",
         )
     )
@@ -4345,10 +4345,10 @@ def main():
     ChrTalk(    #264
         0x101,
         (
-            "#004FNow that you mention it, are there\x01",
+            "#00251v#004FNow that you mention it, are there\x01",
             "any new ones in stock?\x02\x03",
 
-            "#001FYou know, like...the newest Stregas?!!!\x02",
+            "#00252v#001FYou know, like...the newest Stregas?!!!\x02",
         )
     )
 
@@ -4357,11 +4357,11 @@ def main():
     ChrTalk(    #265
         0x102,
         (
-            "#018FUnbelievable. You've actually already\x01",
+            "#07739v#018FUnbelievable. You've actually already\x01",
             "forgotten why we came in here to begin\x01",
             "with.\x02\x03",
 
-            "We're not here to shop.\x01",
+            "#07740vWe're not here to shop.\x01",
             "We're supposed to be buying a copy\x01",
             "of the Liberl News for Dad, right?\x02",
         )
@@ -4371,7 +4371,7 @@ def main():
 
     ChrTalk(    #266
         0x101,
-        "#008FAh ha ha... Of course!☆\x02",
+        "#00253v#008FAh ha ha... Of course!☆\x02",
     )
 
     CloseMessageWindow()
@@ -4379,7 +4379,7 @@ def main():
     ChrTalk(    #267
         0xB,
         (
-            "Ha ha, you've always been a big\x01",
+            "#26636vHa ha, you've always been a big\x01",
             "collector of those shoes, haven't\x01",
             "you, Estelle?\x02",
         )
@@ -4390,7 +4390,7 @@ def main():
     ChrTalk(    #268
         0xB,
         (
-            "I'm afraid that the new Stregas\x01",
+            "#26637vI'm afraid that the new Stregas\x01",
             "aren't out yet.\x02",
         )
     )
@@ -4400,7 +4400,7 @@ def main():
     ChrTalk(    #269
         0xB,
         (
-            "I do, however, have some copies\x01",
+            "#26638vI do, however, have some copies\x01",
             "of the Liberl News in if that's what\x01",
             "you're after.\x02",
         )
@@ -4410,14 +4410,14 @@ def main():
 
     ChrTalk(    #270
         0x101,
-        "#006FAll right, I'll take one copy then.\x02",
+        "#00254v#006FAll right, I'll take one copy then.\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #271
         0xB,
-        "That comes to 100 mira, please.\x02",
+        "#26639vThat comes to 100 mira, please.\x02",
     )
 
     CloseMessageWindow()
@@ -4430,7 +4430,7 @@ def main():
 
     ChrTalk(    #272
         0x101,
-        "#004FCrap, we're short on cash!\x02",
+        "#00255v#004FCrap, we're short on cash!\x02",
     )
 
     CloseMessageWindow()
@@ -4438,10 +4438,10 @@ def main():
     ChrTalk(    #273
         0x102,
         (
-            "#017FAnd after Dad told you like a million\x01",
+            "#07741v#017FAnd after Dad told you like a million\x01",
             "times not to waste money...\x02\x03",
 
-            "#018FI guess I'll have to cover it myself.\x02",
+            "#07742v#018FI guess I'll have to cover it myself.\x02",
         )
     )
 
@@ -4449,7 +4449,7 @@ def main():
 
     ChrTalk(    #274
         0x101,
-        "#007FI-I'm really sorry about this...\x02",
+        "#00256v#007FI-I'm really sorry about this...\x02",
     )
 
     CloseMessageWindow()
@@ -4475,10 +4475,10 @@ def main():
     ChrTalk(    #276
         0x101,
         (
-            "#000FI know my dad always buys a copy\x01",
+            "#00257v#000FI know my dad always buys a copy\x01",
             "of this magazine...\x02\x03",
 
-            "#000FBut does it really sell that well?\x02",
+            "#00258v#000FBut does it really sell that well?\x02",
         )
     )
 
@@ -4487,7 +4487,7 @@ def main():
     ChrTalk(    #277
         0xB,
         (
-            "It sure does. The Liberl News has an excellent\x01",
+            "#26640vIt sure does. The Liberl News has an excellent\x01",
             "reporter and camerawoman who have done a great\x01",
             "job reporting the latest and most reliable news.\x02",
         )
@@ -4498,7 +4498,7 @@ def main():
     ChrTalk(    #278
         0xB,
         (
-            "They're even supposed to have a running\x01",
+            "#26641vThey're even supposed to have a running\x01",
             "story related to Queen Alicia's birthday\x01",
             "celebration.\x02",
         )
@@ -4510,7 +4510,7 @@ def main():
     ChrTalk(    #279
         0xB,
         (
-            "But enough about that, why don't\x01",
+            "#26642vBut enough about that, why don't\x01",
             "you tell me how you did today?\x01",
             "Did you make it as bracers?\x02",
         )
@@ -4521,7 +4521,7 @@ def main():
     ChrTalk(    #280
         0xB,
         (
-            "Today was your last day of training,\x01",
+            "#26643vToday was your last day of training,\x01",
             "wasn't it?\x02",
         )
     )
@@ -4531,9 +4531,9 @@ def main():
     ChrTalk(    #281
         0x101,
         (
-            "#502FYep. Everything went smoothly, too.\x02\x03",
+            "#00259v#502FYep. Everything went smoothly, too.\x02\x03",
 
-            "#004FBut how did you know about all\x01",
+            "#00260v#004FBut how did you know about all\x01",
             "that, Mr. Rinon?\x02",
         )
     )
@@ -4543,7 +4543,7 @@ def main():
     ChrTalk(    #282
         0xB,
         (
-            "Ha ha, in a certain sense, both you\x01",
+            "#26644vHa ha, in a certain sense, both you\x01",
             "and Joshua are like celebrities here\x01",
             "in Rolent.\x02",
         )
@@ -4554,7 +4554,7 @@ def main():
     ChrTalk(    #283
         0xB,
         (
-            "I tend to hear a lot from customers\x01",
+            "#26645vI tend to hear a lot from customers\x01",
             "coming through here.\x02",
         )
     )
@@ -4564,7 +4564,7 @@ def main():
     ChrTalk(    #284
         0x101,
         (
-            "#509FI shouldn't have expected anything less\x01",
+            "#00261v#509FI shouldn't have expected anything less\x01",
             "from Rolent... The grapevine around here\x01",
             "is seriously something to be reckoned with.\x02",
         )
@@ -4575,7 +4575,7 @@ def main():
     ChrTalk(    #285
         0x102,
         (
-            "#019FNo kidding. The women here especially\x01",
+            "#07743v#019FNo kidding. The women here especially\x01",
             "love to gossip...\x02",
         )
     )
@@ -4635,7 +4635,7 @@ def main():
 
     ChrTalk(    #289
         0xB,
-        "Hey there, Estelle and Joshua.\x02",
+        "#26646vHey there, Estelle and Joshua.\x02",
     )
 
     CloseMessageWindow()
@@ -4643,7 +4643,7 @@ def main():
     ChrTalk(    #290
         0xB,
         (
-            "How can I help you?\x01",
+            "#26647vHow can I help you?\x01",
             "Did you manage to become bracers?\x02",
         )
     )
@@ -4654,9 +4654,9 @@ def main():
     ChrTalk(    #291
         0x101,
         (
-            "#502FYou bet we did!\x02\x03",
+            "#00262v#502FYou bet we did!\x02\x03",
 
-            "#502FMaybe I should have you start\x01",
+            "#00263v#502FMaybe I should have you start\x01",
             "calling me 'Hyper-Bracer Estelle'\x01",
             "from now on.\x02",
         )
@@ -4667,7 +4667,7 @@ def main():
     ChrTalk(    #292
         0x102,
         (
-            "#010FBy the way, Mr. Rinon.\x01",
+            "#07744v#010FBy the way, Mr. Rinon.\x01",
             "Did the Liberl News come in?\x02",
         )
     )
@@ -4676,7 +4676,7 @@ def main():
 
     ChrTalk(    #293
         0xB,
-        "Yeah, it came in a little after noon.\x02",
+        "#26648vYeah, it came in a little after noon.\x02",
     )
 
     CloseMessageWindow()
@@ -4687,7 +4687,7 @@ def main():
 
     ChrTalk(    #294
         0x101,
-        "#009FDon't brush me off like that, you two!\x02",
+        "#00264v#009FDon't brush me off like that, you two!\x02",
     )
 
     CloseMessageWindow()
@@ -4695,7 +4695,7 @@ def main():
 
     ChrTalk(    #295
         0x101,
-        "#007FOh, whatever...I'll take one copy then.\x02",
+        "#00265v#007FOh, whatever...I'll take one copy then.\x02",
     )
 
     CloseMessageWindow()
@@ -4703,7 +4703,7 @@ def main():
 
     ChrTalk(    #296
         0xB,
-        "That comes to 100 mira, please.\x02",
+        "#26649vThat comes to 100 mira, please.\x02",
     )
 
     CloseMessageWindow()
@@ -4716,7 +4716,7 @@ def main():
 
     ChrTalk(    #297
         0x101,
-        "#004FCrap, we're short on cash!\x02",
+        "#00266v#004FCrap, we're short on cash!\x02",
     )
 
     CloseMessageWindow()
@@ -4724,10 +4724,10 @@ def main():
     ChrTalk(    #298
         0x102,
         (
-            "#017FAnd after Dad told you like a million\x01",
+            "#07745v#017FAnd after Dad told you like a million\x01",
             "times not to waste money...\x02\x03",
 
-            "#018FI guess I'll have to cover it myself.\x02",
+            "#07746v#018FI guess I'll have to cover it myself.\x02",
         )
     )
 
@@ -4735,7 +4735,7 @@ def main():
 
     ChrTalk(    #299
         0x101,
-        "#007FI-I'm really sorry about this...\x02",
+        "#00267v#007FI-I'm really sorry about this...\x02",
     )
 
     CloseMessageWindow()
@@ -4761,10 +4761,10 @@ def main():
     ChrTalk(    #301
         0x101,
         (
-            "#000FI know my dad always buys a copy\x01",
+            "#00268v#000FI know my dad always buys a copy\x01",
             "of this magazine...\x02\x03",
 
-            "#000FBut does it really sell that well?\x02",
+            "#00269v#000FBut does it really sell that well?\x02",
         )
     )
 
@@ -4773,7 +4773,7 @@ def main():
     ChrTalk(    #302
         0xB,
         (
-            "It sure does. The Liberl News has an excellent\x01",
+            "#26650vIt sure does. The Liberl News has an excellent\x01",
             "reporter and camerawoman who have done a great\x01",
             "job reporting the latest and most reliable news.\x02",
         )
@@ -4784,7 +4784,7 @@ def main():
     ChrTalk(    #303
         0xB,
         (
-            "They're even supposed to have a running\x01",
+            "#26651vThey're even supposed to have a running\x01",
             "story related to Queen Alicia's birthday\x01",
             "celebration.\x02",
         )
@@ -5559,7 +5559,7 @@ def main():
     ChrTalk(    #363
         0x9,
         (
-            "#024FAnd just where do you think you're going?\x01",
+            "#12916v#024FAnd just where do you think you're going?\x01",
             "We aren't finished with training.\x02",
         )
     )
@@ -5599,7 +5599,7 @@ def main():
     ChrTalk(    #364
         0x9,
         (
-            "#024FAnd just where do you think you're going?\x01",
+            "#12917v#024FAnd just where do you think you're going?\x01",
             "We aren't finished with training.\x02",
         )
     )
@@ -5634,22 +5634,22 @@ def main():
     ChrTalk(    #365
         0x9,
         (
-            "#020FYour final training is how to\x01",
+            "#12948v#020FYour final training is how to\x01",
             "report to the guild.\x02\x03",
 
-            "#020FWhenever you finish a job, it is\x01",
+            "#12949v#020FWhenever you finish a job, it is\x01",
             "your duty to report the results\x01",
             "of your work to the guild.\x02\x03",
 
-            "#020FReporting how you resolved the situation\x01",
+            "#12950v#020FReporting how you resolved the situation\x01",
             "and the steps you took to get there are\x01",
             "all part of your job as a bracer.\x02\x03",
 
-            "#020FYou can report your results to the front desk in\x01",
+            "#12951v#020FYou can report your results to the front desk in\x01",
             "each guild branch. And as you already know by\x01",
             "now, Aina is in charge here at the Rolent branch.\x02\x03",
 
-            "#020FIn addition, this is where you\x01",
+            "#12952v#020FIn addition, this is where you\x01",
             "will be paid for your work.\x02",
         )
     )
@@ -5659,7 +5659,7 @@ def main():
     ChrTalk(    #366
         0x8,
         (
-            "#740FI look forward to seeing great\x01",
+            "#21548v#740FI look forward to seeing great\x01",
             "things from the both of you.\x02",
         )
     )
@@ -5669,7 +5669,7 @@ def main():
     ChrTalk(    #367
         0x9,
         (
-            "#020FNow that we're here, why don't\x01",
+            "#12953v#020FNow that we're here, why don't\x01",
             "you both go ahead and report\x01",
             "the results of today's training.\x02",
         )
@@ -5743,17 +5743,17 @@ def main():
     ChrTalk(    #371
         0x9,
         (
-            "#020FVery good.\x02\x03",
+            "#12842v#020FVery good.\x02\x03",
 
-            "#020FIt looks like you were able to\x01",
+            "#12843v#020FIt looks like you were able to\x01",
             "see what was posted without\x01",
             "any trouble.\x02\x03",
 
-            "#020FChecking the bulletin board is one\x01",
+            "#12844v#020FChecking the bulletin board is one\x01",
             "of the most basic functions a bracer\x01",
             "performs on their job.\x02\x03",
 
-            "#020FChecking regularly to see whether or not there\x01",
+            "#12845v#020FChecking regularly to see whether or not there\x01",
             "are any urgent tasks which need immediate\x01",
             "attention is also an important duty for bracers.\x02",
         )
@@ -5764,7 +5764,7 @@ def main():
     ChrTalk(    #372
         0x101,
         (
-            "#007FMan, all this talk about duty is\x01",
+            "#00140v#007FMan, all this talk about duty is\x01",
             "starting to cramp my style.\x02",
         )
     )
@@ -5774,11 +5774,11 @@ def main():
     ChrTalk(    #373
         0x102,
         (
-            "#010FSure, there are a lot of rules to follow,\x01",
+            "#07658v#010FSure, there are a lot of rules to follow,\x01",
             "but there's an equal level of responsibility\x01",
             "in the jobs themselves.\x02\x03",
 
-            "#010FI think being a bracer calls for\x01",
+            "#07659v#010FI think being a bracer calls for\x01",
             "much more than just someone\x01",
             "with a half-hearted attitude.\x02",
         )
@@ -5789,9 +5789,9 @@ def main():
     ChrTalk(    #374
         0x101,
         (
-            "#006F...Umm, I guess you're right.\x02\x03",
+            "#00141v#006F...Umm, I guess you're right.\x02\x03",
 
-            "I'll just have to be more motivated.\x02",
+            "#00142vI'll just have to be more motivated.\x02",
         )
     )
 
@@ -5800,7 +5800,7 @@ def main():
     ChrTalk(    #375
         0x9,
         (
-            "#020FHIs that so?\x01",
+            "#12846v#020FIs that so?\x01",
             "Had a change of heart, have you?\x02",
         )
     )
@@ -5809,7 +5809,7 @@ def main():
 
     ChrTalk(    #376
         0x101,
-        "#001FYou bet'cha!\x02",
+        "#00143v#001FYou bet'cha!\x02",
     )
 
     CloseMessageWindow()
@@ -5817,7 +5817,7 @@ def main():
     ChrTalk(    #377
         0x9,
         (
-            "#020FWell, before all that motivation\x01",
+            "#12847v#020FWell, before all that motivation\x01",
             "sneaks off somewhere, let's get\x01",
             "to work on your next task.\x02",
         )
@@ -5827,7 +5827,7 @@ def main():
 
     ChrTalk(    #378
         0x102,
-        "#010FWhat will we be doing this time?\x02",
+        "#07660v#010FWhat will we be doing this time?\x02",
     )
 
     CloseMessageWindow()
@@ -5835,11 +5835,11 @@ def main():
     ChrTalk(    #379
         0x9,
         (
-            "#020FWe'll be heading across the street to\x01",
+            "#12848v#020FWe'll be heading across the street to\x01",
             "Mr. Melders' orbal factory and learning\x01",
             "about how to use its services.\x02\x03",
 
-            "#020FHe has graciously taken time out of his\x01",
+            "#12849v#020FHe has graciously taken time out of his\x01",
             "work schedule to explain things, so make\x01",
             "sure to be on your best behavior.\x02",
         )
@@ -5849,7 +5849,7 @@ def main():
 
     ChrTalk(    #380
         0x101,
-        "#501FO-kay.\x02",
+        "#00144v#501FO-kay.\x02",
     )
 
     CloseMessageWindow()
@@ -5876,13 +5876,13 @@ def main():
     ChrTalk(    #381
         0x8,
         (
-            "#740FI understand the situation now.\x02\x03",
+            "#21734v#740FI understand the situation now.\x02\x03",
 
-            "To be frank though, with Scherazard\x01",
+            "#21735vTo be frank though, with Scherazard\x01",
             "taking off after Cassius, I'm going\x01",
             "to be really short-handed.\x02\x03",
 
-            "But since this involves him directly,\x01",
+            "#21736vBut since this involves him directly,\x01",
             "please don't worry about anything.\x02",
         )
     )
@@ -5892,12 +5892,12 @@ def main():
     ChrTalk(    #382
         0x103,
         (
-            "#020FI really appreciate this, Aina.\x02\x03",
+            "#13140v#020FI really appreciate this, Aina.\x02\x03",
 
-            "#021FMake good use of Ridge while\x01",
+            "#13141v#021FMake good use of Ridge while\x01",
             "we're gone.\x02\x03",
 
-            "He should be able to deal with\x01",
+            "#13142vHe should be able to deal with\x01",
             "at least three times his normal\x01",
             "workload.\x02",
         )
@@ -5907,7 +5907,7 @@ def main():
 
     ChrTalk(    #383
         0x101,
-        "#506FDon't you think that's a bit harsh?\x02",
+        "#00946v#506FDon't you think that's a bit harsh?\x02",
     )
 
     CloseMessageWindow()
@@ -5915,14 +5915,14 @@ def main():
     ChrTalk(    #384
         0x8,
         (
-            "#741FDon't worry. If things get too hectic,\x01",
+            "#21737v#741FDon't worry. If things get too hectic,\x01",
             "I'll ask for help from the\x01",
             "Grancel Branch.\x02\x03",
 
-            "#740FBy the way, Scherazard.\x01",
+            "#21738v#740FBy the way, Scherazard.\x01",
             "Can I get a minute?\x02\x03",
 
-            "I'd like to talk with you about the\x01",
+            "#21739vI'd like to talk with you about the\x01",
             "job you were going to do...\x02",
         )
     )
@@ -5931,7 +5931,7 @@ def main():
 
     ChrTalk(    #385
         0x103,
-        "#020FSure, no problem.\x02",
+        "#13143v#020FSure, no problem.\x02",
     )
 
     CloseMessageWindow()
@@ -5940,10 +5940,10 @@ def main():
     ChrTalk(    #386
         0x103,
         (
-            "#020FEstelle, Joshua, could I have\x01",
+            "#13144v#020FEstelle, Joshua, could I have\x01",
             "you two wait upstairs?\x02\x03",
 
-            "I'll be done in a minute.\x02",
+            "#13145vI'll be done in a minute.\x02",
         )
     )
 
@@ -5953,7 +5953,7 @@ def main():
 
     ChrTalk(    #387
         0x102,
-        "#010F#2PUnderstood.\x02",
+        "#08209v#010F#2PUnderstood.\x02",
     )
 
     CloseMessageWindow()
@@ -5961,15 +5961,15 @@ def main():
     ChrTalk(    #388
         0x101,
         (
-            "#3P#505F...\x02\x03",
+            "#00947v#3P#505F...\x02\x03",
 
-            "#501FUm, Schera?\x02\x03",
+            "#00948v#501FUm, Schera?\x02\x03",
 
-            "If we're going to be waiting, would\x01",
+            "#00949vIf we're going to be waiting, would\x01",
             "you mind if we did it out in front\x01",
             "of the clock tower?\x02\x03",
 
-            "I'd like to say 'Hi' to someone...\x02",
+            "#00950vI'd like to say 'Hi' to someone...\x02",
         )
     )
 
@@ -5978,7 +5978,7 @@ def main():
 
     ChrTalk(    #389
         0x102,
-        "#014F#2P...?\x02",
+        "#08210v#014F#2P...?\x02",
     )
 
     CloseMessageWindow()
@@ -5986,12 +5986,12 @@ def main():
     ChrTalk(    #390
         0x103,
         (
-            "#026FOh, yeah. That's right.\x02\x03",
+            "#13146v#026FOh, yeah. That's right.\x02\x03",
 
-            "#020FOkay. Then let's meet up in front\x01",
+            "#13147v#020FOkay. Then let's meet up in front\x01",
             "of the clock tower.\x02\x03",
 
-            "As soon as I'm done here,\x01",
+            "#13148vAs soon as I'm done here,\x01",
             "I'll head over there myself.\x02",
         )
     )
@@ -6000,7 +6000,7 @@ def main():
 
     ChrTalk(    #391
         0x101,
-        "#3P#000FGot it.\x02",
+        "#00951v#3P#000FGot it.\x02",
     )
 
     CloseMessageWindow()
@@ -6008,14 +6008,14 @@ def main():
 
     ChrTalk(    #392
         0x101,
-        "#3P#501FCome on, Joshua.\x02",
+        "#00952v#3P#501FCome on, Joshua.\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #393
         0x102,
-        "#014F#2PUh, sure...\x02",
+        "#08211v#014F#2PUh, sure...\x02",
     )
 
     CloseMessageWindow()
@@ -6049,11 +6049,11 @@ def main():
     ChrTalk(    #394
         0x8,
         (
-            "#742FIt looks like you've had a rough day.\x01",
+            "#21700v#742FIt looks like you've had a rough day.\x01",
             "Who'd have thought the sky bandits\x01",
             "would appear...\x02\x03",
 
-            "#742FI don't blame you for letting\x01",
+            "#21701v#742FI don't blame you for letting\x01",
             "them escape.\x02",
         )
     )
@@ -6063,10 +6063,10 @@ def main():
     ChrTalk(    #395
         0x103,
         (
-            "#025FNo, this time it was my fault.\x01",
+            "#13094v#025FNo, this time it was my fault.\x01",
             "I should have been more careful.\x02\x03",
 
-            "I'm really far from being in the\x01",
+            "#13095vI'm really far from being in the\x01",
             "same league as Cassius...\x02",
         )
     )
@@ -6076,9 +6076,9 @@ def main():
     ChrTalk(    #396
         0x101,
         (
-            "#003FIt's not your fault, Schera.\x02\x03",
+            "#00903v#003FIt's not your fault, Schera.\x02\x03",
 
-            "#003FI let my emotions get the best\x01",
+            "#00904v#003FI let my emotions get the best\x01",
             "of me and...\x02",
         )
     )
@@ -6087,7 +6087,7 @@ def main():
 
     ChrTalk(    #397
         0x102,
-        "#015F#2PI was careless as well...\x02",
+        "#08176v#015F#2PI was careless as well...\x02",
     )
 
     CloseMessageWindow()
@@ -6097,7 +6097,7 @@ def main():
     ChrTalk(    #398
         0x103,
         (
-            "#020FNo, you guys did a great job. Your\x01",
+            "#13096v#020FNo, you guys did a great job. Your\x01",
             "on-site investigation of the mayor's\x01",
             "residence was flawless, too.\x02",
         )
@@ -6113,7 +6113,7 @@ def main():
     ChrTalk(    #399
         0x103,
         (
-            "#020FNo, you guys did a great job. I'd even give\x01",
+            "#13097v#020FNo, you guys did a great job. I'd even give\x01",
             "you a passing grade for your on-site\x01",
             "investigation of the mayor's residence.\x02",
         )
@@ -6129,7 +6129,7 @@ def main():
     ChrTalk(    #400
         0x103,
         (
-            "#020FNo, you guys did a great job. Your\x01",
+            "#13098v#020FNo, you guys did a great job. Your\x01",
             "on-site investigation of the mayor's\x01",
             "residence on the other hand...\x02",
         )
@@ -6145,7 +6145,7 @@ def main():
     ChrTalk(    #401
         0x103,
         (
-            "#027FDon't you think you should\x01",
+            "#13099v#027FDon't you think you should\x01",
             "recommend them, Aina?\x02",
         )
     )
@@ -6155,7 +6155,7 @@ def main():
     ChrTalk(    #402
         0x8,
         (
-            "#741FYes. I was thinking the\x01",
+            "#21702v#741FYes. I was thinking the\x01",
             "same thing as well.\x02",
         )
     )
@@ -6166,14 +6166,14 @@ def main():
 
     ChrTalk(    #403
         0x101,
-        "#004FRecommend?\x02",
+        "#00905v#004FRecommend?\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #404
         0x102,
-        "#014F#2PWhat do you mean?\x02",
+        "#08177v#014F#2PWhat do you mean?\x02",
     )
 
     CloseMessageWindow()
@@ -6181,7 +6181,7 @@ def main():
     ChrTalk(    #405
         0x8,
         (
-            "#740FHold your horses! First comes the\x01",
+            "#21703v#740FHold your horses! First comes the\x01",
             "payment for a job well done.\x02",
         )
     )
@@ -6198,7 +6198,7 @@ def main():
     ChrTalk(    #406
         0x8,
         (
-            "#740FThis is for you both, and\x01",
+            "#21704v#740FThis is for you both, and\x01",
             "take this as well.\x02",
         )
     )
@@ -6221,7 +6221,7 @@ def main():
 
     ChrTalk(    #408
         0x101,
-        "#004FTh-This is...?\x02",
+        "#00906v#004FTh-This is...?\x02",
     )
 
     CloseMessageWindow()
@@ -6229,14 +6229,14 @@ def main():
     ChrTalk(    #409
         0x8,
         (
-            "#740FAs of now, you are both junior bracers.\x01",
+            "#21705v#740FAs of now, you are both junior bracers.\x01",
             "In other words, bracers-in-training.\x02\x03",
 
-            "In order to become senior bracers, you'll\x01",
+            "#21706vIn order to become senior bracers, you'll\x01",
             "need to receive recommendations from\x01",
             "all regional branches in the kingdom.\x02\x03",
 
-            "This is your recommendation\x01",
+            "#21707vThis is your recommendation\x01",
             "from the Rolent branch.\x02",
         )
     )
@@ -6245,7 +6245,7 @@ def main():
 
     ChrTalk(    #410
         0x101,
-        "#008FIs it really okay for us to have this...?\x02",
+        "#00907v#008FIs it really okay for us to have this...?\x02",
     )
 
     CloseMessageWindow()
@@ -6253,7 +6253,7 @@ def main():
     ChrTalk(    #411
         0x102,
         (
-            "#014F#2PI had heard that in order to become\x01",
+            "#08178v#014F#2PI had heard that in order to become\x01",
             "a full-fledged bracer we'd need to\x01",
             "achieve something fairly noteworthy.\x02",
         )
@@ -6264,11 +6264,11 @@ def main():
     ChrTalk(    #412
         0x8,
         (
-            "#741FI think in light of the jobs performed in\x01",
+            "#21708v#741FI think in light of the jobs performed in\x01",
             "your father's stead and your great showing\x01",
             "here, your achievements are sufficient.\x02\x03",
 
-            "#740FHowever, those achievements are\x01",
+            "#21709v#740FHowever, those achievements are\x01",
             "only for your work here in Rolent.\x02",
         )
     )
@@ -6279,13 +6279,13 @@ def main():
     ChrTalk(    #413
         0x103,
         (
-            "#027FYou'll need to receive recommendations\x01",
+            "#13100v#027FYou'll need to receive recommendations\x01",
             "from the other regional branches after\x01",
             "achieving success there as well.\x02\x03",
 
-            "#027FBose, Ruan, Zeiss, and finally, Grancel...\x02\x03",
+            "#13101v#027FBose, Ruan, Zeiss, and finally, Grancel...\x02\x03",
 
-            "#021FYou've still got a long road ahead of you.\x02",
+            "#13102v#021FYou've still got a long road ahead of you.\x02",
         )
     )
 
@@ -6297,7 +6297,7 @@ def main():
     ChrTalk(    #414
         0x101,
         (
-            "#001FEven so, I'm really happy.\x01",
+            "#00908v#001FEven so, I'm really happy.\x01",
             "It was worth all the hard work!\x02",
         )
     )
@@ -6308,7 +6308,7 @@ def main():
     ChrTalk(    #415
         0x101,
         (
-            "#006FNow that we've come this far,\x01",
+            "#00909v#006FNow that we've come this far,\x01",
             "don't you think we should visit\x01",
             "the other regions too, Joshua?\x02",
         )
@@ -6320,12 +6320,12 @@ def main():
     ChrTalk(    #416
         0x102,
         (
-            "#019F#2PI figured you'd say as much.\x02\x03",
+            "#08179v#019F#2PI figured you'd say as much.\x02\x03",
 
-            "#010FI agree with you, but we can't\x01",
+            "#08180v#010FI agree with you, but we can't\x01",
             "decide this all by ourselves.\x02\x03",
 
-            "#010FWe should discuss it with\x01",
+            "#08181v#010FWe should discuss it with\x01",
             "Dad when he gets home.\x02",
         )
     )
@@ -6334,7 +6334,7 @@ def main():
 
     ChrTalk(    #417
         0x101,
-        "#006FRight!\x02",
+        "#00910v#006FRight!\x02",
     )
 
     CloseMessageWindow()
@@ -6366,14 +6366,14 @@ def main():
 
     ChrTalk(    #418
         0x8,
-        "#743FOh...\x02",
+        "#21710v#743FOh...\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #419
         0x101,
-        "#501FThat's the telephone, right?\x02",
+        "#00911v#501FThat's the telephone, right?\x02",
     )
 
     CloseMessageWindow()
@@ -6395,10 +6395,10 @@ def main():
     ChrTalk(    #420
         0x8,
         (
-            "#740F#6PHello, this is the Bracer Guild's Rolent\x01",
+            "#21711v#740F#6PHello, this is the Bracer Guild's Rolent\x01",
             "branch in the Liberl Kingdom.\x02\x03",
 
-            "#743FAh...it's been a while since we\x01",
+            "#21712v#743FAh...it's been a while since we\x01",
             "last talked, hasn't it?\x02",
         )
     )
@@ -6412,11 +6412,11 @@ def main():
     ChrTalk(    #421
         0x8,
         (
-            "#742F#6PI see...\x02\x03",
+            "#21713v#742F#6PI see...\x02\x03",
 
-            "#742F...Are you sure?\x02\x03",
+            "#21714v#742F...Are you sure?\x02\x03",
 
-            "#744FThat's terrible...\x02",
+            "#21715v#744FThat's terrible...\x02",
         )
     )
 
@@ -6428,14 +6428,14 @@ def main():
 
     ChrTalk(    #422
         0x101,
-        "#505FI wonder if something happened...\x02",
+        "#00912v#505FI wonder if something happened...\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #423
         0x102,
-        "#012F#2PIt looks that way to me.\x02",
+        "#08182v#012F#2PIt looks that way to me.\x02",
     )
 
     CloseMessageWindow()
@@ -6443,7 +6443,7 @@ def main():
     ChrTalk(    #424
         0x8,
         (
-            "#743F#6PYes, that's right. He left on\x01",
+            "#21716v#743F#6PYes, that's right. He left on\x01",
             "business the other day...\x02",
         )
     )
@@ -6457,7 +6457,7 @@ def main():
 
     ChrTalk(    #425
         0x8,
-        "#742F#3S#6PWhat?!\x02",
+        "#21717v#742F#3S#6PWhat?!\x02",
     )
 
     OP_7C(0x0, 0xC8, 0xBB8, 0x64)
@@ -6470,16 +6470,16 @@ def main():
     ChrTalk(    #426
         0x8,
         (
-            "#745F#6PI apologize, but this is a little\x01",
+            "#21718v#745F#6PI apologize, but this is a little\x01",
             "difficult to believe...\x02\x03",
 
-            "Understood. I'll pass on the news\x01",
+            "#21719vUnderstood. I'll pass on the news\x01",
             "to his family.\x02\x03",
 
-            "#742FThey'll be fine...\x01",
+            "#21720v#742FThey'll be fine...\x01",
             "They're bracers, too.\x02\x03",
 
-            "Yes. And if you hear anything else,\x01",
+            "#21721vYes. And if you hear anything else,\x01",
             "please let me know.\x02",
         )
     )
@@ -6493,7 +6493,7 @@ def main():
 
     ChrTalk(    #427
         0x101,
-        "#505FWhat's wrong, Aina?\x02",
+        "#00913v#505FWhat's wrong, Aina?\x02",
     )
 
     CloseMessageWindow()
@@ -6501,10 +6501,10 @@ def main():
     ChrTalk(    #428
         0x103,
         (
-            "#020FIt's unusual for you to be so\x01",
+            "#13103v#020FIt's unusual for you to be so\x01",
             "surprised like that.\x02\x03",
 
-            "Who was calling?\x02",
+            "#13104vWho was calling?\x02",
         )
     )
 
@@ -6524,10 +6524,10 @@ def main():
     ChrTalk(    #429
         0x8,
         (
-            "#742FThe Bose branch.\x01",
+            "#21722v#742FThe Bose branch.\x01",
             "Something terrible has happened...\x02\x03",
 
-            "The airliner, Linde, has disappeared\x01",
+            "#21723vThe airliner, Linde, has disappeared\x01",
             "over the Bose region.\x02",
         )
     )
@@ -6543,14 +6543,14 @@ def main():
 
     ChrTalk(    #430
         0x101,
-        "#004FWhaaaat?!\x02",
+        "#00914v#004FWhaaaat?!\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #431
         0x102,
-        "#012F#2PHow is that possible?\x02",
+        "#08183v#012F#2PHow is that possible?\x02",
     )
 
     CloseMessageWindow()
@@ -6558,13 +6558,13 @@ def main():
     ChrTalk(    #432
         0x8,
         (
-            "#744FI don't know any of the details,\x01",
+            "#21724v#744FI don't know any of the details,\x01",
             "but...\x02\x03",
 
-            "The Royal Army is currently\x01",
+            "#21725vThe Royal Army is currently\x01",
             "conducting a wide-scale search.\x02\x03",
 
-            "Due to this event, all other flights\x01",
+            "#21726vDue to this event, all other flights\x01",
             "have been postponed.\x02",
         )
     )
@@ -6574,7 +6574,7 @@ def main():
     ChrTalk(    #433
         0x103,
         (
-            "#022FWell, that explains the back-up\x01",
+            "#13105v#022FWell, that explains the back-up\x01",
             "at the landing port.\x02",
         )
     )
@@ -6584,9 +6584,9 @@ def main():
     ChrTalk(    #434
         0x8,
         (
-            "#745FAnd...\x02\x03",
+            "#21727v#745FAnd...\x02\x03",
 
-            "...\x02",
+            "#21728v...\x02",
         )
     )
 
@@ -6594,7 +6594,7 @@ def main():
 
     ChrTalk(    #435
         0x101,
-        "#505FAina?\x02",
+        "#00915v#505FAina?\x02",
     )
 
     CloseMessageWindow()
@@ -6602,10 +6602,10 @@ def main():
     ChrTalk(    #436
         0x8,
         (
-            "#742FEstelle, Joshua, please\x01",
+            "#21729v#742FEstelle, Joshua, please\x01",
             "brace yourselves.\x02\x03",
 
-            "#742F...Your father, Cassius, was aboard\x01",
+            "#21730v#742F...Your father, Cassius, was aboard\x01",
             "the airliner which went missing.\x02",
         )
     )
@@ -6617,7 +6617,7 @@ def main():
 
     ChrTalk(    #437
         0x101,
-        "#580F#3SWha...\x02",
+        "#00916v#580F#3SWha...\x02",
     )
 
     OP_7C(0x0, 0xC8, 0xBB8, 0x64)
@@ -6625,7 +6625,7 @@ def main():
 
     ChrTalk(    #438
         0x102,
-        "#016F#2PImpossible...!\x02",
+        "#08184v#016F#2PImpossible...!\x02",
     )
 
     CloseMessageWindow()
@@ -6633,7 +6633,7 @@ def main():
     ChrTalk(    #439
         0x103,
         (
-            "#023FThere's got to be some kind\x01",
+            "#13106v#023FThere's got to be some kind\x01",
             "of mistake!\x02",
         )
     )
@@ -6643,13 +6643,13 @@ def main():
     ChrTalk(    #440
         0x8,
         (
-            "#742FIt seems his name was on the\x01",
+            "#21731v#742FIt seems his name was on the\x01",
             "passenger list.\x02\x03",
 
-            "Liberl Bracer Guild, Rolent branch,\x01",
+            "#21732vLiberl Bracer Guild, Rolent branch,\x01",
             "Senior Bracer...\x02\x03",
 
-            "Cassius Bright, 45.\x02",
+            "#21733vCassius Bright, 45.\x02",
         )
     )
 
@@ -6723,7 +6723,7 @@ def main():
     ChrTalk(    #441
         0x8,
         (
-            "#740FThere you two are. Good morning, Estelle.\x01",
+            "#21536v#740FThere you two are. Good morning, Estelle.\x01",
             "Good morning, Joshua.\x02",
         )
     )
@@ -6732,14 +6732,14 @@ def main():
 
     ChrTalk(    #442
         0x101,
-        "#001FMorning, Aina.\x02",
+        "#00114v#001FMorning, Aina.\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #443
         0x102,
-        "#010FGood morning.\x02",
+        "#07648v#010FGood morning.\x02",
     )
 
     CloseMessageWindow()
@@ -6752,7 +6752,7 @@ def main():
 
     ChrTalk(    #444
         0x101,
-        "#000F#6PIs Schera here already?\x02",
+        "#00115v#000F#6PIs Schera here already?\x02",
     )
 
     CloseMessageWindow()
@@ -6760,13 +6760,13 @@ def main():
     ChrTalk(    #445
         0x8,
         (
-            "#740FYes, she's waiting for you upstairs.\x02\x03",
+            "#21537v#740FYes, she's waiting for you upstairs.\x02\x03",
 
-            "Once you finish today's training,\x01",
+            "#21538vOnce you finish today's training,\x01",
             "you'll finally be recognized as\x01",
             "members of the Bracer Guild.\x02\x03",
 
-            "Good luck to the both of you.\x02",
+            "#21539vGood luck to the both of you.\x02",
         )
     )
 
@@ -6774,14 +6774,14 @@ def main():
 
     ChrTalk(    #446
         0x101,
-        "#006F#6PThanks!\x02",
+        "#00116v#006F#6PThanks!\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #447
         0x102,
-        "#010FWe'll do our best.\x02",
+        "#07649v#010FWe'll do our best.\x02",
     )
 
     CloseMessageWindow()
@@ -6891,16 +6891,16 @@ def main():
     ChrTalk(    #448
         0x9,
         (
-            "#026F#4P...\x02\x03",
+            "#12777v#026F#4P...\x02\x03",
 
-            "The Star and The Hanged Man...\x02\x03",
+            "#12778vThe Star and The Hanged Man...\x02\x03",
 
-            "The Hermit and The Magician...\x02\x03",
+            "#12779vThe Hermit and The Magician...\x02\x03",
 
-            "...and last of all, inversion through\x01",
+            "#12780v...and last of all, inversion through\x01",
             "The Wheel of Fortune...\x02\x03",
 
-            "#025FHmmm, this is a difficult combination.\x01",
+            "#12781v#025FHmmm, this is a difficult combination.\x01",
             "How should I interpret this...?\x02",
         )
     )
@@ -6911,7 +6911,7 @@ def main():
 
     ChrTalk(    #449
         0x101,
-        "#2PGood morning, Schera!\x02",
+        "#00117v#2PGood morning, Schera!\x02",
     )
 
     CloseMessageWindow()
@@ -6941,9 +6941,9 @@ def main():
     ChrTalk(    #450
         0x9,
         (
-            "#023F#4PWell, if it isn't Estelle and Joshua!\x02\x03",
+            "#12782v#023F#4PWell, if it isn't Estelle and Joshua!\x02\x03",
 
-            "#023FThis is a rare occasion for the both\x01",
+            "#12783v#023FThis is a rare occasion for the both\x01",
             "of you to show up so early.\x02",
         )
     )
@@ -6953,10 +6953,10 @@ def main():
     ChrTalk(    #451
         0x101,
         (
-            "#006FSince it's my last day of training,\x01",
+            "#00118v#006FSince it's my last day of training,\x01",
             "I figured, 'Why not?'\x02\x03",
 
-            "I'm ready to get this show on the\x01",
+            "#00119vI'm ready to get this show on the\x01",
             "road and become a bracer myself!\x02",
         )
     )
@@ -6966,13 +6966,13 @@ def main():
     ChrTalk(    #452
         0x9,
         (
-            "#025F#4PI'll give you credit for your enthusiasm.\x02\x03",
+            "#12784v#025F#4PI'll give you credit for your enthusiasm.\x02\x03",
 
-            "#020FBut I'm going to work you hard today in\x01",
+            "#12785v#020FBut I'm going to work you hard today in\x01",
             "every way I can think of to make sure\x01",
             "that high-spirited attitude of yours holds up.\x02\x03",
 
-            "I hope you're ready.\x02",
+            "#12786vI hope you're ready.\x02",
         )
     )
 
@@ -6981,7 +6981,7 @@ def main():
     ChrTalk(    #453
         0x101,
         (
-            "#009FI can feel that enthusiasm\x01",
+            "#00120v#009FI can feel that enthusiasm\x01",
             "dropping already...\x02",
         )
     )
@@ -6991,12 +6991,12 @@ def main():
     ChrTalk(    #454
         0x9,
         (
-            "#022F#4PQuiet, you! \x02\x03",
+            "#12787v#022F#4PQuiet, you! \x02\x03",
 
-            "Every time I teach you something,\x01",
+            "#12788vEvery time I teach you something,\x01",
             "you somehow manage to forget it...\x02\x03",
 
-            "This training is my way of trying to keep some of\x01",
+            "#12789vThis training is my way of trying to keep some of\x01",
             "that information in your head instead of letting\x01",
             "it dribble out your ears like it usually does.\x02",
         )
@@ -7009,7 +7009,7 @@ def main():
     ChrTalk(    #455
         0x101,
         (
-            "#504FWaaaah! Joshuaaa!\x01",
+            "#00121v#504FWaaaah! Joshuaaa!\x01",
             "Schera's picking on me!\x02",
         )
     )
@@ -7019,16 +7019,16 @@ def main():
     ChrTalk(    #456
         0x102,
         (
-            "#010FDon't worry, Schera.\x02\x03",
+            "#07650v#010FDon't worry, Schera.\x02\x03",
 
-            "While Estelle may hate studying and\x01",
+            "#07651vWhile Estelle may hate studying and\x01",
             "rarely ever does her homework...\x02\x03",
 
-            "...acts rashly, is overly naive, and\x01",
+            "#07652v...acts rashly, is overly naive, and\x01",
             "has a tendency to stick her nose\x01",
             "into everything...\x02\x03",
 
-            "...her instincts are sharp, so I'm sure\x01",
+            "#07653v...her instincts are sharp, so I'm sure\x01",
             "she'll pick up on how to use an orbment\x01",
             "with some practice. Eventually. Probably.\x02",
         )
@@ -7039,7 +7039,7 @@ def main():
     ChrTalk(    #457
         0x9,
         (
-            "#025F#4PI guess there's not much I can do\x01",
+            "#12790v#025F#4PI guess there's not much I can do\x01",
             "now except hope for the best...\x02",
         )
     )
@@ -7052,9 +7052,9 @@ def main():
     ChrTalk(    #458
         0x101,
         (
-            "#509FHold on a sec, Joshua...\x02\x03",
+            "#00122v#509FHold on a sec, Joshua...\x02\x03",
 
-            "Somehow I get the feeling that you\x01",
+            "#00123vSomehow I get the feeling that you\x01",
             "weren't standing up for me...\x02",
         )
     )
@@ -7065,7 +7065,7 @@ def main():
     ChrTalk(    #459
         0x102,
         (
-            "#019FWell, that's odd... I'm positive I described\x01",
+            "#07654v#019FWell, that's odd... I'm positive I described\x01",
             "all your best traits accurately.\x02",
         )
     )
@@ -7074,7 +7074,7 @@ def main():
 
     ChrTalk(    #460
         0x101,
-        "#007FWhatever...\x02",
+        "#00124v#007FWhatever...\x02",
     )
 
     CloseMessageWindow()
@@ -7083,11 +7083,11 @@ def main():
     ChrTalk(    #461
         0x101,
         (
-            "#501FBy the way, Schera, what were you\x01",
+            "#00125v#501FBy the way, Schera, what were you\x01",
             "trying to predict with your tarot\x01",
             "cards?\x02\x03",
 
-            "Your face was really intent.\x02",
+            "#00126vYour face was really intent.\x02",
         )
     )
 
@@ -7096,13 +7096,13 @@ def main():
     ChrTalk(    #462
         0x9,
         (
-            "#522F#4POh, this?\x02\x03",
+            "#12791v#522F#4POh, this?\x02\x03",
 
-            "I was just trying to get a vague\x01",
+            "#12792vI was just trying to get a vague\x01",
             "reading about what might happen\x01",
             "in the near future...\x02\x03",
 
-            "Unfortunately, I don't seem to\x01",
+            "#12793vUnfortunately, I don't seem to\x01",
             "have been in the right mindset\x01",
             "to interpret the cards correctly.\x02",
         )
@@ -7112,14 +7112,14 @@ def main():
 
     ChrTalk(    #463
         0x101,
-        "#505FYou couldn't read the cards?\x02",
+        "#00127v#505FYou couldn't read the cards?\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #464
         0x102,
-        "#014FNow that's surprising to hear.\x02",
+        "#07655v#014FNow that's surprising to hear.\x02",
     )
 
     CloseMessageWindow()
@@ -7127,11 +7127,11 @@ def main():
     ChrTalk(    #465
         0x9,
         (
-            "#020F#4PActually, the more profound the\x01",
+            "#12794v#020F#4PActually, the more profound the\x01",
             "meaning of the cards, the more\x01",
             "difficult they become to interpret.\x02\x03",
 
-            "#020FBut that's not important now.\x01",
+            "#12795v#020FBut that's not important now.\x01",
             "I think it's time we start your\x01",
             "final training.\x02",
         )
@@ -7157,15 +7157,15 @@ def main():
     ChrTalk(    #466
         0x9,
         (
-            "#020F#4PI'll give you a brief rundown of all\x01",
+            "#12796v#020F#4PI'll give you a brief rundown of all\x01",
             "the information we've covered in\x01",
             "your previous training.\x02\x03",
 
-            "#020FThis is the minimal level of knowledge\x01",
+            "#12797v#020FThis is the minimal level of knowledge\x01",
             "that bracers should have in order to\x01",
             "function effectively.\x02\x03",
 
-            "#020FAnd, Estelle, make sure you pay\x01",
+            "#12798v#020FAnd, Estelle, make sure you pay\x01",
             "especially close attention to what\x01",
             "I'm going to say.\x02",
         )
@@ -7175,7 +7175,7 @@ def main():
 
     ChrTalk(    #467
         0x101,
-        "#006F#6PYeah, yeah.\x02",
+        "#00128v#006F#6PYeah, yeah.\x02",
     )
 
     CloseMessageWindow()
@@ -7189,7 +7189,7 @@ def main():
     SetChrName("Scherazard")
 
     AnonymousTalk(    #468
-        "\x06\x07\x00#020FWhat would you like to know about?\x02",
+        "#12799v\x06\x07\x00#020FWhat would you like to know about?\x02",
     )
 
     OP_4F(0x28, (scpexpr(EXPR_PUSH_LONG, 0x18), scpexpr(EXPR_STUB), scpexpr(EXPR_END)))
@@ -7313,7 +7313,7 @@ def main():
 
     AnonymousTalk(    #469
         (
-            "#020FOrbments are mechanical devices which operate by using what is known\x01",
+            "#12800v#020FOrbments are mechanical devices which operate by using what is known\x01",
             "as 'orbal energy.'\x02",
         )
     )
@@ -7322,7 +7322,7 @@ def main():
 
     AnonymousTalk(    #470
         (
-            "#020FA variety of effects can be produced depending on their structure and\x01",
+            "#12801v#020FA variety of effects can be produced depending on their structure and\x01",
             "the type of quartz, or processed septium, installed.\x02",
         )
     )
@@ -7330,14 +7330,14 @@ def main():
     CloseMessageWindow()
 
     AnonymousTalk(    #471
-        "#020FAlthough it's only been about 50 years since their invention...\x02",
+        "#12802v#020FAlthough it's only been about 50 years since their invention...\x02",
     )
 
     CloseMessageWindow()
 
     AnonymousTalk(    #472
         (
-            "#020FThese devices play an integral role in all facets of life from lights,\x01",
+            "#12803v#020FThese devices play an integral role in all facets of life from lights,\x01",
             "heaters, and other everyday products to weapons, magic, and even airships.\x02",
         )
     )
@@ -7346,7 +7346,7 @@ def main():
 
     AnonymousTalk(    #473
         (
-            "#020FIn connection, this technological reform is commonly known as the\x01",
+            "#12804v#020FIn connection, this technological reform is commonly known as the\x01",
             "'Orbal Revolution.'\x02",
         )
     )
@@ -7366,7 +7366,7 @@ def main():
 
     AnonymousTalk(    #474
         (
-            "#020FBracers are investigative and combat specialists who work to protect\x01",
+            "#12805v#020FBracers are investigative and combat specialists who work to protect\x01",
             "civilians and maintain the stability of their respective regions.\x02",
         )
     )
@@ -7375,7 +7375,7 @@ def main():
 
     AnonymousTalk(    #475
         (
-            "#020FThey aid the community in various ways such as exterminating monsters, \x01",
+            "#12806v#020FThey aid the community in various ways such as exterminating monsters, \x01",
             "preventing crime, finding lost items, and escorting people and goods.\x02",
         )
     )
@@ -7384,7 +7384,7 @@ def main():
 
     AnonymousTalk(    #476
         (
-            "#020FThe Bracer Guild, which has established branches across the continent,\x01",
+            "#12807v#020FThe Bracer Guild, which has established branches across the continent,\x01",
             "manages the affairs of the bracers in each region.\x02",
         )
     )
@@ -7403,7 +7403,7 @@ def main():
 
     AnonymousTalk(    #477
         (
-            "#020FThe kingdom of Liberl in which we live sits on the western half of the\x01",
+            "#12808v#020FThe kingdom of Liberl in which we live sits on the western half of the\x01",
             "Zemurian continent, and abounds with nature and deep-rooted traditions.\x02",
         )
     )
@@ -7412,7 +7412,7 @@ def main():
 
     AnonymousTalk(    #478
         (
-            "#020FLiberl is proud to be one of the leading producers of septium on the\x01",
+            "#12809v#020FLiberl is proud to be one of the leading producers of septium on the\x01",
             "continent and is known for its high level of technology used to develop\x01",
             "orbments.\x02",
         )
@@ -7422,7 +7422,7 @@ def main():
 
     AnonymousTalk(    #479
         (
-            "#020FOrbment technology has also been a key pillar of support for Liberl in\x01",
+            "#12810v#020FOrbment technology has also been a key pillar of support for Liberl in\x01",
             "protecting its independence as it has contended with neighboring nations.\x02",
         )
     )
@@ -7431,7 +7431,7 @@ def main():
 
     AnonymousTalk(    #480
         (
-            "#020FTen years ago, when Liberl was invaded by the Erebonian Empire, it was\x01",
+            "#12811v#020FTen years ago, when Liberl was invaded by the Erebonian Empire, it was\x01",
             "the use of orbal-powered airships that saved the kingdom from defeat.\x02",
         )
     )
@@ -7440,7 +7440,7 @@ def main():
 
     AnonymousTalk(    #481
         (
-            "#020FConsequently, even now, our relationship with the Empire is somewhat\x01",
+            "#12812v#020FConsequently, even now, our relationship with the Empire is somewhat\x01",
             "sensitive. But, thanks to the queen's political finesse, Liberl enjoys peace.\x02",
         )
     )
@@ -7459,7 +7459,7 @@ def main():
 
     AnonymousTalk(    #482
         (
-            "#020FThe Bracer Guild is a worldwide organization\x01",
+            "#12813v#020FThe Bracer Guild is a worldwide organization\x01",
             "of bracers established 50 years ago.\x02",
         )
     )
@@ -7468,7 +7468,7 @@ def main():
 
     AnonymousTalk(    #483
         (
-            "#020FAside from the Liberl Kingdom, there are numerous\x01",
+            "#12814v#020FAside from the Liberl Kingdom, there are numerous\x01",
             "other branches set up across the continent which\x01",
             "promote peace and stability within their areas.\x02",
         )
@@ -7478,7 +7478,7 @@ def main():
 
     AnonymousTalk(    #484
         (
-            "#020FDue to its international and neutral nature, it\x01",
+            "#12815v#020FDue to its international and neutral nature, it\x01",
             "often mediates between disputing powers, and it\x01",
             "even played a role in ending the Hundred Days War.\x02",
         )
@@ -7488,7 +7488,7 @@ def main():
 
     AnonymousTalk(    #485
         (
-            "#025FHowever, as a consequence of the various roles the\x01",
+            "#12816v#025FHowever, as a consequence of the various roles the\x01",
             "Bracer Guild is required to fulfill, it is often\x01",
             "short-handed.\x02",
         )
@@ -7519,11 +7519,11 @@ def main():
     ChrTalk(    #486
         0x9,
         (
-            "#020F#4PLet's see...since we've got a mountain of stuff\x01",
+            "#12817v#020F#4PLet's see...since we've got a mountain of stuff\x01",
             "to do today, I'll let you off the hook this time\x01",
             "with a condensed review.\x02\x03",
 
-            "#020FI'm going to speed things up now and move\x01",
+            "#12818v#020FI'm going to speed things up now and move\x01",
             "on to the practical portion of your training.\x02",
         )
     )
@@ -7533,9 +7533,9 @@ def main():
     ChrTalk(    #487
         0x101,
         (
-            "#505F#6PUh, Schera?\x02\x03",
+            "#00129v#505F#6PUh, Schera?\x02\x03",
 
-            "How is today's practical training\x01",
+            "#00130vHow is today's practical training\x01",
             "any different from the training\x01",
             "we've done before?\x02",
         )
@@ -7546,10 +7546,10 @@ def main():
     ChrTalk(    #488
         0x9,
         (
-            "#020F#4PSince it's practical, that means you\x01",
+            "#12819v#020F#4PSince it's practical, that means you\x01",
             "will be experiencing things firsthand.\x02\x03",
 
-            "#020FTherefore, I am going to have the\x01",
+            "#12820v#020FTherefore, I am going to have the\x01",
             "both of you run through everything\x01",
             "as if this were a real bracer job.\x02",
         )
@@ -7560,9 +7560,9 @@ def main():
     ChrTalk(    #489
         0x101,
         (
-            "#501F#6PSo what you're saying is...\x02\x03",
+            "#00131v#501F#6PSo what you're saying is...\x02\x03",
 
-            "There won't be any studying\x01",
+            "#00132vThere won't be any studying\x01",
             "at a desk involved?\x02",
         )
     )
@@ -7572,13 +7572,13 @@ def main():
     ChrTalk(    #490
         0x9,
         (
-            "#027F#4PYes, that's exactly what I'm saying.\x02\x03",
+            "#12821v#027F#4PYes, that's exactly what I'm saying.\x02\x03",
 
-            "#027FThis time you'll have to go out\x01",
+            "#12822v#027FThis time you'll have to go out\x01",
             "and make a physical effort to\x01",
             "accomplish your task.\x02\x03",
 
-            "#027FI'll make sure to have you work up\x01",
+            "#12823v#027FI'll make sure to have you work up\x01",
             "a sweat, so I hope you're ready.\x02",
         )
     )
@@ -7588,14 +7588,14 @@ def main():
     ChrTalk(    #491
         0x101,
         (
-            "#001F#6PYes! That's seriously just what\x01",
+            "#00133v#001F#6PYes! That's seriously just what\x01",
             "the doctor ordered.\x02\x03",
 
-            "#001FI didn't know what I was going\x01",
+            "#00134v#001FI didn't know what I was going\x01",
             "to do if I had to sit another day\x01",
             "with my tush parked at a desk.\x02\x03",
 
-            "#001FI guess I got all worried for nothing.\x02",
+            "#00135v#001FI guess I got all worried for nothing.\x02",
         )
     )
 
@@ -7604,7 +7604,7 @@ def main():
     ChrTalk(    #492
         0x102,
         (
-            "#010F#3PWell, suddenly you're all bright\x01",
+            "#07656v#010F#3PWell, suddenly you're all bright\x01",
             "and cheerful, Estelle.\x02",
         )
     )
@@ -7614,11 +7614,11 @@ def main():
     ChrTalk(    #493
         0x9,
         (
-            "#026F#4PLet's just hope that smile on your\x01",
+            "#12824v#026F#4PLet's just hope that smile on your\x01",
             "face lasts until the end of today's\x01",
             "training...\x02\x03",
 
-            "#020FOkay. Let's get cracking on\x01",
+            "#12825v#020FOkay. Let's get cracking on\x01",
             "your first objective, shall we?\x02",
         )
     )
@@ -7627,7 +7627,7 @@ def main():
 
     ChrTalk(    #494
         0x101,
-        "#508F#6PLet's have at it!\x02",
+        "#00136v#508F#6PLet's have at it!\x02",
     )
 
     CloseMessageWindow()
@@ -7647,11 +7647,11 @@ def main():
     ChrTalk(    #495
         0x9,
         (
-            "#020FYour first objective will be to\x01",
+            "#12826v#020FYour first objective will be to\x01",
             "confirm the details of the job\x01",
             "you will be performing.\x02\x03",
 
-            "#020F...But before that, there is something\x01",
+            "#12827v#020F...But before that, there is something\x01",
             "that we need to give the both of you.\x02",
         )
     )
@@ -7661,14 +7661,14 @@ def main():
 
     ChrTalk(    #496
         0x9,
-        "#020FAina, are they ready?\x02",
+        "#12828v#020FAina, are they ready?\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #497
         0x8,
-        "#740FYes, they are.\x02",
+        "#21540v#740FYes, they are.\x02",
     )
 
     CloseMessageWindow()
@@ -7677,7 +7677,7 @@ def main():
     ChrTalk(    #498
         0x9,
         (
-            "#020FAll right, you two. Go get one\x01",
+            "#12829v#020FAll right, you two. Go get one\x01",
             "for each of yourselves.\x02",
         )
     )
@@ -7722,14 +7722,14 @@ def main():
     ChrTalk(    #499
         0x9,
         (
-            "#020F#4PLet me say it again. Good work, you two.\x01",
+            "#12960v#020F#4PLet me say it again. Good work, you two.\x01",
             "You have now officially completed the\x01",
             "entire training course.\x02\x03",
 
-            "#020FFrom now on, you will be learning \x01",
+            "#12961v#020FFrom now on, you will be learning \x01",
             "from your own real-world experience.\x02\x03",
 
-            "#026FWell then...\x02",
+            "#12962v#026FWell then...\x02",
         )
     )
 
@@ -7747,7 +7747,7 @@ def main():
 
     ChrTalk(    #501
         0x101,
-        "#004F#6PAren't those boxes the ones...?\x02",
+        "#00204v#004F#6PAren't those boxes the ones...?\x02",
     )
 
     CloseMessageWindow()
@@ -7755,11 +7755,11 @@ def main():
     ChrTalk(    #502
         0x9,
         (
-            "#027F#4PIn answer to your question, yes, these\x01",
+            "#12963v#027F#4PIn answer to your question, yes, these\x01",
             "are the boxes you retrieved during\x01",
             "today's test.\x02\x03",
 
-            "#027FYou seem awfully curious to find\x01",
+            "#12964v#027FYou seem awfully curious to find\x01",
             "out what's inside, Estelle.\x02",
         )
     )
@@ -7769,7 +7769,7 @@ def main():
     ChrTalk(    #503
         0x101,
         (
-            "#501F#6PAre you saying that it's okay\x01",
+            "#00205v#501F#6PAre you saying that it's okay\x01",
             "if we open them?\x02",
         )
     )
@@ -7779,9 +7779,9 @@ def main():
     ChrTalk(    #504
         0x9,
         (
-            "#020F#4PThat's right.\x02\x03",
+            "#12965v#020F#4PThat's right.\x02\x03",
 
-            "#020FWhy don't the both of you have\x01",
+            "#12966v#020FWhy don't the both of you have\x01",
             "a look and see what's inside.\x02",
         )
     )
@@ -7790,14 +7790,14 @@ def main():
 
     ChrTalk(    #505
         0x101,
-        "#001F#6PSweet!\x02",
+        "#00206v#001F#6PSweet!\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #506
         0x102,
-        "#010F#3PAll right, let's have a look.\x02",
+        "#07709v#010F#3PAll right, let's have a look.\x02",
     )
 
     CloseMessageWindow()
@@ -7829,14 +7829,14 @@ def main():
 
     ChrTalk(    #509
         0x101,
-        "#004F#6PThis crest is...\x02",
+        "#00207v#004F#6PThis crest is...\x02",
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #510
         0x102,
-        "#010F#3PSo does this mean that we're...?\x02",
+        "#07710v#010F#3PSo does this mean that we're...?\x02",
     )
 
     CloseMessageWindow()
@@ -7844,19 +7844,19 @@ def main():
     ChrTalk(    #511
         0x9,
         (
-            "#026F#4PAhem!\x02\x03",
+            "#12967v#026F#4PAhem!\x02\x03",
 
-            "#022FEstelle Bright. Joshua Bright.\x02\x03",
+            "#12968v#022FEstelle Bright. Joshua Bright.\x02\x03",
 
-            "#022FBeginning this day at 1500 hours, you are\x01",
+            "#12969v#022FBeginning this day at 1500 hours, you are\x01",
             "both hereby appointed as junior bracers\x01",
             "within the Bracer Guild.\x02\x03",
 
-            "#022FFrom here on, you will work as members of the\x01",
+            "#12970v#022FFrom here on, you will work as members of the\x01",
             "Bracer Guild to support the livelihood of those\x01",
             "around you, defend peace, and uphold justice.\x02\x03",
 
-            "#021FCongratulations, you two.\x01",
+            "#12971v#021FCongratulations, you two.\x01",
             "And welcome into the fold.\x02",
         )
     )
@@ -7870,9 +7870,9 @@ def main():
     ChrTalk(    #512
         0x101,
         (
-            "#001F#4PDid you hear that, Joshua?!\x02\x03",
+            "#00208v#001F#4PDid you hear that, Joshua?!\x02\x03",
 
-            "#001FWe've become members of\x01",
+            "#00209v#001FWe've become members of\x01",
             "the Bracer Guild!\x02",
         )
     )
@@ -7883,11 +7883,11 @@ def main():
     ChrTalk(    #513
         0x102,
         (
-            "#015F#3PSo I'm a bracer now, huh...?\x02\x03",
+            "#07711v#015F#3PSo I'm a bracer now, huh...?\x02\x03",
 
-            "#015F...\x02\x03",
+            "#07712v#015F...\x02\x03",
 
-            "#011FI think the realization is only\x01",
+            "#07713v#011FI think the realization is only\x01",
             "now just beginning to sink in.\x02",
         )
     )
@@ -7897,9 +7897,9 @@ def main():
     ChrTalk(    #514
         0x101,
         (
-            "#006F#4PCome on, Joshua!\x02\x03",
+            "#00210v#006F#4PCome on, Joshua!\x02\x03",
 
-            "#006FYou should be jumping for joy or\x01",
+            "#00211v#006FYou should be jumping for joy or\x01",
             "running around and screaming at\x01",
             "the top of your lungs like this:\x02",
         )
@@ -7912,7 +7912,7 @@ def main():
     ChrTalk(    #515
         0x101,
         (
-            "#001F#4P#4SLOOK AT US NOW, WORLD!\x01",
+            "#00212v#001F#4P#4SLOOK AT US NOW, WORLD!\x01",
             "WE DID IT!\x02",
         )
     )
@@ -7926,7 +7926,7 @@ def main():
     ChrTalk(    #516
         0x102,
         (
-            "#018F#3PI was happy until you made my\x01",
+            "#07714v#018F#3PI was happy until you made my\x01",
             "eardrums bleed...\x02",
         )
     )
@@ -7936,10 +7936,10 @@ def main():
     ChrTalk(    #517
         0x9,
         (
-            "#021F#4PI hate to interrupt the celebrations,\x01",
+            "#12972v#021F#4PI hate to interrupt the celebrations,\x01",
             "Estelle, but I need to take off now.\x02\x03",
 
-            "#021FI have some backed up work that\x01",
+            "#12973v#021FI have some backed up work that\x01",
             "needs my immediate attention.\x02",
         )
     )
@@ -7951,11 +7951,11 @@ def main():
     ChrTalk(    #518
         0x101,
         (
-            "#501F#6PWe understand. You have been spending\x01",
+            "#00213v#501F#6PWe understand. You have been spending\x01",
             "a lot of extra hours working with us\x01",
             "during this busy time for the guild.\x02\x03",
 
-            "#501FBefore you head out, Schera,\x01",
+            "#00214v#501FBefore you head out, Schera,\x01",
             "I just wanted to say thanks.\x02",
         )
     )
@@ -7965,7 +7965,7 @@ def main():
     ChrTalk(    #519
         0x102,
         (
-            "#010F#3PLikewise. I appreciate all the trouble\x01",
+            "#07715v#010F#3PLikewise. I appreciate all the trouble\x01",
             "you've gone through for us, Schera.\x02",
         )
     )
@@ -7975,10 +7975,10 @@ def main():
     ChrTalk(    #520
         0x9,
         (
-            "#027F#4PDon't mention it. Training new recruits\x01",
+            "#12974v#027F#4PDon't mention it. Training new recruits\x01",
             "is one of a bracer's many duties.\x02\x03",
 
-            "#027FBelieve it or not I was once in your\x01",
+            "#12975v#027FBelieve it or not I was once in your\x01",
             "shoes a long time ago when your\x01",
             "father, Cassius, trained me.\x02",
         )
@@ -7989,7 +7989,7 @@ def main():
     ChrTalk(    #521
         0x101,
         (
-            "#501F#6PSo that's why you have so much\x01",
+            "#00215v#501F#6PSo that's why you have so much\x01",
             "respect for my dad, huh?\x02",
         )
     )
@@ -7999,19 +7999,19 @@ def main():
     ChrTalk(    #522
         0x9,
         (
-            "#020F#4PThere's actually much more to it\x01",
+            "#12976v#020F#4PThere's actually much more to it\x01",
             "than that, but I'll save that\x01",
             "conversation for another day.\x02\x03",
 
-            "#020FAs for the both of you, work hard to become full-\x01",
+            "#12977v#020FAs for the both of you, work hard to become full-\x01",
             "fledged bracers early on so you can help guide\x01",
             "those new recruits who come after yourselves.\x02\x03",
 
-            "#020FAnd in time, I hope to see you\x01",
+            "#12978v#020FAnd in time, I hope to see you\x01",
             "both become respectable bracers\x01",
             "like your father.\x02\x03",
 
-            "#021FAnyway, I'll leave you with\x01",
+            "#12979v#021FAnyway, I'll leave you with\x01",
             "that thought.\x02",
         )
     )
@@ -8060,7 +8060,7 @@ def main():
     ChrTalk(    #523
         0x101,
         (
-            "#505F#4PUm...\x01",
+            "#00216v#505F#4PUm...\x01",
             "I just don't get it.\x02",
         )
     )
@@ -8070,7 +8070,7 @@ def main():
 
     ChrTalk(    #524
         0x102,
-        "#014F#3PGet what?\x02",
+        "#07716v#014F#3PGet what?\x02",
     )
 
     CloseMessageWindow()
@@ -8079,14 +8079,14 @@ def main():
     ChrTalk(    #525
         0x101,
         (
-            "#505F#4PThis is Scherazard, aka 'The Silver Streak',\x01",
+            "#00217v#505F#4PThis is Scherazard, aka 'The Silver Streak',\x01",
             "one of the most skilled young bracers we're\x01",
             "talking about.\x02\x03",
 
-            "#505FSo why is it that she holds Dad\x01",
+            "#00218v#505FSo why is it that she holds Dad\x01",
             "in such high esteem?\x02\x03",
 
-            "#007FHe just seems like nothing more than a no-good\x01",
+            "#00219v#007FHe just seems like nothing more than a no-good\x01",
             "middle-aged man who is always out doing who\x01",
             "knows what instead of being a father.\x02",
         )
@@ -8097,9 +8097,9 @@ def main():
     ChrTalk(    #526
         0x102,
         (
-            "#015F#3PA no-good middle-aged man, huh...?\x02\x03",
+            "#07717v#015F#3PA no-good middle-aged man, huh...?\x02\x03",
 
-            "#015FFrom your viewpoint, it doesn't\x01",
+            "#07718v#015FFrom your viewpoint, it doesn't\x01",
             "come as a surprise that you\x01",
             "would see him in that fashion.\x02",
         )
@@ -8109,7 +8109,7 @@ def main():
 
     ChrTalk(    #527
         0x101,
-        "#004F#4PHuh?\x02",
+        "#00220v#004F#4PHuh?\x02",
     )
 
     CloseMessageWindow()
@@ -8117,11 +8117,11 @@ def main():
     ChrTalk(    #528
         0x102,
         (
-            "#010F#3P...Never mind.\x02\x03",
+            "#07719v#010F#3P...Never mind.\x02\x03",
 
-            "#010FLet's hurry and head home.\x02\x03",
+            "#07720v#010FLet's hurry and head home.\x02\x03",
 
-            "#010FWe should let Dad know that\x01",
+            "#07721v#010FWe should let Dad know that\x01",
             "we qualified as junior bracers.\x02",
         )
     )
@@ -8130,7 +8130,7 @@ def main():
 
     ChrTalk(    #529
         0x101,
-        "#006F#4PRight!\x02",
+        "#00221v#006F#4PRight!\x02",
     )
 
     CloseMessageWindow()
@@ -8256,228 +8256,7 @@ def main():
 
     label("Function_30_E4B8")
 
-    EventBegin(0x0)
-    OP_44(0x101, 0xFF)
-    OP_44(0x102, 0xFF)
-    OP_4A(0x8, 0)
-    OP_6B(2800, 0)
-    SetChrPos(0x101, 1500, 0, 116000, 0)
-    SetChrPos(0x102, 700, 0, 115200, 0)
-    FadeToBright(2000, 0)
-    OP_0D()
-    OP_31(0x0, 0xFE, 0x0)
-    OP_31(0x1, 0xFE, 0x0)
-    OP_31(0x2, 0xFE, 0x0)
-    OP_31(0x3, 0xFE, 0x0)
-    OP_31(0x4, 0xFE, 0x0)
-    OP_31(0x5, 0xFE, 0x0)
-    OP_31(0x6, 0xFE, 0x0)
-    OP_31(0x7, 0xFE, 0x0)
-
-    ChrTalk(    #530
-        0x8,
-        (
-            "#740FIt seems like you've had\x01",
-            "quite a day.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #531
-        0x101,
-        (
-            "#007FDad is just unbelievable...\x02\x03",
-
-            "#007FThe second we get back to Rolent\x01",
-            "he says, 'I'll leave the reporting to\x01",
-            "you,' and takes off for home.\x02\x03",
-
-            "#007FThe sheer nerve, I tell you...\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #532
-        0x102,
-        (
-            "#010FThere's no need to make a mountain\x01",
-            "out of a mole hill over it. At least the\x01",
-            "boys came back safe and sound.\x02\x03",
-
-            "#010FAnyway, I think that's all\x01",
-            "there is to report.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    OP_28(0x1, 0x4, 0x10)
-    Sleep(100)
-    OP_AF(0x4, 0x1)
-    OP_4F(0x28, (scpexpr(EXPR_PUSH_LONG, 0xFFFF), scpexpr(EXPR_STUB), scpexpr(EXPR_END)))
-    Sleep(100)
-
-    ChrTalk(    #533
-        0x8,
-        (
-            "#740FYou did well for your first\x01",
-            "assignment.\x02\x03",
-
-            "From the details of your report\x01",
-            "alone, I believe I can commend\x01",
-            "you both for a job well done.\x02\x03",
-
-            "You should be proud of yourselves.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #534
-        0x101,
-        "#008FY-You really think so...?\x02",
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #535
-        0x8,
-        (
-            "#741FI know so. In fact, you'll do even\x01",
-            "better on your next job.\x02\x03",
-
-            "If anything else comes up,\x01",
-            "I would appreciate your help again.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #536
-        0x101,
-        "#003FSure...\x02",
-    )
-
-    CloseMessageWindow()
-    TurnDirection(0x102, 0x101, 400)
-
-    ChrTalk(    #537
-        0x102,
-        (
-            "#010F...\x02\x03",
-
-            "#010FHow about we head home,\x01",
-            "too?\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    TurnDirection(0x101, 0x102, 400)
-
-    ChrTalk(    #538
-        0x101,
-        (
-            "#000FI guess we'd better...\x02\x03",
-
-            "#000FI've still got dinner to prepare.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #539
-        0x8,
-        (
-            "#743FWould you mind holding on a second?\x01",
-            "A letter arrived for your father just a\x01",
-            "little while ago.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    TurnDirection(0x101, 0x8, 400)
-    TurnDirection(0x102, 0x8, 400)
-
-    ChrTalk(    #540
-        0x8,
-        (
-            "#740FUnfortunately, since he went straight home, \x01",
-            "I never got a chance to give it to him.\x01",
-            "Do you think you could deliver it instead?\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    SetMessageWindowPos(-1, -1, -1, -1)
-    FadeToDark(300, 0, 100)
-    SetChrName("")
-    OP_22(0x11, 0x0, 0x64)
-
-    AnonymousTalk(    #541
-        "\x07\x00Received \x07\x02Letter to Cassius\x07\x00.\x02",
-    )
-
-    CloseMessageWindow()
-    OP_56(0x0)
-    FadeToBright(300, 0)
-    SetMessageWindowPos(72, 320, 56, 3)
-    OP_3E(0x336, 1)
-
-    ChrTalk(    #542
-        0x101,
-        (
-            "#000FI wonder if it's more work-related\x01",
-            "stuff...\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #543
-        0x8,
-        (
-            "#740FI imagine so. The letter appears to\x01",
-            "be from one of our foreign branches.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #544
-        0x102,
-        (
-            "#014FOne of the guild's foreign\x01",
-            "branches...?\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #545
-        0x8,
-        (
-            "#740FAs I'm sure you already know by\x01",
-            "now, Liberl isn't the only country\x01",
-            "where the Bracer Guild exists.\x02\x03",
-
-            "On top of that, your father is widely known all\x01",
-            "across the Zemurian Continent, so we can expect\x01",
-            "these kinds of letters from time to time.\x02\x03",
-
-            "If you two would be so kind as to\x01",
-            "make sure that he gets this letter,\x01",
-            "I would really appreciate it.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    OP_A2(0x212)
-    OP_44(0x101, 0xFF)
-    OP_44(0x102, 0xFF)
-    OP_4B(0x8, 0)
-    ClearMapFlags(0x400000)
-    EventEnd(0x0)
+    Call(1, 3)
     Return()
 
     # Function_30_E4B8 end
@@ -8486,242 +8265,7 @@ def main():
 
     label("Function_31_EC4D")
 
-
-    ChrTalk(    #546
-        0xB,
-        (
-            "One more thing before you go.\x01",
-            "This gift is my way of saying\x01",
-            "congratulations.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #547
-        0xB,
-        (
-            "It's a free sample item I received with\x01",
-            "my shipment of goods--but don't hold\x01",
-            "the 'free' part against me.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    Sleep(100)
-    FadeToDark(300, 0, 100)
-    SetChrName("")
-    OP_22(0x11, 0x0, 0x64)
-    SetMessageWindowPos(-1, -1, -1, -1)
-
-    AnonymousTalk(    #548
-        "\x07\x00Received \x07\x02Recipe Book\x07\x00.\x02",
-    )
-
-    CloseMessageWindow()
-    OP_56(0x0)
-    OP_3E(0x20D, 1)
-    SetMessageWindowPos(72, 320, 56, 3)
-    FadeToBright(300, 0)
-    Sleep(100)
-
-    ChrTalk(    #549
-        0x101,
-        (
-            "#004FWhat's this supposed to be for?\x01",
-            "There's a ton of blank pages.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #550
-        0x102,
-        "#014FIt's...a Recipe Book, isn't it?\x02",
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #551
-        0xB,
-        (
-            "You got it. When you get hurt fighting, if you\x01",
-            "just limit yourself to healing balms all the time,\x01",
-            "it's going to cut pretty deep into your wallets.\x02\x03",
-
-            "This is where a Recipe Book comes into\x01",
-            "play. If you eat food to recover your\x01",
-            "strength instead, it's basically free.\x02\x03",
-
-            "Assuming you have all the ingredients, anyway.\x01",
-            "So, if you eat something new, write down what's\x01",
-            "in it, and you'll have lots of recipes in no time.\x02\x03",
-
-            "So how about we try this out?\x01",
-            "Go ahead and eat this cookie,\x01",
-            "Estelle.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    FadeToDark(300, 0, 100)
-    SetChrName("")
-    OP_22(0x11, 0x0, 0x64)
-    SetMessageWindowPos(-1, -1, -1, -1)
-
-    AnonymousTalk(    #552
-        "\x07\x00Received \x07\x02Maple Cookie\x07\x00.\x02",
-    )
-
-    CloseMessageWindow()
-    OP_56(0x0)
-    SetMessageWindowPos(72, 320, 56, 3)
-    FadeToBright(300, 0)
-
-    ChrTalk(    #553
-        0x101,
-        (
-            "#001FWell, I have made it a personal\x01",
-            "rule to never turn down sweets.♪\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    FadeToDark(300, 0, 100)
-    SetMessageWindowPos(-1, -1, -1, -1)
-    OP_22(0xB, 0x0, 0x64)
-
-    AnonymousTalk(    #554
-        "\x06\x07\x00Ate \x07\x02Maple Cookie\x07\x00.\x02",
-    )
-
-    CloseMessageWindow()
-    OP_56(0x0)
-    OP_31(0x0, 0xFD, 0x50)
-    OP_AC(0x14)
-    Sleep(500)
-    OP_22(0x11, 0x0, 0x64)
-
-    AnonymousTalk(    #555
-        "\x06\x07\x00Learned '\x07\x02Maple Cookie\x07\x00' recipe.\x02",
-    )
-
-    CloseMessageWindow()
-    OP_56(0x0)
-    SetMessageWindowPos(72, 320, 56, 3)
-    FadeToBright(300, 0)
-
-    ChrTalk(    #556
-        0xB,
-        (
-            "Basically, all you have to do is\x01",
-            "eat the food to learn the recipe.\x01",
-            "It's as simple as that.\x02\x03",
-
-            "As you're traveling about, you should eat\x01\x07\x04",
-            "whatever food you come across\x07\x00 that you\x01",
-            "haven't had an opportunity to try before.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #557
-        0x102,
-        "#010FWell, that sounds pretty convenient.\x02",
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #558
-        0x101,
-        (
-            "#505FUm... It's not that I don't like\x01",
-            "cooking and all, it's just that\x01",
-            "I never seem to get any better...\x02\x03",
-
-            "#006FI'd sure love to be able to increase\x01",
-            "my repertoire and really shock my\x01",
-            "dad's taste buds for once in my life.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #559
-        0xB,
-        (
-            "That's the spirit!\x02\x03",
-
-            "And in passing, if you're in need of\x01",
-            "any ingredients, I'd be delighted to\x01",
-            "service your cooking needs!\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #560
-        0x101,
-        (
-            "#001FYou really know how to solicit\x01",
-            "your customers, Mr. Rinon.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #561
-        0x102,
-        (
-            "#019FThank you for the recipe book.\x01",
-            "We'll put it to good use.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    FadeToDark(300, 0, 100)
-    SetChrName("")
-
-    AnonymousTalk(    #562
-        (
-            "\x07\x05※Eating the 'Recommended Dish' at restaurants or using 'To-Go Meals'\x01",
-            "adds the recipe to the Recipe Book.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    AnonymousTalk(    #563
-        (
-            "\x07\x05※By selecting the Recipe Book, all learned recipes will be displayed. As long\x01",
-            "as the necessary ingredients are available, the food can be made.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    AnonymousTalk(    #564
-        (
-            "\x07\x05※There are two types of food: 'Sit-Down' meals which must be eaten on\x01",
-            "the spot and 'To-Go' meals which can be carried as items. 'Sit-Down'\x01",
-            "meals cannot be carried as items.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-
-    AnonymousTalk(    #565
-        (
-            "\x07\x05※Ingredients used for cooking can be bought at a store or acquired from\x01",
-            "monsters.\x02",
-        )
-    )
-
-    CloseMessageWindow()
-    OP_56(0x0)
-    FadeToBright(300, 0)
-    OP_0D()
+    Call(1, 4)
     Return()
 
     # Function_31_EC4D end
