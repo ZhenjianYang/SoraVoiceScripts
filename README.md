@@ -10,6 +10,7 @@ Scripts for these games were done:
 |*Trails in the Sky FC*    |Xseed    |Steam           |Chinese Simplified|[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
 |*Sora no Kiseki FC*       |YLT      |                |Chinese Simplified|The Original PC ver
 
+Get them at [Release](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/latest), or   
 ## Follow these steps
 
 1.  **Clone**   
@@ -44,7 +45,8 @@ PC游戏《空之轨迹》系列的语音脚本
 |空之轨迹 FC    |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
 |空之轨迹 FC    |娱乐通 |                |简体中文 |原版PC
 
-## 步骤   
+在[这里](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/latest)可以获取到上述语音脚本。或者，
+## 参照以下步骤   
 
 1.  **获取**   
   `git clone --recursive https://github.com/ZhenjianYang/SoraVoiceScripts`
