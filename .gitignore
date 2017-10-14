@@ -105,3 +105,11 @@ pack/
 # .dir files
 *.dir
 
+# dll folder
+dll/
+
+# vpath.txt
+vpath.txt
+
+
+
