@@ -35,6 +35,8 @@ def main():
         'Air-Letten - Checkpoint',              # 13
         'Zeiss region',                         # 14
         ' ',                                    # 15
+        '',                                     # 16
+        '',                                     # 17
     )
 
     DeclEntryPoint(

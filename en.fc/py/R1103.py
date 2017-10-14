@@ -29,6 +29,7 @@ def main():
         'Verte Bridge - Checkpoint',            # 9
         'Bose',                                 # 10
         'Eisen Road',                           # 11
+        '',                                     # 12
     )
 
     DeclEntryPoint(

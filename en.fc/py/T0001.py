@@ -33,6 +33,7 @@ def main():
         'Map Object 0',                         # 11
         'Treasure Chest',                       # 12
         'Treasure Chest',                       # 13
+        '',                                     # 14
     )
 
     DeclEntryPoint(

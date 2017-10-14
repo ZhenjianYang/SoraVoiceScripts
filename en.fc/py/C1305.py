@@ -30,6 +30,9 @@ def main():
         'Sky Bandit Ryan',                      # 10
         'Sky Bandit',                           # 11
         'Sky Bandit',                           # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
     )
 
     DeclEntryPoint(

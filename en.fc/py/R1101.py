@@ -31,6 +31,11 @@ def main():
         'Grant',                                # 11
         'Verte Bridge - Checkpoint',            # 12
         'Bose',                                 # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
+        '',                                     # 17
+        '',                                     # 18
     )
 
     DeclEntryPoint(

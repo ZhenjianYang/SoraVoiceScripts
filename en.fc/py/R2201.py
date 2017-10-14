@@ -31,6 +31,19 @@ def main():
         'Monster',                              # 11
         'Monster',                              # 12
         'Camera',                               # 13
+        '',                                     # 14
+        'Manoria Village',                      # 15
+        'Ruan',                                 # 16
+        '',                                     # 17
+        '',                                     # 18
+        '',                                     # 19
+        '',                                     # 20
+        '',                                     # 21
+        '',                                     # 22
+        '',                                     # 23
+        '',                                     # 24
+        '',                                     # 25
+        '',                                     # 26
     )
 
     DeclEntryPoint(

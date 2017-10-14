@@ -29,6 +29,16 @@ def main():
         'Rhinocider',                           # 9
         'Rolent',                               # 10
         'Gurune Gate',                          # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
+        '',                                     # 17
+        '',                                     # 18
+        '',                                     # 19
+        '',                                     # 20
+        '',                                     # 21
     )
 
     DeclEntryPoint(

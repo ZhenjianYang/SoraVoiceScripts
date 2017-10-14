@@ -30,6 +30,10 @@ def main():
         'Royal Army Soldier',                   # 10
         'East Bose Highway',                    # 11
         'Haken Gate',                           # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
     )
 
     DeclEntryPoint(

@@ -5125,14 +5125,14 @@ def main():
 
     ChrTalk(    #142 op#A op#5
         0x104,
-        "#25A#2PMy dinner party!\x05\x02",
+        "#15A#2PMy dinner party!\x05\x02",
     )
 
     Sleep(2400)
 
     ChrTalk(    #143 op#A op#5
         0x104,
-        "#30A#2PMy royal cuisine!\x05\x02",
+        "#15A#2PMy royal cuisine!\x05\x02",
     )
 
     Sleep(3100)

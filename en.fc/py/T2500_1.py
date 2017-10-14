@@ -604,8 +604,8 @@ def main():
 
     AnonymousTalk(    #36
         (
-            "\x07\x00Festival help quest\x01\x07\x02",
-            "[Decorate the Campus] \x07\x00completed!\x02",
+            "\x07\x00Festival help quest\x01",
+            "\x07\x02[Decorate the Campus] \x07\x00completed!\x02",
         )
     )
 
@@ -1180,8 +1180,8 @@ def main():
 
     AnonymousTalk(    #66
         (
-            "\x07\x00Festival help quest\x01\x07\x02",
-            "[Decorate the Campus] \x07\x00completed!\x02",
+            "\x07\x00Festival help quest\x01",
+            "\x07\x02[Decorate the Campus] \x07\x00completed!\x02",
         )
     )
 
@@ -1823,8 +1823,8 @@ def main():
 
     AnonymousTalk(    #99
         (
-            "\x07\x00Festival help quest\x01\x07\x02",
-            "[Decorate the Campus] \x07\x00completed!\x02",
+            "\x07\x00Festival help quest\x01",
+            "\x07\x02[Decorate the Campus] \x07\x00completed!\x02",
         )
     )
 

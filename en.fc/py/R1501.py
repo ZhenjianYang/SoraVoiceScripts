@@ -28,6 +28,12 @@ def main():
         '@FileName',                            # 8
         'Ravennue Village',                     # 9
         'Abandoned Mine',                       # 10
+        '',                                     # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
     )
 
     DeclEntryPoint(

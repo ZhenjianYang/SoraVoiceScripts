@@ -8618,8 +8618,8 @@ def main():
             "eat the food to learn the recipe.\x01",
             "It's as simple as that.\x02\x03",
 
-            "As you're traveling about, you should eat\x01\x07\x04",
-            "whatever food you come across\x07\x00 that you\x01",
+            "As you're traveling about, you should eat\x01",
+            "\x07\x04whatever food you come across\x07\x00 that you\x01",
             "haven't had an opportunity to try before.\x02",
         )
     )

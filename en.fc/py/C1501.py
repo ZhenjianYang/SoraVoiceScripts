@@ -33,6 +33,10 @@ def main():
         'Camera',                               # 13
         'Manoria Coast',                        # 14
         'Krone Trail - Checkpoint',             # 15
+        '',                                     # 16
+        '',                                     # 17
+        '',                                     # 18
+        '',                                     # 19
     )
 
     DeclEntryPoint(

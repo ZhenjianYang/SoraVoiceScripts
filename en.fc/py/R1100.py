@@ -26,6 +26,15 @@ def main():
 
     BuildStringList(
         '@FileName',                            # 8
+        '',                                     # 9
+        'Verte Bridge - Checkpoint',            # 10
+        'Bose',                                 # 11
+        'Nebel Valley',                         # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
+        '',                                     # 17
     )
 
     DeclEntryPoint(

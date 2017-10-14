@@ -29,6 +29,13 @@ def main():
         'Monster',                              # 9
         'Ravennue Village',                     # 10
         'Abandoned Mine',                       # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
+        '',                                     # 17
+        '',                                     # 18
     )
 
     DeclEntryPoint(

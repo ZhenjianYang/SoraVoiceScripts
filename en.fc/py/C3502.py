@@ -1337,7 +1337,7 @@ def main():
     NpcTalk(    #39 op#A op#5
         0x107,
         "Girl's Voice",
-        "#18A#2P#3SNooooooo!!!\x05\x02",
+        "#12A#2P#3SNooooooo!!!\x05\x02",
     )
 
 

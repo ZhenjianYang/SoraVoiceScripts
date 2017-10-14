@@ -34,6 +34,10 @@ def main():
         'Bobcat',                               # 14
         'Bobcat (Shadow)',                      # 15
         'Target Camera',                        # 16
+        '',                                     # 17
+        '',                                     # 18
+        '',                                     # 19
+        '',                                     # 20
     )
 
     DeclEntryPoint(

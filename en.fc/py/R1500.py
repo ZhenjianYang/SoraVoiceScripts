@@ -29,6 +29,9 @@ def main():
         'Red-Haired Guy',                       # 9
         'Ravennue Village',                     # 10
         'West Bose Highway',                    # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
     )
 
     DeclEntryPoint(

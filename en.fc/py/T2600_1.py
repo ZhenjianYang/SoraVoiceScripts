@@ -909,8 +909,8 @@ def main():
 
     AnonymousTalk(    #48
         (
-            "\x07\x00Festival help quest \x07\x02[Clear Out the Old School Building]\x01\x07\x00",
-            "completed!\x02",
+            "\x07\x00Festival help quest \x07\x02[Clear Out the Old School Building]\x01",
+            "\x07\x00completed!\x02",
         )
     )
 

@@ -29,6 +29,22 @@ def main():
         'Zack',                                 # 9
         'Sieg',                                 # 10
         'Target Camera',                        # 11
+        '',                                     # 12
+        'Jabba',                                # 13
+        'Jabba',                                # 14
+        'Ruan',                                 # 15
+        'Vista Forest Road',                    # 16
+        'Manoria Village',                      # 17
+        '',                                     # 18
+        '',                                     # 19
+        '',                                     # 20
+        '',                                     # 21
+        '',                                     # 22
+        '',                                     # 23
+        '',                                     # 24
+        '',                                     # 25
+        '',                                     # 26
+        '',                                     # 27
     )
 
     DeclEntryPoint(

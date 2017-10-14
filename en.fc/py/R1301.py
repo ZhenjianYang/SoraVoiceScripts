@@ -28,6 +28,9 @@ def main():
         '@FileName',                            # 8
         'East Bose Highway',                    # 9
         'Haken Gate',                           # 10
+        '',                                     # 11
+        '',                                     # 12
+        '',                                     # 13
     )
 
     DeclEntryPoint(

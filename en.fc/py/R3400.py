@@ -30,6 +30,10 @@ def main():
         '@FileName',                            # 8
         'Air-Letten - Checkpoint',              # 9
         'Zeiss',                                # 10
+        '',                                     # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
     )
 
     DeclEntryPoint(

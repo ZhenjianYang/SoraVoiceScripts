@@ -28,6 +28,10 @@ def main():
         '@FileName',                            # 8
         'Verte Bridge - Checkpoint',            # 9
         'Bose',                                 # 10
+        '',                                     # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
     )
 
     DeclEntryPoint(

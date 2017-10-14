@@ -30,6 +30,11 @@ def main():
         '@FileName',                            # 8
         'Ritter Roadway',                       # 9
         'Leiston Fortress',                     # 10
+        '',                                     # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
     )
 
     DeclEntryPoint(

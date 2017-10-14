@@ -26,6 +26,17 @@ def main():
 
     BuildStringList(
         '@FileName',                            # 8
+        '',                                     # 9
+        'Rolent',                               # 10
+        'Verte Bridge - Checkpoint',            # 11
+        '飛び猫',                               # 12
+        'リリームーバー',                       # 13
+        '飛び猫',                               # 14
+        'リリームーバー',                       # 15
+        'リリームーバー',                       # 16
+        'リリームーバー',                       # 17
+        '飛び猫',                               # 18
+        '赤茶玉虫',                             # 19
     )
 
     DeclEntryPoint(

@@ -471,8 +471,8 @@ def main():
 
     AnonymousTalk(    #31
         (
-            "\x07\x00You received the \x01\x07\x02",
-            "Registry Card\x07\x00.\x02",
+            "\x07\x00You received the \x01",
+            "\x07\x02Registry Card\x07\x00.\x02",
         )
     )
 

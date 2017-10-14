@@ -29,6 +29,13 @@ def main():
         'Ruan',                                 # 9
         'Air-Letten - Checkpoint',              # 10
         'Sapphirl Tower',                       # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
+        '',                                     # 17
+        '',                                     # 18
     )
 
     DeclEntryPoint(

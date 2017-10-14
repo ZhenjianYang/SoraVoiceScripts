@@ -30,6 +30,9 @@ def main():
         '@FileName',                            # 8
         'Zeiss',                                # 9
         'Sanktheim Gate',                       # 10
+        '',                                     # 11
+        '',                                     # 12
+        '',                                     # 13
     )
 
     DeclEntryPoint(

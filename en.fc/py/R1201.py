@@ -29,6 +29,10 @@ def main():
         'Krone Trail',                          # 9
         'Ravennue Trail',                       # 10
         'Bose',                                 # 11
+        '',                                     # 12
+        '',                                     # 13
+        '',                                     # 14
+        '',                                     # 15
     )
 
     DeclEntryPoint(

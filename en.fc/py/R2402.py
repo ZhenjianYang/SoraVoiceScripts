@@ -33,6 +33,10 @@ def main():
         'Target Camera',                        # 13
         'Ruan',                                 # 14
         'Air-Letten - Checkpoint',              # 15
+        '',                                     # 16
+        '',                                     # 17
+        '',                                     # 18
+        '',                                     # 19
     )
 
     DeclEntryPoint(

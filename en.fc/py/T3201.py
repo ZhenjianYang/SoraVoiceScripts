@@ -2257,7 +2257,7 @@ def main():
 
     ChrTalk(    #105 op#A op#5
         0x101,
-        "#375F#30A#5SEEEEEEEEEEEEEK!\x05\x02",
+        "#375F#20A#5SEEEEEEEEEEEEEK!\x05\x02",
     )
 
     FadeToDark(3000, 0, -1)

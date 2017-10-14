@@ -28,6 +28,16 @@ def main():
 
     BuildStringList(
         '@FileName',                            # 8
+        '',                                     # 9
+        'Zeiss region',                         # 10
+        'Soldat Army Road',                     # 11
+        'Sanktheim Gate',                       # 12
+        'Royal Army Soldier',                   # 13
+        'Royal Army Soldier',                   # 14
+        '',                                     # 15
+        '',                                     # 16
+        '',                                     # 17
+        '',                                     # 18
     )
 
     DeclEntryPoint(

@@ -33,6 +33,10 @@ def main():
         'Monster',                              # 11
         'Monster in a Chest',                   # 12
         'Monster in a Chest',                   # 13
+        '',                                     # 14
+        '',                                     # 15
+        '',                                     # 16
+        '',                                     # 17
     )
 
     DeclEntryPoint(

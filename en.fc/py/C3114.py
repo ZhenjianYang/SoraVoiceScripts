@@ -251,7 +251,7 @@ def main():
     NpcTalk(    #0 op#A op#5
         0x101,
         "Estelle's voice",
-        "#16A#3P#1SEEEEEEEK!!\x05\x02",
+        "#10A#3P#1SEEEEEEEK!!\x05\x02",
     )
 
     CloseMessageWindow()

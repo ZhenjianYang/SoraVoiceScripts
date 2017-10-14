@@ -29,6 +29,8 @@ def main():
     BuildStringList(
         '@FileName',                            # 8
         'Monsters in a chest',                  # 9
+        '',                                     # 10
+        '',                                     # 11
     )
 
     DeclEntryPoint(
