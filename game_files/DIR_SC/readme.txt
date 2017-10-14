@@ -1,0 +1,1 @@
+Copy all .dir files in Trails in the Sky SC's installation folder to this folder 

@@ -1,0 +1,241 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x8
+
+#1063F#2PWell now, would you look at this...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x9
+
+#1P#178FI imagine even the church will have[x01]
+difficulty deciding what to do with[x01]
+this, yes?[x02][x03]
+
+This sort of artifact isn't so much[x01]
+'big' as it is 'gargantuan.'[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x8
+
+#1067F#2PHmm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x8
+
+#1060F#2PYou mind if I take a closer look?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x9
+
+#1P#178FAs you like.[x01]
+The queen has given her permission.[x02][x03]
+
+Please, if you understand any[x01]
+of this, share your thoughts.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x8
+
+#1063F#6PSo this is the 'Ring Guardian'[x01]
+that was in the report, huh?[x02][x03]
+
+It's kinda similar to the robot excavated[x01]
+in Calvard, but...hmm...[x02][x03]
+
+#1067FAhhh, wish I could've seen it moving.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x8
+
+#1063F#4PAnd this...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x8
+
+#1063FThis thing's an artifact from the last years of the ancient[x01]
+Zemurian civilization...which makes it at least 1,200 years old.[x02][x03]
+
+It's clearly the core of the structure,[x01]
+but...there's no clear indication as[x01]
+to what it actually does.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x9
+
+#2P#178FAnalysis of artifacts seems to[x01]
+be impossible with modern tools.[x02][x03]
+
+They work on the same principle and energy[x01]
+as an orbment, but their internal structure is[x01]
+entirely different from an orbment's...[x02][x03]
+
+That's what Professor Russell[x01]
+told us, at least.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x8
+
+#1060F#3PThe church refers to these as 'gifts[x01]
+from the Goddess, given too early.'[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x8
+
+#1063F#6PAnd over here is...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x8
+
+#5P#1063FSo just after the Black Orbment you[x01]
+called the 'Gospel' was used...[x02][x03]
+
+All the giant pillars that were[x01]
+in here were set into the floor?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x9
+
+#4P#178F#2PYes, all four pillars set into[x01]
+the floor, like this one.[x02][x03]
+
+Even two months later, we're not even[x01]
+sure what it means...if anything.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x8
+
+#5P#1065FOkay, so...a seal on the 'Aureole'...[x01]
+a 'Gospel' was used...[x02][x03]
+
+And then the device in here spoke of[x01]
+'device towers' and a 'second barrier'...[x02][x03]
+
+#1067FI think I'm starting to see what kind[x01]
+of system is at work here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x9
+
+#2P#173FErm, 'system'?[x02][x03]
+
+What system? There's nothing else here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x8
+
+#5P#1060FAh, well, call it gut instinct[x01]
+at this point. But...[x02][x03]
+
+I THINK this was some sort[x01]
+of 'gate.'[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x9
+
+#2P#178FGate?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x8
+
+#5P#1060FBingo.[x02][x03]
+
+#1065FCall it a gate on the trail that leads[x01]
+to the Goddess' treasure.[x02][x03]
+
+And the thing that opens it is a[x01]
+black key called a 'Gospel.'[x02][x03]
+
+#1063FIf you think about it like that, the[x01]
+Aureole being AWOL makes a lot[x01]
+more sense.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x9
+
+#2P#178FBut...where's this 'trail' of yours,[x01]
+then? This is the lowest floor![x02][x03]
+
+According to the professor,[x01]
+the ruins extend no further![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x8
+
+#5P#1060FAh, think a little less...literally.[x01]
+It's not a 'trail' you see with your[x01]
+eyes or normally walk.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #20
+
+
+[x07][x00]It could be the septium veins that run[x01]
+through the earth, or maybe it's some[x01]
+route we can't even imagine...[x02][x03]
+
+...but that's where we'll find a clue that[x01]
+will lead to the Aureole.[x02]

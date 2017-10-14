@@ -1,0 +1,226 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x8
+
+#173FPrincess...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x101
+
+#1008FYou and the Royal Guard really saved[x01]
+our butts this time, Julia.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x8
+
+#171FIt was all thanks to Colonel Cid's[x01]
+swift and appropriate judgment.[x02][x03]
+
+#176FAnd if Father Kevin hadn't been there,[x01]
+it still might have been Kanone's win.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x101
+
+#1002FCaptain Amalthea over at Leiston Fortress[x01]
+now, right?[x02][x03]
+
+I've heard that she's willing to talk about[x01]
+Renne and the society...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x8
+
+#170FIf you want to know about Kanone, I can[x01]
+tell you she understands the severity of[x01]
+the situation and her own role in this.[x02][x03]
+
+All she needs is the right chance.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x101
+
+#1011FYou must know Captain Amalthea pretty well,[x01]
+Julia.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x8
+
+#170FShe was a rival, but our rivalry was one where[x01]
+we brought out the best of each other back in[x01]
+the military academy.[x02][x03]
+
+I don't think that changed even after I went[x01]
+to the Royal Guard, and she was assigned[x01]
+to the Intelligence Division.[x02][x03]
+
+#176FThinking about it, I may be who I am now[x01]
+because of her.[x02][x03]
+
+#178FI...don't think that something like this settles[x01]
+things between us at all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x105
+
+#042FJulia...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x8
+
+#170FStill, though, this 'society.'[x02][x03]
+
+#176FThe abilities of their Enforcers is one thing,[x01]
+but to have the technological capability to make[x01]
+something like that giant mechanized doll...[x02][x03]
+
+#170FOur enemies are far more powerful than we'd[x01]
+thought.[x02][x03]
+
+I can hardly say I was underestimating them,[x01]
+but clearly I need to revise how I perceive them.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0xFE
+
+Is it true there was a dragon in Bose?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0xFE
+
+The army's airships fighting a dragon...[x01]
+That sounds like one for the history books.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0xFE
+
+Those Intelligence Division types, developing[x01]
+something like that in secret...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0xFE
+
+If the captain hadn't come, who knows[x01]
+what would've happened to the capital![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0xFE
+
+I'm afraid Captain Schwarz isn't here right now.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0xFE
+
+She is currently stationed at Leiston Fortress[x01]
+for the changing of the Arseille's engine.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0xFE
+
+Even for the Royal Guard, to be unable to use[x01]
+our guns drops our ability to fight to almost[x01]
+nothing.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0xFE
+
+If the Empire attacked at a time like this...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0xFE
+
+...Oh, wait. I guess the Empire wouldn't[x01]
+be able to use their guns, either.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0xFE
+
+The commander used to be some[x01]
+amazingly skilled man.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0xFE
+
+He was called the Demon Commander...[x01]
+Makes you wonder what kind of man he[x01]
+was.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0xFE
+
+To think that the already state-of-the-art[x01]
+Arseille can go even further...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0xFE
+
+I wonder what kind of ship it'll become.[x02]

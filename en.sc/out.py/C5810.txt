@@ -1,0 +1,2033 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+
+Found [x1F][xFF][x01][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+
+Found [x1F][xFF][x01][x07][x00] in chest.[x01]
+Inventory full so gave up [x1F][xFF][x01][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #2
+
+
+[x07][x05]Wow... You're the first human to ever take[x01]
+something from me! I'm so excited![x07][x00][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #3
+
+
+Found[x01]
+#2C#57IWater Sepith x100[x01]
+#59IWind Sepith x100[x01]
+#60ISpace Sepith x100#0C.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #4
+
+
+[x07][x05]Wenn ist das Nunst?ck git und Slotermeyer? Ja![x01]
+Beiherhund das Oder die Flipperwaldt gersput![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #5
+
+
+Found[x01]
+#2C#56IEarth Sepith x100[x01]
+#58|Fire Sepith x100[x01]
+#62Time Sepith x100[x01]
+#61IMirage Sepith x100#0C.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #6
+
+
+[x07][x05]Ahem! Two penguins walk into a bar...[x01]
+which is stupid because the second one should have seen it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #7
+
+Found [x1F][xF7][x01][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #8
+
+Found [x1F][xF7][x01][x07][x00] in chest.[x01]
+Inventory full so gave up [x1F][xF7][x01][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #9
+
+[x07][x05]Empty. But THAT should come as no surprise.[x07][x00][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #10
+
+Found [x1F][xCC][x02][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #11
+
+Found [x1F][xCC][x02][x07][x00] in chest.[x01]
+Inventory full so gave up [x1F][xCC][x02][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #12
+
+[x07][x05]You obtain...NOTHING! ABSOLUTELY NOTHING![x07][x00][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #13
+
+Found [x1F][x06][x02][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #14
+
+Found [x1F][x06][x02][x07][x00] in chest.[x01]
+Inventory full so gave up [x1F][x06][x02][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #15
+
+[x07][x05]Let's take all the typos we accidentally left in[x01]
+this game at launch and shove them all in here.[x01]
+Pretend they never happened.[x07][x00][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #16
+
+
+[x07][x05]#1SCradle 35 Municipal Office[x01]
+* Access to services limited to citizens only.[x01]
+* Due to communication interruptions with the[x01]
+Axis Pillar, services may be temporarily[x01]
+restricted.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;;;;------------------ op#5
+AnonymousTalk #17
+
+
+[x07][x05]#1SViewable data is currently limited.[x01]
+Please select an option.[x05][x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #18
+
+
+[x07][x05]#1SThe Halo Rail is a groundbreaking transit method[x01]
+unique to the Liber Ark. Utilizing our powerful spatial[x01]
+manipulation technology, the system projects force-field[x01]
+rails as needed, removing all need for physical rails.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #19
+
+
+[x07][x05]#1SPerhaps the greatest advantage of this system is the total[x01]
+lack of restriction on rail placement. It is possible to[x01]
+flexibly connect every one of the city's countless stations[x01]
+directly. The Halo Rail helps carry all citizens to a[x01]
+pleasant, fulfilling city life. Should you have business in[x01]
+other sectors, be sure to make use of it.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #20
+
+
+[x07][x05]#1SAll Halo Rail station terminals are capable of printing rail[x01]
+passes, and offer a host of other services. Of these, the[x01]
+Online Shop is noteworthy for providing various useful daily[x01]
+items, as well as offering many sorts of tickets and passes.[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #21
+
+
+[x07][x05]#1SFurthermore, in the case that the Halo Rail main service is[x01]
+inoperative for some reason, users may also engage the[x01]
+station in Emergency Operations Mode, as well as open[x01]
+emergency substratum passages at all terminals.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #22
+
+
+[x07][x05]#1SEmergency Operations Mode is, as the name implies, the[x01]
+emergency last-ditch operation mode for the Halo Rail[x01]
+service. Should an emergency arise in which power from the[x01]
+Axis Pillar is cut to the Halo Rail, this mode switches the[x01]
+rail to local backup, allowing for semi-normal operation on[x01]
+a temporary basis.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #23
+
+
+[x07][x05]#1SAs this mode is operated on a station-by-station basis,[x01]
+should multiple stations suffer power cuts, Emergency[x01]
+Operations Mode must be enabled at each station or they will[x01]
+not be able to connect.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #24
+
+
+[x07][x05]#1SDue to current communication errors with the Axis Pillar[x01]
+central registrar, all re-issued Gospels will be temporary.[x01]
+Please enter the name of the applicant for comparison to the[x01]
+local database.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #25
+
+
+[x07][x05]Name - match found.[x01]
+Bio pattern - 73% match to records.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #26
+
+
+[x07][x05]Applicant temporarily recognized as Celeste D. Auslese.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #27
+
+
+[x07][x05]Re-printing Gospel.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x105
+
+#1164FOh![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x101
+
+#1004FWhoa![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x102
+
+#1042FLooks like spatial translocation.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #31
+
+
+[x07][x00]Received #1039i.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x105
+
+#1160F#4PIt's...a real Gospel.[x01]
+Just as they used in the ancient past.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x101
+
+#1002FYeah. The society replicas are amazingly accurate.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x102
+
+#1040FSo we were right. The Celeste D. Auslese mentioned[x01]
+in the towers was your ancestor, Kloe.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x105
+
+#1160F#4PThey must be.[x02][x03]
+
+#1167FThey must have been the one who took[x01]
+charge in leading people from the city.[x02][x03]
+
+#1382FI'm a little surprised the computer thinks[x01]
+we're so biologically similar, though...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x101
+
+#1001FHaha! As far as I'm concerned, it's[x01]
+another one for 'divine providence'![x02][x03]
+
+#1006FAnyway, I bet we can open that underground[x01]
+gate if we use this at the station terminal.[x02][x03]
+
+Let's get going![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x105
+
+#1161F#4PYes, absolutely.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x101
+
+#1001FHaha! As far as I'm concerned, it's[x01]
+another one for 'divine providence'![x02][x03]
+
+#1006FAnyway, I sure won't complain about having[x01]
+a Gospel in our pocket.[x02][x03]
+
+Let's take it with us.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x105
+
+#1168F#4PGood idea![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #40
+
+
+[x07][x05]Bio pattern - match found in database.[x01]
+Name - match error.[x01]
+Please enter the correct name.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x101
+
+#1004FWhat the heck?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x102
+
+#1035FIt must be matching the name and biological[x01]
+signature of the applicant with a database[x01]
+of citizens.[x02][x03]
+
+#1040FBut, wait.[x01]
+If there's a biological match...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x105
+
+#1167F#4PYes, it seems to think I'm one[x01]
+of my ancestors.[x02][x03]
+
+#1162FIf only we knew their name![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x101
+
+#1002FThe name of Kloe's ancestors?[x02][x03]
+
+#1015F(Wait, bell, ringing...)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x102
+
+#1040FEither way, it's as the professor warned.[x01]
+We need to know what happened here in[x01]
+the past.[x02][x03]
+
+Let's return to the Arseille and examine[x01]
+the data decrypted by the Capel.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x102
+
+#1040FOne way or another, this all seems pretty[x01]
+advanced and probably a little over our[x01]
+heads.[x02][x03]
+
+It might be a good idea to go back and[x01]
+talk to Professor Russell about this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #47
+
+
+[x07][x05][x02]
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #48
+
+
+[x07][x05][x02]
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #49
+
+
+[x07][x05]Name - match found.[x01]
+Bio pattern - error.[x01]
+Bio pattern does not match.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #50
+
+
+[x07][x05]Aborting Gospel print.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #51
+0x101
+
+#1004FWhat the?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x102
+
+#1035FIt must be matching the name and biological[x01]
+signature of the applicant with a database of[x01]
+citizens.[x02][x03]
+
+#1043FWe had the name right, but the[x01]
+biological pattern doesn't match.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x101
+
+#1007FMmm, not sure what we can do[x01]
+about that, then.[x02][x03]
+
+#1015F(Though wait a minute. Auslese!)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x102
+
+#1040FEither way, it's as the professor warned.[x01]
+We need to know what happened here in[x01]
+the past.[x02][x03]
+
+Let's return to the Arseille and examine[x01]
+the data decrypted by the Capel.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0x102
+
+#1040FOne way or another, this all seems pretty[x01]
+advanced and probably a little over our[x01]
+heads.[x02][x03]
+
+It might be a good idea to go back and[x01]
+talk to Professor Russell about this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #56
+
+
+[x07][x05][x02]
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #57
+
+
+[x07][x05][x02]
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #58
+
+
+[x07][x05]Name - match error.[x01]
+Bio pattern - not found in database.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #59
+
+
+[x07][x05]Aborting Gospel print.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x101
+
+#1004FUh, what happened?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x102
+
+#1035FIt must be matching the name and biological[x01]
+signature of the applicant with a database of[x01]
+citizens.[x02][x03]
+
+#1042FUnless we somehow have both,[x01]
+there's little we can do here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0x101
+
+#1019FUgh, great. So short of pulling a citizen out[x01]
+of the past, we're not gonna get anywhere[x01]
+with this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0x102
+
+#1040FEither way, it's as the professor warned.[x01]
+We need to know what happened here in[x01]
+the past.[x02][x03]
+
+Let's return to the Arseille and examine[x01]
+the data decrypted by the Capel.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0x102
+
+#1040FOne way or another, this all seems pretty[x01]
+advanced and probably a little over our[x01]
+heads.[x02][x03]
+
+It might be a good idea to go back and[x01]
+talk to Professor Russell about this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #65
+
+
+[x07][x05][x02]
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #66
+
+
+[x07][x05][x02]
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #67
+
+
+[x07][x05]#1SCradle #35 Municipal Office[x01]
+* Access to services limited to citizens only.[x01]
+* Due to communication interruptions with the[x01]
+Axis Pillar, services may be temporarily[x01]
+restricted.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #68
+
+
+[x07][x05]#1SViewable data is currently limited.[x01]
+Please select an option.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #69
+
+
+[x07][x05]#1SThe Halo Rail is a unique, groundbreaking transit method[x01]
+unique to the Liber Ark. Utilizing our powerful spatial[x01]
+manipulation technology, the system projects force-field[x01]
+rails as needed, removing all need for physical rails.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #70
+
+
+[x07][x05]#1SPerhaps the greatest advantage of this system is the total[x01]
+lack of restriction on rail placement. It is possible to[x01]
+flexibly connect every one of the city's countless stations[x01]
+directly. The Halo Rail helps carry all citizens to a[x01]
+pleasant, fulfilling city life. Should you have business in[x01]
+other sectors, be sure to make use of it.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #71
+
+
+[x07][x05]#1SAll Halo Rail station terminals are capable of printing rail[x01]
+passes, and offer a host of other services. Of these, the[x01]
+Online Shop is noteworthy for providing various useful daily[x01]
+items, as well as offering many sort of tickets and passes.[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #72
+
+
+[x07][x05]#1SFurthermore, in the case that the Halo Rail main service is[x01]
+inoperative for some reason, users may also engage the[x01]
+station in Emergency Operations Mode, as well as open[x01]
+emergency substratum passages at all terminals.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #73
+
+
+[x07][x05]#1SEmergency Operations Mode is, as the name implies, the[x01]
+emergency last-ditch operation mode for the Halo Rail[x01]
+service. Should an emergency arise in which power from the[x01]
+Axis Pillar is cut to the Halo Rail, this mode switches the[x01]
+rail to local backup, allowing for semi-normal operation on[x01]
+a temporary basis.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #74
+
+
+[x07][x05]#1SAs this mode is operated on a station-by-station basis,[x01]
+should multiple stations suffer power cuts, Emergency[x01]
+Operations Mode must be enabled at each station or they will[x01]
+not be able to connect.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #75
+
+
+[x07][x05]#1SCradle #35: Residential Terminal #\\C035-556800015073[x01]
+Checking ID#100W..... #20WNo match.[x01]
+※Unable to confirm ID of terminal owner.[x01]
+Your viewable entries are limited.[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #76
+
+
+[x07][x05] ===============Recipe＃W-6894===============[x01]
+ ==============Resurrect Jelly================ [x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #77
+
+
+[x07][x05]#1SData has already been copied.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #78
+
+
+[x07][x05]#1SPrinting data#100W... #20WComplete![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #79
+
+
+[x07][x00]Learned the recipe for #456i.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #80
+0x101
+
+#1004FWhoa! It wrote it into the Recipe Book![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #81
+0x102
+
+#065FHow the heck did it even do that?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #82
+0x102
+
+#1044FI wonder what the principle behind that is...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #83
+0x101
+
+#1015FYou got me, but that's some crazy technology.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #84
+
+
+[x07][x05]#1SUnable to find print target.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #85
+
+
+[x07][x05]#1SBeginning read...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #86
+
+
+[x07][x05]#1S...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #87
+
+
+[x07][x05]#1S...Specified wavelength pattern found.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #88
+
+
+[x07][x05]#1SUser is authenticated as recorded recipient of a package.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #89
+
+
+[x07][x05]#1SBeginning transfer of stored item #\\W-8834-0033.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #90
+
+
+[x07][x05]#1SDownloading data...20%...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #91
+
+
+[x07][x05]#1S...40%...60%...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #92
+
+
+[x07][x05]#1S...80%... Transfer complete![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #93
+
+
+[x07][x00]Received #1047i.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #94
+0x101
+
+#1004FTh-This is the same ore as we already[x01]
+have, right?[x02][x03]
+
+
+#1015FSeems like that crystal from a bit ago[x01]
+got sent from somewhere...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #95
+0x102
+
+#1035FYeah.[x02][x03]
+
+#1040FI don't get how it all works, but it seems like[x01]
+this crystal is the key.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #96
+
+
+[x07][x05]#1SBeginning lookup...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #97
+
+
+[x07][x05]#1S...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #98
+
+
+[x07][x05]#1S...Unable to find data.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #99
+
+
+[x07][x05]#1SPlease check your crystal and try again.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #100
+
+
+[x07][x05]#1SCradle #35: Residential Terminal  #\\C035-556800014096[x01]
+Checking ID#100W..... #20WNo match.[x01]
+※Unable to confirm ID of terminal owner.[x01]
+Your viewable entries are limited.[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #101
+
+
+[x07][x05]#1S[Report on Heightened City Security][x01]
+In recent years, there has been a notable increase in[x01]
+crime in less populated areas of the city, such as the[x01]
+Factoria blocks. As a result of this, heightened security[x01]
+measures were introduced, and while some citizens may[x01]
+have experienced some inconvenience as a result, those[x01]
+measures were designed to have the least impact possible[x01]
+on individual freedoms.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #102
+
+
+[x07][x05]#1SHowever, despite these measures, the crime rate continues[x01]
+to increase. The council therefore asks that citizens[x01]
+cooperate with a number of restrictions.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #103
+
+
+[x07][x05]#1SThe following will apply to all citizens:[x01]
+-Terminal use will require personal Gospel ID checks[x01]
+-Periodic inspections will be performed in all blocks[x01]
+-Civilian access into the Axis Pillar is restricted[x02]
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #104
+
+
+[x07][x05]#1SThis heightened security may result in some inconvenience[x01]
+for citizens, but these measures are designed to ensure[x01]
+the safety of all residents of our fair city. We hope you[x01]
+understand and will offer your complete cooperation.[x01]
+-Liber Ark Security Division[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #105
+
+
+[x07][x05]Welcome to the Cradle #35 Municipal Office![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #106
+
+
+[x07][x05]This office is currently outside normal service hours.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #107
+
+
+[x07][x05]Persons with business are asked to select direct[x01]
+service from the automated service window in the back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #108
+
+
+[x07][x05]#1SCradle #35: Residential Terminal  #\\C035-556800014096[x01]
+Checking ID#100W..... #20WNo match.[x01]
+※Unable to confirm ID of terminal owner.[x01]
+Your viewable entries are limited.[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #109
+
+
+[x07][x05]#1S※[Improvements to Distribution Service and Gospel Update][x01]
+Here at Liber Ark City, in order to ensure our citizens[x01]
+lead a pleasant, fulfilled life, we have established a[x01]
+distribution service offering music and images with a theme[x01]
+of 'healing,' which has proven popular with the citizenry,[x01]
+but also with persons experiencing concerns regarding mental[x01]
+and emotional ailments.[x02]
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #110
+
+
+[x07][x05]#1SHowever, while this service offers a significant selection,[x01]
+it remains somewhat uniform and one-sided. As such, we have[x01]
+been receiving a great deal of feedback from the citizenry[x01]
+asking for it to respond to a wide variety of personal[x01]
+tastes. In order to accommodate these opinions, our city[x01]
+wishes to proceed with enhancing our service's variety to[x01]
+provide all citizens with a satisfying experience.[x02]
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #111
+
+
+[x07][x05]#1STo that end, we will need to offer an upgrade to all[x01]
+citizens' personal Gospels. We ask that you inquire at[x01]
+your local city government office and undergo upgrade[x01]
+procedures there.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #112
+
+
+[x07][x05]#1SFurthermore, as this upgrade applies to all citizens, after[x01]
+a period of time non-upgraded Gospels will become unusable.[x01]
+We understand this may be somewhat problematic, but we[x01]
+sincerely ask for your cooperation.[x01]
+-Liber Ark System Administration Division[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #113
+0x146
+
+#413F#6PSorry I lost it... Guess you guys[x01]
+didn't expect that, huh?[x02][x03]
+
+#210FI...think I'm a little calmer now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #114
+0x101
+
+#1019FEyes on you, Capua. Eyes. On.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #115
+0x102
+
+#1035F#6PAhem! So, Josette...[x02][x03]
+
+#1042FCan you tell us what[x01]
+exactly happened?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #116
+0x146
+
+#215F#7PI think so... Yeah.[x02][x03]
+
+#212FSo, we managed to crash about as gracefully[x01]
+as we could, right? And, hey, our orbments work[x01]
+NOW, so we got to work fixing the Bobcat.[x02][x03]
+
+The engine wasn't really damaged,[x01]
+but the rest of the ship was a mess.[x02][x03]
+
+We were nosing around looking[x01]
+for material to use for repairs.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #117
+0x106
+
+#555FGot'cha. Basically the same mess we're in.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #118
+0x108
+
+#070FThe same situation we find ourselves in, then.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #119
+0x103
+
+#020FI see. More or less exactly like us.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #120
+0x109
+
+#1063FSame mess we're in, really.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #121
+0x104
+
+#030FHmm. So we share in the same fate.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #122
+0x105
+
+#1162FYou face the same situation we do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #123
+0x146
+
+#215F#7PIt was...um, three days ago now.[x02][x03]
+
+We'd gotten the materials we needed and[x01]
+were just about to start the real repair work[x01]
+when this...octopus-like machine appeared.[x02][x03]
+
+#413FAfter I shot it, a red airship showed up.[x02][x03]
+
+
+Jaegers came flooding out of[x01]
+it as soon as it landed...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #124
+0x102
+
+#1043F#6PAh, of course.[x01]
+You shot down a Vogel.[x02][x03]
+
+#1035FThey use those for scouting and patrols.[x01]
+It alerted the enemy to your location the[x01]
+instant it was destroyed.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #125
+0x146
+
+#216F#7PI knew it...[x02][x03]
+
+#215FWhat... What do I do?[x02][x03]
+
+It's all my fault Kyle and Don were taken![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #126
+0x102
+
+#1043F#6PJosette...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #127
+0x101
+
+#1022FRrrrrgh, for the--knock it off with the[x01]
+mopey face![x02][x03]
+
+#1005FIf they got caught,[x01]
+let's go rescue them![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #128
+0x146
+
+#213F#6PWh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #129
+0x101
+
+#1006FEven if they are criminals themselves,[x01]
+if they're being held illegally, then they[x01]
+deserve bracer protection.[x02][x03]
+
+Besides, we have some biscuits[x01]
+to grind with the society anyway![x02][x03]
+
+We'll save your brothers while we're at it.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #130
+0x102
+
+#1040F#6PEstelle...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #131
+0x146
+
+#212F#6PH-Hold on a sec![x02][x03]
+
+#214FWhat makes you think we want to[x01]
+be saved by the likes of bracers?![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #132
+0x101
+
+#1007FHrmmm. The 'likes of bracers,' huh?[x02][x03]
+
+#1028FSo you can save them all by yourself?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #133
+0x146
+
+#216F#6PMrgh.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #134
+0x101
+
+#1006FBesides, you helped us when we[x01]
+were escaping the Glorious.[x02][x03]
+
+
+It's way past time we returned the favor![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #135
+0x146
+
+#214F#6PMrrrrrrrrrrrrrrrrgh...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #136
+0x102
+
+#1035F#6PJosette, Estelle's right.[x02][x03]
+
+
+#1040FIf you run in on your own, you'll just[x01]
+be caught, and you won't help[x01]
+anyone just staying here.[x02][x03]
+
+You know that, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #137
+0x146
+
+#215F#6PMmm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #138
+0x102
+
+#1040F#6PWhy don't you head to the Arseille[x01]
+for the moment?[x02][x03]
+
+#1035FI suspect Kyle and the others are[x01]
+being kept on the Glorious.[x02][x03]
+
+There's a good chance it's docked to the[x01]
+island somewhere. If we continue to[x01]
+investigate, I suspect we'll find it.[x02][x03]
+
+#1040FWe'll tell you when we locate it.[x01]
+I promise.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #139
+0x146
+
+#215F#6P...[x02][x03]
+
+#413FAll right. If you say so, Joshua.[x02][x03]
+
+
+#214FI'm not gonna just sit around and[x01]
+twiddle my thumbs, though![x02][x03]
+
+I'm gonna help too! You want me[x01]
+to tag along, you just say so![x01]
+I'll even help fix your ship![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #140
+0x101
+
+#1016FYeah, yeah, okay. You can TRY to impress[x01]
+all you want, but it's still too late, Miss Tomboy.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #141
+0x146
+
+#210F#6PPssh! At least I AM impressive.[x02][x03]
+
+In more ways than one compared to YOU![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #142
+0x101
+
+#1019FWHAT was that?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #143
+0x102
+
+#1052F#6PCome on now, really...[x02][x03]
+
+#1048FI don't know what it is with you two,[x01]
+but can't you TRY to get along?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #144
+0x101
+
+#1007F...Uh. Joshua.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #145
+0x146
+
+#212F#7P...Did he just say that?[x01]
+He just said that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #146
+0x102
+
+#1044F#6PHm?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #147
+0x109
+
+#1068F(Oooooh, Sweet Goddess Above.[x01]
+Nice knowin' ya, Joshua.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #148
+0x104
+
+#035F(You've stepped on a landmine,[x01]
+my friend.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #149
+0x106
+
+#551F(Well, that's stepping right on it.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #150
+0x108
+
+#075F(Well, he's in it now.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #151
+0x103
+
+#025F(*sigh* Oh, Joshua. You idiot.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #152
+0x107
+
+#065F(Oh, no, Joshua...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #153
+0x105
+
+#1167F(You utter dunce.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #154
+0x107
+
+#065F(Oh, no, Joshua...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #155
+0x103
+
+#025F(Oh, my student.[x01]
+You have so much to learn.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #156
+0x108
+
+#071F(Ahhh, the follies of youth!)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #157
+0x106
+
+#555F(That kid seriously doesn't know fear...)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #158
+0x104
+
+#031F(Hahaha! Ah, Joshua! Truly, you[x01]
+do not know the meaning of fear!)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #159
+0x101
+
+#1019FHey, Capua.[x02][x03]
+
+Truce for the moment, okay?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #160
+0x146
+
+#413F#6PAgreed.[x02][x03]
+
+We have bigger fish to fry[x01]
+than each other right now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #161
+0x102
+
+#1048F#6PEr. Wait.[x02][x03]
+
+I'm glad you two are calling a 'truce'...[x01]
+but what 'bigger fish' are you talking about?[x01]
+Did I...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #162
+0x101
+
+#1001FOh, no, it's nothing.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #163
+0x146
+
+#211F#7PNow why would you think a thing[x01]
+like that, hmmmmm?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #164
+0x102
+
+#1052F#6PO...kay. (Why do their smiles[x01]
+fill me with such terror?)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #165
+
+
+[x07][x05]Please form your party. You may choose two other members[x01]
+aside from the mandatory members.[x01]
+(Removed members will return to the Arseille.)[x07][x00][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #166
+0x9
+
+#198F#7PRight, then. We're going to get[x01]
+back to repairing the Bobcat.[x02][x03]
+
+
+#197FWe should have all the materials[x01]
+we need, but...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #167
+0xA
+
+#203F#4PThe real issue is that 'Orbal Shutdown[x01]
+Phenomenon' thing.[x02][x03]
+
+#206FIf we just take off, we'll drop like a stone[x01]
+again the instant we leave the city.[x01]
+Straight into the lake, this time![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #168
+0x101
+
+#1015F#5PHmmm... At least without another big[x01]
+Zero Field thingy you will, yeah.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #169
+0x102
+
+#1044F#5PShall we ask Professor Russell aboard[x01]
+the Arseille to help you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #170
+0xA
+
+#200F#4PWe can use our radio while in the city,[x01]
+at least, so we'll contact them ourselves.[x02][x03]
+
+
+Meanwhile, I'm guessing you're all going[x01]
+to continue looking for this[x01]
+'Aureole' of yours.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #171
+0x102
+
+#1040F#5PThat was the plan.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #172
+0x101
+
+#1006F#5PThat was our whole reason for[x01]
+coming here in the first place.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #173
+0x10B
+
+#213F#6PNow that you mention it, you did[x01]
+talk about something like that.[x02][x03]
+
+So you guys weren't looking for treasure,[x01]
+too?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #174
+0x101
+
+#1019F#5PCapua, please don't equate yourself[x01]
+with me. Ever.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #175
+0xA
+
+#200F#4PIn that case... Josette.[x02][x03]
+
+Why don't you keep working with[x01]
+Joshua's team?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #176
+0x10B
+
+#213F#6PHuh?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #177
+0x9
+
+#490F#7PThe lads and us two will be more than[x01]
+enough to get the Bobcat repaired.[x02][x03]
+
+To be honest, I wanted you out there[x01]
+getting us information either way.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #178
+0x10B
+
+#210F#6PAh, okay![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #179
+0x102
+
+#1035F#5PAnd with everything going on, having[x01]
+someone who can coordinate between[x01]
+the Arseille and the Bobcat would help.[x02][x03]
+
+#1040FIt's a good plan.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #180
+0x101
+
+#1006F#5PYeah, I agree.[x02][x03]
+
+Besides, we need all the help we[x01]
+can get against the society.[x02][x03]
+
+Josette's a great support. She'd be[x01]
+a big help in the coming battles.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #181
+0x10B
+
+#213F#6P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #182
+0x101
+
+#1004F#2PSomething wrong?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #183
+0x10B
+
+#216F#6PNo, uh, it's just...[x02][x03]
+
+#215F(Uh, Joshua. Is she serious?)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #184
+0x102
+
+#1049F#5P(Haha... As serious as you'll[x01]
+ever see her.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #185
+0x10B
+
+#413F#6P(And there's the headache...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #186
+0x101
+
+#1009F#2PHey, wait, Capua. What's with that face?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #187
+0x10B
+
+#210F#6POh, nothing.[x01]
+Just total resignation that I'm at[x01]
+the command of an airhead.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #188
+0x101
+
+#1019F#2PHow about I order you off[x01]
+the edge of the island, then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #189
+0x9
+
+#191F#7PGyahaha! That settles that, I suppose![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #190
+0xA
+
+#200F#4PWe'll get started here, then.[x02][x03]
+
+
+Josette. Careful out there, all right?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #191
+0x10B
+
+#210F#6PYeah, I will be.[x01]
+You guys be careful too, okay?[x02][x03]
+
+The society might attack you guys again.[x01]
+Call for help if they do, got it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #192
+0x9
+
+#191F#7PHaha! No worries![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #193
+0xA
+
+#200F#4PWe'll keep an eye out.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #194
+
+
+#5CJosette learned the '#2CBobcat#5C' S-Craft![x02]

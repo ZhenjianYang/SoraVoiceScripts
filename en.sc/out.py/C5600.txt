@@ -1,0 +1,1004 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+
+
+Found [x1F][xE9][x01][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+
+Found [x1F][xE9][x01][x07][x00] in chest.[x01]
+Inventory full so gave up [x1F][xE9][x01][x07][x00].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #2
+
+[x07][x05]Inside is a single piece of paper. It's a teaser for[x01]
+a brand new game called 'Trails in the Chest.'[x01]
+It looks boring. You put the paper down and leave.[x07][x00][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #3
+
+
+[x07][x00]Found a scrap of paper with a [ #489i ][x01]
+recipe written on it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #4
+
+
+[x07][x00]Learned [ #489i ] recipe.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;;;;------------------ op#A
+AnonymousTalk #5
+
+
+[x07][x05]#50AMeanwhile - Liberl Kingdom, Location Unknown[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #6
+0x8
+Strange Kid
+
+#6P#850FOh, what a lovely little hideaway.[x02][x03]
+
+
+#6PThe professor's taste remains excellent[x01]
+as always.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #7
+0x9
+Man's Voice
+
+#3PYou're late, Campanella.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x8
+
+#851FWhy, Mr. Bladelord, hello![x01]
+It's been SO very long.[x02][x03]
+
+The last six months were so[x01]
+dreadfully dreary without you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x9
+
+#124F#4PHmph. I doubt you mean that.[x02][x03]
+
+#123FI understand you handled the attacks[x01]
+on those Bracer Guilds in Erebonia?[x02][x03]
+
+You must have enjoyed playing[x01]
+with Cassius Bright.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x8
+
+#850FAwww, you heard about that already?[x01]
+There goes half my fun.[x02][x03]
+
+#851FBut oh, yes, the man was incredible.[x02][x03]
+
+
+There's no way he could have known about[x01]
+me, and yet he always managed to put[x01]
+together a proper counter to everything I did.[x02][x03]
+
+As a result, I...broke one of our jaeger[x01]
+corps, I'm afraid.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x9
+
+#124F#4PYou 'broke' Jester, huh?[x02][x03]
+
+#120FI did train them to some degree,[x01]
+but normal men do have their limits.[x02][x03]
+
+I suppose throwing them up against[x01]
+the Divine Blade was too much to ask[x01]
+of such men.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x8
+
+#853FBut, hey. I managed to keep him tied up[x01]
+until your little sabotage mission was[x01]
+completed, so all's well that ends well.[x02][x03]
+
+#850FOooh, wait. I'm sorry, you were looking[x01]
+forward to having fun with him yourself,[x01]
+weren't you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x9
+
+#123F#4PHm... A little.[x02][x03]
+
+#124FBut the blade has been bound[x01]
+by the chains of duty.[x02][x03]
+
+There's no longer any hope of[x01]
+stopping us through official means.[x01]
+He is no longer a threat.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x8
+
+#850FHeheh. Looks like the professor's[x01]
+plan succeeded brilliantly.[x02][x03]
+
+The other members are already in[x01]
+Liberl, then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x9
+
+#120F#4PYes, we all conferred for the[x01]
+first time yesterday.[x02][x03]
+
+#124FBleublanc has apparently been[x01]
+here for a while, however.[x02][x03]
+
+'The Phantom Thief,' 'The Direwolf,'[x01]
+'The Bewitching Bell,' and 'The Angel[x01]
+of Slaughter'...[x02][x03]
+
+#123FAll of them powerful...and not a[x01]
+normal one in the lot.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x8
+
+#851FHaha... Mind you, you're not exactly[x01]
+one to be talking on that score, hmm?[x02][x03]
+
+#854FOooh, speaking of the hopelessly[x01]
+crazy, what about HIM? Is he still[x01]
+playing hard to get?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x9
+
+#120F#4P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x8
+
+#854FHaha! This is going to be SO much fun.[x02][x03]
+
+Out of all the Enforcers, he's the finest[x01]
+undercover operative we have...well, had.[x02][x03]
+
+I wonder how long he can evade the sight[x01]
+of the Bladelord and the Faceless?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x9
+
+#121F#4PMm.[x02][x03]
+
+#124FIn his heart, he abandoned the[x01]
+society years ago...with all that[x01]
+entails.[x02][x03]
+
+I doubt he'll be able to pose any[x01]
+real threat.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #20
+0xA
+Man's Voice
+
+#1PNow, I'm not sure I'd say that.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0xA
+
+#4P#1150FHello, Campanella.[x01]
+Good of you to come all this way.[x02][x03]
+
+You have my sincere thanks for[x01]
+your excellent work in delaying[x01]
+Cassius Bright.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x8
+
+#851F#6PHaha... It was no trouble.[x01]
+It was a fun bit of work, in fact.[x02][x03]
+
+#850FSpeaking of fun, though, I must say,[x01]
+I've taken a look at your plan...[x02][x03]
+
+It seems like you're preparing to[x01]
+have quite a LOT of 'fun.'[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0xA
+
+#4P#1151FWell, well! Such praise from the Fool![x01]
+I'm flattered.[x02][x03]
+
+I think you'll find it to be even more[x01]
+enjoyable in practice.[x02][x03]
+
+Compounding your delight will be the[x01]
+fact that everyone participating is pursuing[x01]
+their own individual goals as well.[x02][x03]
+
+Myself included, of course. Even our[x01]
+fine silver-haired friend here has his own[x01]
+plans in mind.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x9
+
+#124F#6P...I won't deny it.[x02][x03]
+
+#121FI'll kindly ask you not to imply anything[x01]
+about my loyalty, however.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0xA
+
+#4P#1154FNow, now, it was simply[x01]
+a jest. Nothing more.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x8
+
+#851F#6POoh, I seeee. There's more than[x01]
+meets the eye, here. I do so love[x01]
+such games.[x02][x03]
+
+#854FWell, either way, your bad taste[x01]
+has a special kind of artistry to it,[x01]
+Professor.[x02][x03]
+
+As for me...I'm going to make sure[x01]
+I enjoy myself.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0xA
+
+#4P#1151FCome now, bad taste? You wound[x01]
+me.[x02][x03]
+
+Regardless, you're free to watch the[x01]
+plan unfold to your heart's content.[x02][x03]
+
+You are, after all, a representative[x01]
+of the Grandmaster.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x8
+
+#851F#6POh, I intend to.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x8
+
+#853F#5PAnd so Enforcer No. 0, Campanella the Fool,[x01]
+enters the audience.[x02][x03]
+
+#854FWell, Weissmann. I shall enjoy[x01]
+watching the Anguis' 'Gospel Plan'[x01]
+unfold...to the very end.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0xB
+
+#260FHooray! Those silly little flying machines[x01]
+were no match for us![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0xB
+
+#260FThanks, Pater-Mater! You go sleep for a[x01]
+bit, okay?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0xD
+
+#4P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #33
+0x9
+Man's Voice
+
+#1PWelcome back, Renne.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0xB
+
+#260FLoewe![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0xB
+
+#260FI'm back, I'm back![x02][x03]
+
+I went and did that experiment,[x01]
+just like you asked.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x9
+
+#120FI know. You did a very good job.[x02][x03]
+
+You got a little creative with it, too.[x01]
+A 'tea party'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0xB
+
+#260FIt's 'cause you told me not to kill[x01]
+anyone this time.[x02][x03]
+
+I had to do SOMETHING to make it[x01]
+a little less boring, and I thought a[x01]
+tea party would be lots of fun.[x02][x03]
+
+And it was! We had tea and crumpets[x01]
+and explosions.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x9
+
+#120FHow...ladylike, Renne.[x02][x03]
+
+So, how did the experiment itself go?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0xB
+
+#260FI think it went okay.[x02][x03]
+
+
+That mean guy from the church kinda[x01]
+spoiled it with a nasty trick...[x02][x03]
+
+But it was fine, otherwise! We can use[x01]
+them in real combat if we want.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x9
+
+#120FVery good.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0xB
+
+#260FI thought we couldn't make lots of[x01]
+Gospels, though.[x02][x03]
+
+How are we gonna use them as[x01]
+weapons if we can't?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x9
+
+#120FMass production of them isn't necessary.[x02][x03]
+
+These tests are simply to determine the[x01]
+full capabilities of the Gospels.[x02][x03]
+
+
+We aren't trying to make a weapon out[x01]
+of it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0xB
+
+#260FReally?[x02][x03]
+
+Well, whatever. Doesn't matter to me[x01]
+either way.[x02][x03]
+
+Have you found Joshua yet?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x9
+
+#120FI think we have.[x02][x03]
+
+A number of the dolls we sent out to[x01]
+act as a diversion were destroyed.[x02][x03]
+
+It's very likely he's responsible.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0xB
+
+#260FSo he's still hiding? Aww.[x02][x03]
+
+I'm good at playing hide and seek, but[x01]
+even I'm not as good as Joshua...[x02][x03]
+
+Mmmmmm, I hate this![x02][x03]
+
+Why's he being so stubborn? Why can't[x01]
+he just come back home to the society?[x01]
+To us?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x9
+
+#120FWell...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0xB
+
+#260FIt's weird, too. The professor said it's[x01]
+all Estelle's fault Joshua won't come[x01]
+back.[x02][x03]
+
+But she told me she's been looking for[x01]
+Joshua, too![x02][x03]
+
+Why would she say that if she's keeping[x01]
+Joshua from coming back to us?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x9
+
+#120F...Renne.[x02][x03]
+
+I wouldn't be so quick to accept everything[x01]
+the professor says.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #49
+0xB
+
+#260FHuh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #50
+0x9
+
+#120FTruth can change depending on one's[x01]
+perspective.[x02][x03]
+
+Just as how people can see different[x01]
+shapes on the same moon.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #51
+0xB
+
+#260FYou mean like how some people see[x01]
+a face and others see a crab?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x9
+
+#120FThat's right.[x02][x03]
+
+The professor's truth may be different[x01]
+from your truth.[x02][x03]
+
+You need to reach for your own truth[x01]
+based on what you yourself see and[x01]
+feel.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0xB
+
+#260FUm... Sounds confusing, but I think I get it.[x02][x03]
+
+
+I really like Estelle! I liked everyone, actually.[x01]
+They're nice, and they gave me snacks.[x01]
+Tita was fun to play with, too.[x02][x03]
+
+I don't even feel like murdering them![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x9
+
+#120FVery good.[x02][x03]
+
+You're a good girl, Renne.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0xB
+
+#260FHeeheehee.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #56
+0xA
+Man's Voice
+
+#1PIndeed, you're a very good girl, Renne.[x01]
+And a very good worker![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #57
+0xB
+
+#260FOh, hi, Professor...and Campanella![x02][x03]
+
+
+You're here, too?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0x8
+
+#850FHello there, Renne! For now, yes.[x02][x03]
+
+Looks like you had a good time in[x01]
+Grancel, hmm?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0xB
+
+#260FYeah, kinda.[x02][x03]
+
+Awww, if I knew you were coming,[x01]
+I would've invited you![x02][x03]
+
+It was a lot of fun, you know![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x8
+
+#850FHaha. Now I feel bad that I missed it.[x02][x03]
+
+I had to put on a nice little puppet show[x01]
+for some lady bracers...[x02][x03]
+
+It wasn't nearly as enjoyable as what[x01]
+you did, I think.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x8
+
+#850FHaha. Now I feel bad that I missed it.[x02][x03]
+
+I had to put on a nice little puppet show[x01]
+for a big burly bracer...[x02][x03]
+
+It wasn't nearly as enjoyable as what[x01]
+you did, I think.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0xA
+
+#1150FHaha... Perhaps you should have reserved[x01]
+the better seat ahead of time, Campenella.[x02][x03]
+
+By the way, Renne...[x02][x03]
+
+I couldn't help but overhear. You said[x01]
+you're rather fond of Estelle?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0xB
+
+#260FHaha, sure am.[x02][x03]
+
+She wasn't nearly as nasty a person[x01]
+as you said, Professor! She's nice.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0xA
+
+#1150FAh-ah, Renne! It's not nice to put words[x01]
+in peoples' mouths. I never said she was[x01]
+a bad person.[x02][x03]
+
+If anything, I agree with you. She is both[x01]
+a charming and fascinating young lady.[x02][x03]
+
+I simply said that she's part of the reason[x01]
+Joshua has yet to return to us.[x02][x03]
+
+Wouldn't you agree, Loewe?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0x9
+
+#120FI won't deny that she's part of the reason,[x01]
+yes.[x02][x03]
+
+But--[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #66
+0xA
+
+#1150FWell, then, that should clear things up.[x01]
+What do you think, Renne?[x02][x03]
+
+Given the circumstances, shouldn't we[x01]
+make Estelle one of our friends?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #67
+0x9
+
+#120FWha...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0xB
+
+#260FMake Estelle one of our friends...?[x02][x03]
+
+Yeah... Yeah! That sounds like a lot of fun![x02][x03]
+
+
+She's kind of on the weak side right now,[x01]
+but if we teach her how to kill right, I bet[x01]
+she'd be really powerful![x02][x03]
+
+And if Estelle joins us, Joshua will come[x01]
+back, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0xA
+
+#1150FI think it's safe to assume as much.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x8
+
+#850FHahaha! Oh, Professor, I always knew[x01]
+you had great taste. Delicious.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0x9
+
+#120FThat's going a little too far with your[x01]
+'jokes,' Professor.[x02][x03]
+
+Remember, 'All who serve the society[x01]
+must do so of their own free will.'[x02][x03]
+
+
+That is one of the core laws of Ouroboros.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0xA
+
+#1150FYou need not remind me of the[x01]
+Grandmaster's edicts, Loewe.[x02][x03]
+
+Do you really think that I, an Anguis,[x01]
+would break such a law?[x02][x03]
+
+Neither you nor Joshua were forced[x01]
+into anything, were you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x9
+
+#120F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0xA
+
+#1150FIn any case, breaking her will would be[x01]
+so dissatisfying.[x02][x03]
+
+When she joins us...it will be entirely of[x01]
+her own volition.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

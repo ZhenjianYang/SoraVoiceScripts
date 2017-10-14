@@ -1,0 +1,489 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x101
+
+#1026FOh, this is the auditorium.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x101
+
+#1025FMmm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x105
+
+#542FIt's strange, isn't it?[x02][x03]
+
+It was only a few months ago,[x01]
+and yet you can't help but reminisce.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x101
+
+#1025FYeah...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x101
+
+#1025F#6PA whole lot happened after that...[x02][x03]
+
+
+Our calm, serene princess,[x01]
+Joshua, has left us.[x02][x03]
+
+Now it's just us on the stage.[x02][x03]
+
+
+#1016FHaving no 'supporting cast'[x01]
+feels kinda strange, y'know?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x105
+
+#047FIt does...[x02][x03]
+
+#040FSay, Estelle?[x01]
+May I make a small confession?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x101
+
+#1004F#6PUh, sure?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x105
+
+#540FI...liked Joshua.[x01]
+I mean, you know...um...affectionately.[x02][x03]
+
+I was a bit attracted to him[x01]
+from the moment we met.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x101
+
+#1004F#6PWha...[x02][x03]
+
+#1025FI...see.[x02][x03]
+
+#1016FHaha, I actually kinda figured.[x01]
+It always sorta seemed that way...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x105
+
+#542FThat kiss scene at the end of the play...[x01]
+I won't deny, it sent my heart racing.[x02][x03]
+
+I kept apologizing quietly to you even[x01]
+as I threw myself into the role...[x02][x03]
+
+
+#045FI was all set to really kiss him[x01]
+at the end, not just pretend.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x101
+
+#1013F#6PR-Really?[x02][x03]
+
+You're a lot braver than I thought, Kloe.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x105
+
+#542FEh-heh... Julia says I always do[x01]
+things that make her worry.[x02][x03]
+
+
+#047FBut then when Mayor Dalmore pointed[x01]
+that gun at you, Estelle...[x02][x03]
+
+
+Joshua's eyes... I've never seen eyes[x01]
+so full of...m-murderous rage...[x02][x03]
+
+And it was all because you're[x01]
+that important to him.[x02][x03]
+
+#542FThat's when I gave up, because I realized[x01]
+I never had a chance against that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x101
+
+#1015F#6PU-Umm...[x02][x03]
+
+I dunno, I think it might be a little[x01]
+too early for you to give up.[x02][x03]
+
+#1007FI mean, honestly, Kloe, I can't[x01]
+hope to compare to you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x105
+
+#048FOh, Estelle, you're so silly when[x01]
+it comes to this sort of thing.[x02][x03]
+
+You really have no idea just[x01]
+how charming you are.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x101
+
+#1019F#6PMan, I pay you a compliment and you poke[x01]
+fun at me. Come on, Kloe, I was serious.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x105
+
+#045FHeehee! But that's just it... So was I.[x02][x03]
+
+#542FI love that about you, Estelle.[x01]
+Your open honesty.[x02][x03]
+
+And I think Joshua feels the same way.[x02][x03]
+
+
+I guess Joshua and I are[x01]
+a bit alike in that sense...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x101
+
+#1004F#6PYou know, I did notice that, kind of.[x02][x03]
+
+
+#1015FYou're both smart, level-headed,[x01]
+polite...[x02][x03]
+
+To be honest, I totally told Joshua[x01]
+you two would be great together[x01]
+because of that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x105
+
+#049FUntil I met everyone here,[x01]
+I was...very lonely.[x02][x03]
+
+I think, in that sense, I was a little[x01]
+like Joshua, before he met you.[x02][x03]
+
+
+#047FIf there's a difference between us...[x01]
+it would be our strength.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x101
+
+#1004F#6PYour strength? Like how?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x105
+
+#043FGrandmother wishes, very much,[x01]
+to name me the next queen.[x01]
+Especially after what happened recently.[x02][x03]
+
+I guess it would be for the best,[x01]
+all things considered, but...[x02][x03]
+
+#047FIf I become queen, I'll never be Kloe Rinz again.[x02][x03]
+
+
+I will be Klaudia von Auslese forevermore,[x01]
+burdened with power and responsibility.[x02][x03]
+
+
+I'd never again get to hug those orphans,[x01]
+or talk to my friends casually, or attend[x01]
+class...[x02][x03]
+
+#049FThe very idea...terrifies me.[x02][x03]
+
+Yet, I feel so pathetic for not having[x01]
+the strength to return to that solitude[x01]
+when it's necessary.[x02][x03]
+
+I still haven't given Grandmother[x01]
+a proper answer.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x101
+
+#1026F#6PKloe...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x105
+
+#542FIn that sense, Joshua is stronger[x01]
+than I could ever hope to be.[x02][x03]
+
+I'm sure that he, more than anyone,[x01]
+didn't want to be separated from you.[x02][x03]
+
+But even so, he disappeared so[x01]
+as to not involve you in what he[x01]
+felt was his own problem...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x101
+
+#1003F#6PJoshua's...strong, on some level, yeah.[x02][x03]
+
+#1010FBut I don't think that's the kind[x01]
+of strength you should admire.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x105
+
+#044FHmm...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x101
+
+#1025F#6PIt's the role of a queen to rule a whole country.[x01]
+Of course you're hesitating, it's natural![x02][x03]
+
+Heck, what'd be really worrying would be if[x01]
+you wanted it without hesitating, like Dunan.[x02][x03]
+
+Being worried and unsure about whether[x01]
+you'll be good, and still trying anyway...[x01]
+that's why you'll be an amazing queen, Kloe.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x105
+
+#542FEstelle...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x101
+
+#1002F#6PBut Joshua...[x02][x03]
+
+Joshua didn't hesitate.[x02][x03]
+
+He barely thought twice. He left me...[x01]
+left us...behind as if it were the most[x01]
+natural thing in the world.[x02][x03]
+
+#1003FThat... That's something I can't forgive him for.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x105
+
+#043FEstelle...[x02][x03]
+
+#047FYou're right... It IS unforgivable.[x02][x03]
+
+
+#042FWhy is it the cute ones are always the ones[x01]
+who don't understand a girl's feelings?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x105
+
+#045F#3P#1KEspecially the ones who...[x01]
+*snerk* are cuter than... Heehee![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x101
+
+#1016F#4P#1KAnd don't forget the...[x01]
+*snicker* teeheehee...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x101
+
+#1016F#3P#1KTeeheehee![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x105
+
+#045F#4P#1KHahahaha! Ah...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x101
+
+#1017F#6PI'm so glad we're friends, Kloe.[x02][x03]
+
+
+I don't have many people I can[x01]
+open up to quite like this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x105
+
+#041FHaha! Neither do I.[x02][x03]
+
+#542FAlthough, all we've been talking about[x01]
+are embarrassing things, really...[x02][x03]
+
+Oh, um, please don't misunderstand me,[x01]
+though![x02][x03]
+
+I don't feel, um, that way about[x01]
+Joshua at all now...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x101
+
+#1016F#6PAh, don't worry, it's okay.[x02][x03]
+
+#1017FI...kinda learned the hard way[x01]
+that love isn't something you[x01]
+should try and hold back.[x02][x03]
+
+Haha... I guess my dad would totally[x01]
+call us both a couple of dumb kids...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x105
+
+#045FThank you, Estelle.[x02][x03]
+
+#540FWell...to be honest, if I said I didn't[x01]
+have any feelings left toward him,[x01]
+I'd be lying.[x02][x03]
+
+But more than anything, I want to[x01]
+see you two happy together, and--[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x101
+
+#1012F#6PDon't worry. I get it.[x02][x03]
+
+#1006FAnyway! We've spent a bit too[x01]
+much time with girl talk, I think.[x02][x03]
+
+Wanna get back to interviewing[x01]
+the students?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x105
+
+#045FYes, we should.[x02][x03]
+
+Let's try to talk to everyone before nightfall.[x02]
+

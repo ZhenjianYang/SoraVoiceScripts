@@ -1,0 +1,172 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x8
+
+#602FOur Estelle knows these roads[x01]
+like her own backyard.[x02][x03]
+
+Well, then, I ask that you do[x01]
+be very careful.[x02][x03]
+
+With the fog as thick as it is,[x01]
+it's almost impossible to see.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x8
+
+#602FThe fog has gotten even thicker than[x01]
+last night, that much is certain.[x02][x03]
+
+Estelle, I've heard your group will help[x01]
+evacuate those in the countryside.[x02][x03]
+
+The city will be patrolled by army[x01]
+forces very soon, but the more remote[x01]
+locations will be defenseless.[x02][x03]
+
+Please, get them quickly to a safe[x01]
+location.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x8
+
+#602FThe fog has gotten even thicker than[x01]
+last night, that much is certain.[x02][x03]
+
+If you go out onto the roads,[x01]
+do be very careful.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x8
+
+#602FOh, hello, everyone. It's so early[x01]
+in morning and yet you're already[x01]
+hard at work.[x02][x03]
+
+Hmm... The fog has gotten even[x01]
+thicker than last night, that much[x01]
+is certain.[x02][x03]
+
+If you go out onto the roads for work,[x01]
+be very careful.[x02][x03]
+
+With the mist as thick as it is,[x01]
+it's almost impossible to see.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0xFE
+
+Mr. Ashton is a great soldier,[x01]
+but his unit isn't very good.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0xFE
+
+*sigh* I can almost feel his[x01]
+suffering...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0xFE
+
+Mr. Ashton is a great soldier,[x01]
+but his unit isn't very good.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0xFE
+
+...Man, none of them have[x01]
+any sense at all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0xFE
+
+*sigh* I can almost feel his[x01]
+suffering...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0xFE
+
+Mr. Ashton's a pretty capable[x01]
+guy.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0xFE
+
+I've been told that he was in a force[x01]
+in the capital, but that's no surprise.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0xFE
+
+I just came to deliver some goods[x01]
+to the Mayor's house.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0xFE
+
+My delivery? Oh, I delivered it ages[x01]
+ago! But his garden is so lovely,[x01]
+I can't help but admire it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0xFE
+
+I know I should get back to the shop,[x01]
+but I can't help but stay a while.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
