@@ -26,6 +26,9 @@ def main():
 
     BuildStringList(
         '@FileName',                            # 8
+        '',                                     # 9
+        '古罗尼山道方向',                       # 10
+        '柏斯方向',                             # 11
     )
 
     DeclEntryPoint(
