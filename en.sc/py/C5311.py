@@ -2312,9 +2312,8 @@ def main():
         (
             "#1300F#6PBye-bye, Estelle, Tita.\x02\x03",
 
-            "I need to go for a bit, but...\x02\x01",
-
-            "#1301FBut if you die, I'll never forgive you!\x02",
+            "#1301FI need to go for a bit, but...\x01",
+            "But if you die, I'll never forgive you!\x02",
         )
     )
 
@@ -2336,9 +2335,8 @@ def main():
         (
             "#1300F#6PBye-bye, Estelle.\x02\x03",
 
-            "I need to go for a bit, but...\x02\x01",
-
-            "#1301FBut if you die, I'll never forgive you!\x02",
+            "#1301FI need to go for a bit, but...\x01",
+            "But if you die, I'll never forgive you!\x02",
         )
     )
 

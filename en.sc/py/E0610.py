@@ -1114,7 +1114,7 @@ def main():
 
     ChrTalk(    #43 op#A op#5
         0x102,
-        "#1035F#6P#20AThere we go.\x05\x02",
+        "#1035F#6P#5AThere we go.\x05\x02",
     )
 
     Sleep(1000)

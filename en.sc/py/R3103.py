@@ -2361,7 +2361,7 @@ def main():
 
     ChrTalk(    #60 op#A
         0x106,
-        "#054F#5P#3S#15ATch!\x02",
+        "#054F#5P#3S#10ATch!\x02",
     )
 
     Sleep(500)
@@ -2398,7 +2398,7 @@ def main():
 
     ChrTalk(    #63 op#A
         0x103,
-        "#024F#6P#3S#15AAgh!\x02",
+        "#024F#6P#3S#10AAgh!\x02",
     )
 
     Sleep(500)

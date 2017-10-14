@@ -410,7 +410,7 @@ def main():
 
     ChrTalk(    #1 op#A op#5
         0x101,
-        "#372F#3S#10A#5PHeeey!\x05\x02",
+        "#372F#3S#12A#5PHeeey!\x05\x02",
     )
 
     OP_7C(0x0, 0xC8, 0xBB8, 0x64)
@@ -418,7 +418,7 @@ def main():
 
     ChrTalk(    #2 op#A op#5
         0x101,
-        "#372F#3S#10A#5PWaaait!!\x05\x02",
+        "#372F#3S#17A#5PWaaait!!\x05\x02",
     )
 
     OP_7C(0x0, 0xC8, 0xBB8, 0x64)

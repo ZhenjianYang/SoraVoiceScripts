@@ -1859,8 +1859,7 @@ def main():
         0xA,
         (
             "Actually, there are F Parts for that\x01",
-            "initial model.\x02\x01",
-
+            "initial model.\x01",
             "Would you believe that if I said it?\x02",
         )
     )

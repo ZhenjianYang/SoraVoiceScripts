@@ -5118,9 +5118,8 @@ def main():
     ChrTalk(    #338
         0x101,
         (
-            "#1004FYes, that's right, but...airship?\x02\x01",
-
-            "#1000FAre you from another country?\x02",
+            "#1004FYes, that's right, but...airship?\x01",
+            "Are you from another country?\x02",
         )
     )
 

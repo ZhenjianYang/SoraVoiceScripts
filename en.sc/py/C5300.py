@@ -1704,7 +1704,7 @@ def main():
 
     ChrTalk(    #50 op#A op#5
         0x8,
-        "#1158F#5P#3S#22AYou... YOU DAMNED DOG!\x05\x02",
+        "#1158F#5P#3S#60AYou... YOU DAMNED DOG!\x05\x02",
     )
 
     OP_7C(0x0, 0xC8, 0xBB8, 0x64)

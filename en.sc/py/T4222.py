@@ -1349,7 +1349,9 @@ def main():
     ChrTalk(    #70
         0x105,
         (
-            "#043FYes, it seems likely they were in some kind\x01",
+            "#043FYes, \x02",
+
+            "it seems likely they were in some kind\x01",
             "of trouble, even then.\x02",
         )
     )

@@ -630,7 +630,7 @@ def main():
 
     ChrTalk(    #0 op#A op#5
         0xA,
-        "#196F#5S#5P#9ARAAAAAAAAAAGH!\x05\x02",
+        "#196F#5S#5P#20ARAAAAAAAAAAGH!\x05\x02",
     )
 
     OP_7C(0x0, 0xC8, 0xBB8, 0x64)

@@ -3150,7 +3150,7 @@ def main():
 
     ChrTalk(    #157 op#A
         0x8,
-        "#2AI'll come too!\x02",
+        "#18AI'll come too!\x02",
     )
 
     CloseMessageWindow()
@@ -3199,7 +3199,7 @@ def main():
 
     ChrTalk(    #158 op#A
         0x102,
-        "#1046F#2AHurry, then!\x02",
+        "#1046F#7AHurry, then!\x02",
     )
 
     CloseMessageWindow()
@@ -3865,7 +3865,7 @@ def main():
 
     ChrTalk(    #199 op#A
         0x8,
-        "#2AI'll come too!\x02",
+        "#18AI'll come too!\x02",
     )
 
     CloseMessageWindow()
@@ -3903,7 +3903,7 @@ def main():
 
     ChrTalk(    #200 op#A
         0x101,
-        "#1005F#2AHurry up then, Mr. Landan!\x02",
+        "#1005F#9AHurry up then, Mr. Landan!\x02",
     )
 
     CloseMessageWindow()
@@ -3963,7 +3963,7 @@ def main():
 
     ChrTalk(    #202 op#A op#5
         0x101,
-        "#1004F#2A#5PWaah-aaah-aaah!\x05\x02",
+        "#1004F#4A#5PWaah-aaah-aaah!\x05\x02",
     )
 
     CloseMessageWindow()
@@ -3975,7 +3975,7 @@ def main():
 
     ChrTalk(    #203 op#A op#5
         0x101,
-        "#1004F#2A#5PWah-wah-wah-wah-wah...\x05\x02",
+        "#1004F#12A#5PWah-wah-wah-wah-wah...\x05\x02",
     )
 
     CloseMessageWindow()

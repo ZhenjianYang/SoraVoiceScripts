@@ -1843,17 +1843,17 @@ def main():
 
     ChrTalk(    #56 op#A op#5
         0xE,
-        "#6A#3PWhaaaa...?!\x05\x02",
+        "#4A#3PWhaaaa...?!\x05\x02",
     )
 
-    Sleep(300)
+    Sleep(400)
 
     ChrTalk(    #57 op#A op#5
         0xF,
-        "#6A#2PStop them!\x05\x02",
+        "#15A#2PStop them!\x05\x02",
     )
 
-    Sleep(300)
+    Sleep(1500)
     WaitChrThread(0x9, 0x1)
 
     def lambda_2470():

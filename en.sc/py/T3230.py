@@ -1378,9 +1378,8 @@ def main():
     ChrTalk(    #51
         0x107,
         (
-            "#062F#6PAll right...\x02\x01",
-
-            "#061FYep, it's finished.\x02",
+            "#062F#6PAll right...\x01",
+            "Yep, it's finished.\x02",
         )
     )
 

@@ -1848,12 +1848,12 @@ def main():
             "We've managed to give them the\x01",
             "slip.\x02\x03",
 
-            "#1181F#6P#30ANow, if we can just capture\x01",
+            "#1181F#6P#38ANow, if we can just capture\x01",
             "Grancel Castle and the queen--\x05\x02",
         )
     )
 
-    Sleep(7000)
+    Sleep(7700)
     PlayEffect(0x3, 0xFF, 0xFF, -11910, 0, -720, 0, 0, 0, 1000, 1000, 1000, 0xFF, 0, 0, 0, 0)
     OP_7C(0x3E4CCCCD, 0xC8, 0x7D0, 0x64)
     Sleep(300)

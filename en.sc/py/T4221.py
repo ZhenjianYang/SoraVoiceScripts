@@ -370,9 +370,9 @@ def main():
 
     QueueWorkItem(0x101, 0, lambda_5A6)
 
-    ChrTalk(    #11 op#5
+    ChrTalk(    #11 op#A op#5
         0x101,
-        "#504F*yaaaaaaaaaawn*\x05\x02",
+        "#504F#25A*yaaaaaaaaaawn*\x05\x02",
     )
 
     OP_9E(0x101, 0xF, 0x0, 0x7D0, 0xFA0)

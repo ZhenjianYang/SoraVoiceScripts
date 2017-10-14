@@ -360,7 +360,7 @@ def main():
     ChrTalk(    #8
         0x107,
         (
-            "#065F#6PTh-The scenery's all different all\x01",
+            "#065F#6PTh-The scenery is all different all\x01",
             "of a sudden!\x02",
         )
     )

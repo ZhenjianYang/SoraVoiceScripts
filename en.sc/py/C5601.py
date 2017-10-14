@@ -939,7 +939,7 @@ def main():
 
     ChrTalk(    #11 op#A op#5
         0x101,
-        "#1004F#6P#20AHey!\x05\x02",
+        "#1004F#6P#5AHey!\x05\x02",
     )
 
     OP_56(0x0)
@@ -948,7 +948,7 @@ def main():
 
     ChrTalk(    #12 op#A op#5
         0x109,
-        "#1063F#5P#30ALooks like we made it through.\x05\x02",
+        "#1063F#5P#14ALooks like we made it through.\x05\x02",
     )
 
     OP_56(0x0)

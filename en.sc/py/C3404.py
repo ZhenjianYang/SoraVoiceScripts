@@ -1709,7 +1709,9 @@ def main():
 
             "'He tells me the Divine Blade isn't the only\x01",
             "one in Liberl who might give me a run for\x01",
-            "my money, and THIS is what I get?\x02",
+            "my money, \x02",
+
+            "and THIS is what I get?\x02",
         )
     )
 

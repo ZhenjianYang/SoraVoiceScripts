@@ -2788,9 +2788,8 @@ def main():
     ChrTalk(    #88
         0x102,
         (
-            "#1048FAnd, um, on another note...\x02\x01",
-
-            "#1052F... Please forgive me.\x02",
+            "#1052FAnd, um, on another note...\x01",
+            "...Please forgive me.\x02",
         )
     )
 

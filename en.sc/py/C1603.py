@@ -3137,7 +3137,8 @@ def main():
         (
             "#053F#5PHmph. We don't need your thanks.\x02\x03",
 
-            "#057FWe didn't come here to set you free.\x01",
+            "#057FWe didn't come here to set you free.\x02\x01",
+
             "We came here to stop you from destroying\x01",
             "everything.\x02",
         )

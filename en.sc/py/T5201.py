@@ -1041,9 +1041,8 @@ def main():
 
             "I'm...well, for a little while I was sort of\x01",
             "trying to be his replacement sister without\x01",
-            "knowing it...but I couldn't really replace you.\x02\x01",
-
-            "#1013FI guess now I'm, um, his girlfriend.\x02",
+            "knowing it...but I couldn't really replace you.\x01",
+            "I guess now I'm, um, his girlfriend.\x02",
         )
     )
 

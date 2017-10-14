@@ -8485,7 +8485,9 @@ def main():
     ChrTalk(    #453
         0x103,
         (
-            "#020F#6PThat's true, but from the sounds of it,\x01",
+            "#020F#6PThat's true, \x02",
+
+            "but from the sounds of it,\x01",
             "there isn't anything odd happening in\x01",
             "Bose.\x02\x03",
 

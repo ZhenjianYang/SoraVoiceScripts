@@ -3527,9 +3527,9 @@ def main():
     OP_62(0x107, 0x0, 1700, 0x28, 0x2B, 0x64, 0x0)
     Sleep(500)
 
-    ChrTalk(    #52 op#5
+    ChrTalk(    #52 op#A op#5
         0x107,
-        "#065F#6PPlease...\x05\x02",
+        "#065F#6P#17APlease...\x05\x02",
     )
 
     ClearChrFlags(0x107, 0x2)
@@ -3859,29 +3859,29 @@ def main():
 
     AnonymousTalk(    #68 op#A op#5
         (
-            "\x07\x00#163F#30AMain guns and portside guns!\x01",
+            "\x07\x00#163F#49AMain guns and portside guns!\x01",
             "Aim for the dragon!\x05\x02",
         )
     )
 
-    Sleep(2000)
+    Sleep(5200)
     SetChrName("General Morgan")
 
     AnonymousTalk(    #69 op#A op#5
         (
-            "\x07\x00#160F#30AAll hands! Prepare to take the field\x01",
+            "\x07\x00#160F#33AAll hands! Prepare to take the field\x01",
             "immediately upon landing!\x05\x02",
         )
     )
 
-    Sleep(2500)
+    Sleep(3800)
     OP_56(0x0)
     Sleep(500)
     SetMessageWindowPos(300, 250, -1, -1)
     SetChrName("Soldiers")
 
     AnonymousTalk(    #70 op#A op#5
-        "\x07\x00#5S#30AYes, sir!\x05\x02",
+        "\x07\x00#5S#10AYes, sir!\x05\x02",
     )
 
     OP_7C(0x0, 0x1F4, 0xBB8, 0x64)
@@ -5281,7 +5281,7 @@ def main():
     ChrTalk(    #85
         0x101,
         (
-            "#1005F#6PWhat're you doing?!\x02\x03",
+            "#1005F#6PWhat are you doing?!\x02\x03",
 
             "Does this have something to do with your\x01",
             "stupid bracer grudge?!\x02",

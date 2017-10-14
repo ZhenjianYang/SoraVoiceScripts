@@ -1318,7 +1318,9 @@ def main():
     ChrTalk(    #35
         0x103,
         (
-            "#023F#4PWell, we can, but didn't you want to go home\x01",
+            "#023F#4PWell, we can, \x02",
+
+            "but didn't you want to go home\x01",
             "for a little while?\x02",
         )
     )

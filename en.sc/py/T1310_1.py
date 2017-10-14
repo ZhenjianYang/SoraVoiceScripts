@@ -1015,7 +1015,7 @@ def main():
 
     ChrTalk(    #81 op#A op#5
         0xC,
-        "#10AS-Someoooooone!\x05\x02",
+        "#18AS-Someoooooone!\x05\x02",
     )
 
     CloseMessageWindow()
@@ -1023,7 +1023,7 @@ def main():
     ChrTalk(    #82 op#A op#5
         0xC,
         (
-            "#10AHelp, help!\x01",
+            "#22AHelp, help!\x01",
             "I'm being kidnapped!\x05\x02",
         )
     )
@@ -1032,7 +1032,7 @@ def main():
 
     ChrTalk(    #83 op#A op#5
         0x106,
-        "#054F#10AStop that! Please just be quiet and walk!\x05\x02",
+        "#054F#23AStop that! Please just be quiet and walk!\x05\x02",
     )
 
     CloseMessageWindow()

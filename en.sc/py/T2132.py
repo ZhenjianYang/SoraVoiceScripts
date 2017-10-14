@@ -2766,11 +2766,7 @@ def main():
 
     ChrTalk(    #154
         0x101,
-        (
-            "#1001F#6PHello! \x02",
-
-            "#1004FEr...\x02",
-        )
+        "#1001F#6PHello! Er...\x02",
     )
 
     CloseMessageWindow()

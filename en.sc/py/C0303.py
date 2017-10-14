@@ -2618,9 +2618,9 @@ def main():
             "#026F#2PIllusion magic using a bell--\x01",
             "your specialty, Luci.\x02\x03",
 
-            "#022FI hope you won't try to tell me\x01",
-            "the fog all over Rolent is an illusion,\x01",
-            "however.\x02",
+            "#022FHowever, I hope you won't try to\x01",
+            "tell me the fog all over Rolent is an\x01",
+            "illusion.\x02",
         )
     )
 
@@ -2739,7 +2739,7 @@ def main():
     ChrTalk(    #99
         0x101,
         (
-            "#1002F#2PHey...'Enforcer.'\x02\x03",
+            "#1002F#2PHey...'Enforcer'.\x02\x03",
 
             "Why is the society doing all this?\x02\x03",
 
@@ -2770,7 +2770,7 @@ def main():
     ChrTalk(    #101
         0x101,
         (
-            "#1002F#2PThe 'professor,' 'Loewe'...\x02\x03",
+            "#1002F#2PThe 'professor', 'Loewe'...\x02\x03",
 
             "I've heard these names again and again.\x01",
             "But who ARE they?\x02",

@@ -902,10 +902,11 @@ def main():
     ChrTalk(    #70 op#A
         0xD,
         (
-            "#6ASure, I don't mi...\x01",
+            "#22ASure, I don't mi...\x01",
             "WHOA! THIS IS IT!\x02",
         )
     )
+    Sleep(2300)
 
     Call(1, 5)
     OP_62(0x101, 0x0, 2000, 0x2, 0x7, 0x50, 0x1)
@@ -1504,8 +1505,9 @@ def main():
 
     ChrTalk(    #121 op#A
         0xD,
-        "#6ASure, I don't mi...\x02",
+        "#22ASure, I don't mi...\x02",
     )
+    Sleep(2000)
 
     Call(1, 5)
 

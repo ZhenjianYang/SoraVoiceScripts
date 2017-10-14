@@ -411,9 +411,8 @@ def main():
     ChrTalk(    #6
         0x101,
         (
-            "#1004F#4PThat reminds me.\x02\x01",
-
-            "#1015FMatron Theresa, about Kloe...\x02",
+            "#1004F#4PThat reminds me.\x01",
+            "Matron Theresa, about Kloe...\x02",
         )
     )
 

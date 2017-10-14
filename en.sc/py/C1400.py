@@ -1309,7 +1309,9 @@ def main():
     ChrTalk(    #36
         0x101,
         (
-            "#1006F#4POkay, then. First we need to visit that little\x01",
+            "#1006F#4POkay, then. \x02",
+
+            "First we need to visit that little\x01",
             "hut on the eastern side of the valley, right?\x02",
         )
     )

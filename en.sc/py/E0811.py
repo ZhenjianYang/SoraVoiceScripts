@@ -3854,7 +3854,7 @@ def main():
     SetChrName("Tita")
 
     AnonymousTalk(    #51 op#A op#5
-        "\x07\x00#068F#4S#25AEsteeeeelle...!!\x05\x02",
+        "\x07\x00#068F#4S#18AEsteeeeelle...!!\x05\x02",
     )
 
     CloseMessageWindow()
@@ -3868,7 +3868,7 @@ def main():
     SetChrName("Kloe")
 
     AnonymousTalk(    #52 op#A op#5
-        "\x07\x00#046F#4S#25AEstelle!\x05\x02",
+        "\x07\x00#046F#4S#12AEstelle!\x05\x02",
     )
 
     CloseMessageWindow()
@@ -3882,7 +3882,7 @@ def main():
     SetChrName("Scherazade")
 
     AnonymousTalk(    #53 op#A op#5
-        "\x07\x00#024F#4S#25AESTELLE!\x05\x02",
+        "\x07\x00#024F#4S#18AESTELLE!\x05\x02",
     )
 
     CloseMessageWindow()
@@ -3896,7 +3896,7 @@ def main():
     SetChrName("Agate")
 
     AnonymousTalk(    #54 op#A op#5
-        "\x07\x00#054F#4S#25AESTELLE!!\x05\x02",
+        "\x07\x00#054F#4S#13AESTELLE!!\x05\x02",
     )
 
     CloseMessageWindow()
@@ -3910,7 +3910,7 @@ def main():
     SetChrName("Olivier")
 
     AnonymousTalk(    #55 op#A op#5
-        "\x07\x00#530F#4S#25AEstelle!\x05\x02",
+        "\x07\x00#530F#4S#10AEstelle!\x05\x02",
     )
 
     CloseMessageWindow()
@@ -3924,7 +3924,7 @@ def main():
     SetChrName("Zin")
 
     AnonymousTalk(    #56 op#A op#5
-        "\x07\x00#076F#4S#25AEstelle!\x05\x02",
+        "\x07\x00#076F#4S#10AEstelle!\x05\x02",
     )
 
     CloseMessageWindow()

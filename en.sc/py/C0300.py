@@ -469,7 +469,7 @@ def main():
     ChrTalk(    #3
         0x101,
         (
-            "#1002F#5PThis area's completely engulfed in fog,\x01",
+            "#1002F#5PThis area is completely engulfed in fog,\x01",
             "too...\x02",
         )
     )

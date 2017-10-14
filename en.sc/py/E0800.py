@@ -2757,7 +2757,7 @@ def main():
         "\x07\x00#216F#3SOhhhh craaaaaaaaap!\x05\x02",
     )
 
-    Sleep(1000)
+    Sleep(2500)
     OP_56(0x0)
     OP_59()
     SetMessageWindowPos(120, 260, -1, -1)

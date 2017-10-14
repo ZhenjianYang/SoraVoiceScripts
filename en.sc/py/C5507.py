@@ -1028,7 +1028,7 @@ def main():
 
     ChrTalk(    #35 op#A op#5
         0x10A,
-        "#815F#4P#12AEstelle! Hold your breath!\x05\x02",
+        "#815F#4P#16AEstelle! Hold your breath!\x05\x02",
     )
 
     Sleep(1700)

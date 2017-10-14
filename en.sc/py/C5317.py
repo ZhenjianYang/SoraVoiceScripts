@@ -8046,7 +8046,7 @@ def main():
 
     ChrTalk(    #349 op#A
         0x9,
-        "#1430F#5P#15AHah. Too late...\x02",
+        "#1430F#5P#30AHah. Too late...\x02",
     )
 
     Sleep(2000)

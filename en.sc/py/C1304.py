@@ -599,16 +599,16 @@ def main():
     PlayEffect(0x0, 0xFF, 0x11, 0, 500, 0, 0, 0, 0, 1000, 1000, 1000, 0x12, 0, 0, 0, 0)
     Sleep(1000)
 
-    ChrTalk(    #8 op#5
+    ChrTalk(    #8 op#A
         0xE,
-        "Hmm?\x05\x02",
+        "#3AHmm?\x02",
     )
 
-    Sleep(100)
+    Sleep(300)
 
-    ChrTalk(    #9 op#5
+    ChrTalk(    #9 op#A
         0xC,
-        "What the--?!\x05\x02",
+        "#5AWhat the--?!\x02",
     )
 
     Sleep(200)
@@ -619,16 +619,16 @@ def main():
     OP_43(0xB, 0x1, 0x0, 0xB)
     Sleep(100)
 
-    ChrTalk(    #10 op#5
+    ChrTalk(    #10 op#A
         0xE,
-        "#1PAgh!\x05\x02",
+        "#1P#6AAgh!\x02",
     )
 
-    Sleep(100)
+    Sleep(600)
 
-    ChrTalk(    #11 op#5
+    ChrTalk(    #11 op#A
         0xB,
-        "Wh... Whaaat...?\x05\x02",
+        "#12AWh... Whaaat...?\x02",
     )
 
     FadeToDark(2000, 16777215, -1)
