@@ -1,0 +1,175 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xE
+
+#691F#5PSo the Arseille's arrived, eh?[x02][x03]
+
+
+#693FAhhh, damn. Every time I see this[x01]
+ship, my heart skips a beat![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xF
+
+#2PI hear ya, boss... Who needs a guy,[x01]
+OR a girl, when you can fall in love[x01]
+with something like that?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xF
+
+#2PDon't think there's an engineer alive who'd[x01]
+deserve to work on her every day, though.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0xE
+
+#691F#5PHeh, that's my line.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #4
+0xD
+Man's Voice
+
+#1PMaintenance Chief Gustav, thank you[x01]
+for coming. I know you've been busy.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0xE
+
+#691F#5PHey, Cid. Wasn't expecting you to come meet us.[x02][x03]
+
+
+I thought you'd moved up in the world and[x01]
+left behind your job as garrison commander[x01]
+here?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0xD
+
+#701F#4PHaha. Well, I have.[x02][x03]
+
+I'm intending to leave aboard a patrol[x01]
+ship with my men later on.[x02][x03]
+
+Until then, however, I'm free, so I thought[x01]
+I may as well come and greet you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0xE
+
+#693F#5PHah! Well, good luck with[x01]
+the patrol, at least.[x02][x03]
+
+#692FOh, yeah, wasn't there an earthquake[x01]
+around here a bit ago?[x02][x03]
+
+You didn't let anything happen[x01]
+to the Arseille, did you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0xD
+
+#703F#4PNo, the Arseille was in the[x01]
+air during the earthquake.[x02][x03]
+
+The earthquake caused little damage[x01]
+in general, in fact. We were prepared[x01]
+in advance for it.[x02][x03]
+
+#701FOur facilities should still be[x01]
+perfect for your needs.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0xE
+
+#691F#5PGood to hear![x02][x03]
+
+Anyhow, we'd love to get down[x01]
+to work, but I'm wondering...[x02][x03]
+
+Where are all the Royal Guard folks?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0xD
+
+#701F#4PAh. Here, let me show you.[x02][x03]
+
+We should be just in time[x01]
+for a bit of a show.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0xE
+
+#692F#5PHuh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x8
+
+#1125F#6PTo think HE would actually fall into[x01]
+their hands.[x02][x03]
+
+#1122FPerhaps I need to settle this myself...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x8
+
+#1128F#6P...No.[x02][x03]
+
+If I act, it will simply be the same thing[x01]
+all over again.[x02][x03]
+
+#1120FHah... He and I are in the same position,[x01]
+I suppose.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x8
+
+#1125F#6PGreat Aidios, who art in the sky.[x02][x03]
+
+#1122FPlease...guide us who stand upon this[x01]
+chaotic earth.[x02]

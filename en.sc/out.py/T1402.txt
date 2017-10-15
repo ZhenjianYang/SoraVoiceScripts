@@ -1,0 +1,1438 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xF
+
+#162F#5PExplain yourself, General Vander![x02][x03]
+
+
+Why is a division of the Imperial[x01]
+Army on our literal doorstep?![x02][x03]
+
+Does the Empire truly forget[x01]
+the pacts it signs so quickly?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xE
+
+#882F#6PGeneral Morgan.[x01]
+I'm the one who would like an explanation.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xF
+
+#161F#5PWhat are you--[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0xE
+
+#884F#6PFor the past 24 hours or more, orbments all[x01]
+across the southern marches of His Majesty's[x01]
+domain have ceased function.[x02][x03]
+
+And, at the exact same time, it seems[x01]
+a massive, heretofore unknown structure[x01]
+appeared above your Valleria Lake.[x02][x03]
+
+#880FNow I ask you, Morgan:[x01]
+what is going on?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0xF
+
+#166F#5PIt is...just as you say.[x02][x03]
+
+
+We are as confused as anyone[x01]
+else about the situation.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0xE
+
+#884F#6PSo it would seem.[x02][x03]
+
+#882FBut your 'situation' is, as I said,[x01]
+affecting a large swathe of Imperial[x01]
+territory.[x02][x03]
+
+Given that...you know full well why[x01]
+I'm here, General.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0xF
+
+#160F#5PHrmph. Here to try and raise the Stallion[x01]
+above us while we're weak, then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0xE
+
+#884F#6PWe intend nothing of the sort.[x02][x03]
+
+
+#881FWe are given to understanding that a criminal[x01]
+organization of some sort has been taking[x01]
+advantage of this situation.[x02][x03]
+
+All we wish is to see if we can be[x01]
+of aid to the allies whom we have[x01]
+signed a non-aggression pact with.[x02][x03]
+
+Those are the orders I received from[x01]
+the Imperial government.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0xF
+
+#162F#5PNonsense![x01]
+What are those tanks doing here, then?![x02][x03]
+
+I've never heard of a tank that runs[x01]
+on steam and combustion until now![x02][x03]
+
+How is it that you suddenly have these[x01]
+tanks which CONVENIENTLY require no[x01]
+orbal power?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0xE
+
+#884F#6PThat...is a military secret.[x02][x03]
+
+#881FI would think you would welcome us, though,[x01]
+Morgan. These vehicles are perfectly[x01]
+suited for helping to keep the peace.[x02][x03]
+
+In Liberl, that is, while this...crisis runs[x01]
+its course. You understand my meaning, yes?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0xF
+
+#166F#5PGh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #11
+0xC
+Girl's Voice
+
+#5PWe deeply appreciate your thoughtfulness.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0xF
+
+#161F#5PWhat...?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0xF
+
+#161F#2PImpossible![x02][x03]
+
+(Y-Your Highness! What are you--)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #14
+
+
+(Morgan, well done.)[x02][x03]
+
+(Please, leave the rest of this to me.)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #15
+
+
+#161F(But, Your Highness...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0xF
+
+#162F#5P(And what are THEY doing here?!)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x101
+
+#1006F#4P(WE are the royal bodyguards![x01]
+Sorta. Temporarily.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x102
+
+#1040F#4P(Should the worst happen, we'll[x01]
+protect Kloe... Klaudia. We swear.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0xF
+
+#160F#5P(Mmmph...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0xC
+
+#1167F#1P(I may be inexperienced as a negotiator...)[x02][x03]
+
+
+#1162F(This is, however, the proper[x01]
+time for me to step forward and[x01]
+assume my duties as heir.)[x02][x03]
+
+(Morgan...please.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0xF
+
+#163F#5P(...As you wish, Your Highness.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0xF
+
+#166F#2P(Just...keep in mind who you are going out[x01]
+there to parley with, my princess.)[x02][x03]
+
+(If anything happens, be ready[x01]
+to run for the gate.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0xC
+
+#1168F#1P(I understand.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0xE
+
+#880FIt seems I will be trading words[x01]
+with someone else now, hmm?[x02][x03]
+
+I'm afraid I don't recognize you,[x01]
+though your bearing is quite noble.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0xC
+
+#1167F#4PThis is the first time we have met, sir.[x02][x03]
+
+#1162FI am Klaudia von Auslese, princess of Liberl,[x01]
+granddaughter to the queen...[x02][x03]
+
+...and newly-invested heir to the throne.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0xE
+
+#883F#3S(Gah!)#2S[x02][x03]
+
+F-Forgive my impertinence, Your Highness![x02][x03]
+
+#882FI am Zechs Vander, Your Highness.[x02][x03]
+
+
+Lieutenant general of the 3rd division[x01]
+of the Imperial Army.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0xC
+
+#1160F#4PYes, word of your accomplishments[x01]
+in battle has reached even us, General[x01]
+Vander.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x101
+
+#1015F#5P(Hey, is that guy famous?)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x102
+
+#1042F#2P(Yes, that's 'One-Eyed Zechs.' He's one of[x01]
+the best field commanders Erebonia has.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0xE
+
+#883F#6PIf I may be so bold, Your Highness,[x01]
+I have actually seen pictures of you before.[x02][x03]
+
+Have you cut your hair recently?[x01]
+Now that I look, your face is familiar, but...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0xC
+
+#1165F#5PHaha, ah, this is a bit embarrassing...[x01]
+I, ah, cut it for the investiture ceremony.[x02][x03]
+
+#1382FConsider it a little girl's way of[x01]
+showing her resolve to take up[x01]
+a burden too heavy for her.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0xE
+
+#884F#6PHardly, Princess Klaudia.[x01]
+It looks very good on you--if I may be forward.[x02][x03]
+
+#881FAllow this servant of the Empire to congratulate[x01]
+you on becoming the heir to the throne.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0xC
+
+#1168F#5PThank you, General.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0xE
+
+#882F#5PWell, then...what brings the[x01]
+princess of Liberl here?[x02][x03]
+
+Are you here to raise protest against[x01]
+us like my good colleague Morgan?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0xC
+
+#1167F#6PNo, that is not my intent.[x02][x03]
+
+
+I am sure that our neighbors in Erebonia[x01]
+must be terrified at the moment.[x02][x03]
+
+
+#1169FThe darkness at night, the cold, the[x01]
+complete shutdown of communications...[x02][x03]
+
+Believe me, I know how any one of[x01]
+these could inspire terror in people.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0xE
+
+#880F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0xC
+
+#1162F#6PWhat I ask is for you to consider your actions.[x02][x03]
+
+Consider what would happen if your[x01]
+forces were to enter our country.[x02][x03]
+
+#1167FYou say that large portions of the Empire[x01]
+are disordered at the moment. I assure[x01]
+you, in every part of Liberl, it is worse.[x02][x03]
+
+And while we no longer bear Erebonia ill will,[x01]
+many of our citizens are agitated and afraid.[x02][x03]
+
+#1163FI could not bear it if the good intentions[x01]
+of our allies were misunderstood.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0xE
+
+#883F#5PEr, but...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0xC
+
+#1160F#6PAs you can see, we are investigating these[x01]
+strange events as quickly as we are able.[x02][x03]
+
+
+Furthermore, we have managed to suppress[x01]
+most of the activities of the aforementioned[x01]
+criminal group on our own.[x02][x03]
+
+#1167FAnd so I ask, for the sake of continued[x01]
+friendship between Erebonia and Liberl,[x01]
+a relationship we value highly.[x02][x03]
+
+#1162FGive us a little more time, General.[x01]
+We will make this right.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0xE
+
+#884F#5PMmm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #41
+0xD
+Young Man's Voice
+
+#5PPretty words. But they are, alas, sound[x01]
+and fury. Signifying nothing.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0xE
+
+#883F#5PYour Highness...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #43
+
+
+I shall take the reins.[x02][x03]
+
+You are relieved, General.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #44
+
+
+#884FAs you wish, Your Highness.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x101
+
+#1020F#6PWha...? Wha...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x8
+
+#023F#4PHe can't be...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x9
+
+#055F#4PYou have got to be SHITTING me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #48
+0xD
+Young Man in Uniform
+
+#894F#6PI believe this is our first formal[x01]
+acquaintance, Princess Klaudia.[x02][x03]
+
+#895FI am Olivert Reise Arnor, a son of[x01]
+His Majesty, Emperor Eugent III.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #49
+0x101
+
+#1020F#1PWHA...?!?!...[x02][x03]
+
+#1005F(One of the sons of...[x01]
+He's an IMPERIAL PRINCE?!)[x02][x03]
+
+(Schera, did you know about this?!)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #50
+0x8
+
+#023F#1P(You're KIDDING, right?!)[x02][x03]
+
+#025F(I thought he was just some sort of[x01]
+agent for Imperial Intelligence!)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #51
+0xC
+
+#1164F#5POlivert Reise Arnor...? I recognize[x01]
+the name, but I don't know the man...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0xD
+
+#891F#6PHahaha. Even though I am a 'prince,'[x01]
+I am little more than a royal bastard.[x02][x03]
+
+I rarely attend to public matters of state,[x01]
+so I am unsurprised you do not know my face.[x02][x03]
+
+#895FIt does still sting a little, though, I fear.[x02][x03]
+
+
+For the lovely girl who was once to be[x01]
+my bride to not even know my face.[x01]
+An arrow, my heart.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x101
+
+#1020F#5PWha...?[x02][x03]
+
+#1019F(There are no other words.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x102
+
+#1043F#2P(I see. That's what Colonel Richard[x01]
+had in mind a while back.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0xC
+
+#1163F#5PI am sorry, I was unaware.[x02][x03]
+
+#1167FAllow me to apologize for[x01]
+the slight against you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #56
+0xD
+
+#894F#6PWell, I do understand it was conducted[x01]
+without the queen's consent.[x02][x03]
+
+That sort of slight we can overlook...[x02][x03]
+
+#896FBut this?[x01]
+No, Erebonia cannot overlook this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #57
+0xC
+
+#1163F#5P...Oh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0xD
+
+#896F#6PMy enchanting princess.[x02][x03]
+
+Are you aware, I wonder, of a little rumor[x01]
+making its rounds across our great Empire?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0xC
+
+#1169F#5PI don't believe I am...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0xD
+
+#899F#6PAllow me to tell you, then.[x02][x03]
+
+#897FRumor has it that immense structure[x01]
+in the distance is Liberl's new weapon.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0xC
+
+#1164F#5P#3SWhat?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0xD
+
+#899F#6P'Liberl has developed a groundbreaking[x01]
+new weapon that allows them to stop orbal[x01]
+energy.'[x02][x03]
+
+'They intend to use it to make us pay for[x01]
+the war ten years ago.''[x02][x03]
+
+#897FIt is a rumor which finds fertile ground in[x01]
+the ears of our citizens. And leadership.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0xC
+
+#1163F#5PIt... It can't be...[x02][x03]
+
+#1166FThat's absolutely untrue![x01]
+We would NEVER--[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0xD
+
+#896F#6PThen you can prove it, yes?[x01]
+Prove that it is a misunderstanding?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0xC
+
+#1169F#5PErm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #66
+0xD
+
+#899F#6PIf you cannot, then we must act upon[x01]
+the evidence of our senses.[x02][x03]
+
+
+Indeed, if the rumors are true, this is a[x01]
+monstrous betrayal of all civilization.[x01]
+Using the pact to hide your intentions...[x02][x03]
+
+#896FHeh heh... What choice would we have, then,[x01]
+but to be defenders of the free world?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #67
+0x101
+
+#1005F#4P#4SOkay. What in the HELL is[x01]
+this, Olivier?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0x102
+
+#1044F#6PEstelle![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0xA
+
+#065F#6PE-Estelle...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x101
+
+#1005F#4PI can't just stand here, listening to[x01]
+you blather on as you please![x02][x03]
+
+Olivier, you know DAMN WELL[x01]
+just what's going on here![x02][x03]
+
+Why are you being such a jerk?![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0xC
+
+#1163F#6PEstelle, wait...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0xD
+
+#897F#2PHave we...met?[x02][x03]
+
+You seem to know me, even if you[x01]
+did not get the name quite right.[x01]
+Did we meet at a party once?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x101
+
+#1004F#4PHuh?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0xD
+
+#890F#2PMmm. No, you lack the refinement of nobility.[x02][x03]
+
+
+Yes, no matter how I look at you, you[x01]
+must be nothing more than a commoner.[x02][x03]
+
+#891FSo, who are you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #75
+0x101
+
+#1019F#4P...Okay. Fine then.[x01]
+You wanna play dumb no matter what?[x02][x03]
+
+You aren't the only one who[x01]
+can bust out a surprise.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #76
+0xD
+
+#895F#2POh...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #77
+0x101
+
+#1005F#4PMY NAME is Estelle Bright![x01]
+I am a bona fide A-rank bracer of the[x01]
+Bracer Guild of Liberl![x02][x03]
+
+In accordance with the laws of the guild...[x02][x03]
+
+
+I am involving myself in this dispute[x01]
+as a neutral arbitrator![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #78
+0xC
+
+#1164F#6PEstelle...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #79
+0xD
+
+#898F#2POh! An A-rank bracer...[x02][x03]
+
+#891F(...Haha, ah![x01]
+Not a whit less than I expected.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #80
+0x101
+
+#1004F#4PHuh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #81
+0xD
+
+#899F#2PAh, pardon me.[x02][x03]
+
+#897FFrom what I understand, A-rank bracers are[x01]
+among the most capable bracers alive.[x02][x03]
+
+
+You will forgive me, but I find it a little[x01]
+difficult to believe that a young girl such[x01]
+as yourself could hold that rank.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #82
+0x101
+
+#1006F#4PThen you're welcome to inquire with the guild[x01]
+headquarters in Leman to confirm it.[x02][x03]
+
+I think you'd have to halt negotiations while you[x01]
+check, though, right? And with no working phones[x01]
+for how many selge? What a pain that'll be![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #83
+0xD
+
+#895F#2PHeh... Very well.[x02][x03]
+
+#896FSo what do you intend to do about our[x01]
+little situation, 'neutral arbitrator'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #84
+0x101
+
+#1005F#4PMY NAME is Estelle Bright![x01]
+I am a B-rank bracer of the[x01]
+Bracer Guild of Liberl![x02][x03]
+
+In accordance with the laws of the guild...[x02][x03]
+
+
+I am involving myself in this dispute[x01]
+as a neutral arbitrator![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #85
+0xC
+
+#1164F#6PEstelle...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #86
+0xD
+
+#898F#2PAh, I see, you're a bracer.[x02][x03]
+
+#895FMmm, B-rank... That would make you[x01]
+a veteran bracer who could be trusted[x01]
+with an arbitration of this scope, but...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #87
+0x101
+
+#1002F#4PTrying to say you can't trust[x01]
+a bracer's word, 'Prince Olivert'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #88
+0xD
+
+#894F#2PNot at all, forgive me.[x02][x03]
+
+#896FSo what do you intend to do about our[x01]
+little situation, 'neutral arbitrator'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #89
+0x101
+
+#1005F#4PMY NAME is Estelle Bright![x01]
+I am a C-rank bracer of the[x01]
+Bracer Guild of Liberl![x02][x03]
+
+In accordance with the laws of the guild...[x02][x03]
+
+
+I am involving myself in this dispute[x01]
+as a neutral arbitrator![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #90
+0xC
+
+#1164F#6PEstelle...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #91
+0xD
+
+#895F#2PAh, I see, you're a bracer.[x02][x03]
+
+#894FC-rank means you are a bracer[x01]
+of some standing. Very well.[x02][x03]
+
+#896FSo what do you intend to do about our[x01]
+little situation, 'neutral arbitrator'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #92
+0x101
+
+#1005F#4PMY NAME is Estelle Bright![x01]
+I am a bona fide D-rank bracer of the[x01]
+Bracer Guild of Liberl![x02][x03]
+
+In accordance with the laws of the guild...[x02][x03]
+
+
+I am involving myself in this dispute[x01]
+as a neutral arbitrator![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #93
+0xC
+
+#1164F#6PAh, Estelle...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #94
+0xD
+
+#895F#2PAh, I see, you're a bracer.[x02][x03]
+
+#894FHmm... Unless I am mistaken, the guild[x01]
+possesses seven ranks, G to A, does it not?[x02][x03]
+
+#896FHow much trust can a mid-rank Liberlian[x01]
+bracer really be given here, I wonder?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #95
+0x101
+
+#1026F#4PEr, well...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #96
+0xD
+
+#890F#2PNonetheless, I will permit you[x01]
+to speak.[x02][x03]
+
+So what do you intend to do about our[x01]
+little situation, 'neutral arbitrator'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #97
+0x101
+
+#1005F#4PMY NAME is Estelle Bright![x01]
+I am an E-rank bracer of the[x01]
+Bracer Guild of Liberl![x02][x03]
+
+In accordance with the laws of the guild...[x02][x03]
+
+
+I am involving myself in this dispute[x01]
+as a neutral arbitrator![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #98
+0xC
+
+#1164F#6PErm, Estelle...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #99
+0xD
+
+#898F#2PAh, I see, you're a bracer.[x02][x03]
+
+#895FHmm... Unless I am mistaken, the guild[x01]
+possesses seven ranks, G to A, does it not?[x02][x03]
+
+How does someone who cannot even[x01]
+claim middle rank in the guild intend to[x01]
+'arbitrate' this situation?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #100
+0x101
+
+#1019F#4PEr. Well. I'll arbitrate. Stuff.[x01]
+You know.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #101
+0xD
+
+#891F#2PI suppose I can respect courage, if[x01]
+nothing else. You may speak.[x02][x03]
+
+#895FSo what do you intend to do about our[x01]
+little situation, 'neutral arbitrator'?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #102
+0x101
+
+#1005F#4PFrom the evidence, I judge that Erebonia's[x01]
+claim is false; the floating city is NOT[x01]
+a Liberlian weapon![x02][x03]
+
+I swear it on the honor of the[x01]
+Bracer Guild's supporting gauntlet![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #103
+0xD
+
+#895F#2POh! On the honor of the guild's emblem itself.[x01]
+A bold statement.[x02][x03]
+
+#899FCertainly, a statement from the Bracer Guild[x01]
+holds enough weight that it cannot be ignored[x01]
+outright. However...[x02][x03]
+
+#897FI shall pose the same question to you, then,[x01]
+Miss Bright. What is your evidence of[x01]
+this claim?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #104
+0x101
+
+#1007F#4P'Evidence'?[x01]
+What we've seen for ourselves![x02][x03]
+
+#1002FThe group which made the floating city appear is[x01]
+the criminal Society of Ouroboros, which is still[x01]
+operating in Liberl![x02][x03]
+
+We of the guild have been cooperating with the[x01]
+Royal Army to try and put a stop to the society's[x01]
+operations.[x02][x03]
+
+#1006FHeck, if you like, we can have records of[x01]
+everything forwarded to the Imperial government.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #105
+0xD
+
+#894F#2PHmmmm...[x02][x03]
+
+That would certainly satisfy our need[x01]
+for evidence against Liberl's possible[x01]
+malfeasance. However...[x02][x03]
+
+#896FYou have, I think, missed a key[x01]
+point, Miss Bright.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #106
+0x101
+
+#1026F#4PHuh...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #107
+0xD
+
+#897F#2PAssuming, then, that the perpetrators[x01]
+are this 'Society of Ouroboros'...[x02][x03]
+
+Are Liberl and the guild capable of[x01]
+putting a stop to this crisis?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #108
+0x101
+
+#1003F#4PEr, well, we...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #109
+0xD
+
+#895F#2PIf you do not, then the Empire will[x01]
+not sit here wringing its hands.[x02][x03]
+
+The weaponry we have brought,[x01]
+including the cannons of our tanks,[x01]
+all use gunpowder.[x02][x03]
+
+Would that not be perfect for laying[x01]
+siege to, and destroying, this little[x01]
+'rogue city' of yours?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #110
+0x101
+
+#1020F#4PYou've got to be joking![x02][x03]
+
+What'll cannons do against[x01]
+something that big?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #111
+0xD
+
+#896F#2PHeh... You never know until[x01]
+you try, Miss Bright.[x02][x03]
+
+#894FRegardless...I can say one thing[x01]
+for sure.[x02][x03]
+
+#897FYou do not have the ability to[x01]
+put a stop to our...'goodwill.'[x01]
+Or our need to defend ourselves.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #112
+0x101
+
+#1003F#4PGh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #113
+0xC
+
+#1162F#6P...[x02][x03]
+
+#1167FWell, then, Prince Olivert.[x01]
+Would action satisfy?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #114
+0xD
+
+#898F#2PHm?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #115
+0xC
+
+#1162F#6PIf we can prove that we can, even in[x01]
+these circumstances, do something[x01]
+about that city...[x02][x03]
+
+Would you give us the time to do so?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #116
+0xD
+
+#899F#2PHmmm. Well.[x02][x03]
+
+#895FI suppose that for some time, at least,[x01]
+civility would force our hand, hmm?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #117
+0xE
+
+#883F#6P(My prince?!)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #118
+0xD
+
+#896F#4P(Calm down, General.)[x02][x03]
+
+(Consider it the bare minimum of[x01]
+courtesy to a minor power we have[x01]
+a pact with.)[x02][x03]
+
+(This assumes they can even[x01]
+prove anything.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #119
+0xE
+
+#884F#6P(...As you wish.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #120
+0xD
+
+#899F#6PSo, then.[x02][x03]
+
+#895FIf you can show me you have some hope of[x01]
+stopping all this, our forces will withdraw.[x02][x03]
+
+On the crest of the golden stallion[x01]
+and my name as a member of the[x01]
+Arnor family, I swear it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #121
+
+
+[x07][x05]Good, that came through loud and clear.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #122
+0x101
+
+#1004F#5PWha...? That voice![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #123
+0x8
+
+#023F#4PIs that...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #124
+0xB
+
+#070F#4PYes... No doubt about it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #125
+0x9
+
+#055F#4PNow you're REALLY kidding me![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #126
+0x102
+
+#1044F#6P...Dad.[x02]

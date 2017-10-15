@@ -1,0 +1,282 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x1A
+
+#1154F#6PThe moment is upon us.[x02][x03]
+
+#1150FLet us begin stage three of the plan.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x1A
+
+#1151F#6PAureole, sealed in the darkness where[x01]
+septium's light does not reach...[x02][x03]
+
+May you gaze upon our poor material[x01]
+world through your Gospel.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x1A
+
+#1155F#6PGaze upon these four pillars![x02][x03]
+
+
+They are the final shackles that bind[x01]
+you![x02][x03]
+
+Simple they may appear to be,[x01]
+but know that their purpose was long[x01]
+shrouded by the decree of man![x02][x03]
+
+With hands which bend the will of all,[x01]
+reveal their true form![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #3
+
+
+[x07][x00]#163FHmph. Making this hard on us,[x01]
+are they?[x02][x03]
+
+They may have an advantage in[x01]
+terms of speed, but I won't let them[x01]
+escape our net.[x02][x03]
+
+#160FCorner them and seize their vessel![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #4
+
+
+[x07][x00]#5SYes, sir![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x8
+
+#124F#6PLet us see, then.[x02][x03]
+
+#123FWhat will you do when your wings[x01]
+of hope are ripped from your back?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x1F
+
+#1004FWhoa! Ragnard! Why are you here?[x02][x03]
+
+
+#1019FAnd what in the heck are you doing[x01]
+here, Dad?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x21
+
+#080F#6PWell, you DID restore power to the[x01]
+entire country and avert a war.[x02][x03]
+
+#081FI shoved the details off on Morgan and[x01]
+decided to ask an old friend for a ride.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x1F
+
+#1007FAn old friend, uh huh.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x20
+
+#1054FAdmit it, Dad, you just wanted to[x01]
+surprise us.[x02][x03]
+
+#1053FAnd it's a pleasure to meet you,[x01]
+Ragnard. Estelle told me about you.[x02][x03]
+
+#1040FThank you for saving our lives.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #10
+
+
+[x07][x05]Thou needst not thank me, child of Man.[x02][x03]
+
+A new wind swirls about us. I simply spread[x01]
+my wings and sailed upon that fresh current.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x1F
+
+#1016FHaha... Still, though, you really saved us.[x02][x03]
+
+
+#1004FBut, hang on a second.[x02][x03]
+
+#1015FI thought, um, Aidios Herself told you[x01]
+to only watch over people.[x02][x03]
+
+Won't you get in trouble for saving us?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #12
+
+
+[x07][x05]The charge given me was to watch over[x01]
+Man until an answer--a true answer--was[x01]
+given unto the Shining Ring.[x02][x03]
+
+And such an answer has now been offered[x01]
+up. The ancient contract stands fulfilled.[x02][x03]
+
+Thus, upon hearing the Divine Blade's plea[x01]
+for a boon, I myself answered in kind.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x20
+
+#1044FThe ancient contract?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x1F
+
+#1019FAnother little mystery, but I can[x01]
+let it slide. I guess.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x21
+
+#083F#6PI haven't the foggiest what he's going[x01]
+on about, either.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x21
+
+#080FAfter all, hard-head here seems to[x01]
+enjoy holding back the details.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #17
+
+
+[x07][x05]Forgive me, friends. We of the wing and[x01]
+scale possesseth our own laws and statues.[x02][x03]
+
+So it is I say unto you: know that the gears of[x01]
+fate have finally begun their inexorable churn.[x02][x03]
+
+
+And in their ponderous cycling, no force[x01]
+can stop them.[x02][x03]
+
+The quest is done, but the campaign yet lies[x01]
+before thee. Gird thyself with wisdom, you who[x01]
+hear me now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x21
+
+#082FI see.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x1F
+
+#1020FWait, no way![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x20
+
+#1042FIs Liberl going to be attacked again?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x21
+
+#085F#6PNo. Those battles are destined to be[x01]
+fought elsewhere, and by different people.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x21
+
+#080F#6PBut those are concerns for another time.[x01]
+You two have worked a genuine miracle[x01]
+today.[x02][x03]
+
+Don't worry about what's to come for now.[x01]
+You have earned your rest.[x02][x03]
+
+Alongside your irreplaceable friends...[x01]
+who, I think, will be very happy to see[x01]
+you alive.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x1F
+
+#1008FYeah...[x02]

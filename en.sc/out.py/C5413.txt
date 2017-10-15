@@ -1,0 +1,106 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xA
+
+#233F#5PMarvelous![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xB
+
+#243F#5PMy goodness.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xC
+
+#252F#5PAhaha! Holy hell, that's something.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0xD
+
+#261F#5P*giggle* Isn't it just wonderful?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0xE
+
+#851F#6PAhaha! This is astounding![x02][x03]
+
+
+#854FNow I understand why you were[x01]
+making such a big deal out of it![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x8
+
+#1154F#6PHa, it's nice to see that all of you understand[x01]
+its worth. The Aureole itself had long been[x01]
+sealed away in another dimension.[x02][x03]
+
+#1151FDespite this, it has always been possible for[x01]
+it to influence our own dimension through the[x01]
+Gospels, which act as terminals.[x02][x03]
+
+There was just one problem: We had no[x01]
+access to the originals, and so we were[x01]
+forced to create replicas.[x02][x03]
+
+Only the most accurate would do--any less,[x01]
+and the Aureole would have remained forever[x01]
+unattainable.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x9
+
+#125F#6PAfter much trial and error,[x01]
+we managed to successfully create[x01]
+perfect replicas.[x02][x03]
+
+These true Gospels finally allowed[x01]
+the Aureole to remove the shackles[x01]
+that restricted its power.[x02][x03]
+
+And so here it is, returned from the[x01]
+dark abyss in which it was sealed.[x02][x03]
+
+#122FThat was the purpose of stage three[x01]
+of the plan, I assume?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x8
+
+#1155F#6PHeh-heh-heh. Indeed.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #8
+
+
+[x07][x00]My comrades-in-arms, thanks to your[x01]
+labors, the third stage is complete![x02][x03]
+
+And now, our plan moves into its final[x01]
+stage...[x02]

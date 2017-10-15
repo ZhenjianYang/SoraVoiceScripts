@@ -1,0 +1,115 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x8
+
+#1068F#4PAi-diiiios, that was one heck of a trip![x02][x03]
+
+
+If it's much further I think[x01]
+my legs are gonna pop off...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x9
+
+#170F#1PWell, you can relax now.[x02][x03]
+
+This is the lowest floor of[x01]
+the Sealed Area.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x8
+
+#1062F#4PWait, really?![x02][x03]
+
+#1061FAhhhh, thank the Goddess! If you told me[x01]
+we were only halfway down, I think I'd be[x01]
+floatin' off to meet Her right about now...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x9
+
+#176F#1PReally, Father Kevin, you're[x01]
+being a little too humble.[x02][x03]
+
+#170FI can tell you're extremely[x01]
+well-trained for a...'priest.'[x02][x03]
+
+If you were not, I doubt you[x01]
+could do the job you do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x8
+
+#1068F#4PAhh, ka-zing. Read like a book![x01]
+A children's book, at that![x02][x03]
+
+#1062FWell, it's no big if you figured it out. We're[x01]
+close to the von Auslese family anyway.[x02][x03]
+
+
+#1060FOh, speaking of my job.[x01]
+That thing the mayor of Ruan had...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x9
+
+#170F#1PAh, the 'Chronos Rod.'[x02][x03]
+
+In accordance with our pact, it's[x01]
+being kept safely secured using[x01]
+the prescribed methods.[x02][x03]
+
+We can hand it off to you[x01]
+whenever you wish.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x8
+
+#1061F#4PPerfect, perfect. Thanks![x02][x03]
+
+#1060FSo anyway, the thing we discussed earlier.[x01]
+Mind showing it to me? It's down here, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x9
+
+#178F#1PYes. Follow me...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #8
+
+
+[x07][x05]Orbal energy appears to be shut down.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #9
+
+[x07][x05]There is an orbment charging station here.[x07][x00][x02]

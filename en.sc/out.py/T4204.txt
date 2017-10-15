@@ -1,0 +1,22 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x8
+
+#594FMy Estelle... You shine like the sun.[x02][x03]
+
+
+My time with you was the happiest...[x01]
+and the most painful...I've ever known.[x02][x03]
+
+Just as the brightest light casts[x01]
+the darkest shadow...[x02][x03]
+
+If you stayed with me, you'd find out[x01]
+just how disgusting my true nature is...[x02][x03]
+
+
+Sometimes, I think it would have[x01]
+been better if we'd never met...[x02]

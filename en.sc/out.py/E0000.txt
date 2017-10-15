@@ -1,0 +1,639 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xFE
+
+I'm now off to inspect the Sapphirl Tower[x01]
+in Ruan.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xFE
+
+After Her Majesty's birthday celebrations,[x01]
+there were sightings of odd phenomena[x01]
+around the Tetracyclic Towers.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xFE
+
+A little late, but better to investigate now[x01]
+than never, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0xFE
+
+*sigh* Such a pity...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0xFE
+
+Thanks to the clouds, you can't even[x01]
+see the Sapphirl Tower from here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0xFE
+
+I'm a researcher with the History Museum.[x01]
+You know the towers, right? I'm here to[x01]
+inspect those.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0xFE
+
+After Her Majesty's birthday celebrations,[x01]
+there were sightings of odd phenomena[x01]
+around the Tetracyclic Towers.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0xFE
+
+A little late, but better to investigate now[x01]
+than never, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0xFE
+
+Haha, kids are always so fearless.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0xFE
+
+My knees are shaking just from[x01]
+being out here![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0xFE
+
+H-Hey! Don't get too close[x01]
+to the edge![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0xFE
+
+What'll happen if you fall, eh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0xFE
+
+Heeey, Papa, c'mere![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0xFE
+
+The mountains and rivers[x01]
+all look so small![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0xFE
+
+Wooow, this is so cool![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0xFE
+
+Heeey, look, look![x01]
+That tree is so tiny![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x101
+
+#1011FAhhhh! What a nice day...[x02][x03]
+
+The tourists gotta be flooding the streets[x01]
+in Ruan if the weather's like this there![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x106
+
+#1P#051FMaybe.[x02][x03]
+
+They got bigger things heatin' the[x01]
+place up than tourism, though.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x101
+
+#1004FOther than tourism?[x01]
+What do you mean?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x106
+
+#1P#053FThe election for the new mayor.[x02][x03]
+
+Apparently, there's two popular candidates[x01]
+to replace old Dalmore.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x101
+
+#1011FSo it's, like, an actual fight[x01]
+of an election? Neat.[x02][x03]
+
+#1015FAnd, thinking about it,[x01]
+I guess it is about time, huh?[x02][x03]
+
+They can't just let the[x01]
+mayor's office sit empty.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x106
+
+#1P#051FYeah, whole thing's been a bit[x01]
+of a mess ever since you guys[x01]
+blew that case wide open.[x02][x03]
+
+I heard about what you guys did from Jean.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x101
+
+#1016FAh, haha...[x02][x03]
+
+#1008FYeah, after you left, me, Joshua[x01]
+and Kloe worked on that.[x02][x03]
+
+Well, we had some help from a reporter[x01]
+too, and the actual arrest was done by[x01]
+Lt. Schwarz of the Royal Guard.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x106
+
+#1P#051FHeh, even better! You're smart enough[x01]
+to see it wasn't all just you.[x02][x03]
+
+#551FBy 'Kloe,' though, you mean the girl in the[x01]
+uniform, right? A.K.A....Princess Klaudia?[x02][x03]
+
+Man, that blew my friggin' mind[x01]
+when I heard that in the castle.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x101
+
+#1016FHaha, yeah, I know what you mean.[x02][x03]
+
+#1015FY'know, I haven't seen Kloe since[x01]
+the birthday festival...or Olivier,[x01]
+I guess. For better or worse.[x02][x03]
+
+#1003FAnd not just them... Tita, too...and Zin...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x106
+
+#1P#552FI told Tita and her old fogey[x01]
+about what was up with you.[x02][x03]
+
+I figured they'd worry too much[x01]
+if they were kept in the dark.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x101
+
+#1025FOh... Thanks, Agate.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x106
+
+#1P#053FYeah, well, you'd better send 'em[x01]
+a letter soon, or meet 'em in person,[x01]
+or whatever. They miss you.[x02][x03]
+
+#050FOh, and Zin went back to[x01]
+Calvard after the festival.[x02][x03]
+
+He said to give you his best.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x101
+
+#1025FI see...[x01]
+I wish I could've said goodbye...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x106
+
+#1P#051FAs for the princess, pretty sure[x01]
+she went back to the Jenis Royal Academy.[x02][x03]
+
+We'll be in Ruan for a while, so[x01]
+I think we can find some time[x01]
+to drop in and say hi, at least.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x101
+
+#1016FYeah... You're right.[x02][x03]
+
+#1008FHeheh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x106
+
+#1P#055FWhat? Did I say something funny?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x101
+
+#1012FOh, no, not really.[x02][x03]
+
+#1017FI was just thinking... You're a lot more[x01]
+thoughtful than you look, Agate.[x02][x03]
+
+You even offered to let me do some[x01]
+shopping before we left the capital.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x106
+
+#1P#552FThoughtful?! I'm not... I mean,[x01]
+I am, but... Aww, forget it![x02][x03]
+
+#050FWhatever. I'm gonna go take[x01]
+a nap in my seat till we arrive.[x02][x03]
+
+Don't get so absorbed in wandering[x01]
+around that you forget to get off[x01]
+at Ruan![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x101
+
+#1016FAgate, you really do try too hard sometimes...[x02][x03]
+
+
+#1006FAnyway, think I'll take his advice![x01]
+Time for a bit of looking around[x01]
+before we arrive...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x101
+
+#1011FAhhhh! What a nice day...[x02][x03]
+
+The tourists gotta be flooding the streets[x01]
+in Ruan if the weather's like this there![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x103
+
+#1P#021FNo doubt![x02][x03]
+
+#020FUnfortunately, Ruan's pretty busy getting[x01]
+'excited' over something other than tourism.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x101
+
+#1004FOther than tourism? What do you mean?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x103
+
+#1P#020FThe mayoral elections.[x02][x03]
+
+They're only now gearing up to hold[x01]
+the special election for a new mayor[x01]
+after the last one was arrested.[x02][x03]
+
+I understand there are two[x01]
+major candidates slugging[x01]
+it out for the seat.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x101
+
+#1011FSo it's, like, an actual fight[x01]
+of an election? Neat.[x02][x03]
+
+#1015FAnd, thinking about it,[x01]
+I guess it is about time, huh?[x02][x03]
+
+They can't just let the mayor's[x01]
+office sit empty.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x103
+
+#1P#023FSpeaking of the old mayor...[x02][x03]
+
+Weren't you and Joshua involved[x01]
+in bringing him to justice?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x101
+
+#1016FHaha, yeah, kind of...[x02][x03]
+
+#1008FWe got involved in an investigation[x01]
+which led us right to his doorstep.[x02][x03]
+
+The one who really arrested him was Lt. Schwarz[x01]
+of the Royal Guard, though, after Kloe called her.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x103
+
+#1P#021FC'mon! You needn't be so humble.[x02][x03]
+
+You were crucial in his arrest, I heard.[x01]
+You make your teacher proud, honey.[x02][x03]
+
+#020FBut I see...[x02][x03]
+
+So that's how you met the princess?[x01]
+I had been curious about the details[x01]
+of THAT...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x101
+
+#1000FYeah, Joshua and I helped out[x01]
+with the Jenis school festival.[x02][x03]
+
+#1015FY'know, I haven't seen Kloe since[x01]
+the birthday festival...or Olivier,[x01]
+I guess. For better or worse.[x02][x03]
+
+#1003FAnd not just them... Tita, too...and Zin...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x103
+
+#1P#020FZin returned to Calvard after[x01]
+the birthday celebrations.[x02][x03]
+
+I believe a request came in from[x01]
+the Calvard national guild office...[x02][x03]
+
+He did say to give you his best.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x101
+
+#1007FI see... If it's work, it's work, I guess.[x02][x03]
+
+
+#1025FHe helped us out a lot... I wish[x01]
+I could've said goodbye, at least...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x103
+
+#1P#020FYou'll meet him again someday, I'm sure.[x02][x03]
+
+Oh, as for Tita and Professor Russell...[x02][x03]
+
+
+Cassius and I explained the situation[x01]
+to them after you left.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x101
+
+#1025FOh, I see... Thanks, Schera.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x103
+
+#1P#021FIt waaas adorable...[x01]
+Tita's such a nice, earnest girl.[x02][x03]
+
+#027FWe told her everything, and then,[x01]
+her eyes filled with tears as though[x01]
+she was just barely holding it in...[x02][x03]
+
+She said, 'Estelle's working so hard, I can't[x01]
+just sit here and cry! She taught me that!'[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #49
+0x101
+
+#1008FAhaha...[x02][x03]
+
+#1013FOh, Tita...[x02][x03]
+
+#1027FC'mon, Schera...[x01]
+You're gonna make ME cry, here...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #50
+0x103
+
+#1P#021FHeehee! Sorry, sorry.[x02][x03]
+
+#027FReally, though...you met some amazing[x01]
+people over the course of your travels...[x01]
+some really amazing friends.[x02][x03]
+
+I hope you realize just how precious that is.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #51
+0x101
+
+#1012FYeah... I do.[x02][x03]
+
+#1017FSay, Schera?[x02][x03]
+
+When we get to Ruan, do you think we[x01]
+could find time to go see everyone?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x103
+
+#1P#021FOf course! We'll make the time.[x02][x03]
+
+#020FSpeaking of time...we've still[x01]
+got some before we arrive.[x02][x03]
+
+I think I'll lounge these terribly creaky,[x01]
+oh-so-ancient bones of mine in my seat.[x01]
+Did you have any plans?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x101
+
+#1015FHmmmm...[x02][x03]
+
+#1011FI think I'll just look around the ship[x01]
+a bit. You can go on ahead.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x103
+
+#1P#020FAll right, then.[x02][x03]
+
+Just don't get so carried away that[x01]
+you don't get off at Ruan, Estelle.[x02]
