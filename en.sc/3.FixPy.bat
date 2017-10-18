@@ -12,6 +12,6 @@ call "%curp%\..\Common.bat"
 
 set dirpy=%tmp%\v.py
 
-"%dir_tools%\SoraMoveFuns.exe" "%dirpy%\E0310.py" "%dirpy%\E0310_1.py" 2
-"%dir_tools%\SoraMoveFuns.exe" "%dirpy%\T2120.py" "%dirpy%\T2120_1.py" 7
-"%dir_tools%\SoraMoveFuns.exe" "%dirpy%\T2132_1.py" "%dirpy%\T2132_2.py" 20 2
+"%dir_tools%\SoraMoveFuns.exe" 0 "%dirpy%\E0310.py" 1 "%dirpy%\E0310_1.py" 38
+"%dir_tools%\SoraMoveFuns.exe" 0 "%dirpy%\T2120.py" 1 "%dirpy%\T2120_1.py" 19
+"%dir_tools%\SoraMoveFuns.exe" 1 "%dirpy%\T2132_1.py" 0 "%dirpy%\T2132.py" 25
