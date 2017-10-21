@@ -228,7 +228,7 @@ I hope things are okay at the villa.[x02]
 ChrTalk #26
 0x109
 
-#1060F#4PWell, they might've contacted the guild.[x01]
+#1060F#4PWell, they might've contacted the guild.[x02][x01]
 
 
 C'mon, let's go check in.[x02]

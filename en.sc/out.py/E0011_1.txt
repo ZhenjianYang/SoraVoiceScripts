@@ -109,7 +109,7 @@ ChrTalk #9
 #1025F#6PYeah...[x02][x03]
 
 Sounds like you had just as big a fight[x01]
-on your hands with the Intelligence guys,[x01]
+on your hands with the Intelligence guys,[x02][x01]
 
 
 though.[x02]
@@ -2433,7 +2433,7 @@ of Mischa, I bet!)[x02]
 ChrTalk #221
 0xA
 
-#030FAh, Estelle. At last we return to Bose![x01]
+#030FAh, Estelle. At last we return to Bose![x02][x01]
 
 
 The land laden with memories of our[x01]

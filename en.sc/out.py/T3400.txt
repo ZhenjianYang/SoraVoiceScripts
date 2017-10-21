@@ -1762,7 +1762,7 @@ who our 'wild sunglasses man' is.[x02]
 ChrTalk #196
 0x104
 
-#035F#6PAnother Enforcer of Ouroboros,[x01]
+#035F#6PAnother Enforcer of Ouroboros,[x02][x01]
 
 just like the Phantom Thief, then.[x02]
 

@@ -1752,7 +1752,7 @@ ChrTalk #180
 ChrTalk #181
 0x25
 
-#691F#2PEstelle, Agate.[x01]
+#691F#2PEstelle, Agate.[x02][x01]
 
 
 Take care of our little Tita, you hear?[x02]

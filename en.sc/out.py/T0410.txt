@@ -1844,7 +1844,7 @@ you that idea...?[x02]
 ChrTalk #190
 0x103
 
-#020FPutting that aside, 
+#020FPutting that aside, [x02]
 
 what do you[x01]
 mean when you say, 'no worries'?[x02]

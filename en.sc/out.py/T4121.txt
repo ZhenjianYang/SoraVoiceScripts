@@ -2076,8 +2076,9 @@ ChrTalk #188
 
 #035F...However, something about the[x01]
 situation makes you believe it's more[x01]
+than a bad joke, [x02]
 
-than a bad joke, yes?[x02]
+yes?[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------

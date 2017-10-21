@@ -1657,9 +1657,9 @@ ChrTalk #168
 #047FWell, Ambassador Cochrane.[x02][x03]
 
 #042FIf you don't believe someone from Calvard[x01]
+is the perpetrator, [x02]
 
-
-is the perpetrator, then whom do you suspect?[x02]
+then whom do you suspect?[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------

@@ -1848,7 +1848,7 @@ don't need to worry about the city.[x02]
 ChrTalk #175
 0x101
 
-#1006F#6POkay, 
+#1006F#6POkay, [x02]
 
 then, so off to the Wolf Fort![x02]
 
@@ -1968,7 +1968,7 @@ ChrTalk #185
 ChrTalk #186
 0x106
 
-#051F#3PWe've finished investigating the earthquakes...[x01]
+#051F#3PWe've finished investigating the earthquakes...[x02][x01]
 
 
 so what're these hunks of junk?[x02]

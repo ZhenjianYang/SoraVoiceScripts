@@ -1070,7 +1070,7 @@ ChrTalk #106
 
 #026F#4PEstelle.[x02][x03]
 
-#020FI'm not exactly sure what you're thinking,[x01]
+#020FI'm not exactly sure what you're thinking,[x02][x01]
 
 
 but calm down and consider for a moment.[x02]
@@ -1149,7 +1149,7 @@ ChrTalk #113
 #065F#5PUm, Miss Schera![x02][x03]
 
 I think Estelle has a reason she[x01]
-wants to go! 
+wants to go! [x02]
 
 So, um...[x02]
 

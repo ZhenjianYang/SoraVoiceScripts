@@ -545,9 +545,10 @@ ChrTalk #58
 of action would be to visit the homes of[x01]
 the afflicted.[x02][x03]
 
-We need to find out what, exactly, the[x01]
+We need to find out what, [x02]
 
 
+exactly, the[x01]
 situation was like when they fell into[x01]
 these...comas.[x02]
 

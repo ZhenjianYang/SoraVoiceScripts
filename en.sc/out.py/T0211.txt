@@ -361,7 +361,7 @@ ChrTalk #32
 ChrTalk #33
 0x101
 
-#1002FHi, ma'am. 
+#1002FHi, ma'am. [x02]
 
 
 Did Mayor Klaus tell[x01]

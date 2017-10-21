@@ -2087,7 +2087,7 @@ the other two.[x02]
 ChrTalk #228
 0x104
 
-#035F#2PMeaning, then, that the quakes are[x01]
+#035F#2PMeaning, then, that the quakes are [x02][x01]
 
 
 getting more powerful each time.[x02]

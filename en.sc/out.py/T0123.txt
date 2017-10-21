@@ -771,10 +771,10 @@ ChrTalk #77
 #026F#4PYes. Exactly.[x02][x03]
 
 #022FThe one commonality between all four[x01]
-testimonies...is that there were NO witnesses[x01]
+testimonies... [x02]
 
+is that there were NO witnesses[x01]
 to anyone collapsing. At all.[x02]
-
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------

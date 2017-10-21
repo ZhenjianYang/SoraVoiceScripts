@@ -1960,7 +1960,7 @@ Don't you think he just needs a hand?[x02]
 ChrTalk #208
 0x11
 
-#722FMiss Estelle...
+#722FMiss Estelle...[x02][x01]
 
 your words ring so true...[x02]
 

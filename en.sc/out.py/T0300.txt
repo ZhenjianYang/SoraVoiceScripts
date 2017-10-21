@@ -1429,7 +1429,7 @@ food already?[x02]
 ChrTalk #138
 0x101
 
-#290F#6POh, no. 
+#290F#6POh, no. [x02][x01]
 
 
 Umm, I gotta question, Mama.[x02]

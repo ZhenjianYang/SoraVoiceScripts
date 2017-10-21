@@ -1293,7 +1293,7 @@ about it the next time we see him.[x02]
 ChrTalk #126
 0x104
 
-#031F#7PWhy, Agate. 
+#031F#7PWhy, Agate. [x02]
 
 That's quite a...[x01]
 brotherly thing to say.[x02]

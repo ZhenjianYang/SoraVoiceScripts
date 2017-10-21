@@ -4940,7 +4940,7 @@ ChrTalk #514
 ChrTalk #515
 0x8
 
-#742FIt sounds like something happened.[x01]
+#742FIt sounds like something happened.[x02][x01]
 
 Can you give us a report?[x02]
 
@@ -5172,7 +5172,7 @@ a hike. Sorry.[x02]
 ChrTalk #538
 0x101
 
-#1006F#4PIt's okay. 
+#1006F#4PIt's okay. [x02]
 
 With the passenger ships stopped,[x01]
 we gotta keep travelers safe, too.[x02]
@@ -5890,7 +5890,7 @@ ChrTalk #610
 ChrTalk #611
 0x101
 
-#1002F#4PI don't know what Joshua thinks he's doing,[x01]
+#1002F#4PI don't know what Joshua thinks he's doing,[x02][x01]
 
 
 but...I think he's trying, in his own way,[x01]
