@@ -875,10 +875,10 @@ this time.[x02]
 ChrTalk #80
 0x101
 
-#1025F#3PI should probably ask Agate and[x02][x03]
+#1025F#3PI should probably ask Agate and Tita before[x02][x01]
+committing to anything. [x02][x03]
 
-
-Tita before committing to anything. We've got Renne, too.[x02]
+We've got Renne, too.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -886,10 +886,10 @@ Tita before committing to anything. We've got Renne, too.[x02]
 ChrTalk #81
 0x101
 
-#1025F#3PI should probably ask Schera and[x02][x03]
+#1025F#3PI should probably ask Schera and Tita before[x02][x01]
+committing to anything. [x02][x03]
 
-
-Tita before committing to anything. We've got Renne, too.[x02]
+We've got Renne, too.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
