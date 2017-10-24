@@ -3072,7 +3072,7 @@ the airship landed, right?[x02]
 ChrTalk #338
 0x101
 
-#1004FYes, that's right, but...airship?[x01]
+#1000FYes, that's right, but...airship?[x01]
 Are you from another country?[x02]
 
 ;----------------------------------------------------------------------------------
