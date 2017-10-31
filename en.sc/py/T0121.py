@@ -6129,12 +6129,18 @@ def main():
     )
 
     CloseMessageWindow()
+    FadeToDark(300, 0, 100)
+    SetMessageWindowPos(72, 320, 56, 3)
+    SetChrName("")
 
-    ChrTalk(    #390
-        0x10,
-        "#6PCurrently goes for 200 mira a bar.\x02",
+    AnonymousTalk(    #390
+        "#6P#15W\x07\x05The chocolate's price is 200 mira per bar.\x07\x00\x02",
     )
 
+    CloseMessageWindow()
+    OP_56(0x0)
+    SetMessageWindowPos(72, 320, 56, 3)
+    FadeToBright(300, 0)
     CloseMessageWindow()
 
     def lambda_8424():
