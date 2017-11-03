@@ -794,7 +794,7 @@ Lena?[x02]
 ChrTalk #78
 0x9
 
-#861F#4Pt'll be fine, darling.[x01]
+#861F#4PIt'll be fine, darling.[x01]
 There are plenty of ways to be 'feminine.'[x02][x03]
 
 #866FThough unless you brave fishers want[x01]
