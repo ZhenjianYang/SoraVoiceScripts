@@ -1291,7 +1291,7 @@ ChrTalk #124
 ChrTalk #125
 0x9
 
-#861F#4PHWell, I'll be in the kitchen.[x02][x03]
+#861F#4PWell, I'll be in the kitchen.[x02][x03]
 
 
 #866FWhat are you two going to be up to?[x02]
