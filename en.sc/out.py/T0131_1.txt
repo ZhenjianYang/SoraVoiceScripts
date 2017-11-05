@@ -2307,7 +2307,7 @@ Well, then, let me borrow the kitchen.[x02]
 AnonymousTalk #253
 
 
-[x06]Learned [#2CPepper Pottage#0W] recipe.[x02]
+[x06]Learned [#2CPepper Pottage#0C] recipe.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
