@@ -31,7 +31,7 @@ def main():
         'Rionne',                               # 9
         'Alvelle',                              # 10
         'Borden',                               # 11
-        'Launa',                                # 12
+        'Luana',                                # 12
         'Elke',                                 # 13
         'Paul',                                 # 14
         'Cecile',                               # 15
