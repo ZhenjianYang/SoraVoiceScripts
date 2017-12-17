@@ -1710,11 +1710,11 @@ def main():
     OP_7C(0x0, 0xC8, 0xBB8, 0x64)
     WaitChrThread(0x8, 0x2)
     OP_23(0x152)
-    Sleep(1500)
+    Sleep(1900)
     OP_62(0xA, 0x0, 2000, 0x18, 0x1B, 0xFA, 0x0)
-    Sleep(1500)
+    Sleep(1900)
     OP_63(0xA)
-    Sleep(500)
+    Sleep(900)
 
     ChrTalk(    #51
         0xA,
