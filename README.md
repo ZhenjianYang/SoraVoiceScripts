@@ -6,9 +6,9 @@ Scripts for these games were done:
 
 |Game Title                |Publisher|Platform        |Language          |             |
 |--------------------------|---------|----------------|------------------|-------------|
-|*Trails in the Sky FC*    |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
-|*Trails in the Sky FC*    |Xseed    |Steam           |Chinese Simplified|[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
 |*Sora no Kiseki FC*       |YLT      |                |Chinese Simplified|The Original PC ver
+|*Trails in the Sky FC*    |Xseed    |Steam           |Chinese Simplified|[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
+|*Trails in the Sky FC*    |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
 |*Trails in the Sky SC*    |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
 
 Get them at [Release](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/latest), or   
@@ -19,11 +19,12 @@ Get them at [Release](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/
   
 2.  **Install python3 and 7zip**   
   We assume the path of 7zip is `C:\Program Files\7-Zip\7z.exe`  
-  Some python libs need to be installed. Please refer to [tools/EDDecompiler](https://github.com/ZhenjianYang/EDDecompiler).
+  Some python libs need to be installed. Please refer to [tools/EDDecompiler](https://github.com/ZhenjianYang/EDDecompiler#1-install-python3).
 
 3.  Copy **\.dir** files in games' in installation folders to this project   
-    ***Trails in the Sky FC*** : Copy **\.dir** files to `game_files/DIR_FC/`   
-    ***Trails in the Sky SC*** : Copy **\.dir** files to `game_files/DIR_SC/`   
+    ***Trails in the Sky FC***      : Copy **\.dir** files to `game_files/DIR_FC/`   
+    ***Trails in the Sky SC***      : Copy **\.dir** files to `game_files/DIR_SC/`   
+    ***Trails in the Sky the 3rd*** : Copy **\.dir** files to `game_files/DIR_3RD/`   
 
 4.  **Generate script files**   
   Just run the batch file `DoAll.bat`   
@@ -43,9 +44,9 @@ PC游戏《空之轨迹》系列的语音脚本
 
 |游戏标题       |发行商 |平台            |语言     |              |
 |---------------|-------|----------------|---------|--------------|
-|空之轨迹 FC    |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
-|空之轨迹 FC    |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
 |空之轨迹 FC    |娱乐通 |                |简体中文 |原版PC
+|空之轨迹 FC    |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
+|空之轨迹 FC    |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
 |空之轨迹 SC    |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
 
 在[这里](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/latest)可以获取到上述语音脚本。或者，
@@ -56,11 +57,12 @@ PC游戏《空之轨迹》系列的语音脚本
   
 2.  **安装python3以及7zip**   
   这里假定7zip路径为：`C:\Program Files\7-Zip\7z.exe`   
-  还需要安装一些python库，具体请参考[tools/EDDecompiler](https://github.com/ZhenjianYang/EDDecompiler)。
+  还需要安装一些python库，具体请参考[tools/EDDecompiler](https://github.com/ZhenjianYang/EDDecompiler#1-install-python3)。
 
 3.  将游戏安装目录下的 **.dir**文件复制到本项目   
-    **《空之轨迹 FC》**: 复制 **\.dir**文件到`game_files/DIR_FC/`   
-    **《空之轨迹 SC》**: 复制 **\.dir**文件到`game_files/DIR_SC/`   
+    **《空之轨迹 FC》**     : 复制 **\.dir**文件到`game_files/DIR_FC/`   
+    **《空之轨迹 SC》**     : 复制 **\.dir**文件到`game_files/DIR_SC/`   
+    **《空之轨迹 the 3rd》**: 复制 **\.dir**文件到`game_files/DIR_3RD/`   
 
 4.  **生成脚本文件**   
   执行`DoAll.bat`即可    
