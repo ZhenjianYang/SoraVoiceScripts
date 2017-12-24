@@ -1,0 +1,1 @@
+Copy all .dir files in Trails in the Sky the 3rd's installation folder to this folder 

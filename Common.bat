@@ -11,5 +11,6 @@ set PYTHONPATH=%dir_tools%\EDDecompiler\Decompiler;%dir_tools%\PyLibs
 set dir_gf=%dir_home%\game_files
 set dir_fc=%dir_gf%\DIR_FC
 set dir_sc=%dir_gf%\DIR_SC
+set dir_3rd=%dir_gf%\DIR_3RD
 
 
