@@ -4,12 +4,13 @@ They can be used for the project [SoraVoce](https://github.com/ZhenjianYang/Sora
 
 Scripts for these games were done:
 
-|Game Title                |Publisher|Platform        |Language          |             |
-|--------------------------|---------|----------------|------------------|-------------|
-|*Sora no Kiseki FC*       |YLT      |                |Chinese Simplified|The Original PC ver
-|*Trails in the Sky FC*    |Xseed    |Steam           |Chinese Simplified|[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
-|*Trails in the Sky FC*    |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
-|*Trails in the Sky SC*    |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
+|Game Title                 |Publisher|Platform        |Language          |             |
+|---------------------------|---------|----------------|------------------|-------------|
+|*Sora no Kiseki FC*        |YLT      |                |Chinese Simplified|The Original PC ver
+|*Trails in the Sky FC*     |Xseed    |Steam           |Chinese Simplified|[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
+|*Trails in the Sky FC*     |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
+|*Trails in the Sky SC*     |Xseed    |Steam/GOG/Humble|English           |Done by [Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)
+|*Trails in the Sky the 3rd*|Xseed    |Steam/GOG/Humble|English           |WIP
 
 Get them at [Release](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/latest), or   
 ## Follow these steps
@@ -42,12 +43,13 @@ PC游戏《空之轨迹》系列的语音脚本
 
 下列游戏的语音脚本已完成：   
 
-|游戏标题       |发行商 |平台            |语言     |              |
-|---------------|-------|----------------|---------|--------------|
-|空之轨迹 FC    |娱乐通 |                |简体中文 |原版PC
-|空之轨迹 FC    |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
-|空之轨迹 FC    |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
-|空之轨迹 SC    |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
+|游戏标题        |发行商 |平台            |语言     |              |
+|----------------|-------|----------------|---------|--------------|
+|空之轨迹 FC     |娱乐通 |                |简体中文 |原版PC
+|空之轨迹 FC     |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
+|空之轨迹 FC     |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
+|空之轨迹 SC     |Xseed  |Steam/GOG/Humble|英语     |由[Snakes&Ladies Games](https://www.youtube.com/c/SnakesLadiesGames)完成
+|空之轨迹 the 3rd|Xseed  |Steam/GOG/Humble|英语     |尚未完成
 
 在[这里](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/latest)可以获取到上述语音脚本。或者，
 ## 参照以下步骤   
