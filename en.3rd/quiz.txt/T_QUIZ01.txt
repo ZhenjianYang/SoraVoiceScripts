@@ -1,0 +1,487 @@
+T_QUIZ01._DT
+
+0
+1
+What's the last name of our ultra-dependable[x01]protagonist, Estelle?
+Astray
+Bright
+Harvey
+Rinz
+Quite the fitting name given her personality,[x01]don't you think? It fits her father quite well,[x01]too.[x02]
+
+1
+2
+What's the first name of Estelle's late mother?
+Hannah
+Stella
+Lena
+Tabitha
+The two of them look so alike, huh? You can[x01]see the family resemblance in more ways than[x01]one![x02]
+
+2
+3
+What's the name of harmonica-playing[x01]heartthrob Joshua's blood-related sister?
+Estelle
+Scherazard
+Luciola
+Karin
+Heehee. When Joshua dresses up as a girl,[x01]he looks JUST like her, too. ㈱[x02]
+
+3
+1
+What's the first name of softer-than-he-looks[x01]bracer Agate's late sister?
+Millia
+Mischa
+Aisha
+Tita
+These two even have surprisingly similar[x01]hairstyles. Note the sideburns in particular.[x02]
+
+4
+0
+What is the color of 'Cuteness is justice!'[x01]advocate Anelace's hair ribbon?
+Yellow
+Green
+Red
+Blue
+She's just one girl you never want to change,[x01]isn't she? Adorable. Simply adorable.[x02]
+
+5
+3
+What branch of the Bracer Guild is cuteness[x01]maniac Anelace attached to?
+Rolent Branch
+Ruan Branch
+Grancel Branch
+Bose Branch
+Incidentally, Lugran, the old man in charge of[x01]the Bose branch, once manned the front desk[x01]over at the Grancel branch instead.[x02]
+
+6
+2
+What relation is Duke Dunan to Queen Alicia?
+Her Brother
+Her Son
+Her Nephew
+Her Retainer
+There's a part of me that's dyyying to see what[x01]would happen to Liberl if he became king.[x02]
+
+7
+1
+What's the first name of Prince Olivert's father,[x01]the current reigning emperor of Erebonia?
+Judis
+Eugent
+Rocksmith
+Giliath
+Haha. Kind of hard to believe he's a prince at[x01]all most of the time, isn't it?[x02]
+
+8
+3
+What's the name of the large lake situated in[x01]the center of Liberl?
+Erebonia Lake
+Ballerina Lake
+Falleria Lake
+Valleria Lake
+Apparently, it's possible to see the lake from[x01]every region of Liberl! Interesting, huh?[x02]
+
+9
+0
+What's the name of the vast area of woodland[x01]in the southeastern part of the Rolent region?
+Mistwald
+Mistforesta
+Mistworld
+Mistforet
+'Wald' is the German word for forest, incidentally.[x01]And 'Mist'? Surely you don't need me to tell you[x01]what that means.[x02]
+
+10
+0
+What was the name that Captain Schwarz went[x01]by when disguised as a sister during the first[x01]game's finale?
+Sister Ellen
+Sister Rosa
+Sister Frieda
+Sister Noah
+And wasn't she just darling in that outfit? ㈱[x02]
+
+11
+2
+What did Estelle ask her parents for during[x01]the dream sequence in Second Chapter,[x01]Chapter 4?
+Money
+Strega's Latest Sneakers
+A Sibling
+A Harmonica
+Heehee. She's so pure and innocent, and that's[x01]why we love her. ㈱[x02]
+
+12
+0
+What's the name of hardcore sneaker collector[x01]Estelle's favorite brand?
+Strega Corporation
+Verne Company
+Reinford Company
+Liberl News Service
+Fun Fact! 1203 is actually this company's[x01]50th anniversary. [x02]
+
+13
+3
+What's the name of the now-deceased father of[x01]Kilika, the woman in charge of Zeiss' Bracer Guild[x01]branch?
+Zin
+Tact
+Yakumo
+Ryuga
+That's certainly a cool-sounding name, isn't it?[x02]
+
+14
+0
+What's the name of the Bracer Guild training[x01]facility situated in Leman State?
+Le Locle
+Liber Ark
+Le Sage
+Air-Letten
+Leman State's famous for an awful lot of[x01]things. It's where the Epstein Foundation[x01]operates out of, too.[x02]
+
+15
+2
+What's the name of black-haired darling Joshua's[x01]most-played harmonica song?
+The Whereabouts of Freedom
+The Whereabouts of Harmony
+The Whereabouts of Light
+The Whereabouts of Hope
+It used to be a really popular song over in[x01]Erebonia a long time ago, you know.[x02]
+
+16
+2
+What's the name of the huge drawbridge that[x01]connects the north and south sides of Ruan City?
+Rembrandt Bridge
+Deodorant Bridge
+Langland Bridge
+Giant Bridge
+It only gets raised three times a day, you know. [x02]
+
+17
+0
+What's the name of the Aureole guardian which[x01]the party fight in the Sealed Area at the end of[x01]the first game?
+Reverie
+Revealer
+Dreamer
+Nightmare
+I think its real name is Traumerei, which is the[x01]German word for Reverie, but shhh. That's just[x01]between us.[x02]
+
+18
+3
+What is depicted on the emblem of the[x01]Erebonian Empire?
+Golden Cock
+Golden Lion
+Golden Hound
+Golden Stallion
+Heehee. It's a pretty fitting symbol given how[x01]serious their military's known to be.[x02]
+
+19
+1
+What was the name of the play performed at the[x01]festival held in Jenis Royal Academy in the first[x01]game, Chapter 2?
+Mandolin of the White Magnolia
+Madrigal of the White Magnolia
+Minuet of the White Magnolia
+Musette of the White Magnolia
+The ending's a lovely happy ending, too![x01]Who doesn't love happy endings? ☆[x02]
+
+20
+1
+Which of the Tetracyclic Towers is situated in[x01]the Rolent region?
+Amberl Tower
+Esmelas Tower
+Carnelia Tower
+Sapphirl Tower
+That was the tower Luciola was stationed at[x01]when we were trying to release the Aureole in[x01]Second Chapter, as it so happens.[x02]
+
+21
+3
+Which of the Tetracyclic Towers is situated in[x01]the Bose region?
+Sapphirl Tower
+Esmelas Tower
+Carnelia Tower
+Amberl Tower
+That was the tower Renne was stationed at[x01]when we were trying to release the Aureole in[x01]Second Chapter, as it so happens.[x02]
+
+22
+2
+Which of the Tetracyclic Towers is situated in[x01]the Ruan region?
+Esmelas Tower
+Amberl Tower
+Sapphirl Tower
+Carnelia Tower
+That was the tower Bleublanc was stationed at[x01]when we were trying to release the Aureole in[x01]Second Chapter, as it so happens.[x02]
+
+23
+0
+Which of the Tetracyclic Towers is situated in[x01]the Zeiss region?
+Carnelia Tower
+Amberl Tower
+Sapphirl Tower
+Esmelas Tower
+That was the tower Walter was stationed at[x01]when we were trying to release the Aureole in[x01]Second Chapter, as it so happens.[x02]
+
+24
+1
+By what name is red-haired young bracer Agate[x01]otherwise known?
+Gun Blade
+Heavy Blade
+Killer Blade
+Beast Blade
+'Injury Magnet' might be a better name for him[x01]considering how often he finds himself knocked[x01]out of action, though.[x02]
+
+25
+0
+By what name is highly capable bracer[x01]Scherazard otherwise known?
+Silver Streak
+Silver Flash
+Silver Whirl
+Silver Dominatrix
+Heehee. I wouldn't mind being on the receiving[x01]end of that whip of hers, truth be told. ㈱[x02]
+
+26
+3
+By what name is A-rank Calvardian bracer[x01]Zin Vathek otherwise known?
+Zin the Unstoppable
+Zin the Improvable
+Zin the Immutable
+Zin the Immovable
+Apparently, he used to go by...'Zane'? Really?[x01]Is this a joke?[x02]
+
+27
+1
+Which of the following is a title held by famed[x01]S-rank bracer Cassius Bright?
+Blade God
+Divine Blade
+Imperial Blade
+Royal Blade
+I still can't believe how well he dealt with the[x01]attack on those Erebonian guilds. He's quite a[x01]man. ㈱[x02]
+
+28
+3
+By what name was our tragic hero Joshua[x01]otherwise known when part of Ouroboros?
+Dark Fang
+Obsidian Fang
+Poisonous Fang
+Black Fang
+Quite the fitting name for someone who fights[x01]from the shadows like him, don't you think?[x02]
+
+29
+2
+What's the name of the martial arts style used[x01]by Zin Vathek, lover of young women across[x01]the land?
+Taizen Style
+Taihei Style
+Taito Style
+Taizan Style
+The name's actually a combination of [x01]'very large mountain' and the Big Dipper[x01]asterism. I bet you didn't know that![x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+990
+4
+----[x02]
+Oh, poo. It looks like you're out of the game.[x02]
+Oh, poo. It looks like you're out of the game.[x02]
+You did it! Heehee. You're amazing.[x02]
+Wow! You actually managed to get every[x01]question right. Well done.[x02]
+----[x02]
+
+999
+4
+Well, let's get started, then, shall we?[x01]I hope you're ready![x02]
+No blindly guessing, now.[x02]
+Aww. Is that really the best you can do?[x02]
+Nuh-huh! Try one more time.[x02]
+Are you even trying?[x02]
+Wroooooong![x02]

@@ -1,0 +1,469 @@
+T_QUIZ02._DT
+
+0
+0
+What's the number of Ouroboros Enforcer[x01]Bleublanc, the Phantom Thief?
+No. X
+No. XIII
+No. XI
+No. IX
+If you know the answer to this, I assume you[x01]must be able to work out which of those[x01]profiles is real, too.[x02]
+
+1
+1
+What's the number of Ouroboros Enforcer[x01]Luciola, the Bewitching Bell?
+No. V
+No. VI
+No. IV
+No. VII
+The sixth major arcana is the Lovers.[x01]It fits her very well, doesn't it?[x02]
+
+2
+2
+What's the number of Ouroboros Enforcer[x01]Walter, the Direwolf?
+No. VII
+No. IX
+No. VIII
+No. III
+The eighth major arcana is Strength.[x01]It fits him very well, doesn't it?[x02]
+
+3
+3
+What's the number of Ouroboros Enforcer[x01]Renne, the Angel of Slaughter?
+No. XIII
+No. XIV
+No. XVI
+No. XV
+The fifteenth major arcana is the Devil. [x01]It fits her very well, doesn't it?[x02]
+
+4
+1
+What was the number of Ouroboros Enforcer[x01]Joshua, the Black Fang?
+No. IX
+No. XIII
+No. VII
+No. XII
+The thirteenth major arcana is Death.[x01]It fits him very well, doesn't it?[x02]
+
+5
+2
+What's the number of Ouroboros Enforcer[x01]Leonhardt, the Bladelord?
+No. I
+No. III
+No. II
+No. IV
+Haha... Speaking of him, I wonder who's[x01]stronger between him and Cassius?[x02]
+
+6
+0
+What is the name of Princess Klaudia's late[x01]father?
+Judis
+Dunan
+Edgar
+Celeste
+Incidentally, his death was in 1187, which[x01]wasn't long after the princess' birth.[x02]
+
+7
+3
+What was the name of Liberl's previous[x01]monarch before Queen Alicia took the[x01]throne?
+Dunan
+Celeste
+Judis
+Edgar
+Incidentally, she's also the second queen[x01]with the name Alicia to rule the country.[x02]
+
+8
+1
+How many monarchs has Liberl had since its[x01]founding, including the current monarch,[x01]Queen Alicia?
+25
+26
+27
+28
+Liberl's got quite the long history when you[x01]think about it, huh?[x02]
+
+9
+1
+Who has the dubious honor of being rejected[x01]by both Marsha in Grancel in the first game[x01]and Aina in Rolent in Second Chapter?
+Ricky
+Anton
+Jimmy
+Rinon
+Heehee! How many more failures is the poor[x01]guy going to have to go through before he[x01]finds someone?[x02]
+
+10
+1
+What is the name of the current president[x01]of Calvard?
+Lucksmith
+Rocksmith
+Lecksmith
+Rooksmith
+I guess that means somewhere down the line,[x01]his ancestors must have been stone masons[x01]of some kind.[x02]
+
+11
+2
+What is the title held by Fisherman's Guild[x01]member Percy?
+Avid Angler
+Master Fisher
+Amateur Fisher
+Supreme Fisher
+Fishing seems to be a fun pastime once you[x01]get to know it. Maybe I should give it a whirl[x01]sometime! ☆[x02]
+
+12
+0
+What is the name of the elder of the two[x01]twins who work in Edel Market in Grancel?
+Kitty
+Midee
+Dadee
+Ladee
+I wonder how things went between her and[x01]Rinon from Rolent in the end?[x02]
+
+13
+1
+Alan, who works at Rolent's landing port,[x01]has a habit of rating every girl he sees.[x01]Which of the following earned 100 points?
+Scherazard
+Kloe
+Estelle
+Tita
+Her Jenis uniform allowed her to win a perfect[x01]score of 100 points! Impressive.[x02]
+
+14
+3
+What color is the Cecilia, one of the airships[x01]that transports people around Liberl?
+Yellow
+Blue
+Red
+Green
+The Cecilia is the west-bound airliner. [x01]The eastbound one is the Linde, which[x01]was hijacked by sky bandits at one point.[x02]
+
+15
+1
+What color is the international airship,[x01]the Gretna, that connects Liberl and[x01]surrounding nations?
+Yellow
+Blue
+Red
+Green
+This was the airship that Estelle and Anelace[x01]used to get to Le Locle in Leman, by the way.[x02]
+
+16
+0
+What is the name of the state situated [x01]between Erebonia and Calvard that both[x01]countries assert ownership of?
+Crossbell State
+Ored State
+Leman State
+North Ambria State
+Maintaining autonomy in a situation like[x01]that must be quite difficult... [x01]...Oh. Were you expecting a witty comment?[x02]
+
+17
+0
+What was the name of the expensive wine[x01]that Olivier drank at the Anterose in Chapter 1[x01]of the first game?
+Grand Chardonnay
+Alan Richard
+Grand Richard
+Grand Sharia
+One from 1183, no less! I hear it sold for[x01]500,000 mira at auction. It must be delicious.[x02]
+
+18
+3
+What was the meaning of the name Leonhardt[x01]offered by Olivier when he encountered him[x01]in Second Chapter, Chapter 5?
+Lion-faced
+Lion-lover
+Lion-crusher
+Lion-hearted
+Heehee. I can't imagine calling him anything[x01]other than Loewe, personally. ☆[x02]
+
+19
+0
+What is the major of Jenis Royal Academy[x01]student Kloe Rinz?
+Social Studies
+Natural Sciences
+Humanities
+Science and Math
+Incidentally, Science and Math isn't a course[x01]available at the academy.[x02]
+
+20
+3
+What was the name of the orbal tank developed[x01]by the Intelligence Division that appeared in[x01]Second Chapter, Chapter 3?
+Orseille
+Arseille
+Argueille
+Orgueille
+Apparently, 'Orgueil' means 'Pride' in French...[x01]I wonder if that's where they took the name[x01]from?[x02]
+
+21
+2
+What was the name of the new model orbal[x01]engine developed in ZCF in Second Chapter[x01]that was key to the Non-Aggression Pact?
+XG-01
+XG-03
+XG-02
+XG-00
+This was also the model of engine used in the[x01]former Intelligence Division guys' tank, too.[x02]
+
+22
+1
+Who or what was eventually found to be the[x01]culprit in the peeping tom incident at Elmo[x01]in Second Chapter, Chapter 2?
+Pom
+Creepy Sheep
+Olivier
+Sasa Panda
+It's pretty mean to accuse monsters of [x01]peeping just for ending up in a town where[x01]people live, if you ask me.[x02]
+
+23
+3
+What is the name of the bay in the southwest[x01]part of the Ruan region?
+Dalmore Bay
+Zemuria Bay
+Cecilia Bay
+Azelia Bay
+If you want to fish in a sea in Second Chapter,[x01]this is your one and only choice.[x02]
+
+24
+3
+What is the name of the sea adjacent to the[x01]south side of the Zeiss region?
+Nathis Bay
+Mathis Bay
+Suthis Bay
+Titith Bay
+Did you know? It's this sea that Liberl and[x01]Calvard use to conduct maritime trade.[x02]
+
+25
+0
+What is the name of the daughter of [x01]General Morgan, commander of Liberl's [x01]border garrison?
+Rianne
+Rachel
+Dalia
+Katrina
+She hasn't had an easy life, either, what with[x01]being taken as a hostage before.[x02]
+
+26
+3
+What's the formal name of the Master of[x01]Valleria Lake, the fish that can be caught[x01]near the end of Second Chapter?
+Valleria Bass
+Blue Marlin
+Gigangora
+Dynatrad
+Those red eyes sure are scary, huh?[x01]I wonder if it tastes any good.[x02]
+
+27
+2
+Which of the following is a real recipe featured[x01]in the series?
+Ancient Bone
+Fattening Bone
+Rustic Bone
+Disturbing Bone
+Liberl really seems to have a lot of cuisines[x01]with weird names, doesn't it?[x02]
+
+28
+1
+What's the color of the bandana that Agate[x01]always wears?
+Yellow
+Green
+Red
+Blue
+He loves that thing, doesn't he? He didn't even[x01]take it off when getting into the hot springs![x02]
+
+29
+3
+What is the name of the wife of General[x01]Morgan, commander of Liberl's border[x01]garrison?
+Rianne
+Rachel
+Dalia
+Katrina
+Incidentally, the family's residence is in[x01]the west block of Grancel City.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+990
+4
+----[x02]
+Oh, poo. It looks like you're out of the game.[x02]
+Oh, poo. It looks like you're out of the game.[x02]
+You did it! Heehee. You're amazing.[x02]
+Wow! You actually managed to get every[x01]question right. Well done.[x02]
+----[x02]
+
+999
+4
+Well, let's get started, then, shall we?[x01]I hope you're ready![x02]
+No blindly guessing, now.[x02]
+Aww. Is that really the best you can do?[x02]
+Nuh-huh! Try one more time.[x02]
+Are you even trying?[x02]
+Wroooooong![x02]
