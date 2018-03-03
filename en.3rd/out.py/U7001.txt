@@ -1,0 +1,1716 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x109
+
+#1063F#6PIgnorant Cults...[x02][x03]
+
+The Kin of Vegarna...[x02][x03]
+
+The Cosmographica... [x01]
+Oh, here's the Azure Fragments.[x02][x03]
+
+#1065FWhoever manages this library must have some[x01]
+out-of-this-world connections to've gathered[x01]
+this many rare books from all over the place.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x109
+
+#1064F#6PWhoa! Is this a copy of Isthmian Tales?! [x01]
+What's a banned book doing here?![x02][x03]
+
+
+#1068FThe guys over at the Congregation for the[x01]
+Sacraments would flip their lid if they saw[x01]
+this thing.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x10F
+
+#1446F#6PAnd there aren't just old and rare books, either.[x01]
+I found one that was published this year.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x109
+
+#1079F#2PNo way![x02][x03]
+
+#1069FWh-What's it called?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x10F
+
+#1440F#6PIt's called 'Liberlian Cuisine.'[x01]
+Published by the Liberl News Service.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x109
+
+#1068F#2PThat can't be real.[x02][x03]
+
+#1069FWhat's that doing here mixed in with all[x01]
+the other stuff?[x02][x03]
+
+You sure you aren't pulling my leg?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x10F
+
+#1802F#6PYour guess is as good as mine...[x02][x03]
+
+#1447FThe photographs of food in it look delicious,[x01]
+however.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x109
+
+#1078F#2POh, I bet they do. There's this girl named[x01]
+Dorothy who works for the LNS, and she's[x01]
+one incredible photographer.[x02][x03]
+
+#1079FOh, yeah. Don't know how I forgot but...[x01]
+weren't you hungry?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x10F
+
+#1447F#6PI was, but I finished eating while you were[x01]
+busy looking at the books here.[x02][x03]
+
+#1448FI did save some for you, of course.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #9
+
+
+[x07][x05]Ries handed over a smidgen of her [x1F][x93][x01][x07][x05].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x109
+
+#1064F#2PHow fast did you eat...?[x02][x03]
+
+#1068FWait! We bought that poor store's entire[x01]
+bread supply and this is all that's left?![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x10F
+
+#1442F#6PThey were perfectly baked, too.[x02][x03]
+
+The flour used was clearly of high quality,[x01]
+but bread like that can't be made without[x01]
+excellent water, either.[x02][x03]
+
+#1447FI think I like Liberl.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x109
+
+#1840F#2PWell, I can't deny the country's got some[x01]
+great grub to try all around...[x02][x03]
+
+#1068F...Let's get off the subject of food, already![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x10F
+
+#1446F#6PI know.[x02][x03]
+
+#1443FThere's something truly odd about this[x01]
+place.[x02][x03]
+
+We should have a thorough look around.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x109
+
+#1065F#2PYeah...[x02][x03]
+
+#1079FOh. Come to think of it...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x10F
+
+#1802F#6P...[x02][x03]
+
+It's completely stopped glowing now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x109
+
+#1067F#2PMight as well be inactive again.[x02][x03]
+
+#1063FI doubt it was a coincidence that it started[x01]
+glowing just before we were sent here.[x02][x03]
+
+
+This is no ordinary artifact, that's for sure.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x10F
+
+#1443F#6P...[x02][x03]
+
+#1446FGive it to me, Kevin.[x02][x03]
+
+I'll look after it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x109
+
+#1064F#2PHuh? Why?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x10F
+
+#1443F#6PProtecting you is my duty as your squire.[x02][x03]
+
+
+As such, I can hardly stand by and let you[x01]
+keep something that poses such danger on[x01]
+your person. I should be the one to keep it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x109
+
+#1840F#2PWait a minute, Ries...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x10F
+
+#1443F#6PGive it to me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x109
+
+#1065F#2P*sigh* Look...[x02][x03]
+
+
+#1063FFirst, we still don't have any conclusive proof [x01]
+that this cube is the reason we ended up here.[x02][x03]
+
+
+Second, despite me being the one who had it[x01]
+up till this point, you're here with me anyway.[x02][x03]
+
+So unless you plan to take it off me AND run[x01]
+as far away from me as possible, who's holding[x01]
+it won't make a damn bit of difference.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x10F
+
+#1441F#6PBut still![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x109
+
+#1060F#2PSorry, but this time I'm actually ordering you.[x02][x03]
+
+You wouldn't disobey an order from your superior,[x01]
+would you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x10F
+
+#1445F#6P...[x02][x03]
+
+#1446FAll right, then.[x02][x03]
+
+#1443FBut if we find out for sure that it really is[x01]
+dangerous, promise me you'll get rid of it.[x02][x03]
+
+That's all I want you to agree to.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x109
+
+#1840F#2PAll right. Promise.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x109
+
+#1060F#2PAnyway, you up for some exploring?[x02][x03]
+
+
+I don't know what's up with this place,[x01]
+but it's time to try and find out.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x10F
+
+#1440F#6PFine by me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;;;;------------------ op#A op#5
+ChrTalk #29
+0x109
+
+#3P#9ARies![x02][x03]
+
+#17AWait a sec![x05][x02]
+
+
+
+
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;;;;------------------ op#A op#5
+ChrTalk #30
+0x10F
+
+#1445F#6P#7A...[x05][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;;;;------------------ op#A op#5
+ChrTalk #31
+0x109
+
+#1063F#24A#11PWhat's with you all of a sudden?[x02][x03]
+
+
+#1079F#35AOh, I know. Are you feeling left out because[x01]
+I'm the only one you know here and everyone[x01]
+else is all buddy-buddy?[x02][x03]
+
+#1068F#38ASorry, Ries. Probably wasn't fun to have to sit[x01]
+through the whole happy reunion deal over and[x01]
+over when you can't be a part of it.[x02][x03]
+
+#1840F#15AI should've noticed earlier, really. I've been[x01]
+pretty insensitive...so I'm really sorry, okay?[x05][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+;;;;------------------ op#A op#5
+ChrTalk #32
+0x10F
+
+#1446F#6A#6P...[x05][x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x10F
+
+#1445F#5PWhen are you going to stop acting?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x109
+
+#1064F#12PHuh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x10F
+
+#1446F#5PIt's true that I felt a little left out for a while.[x02][x03]
+
+
+You've clearly gone through so much together,[x01]
+and it's made you that much more fond of each[x01]
+other in the days since.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x109
+
+#1840F#12PHaha... Yeah, we had some amazing times.[x01]
+Hard to come out the other end of stuff we[x01]
+did without growing closer through it all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x10F
+
+#1806F#5PWatching you all, how could I not have felt lonely?[x01]
+How could I not have felt...jealous?[x02][x03]
+
+You've been avoiding me for the past five years,[x01]
+Kevin.[x02][x03]
+
+#1445FThe thought that you'd grown close to so many[x01]
+others while going out of your way to keep[x01]
+me out of arms' reach did make me sad.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x109
+
+#1067F#12PY-You know I didn't mean it like that, Ries...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x10F
+
+#1447F#5PBut at the same time, I was still happy you did.[x02][x03]
+
+
+#1445FI knew how badly what happened to Rufina had[x01]
+hurt you--how you were still blaming yourself for[x01]
+it.[x02][x03]
+
+I knew how you were driving yourself into a corner[x01]
+over it, and how you were taking on nothing but[x01]
+dirty jobs as if you were trying to punish yourself.[x02][x03]
+
+And I couldn't confirm it for myself for sure, but[x01]
+I just knew the rumors that you were desperate[x01]
+to burn yourself out through them were true.[x02][x03]
+
+#1806FSo that's the reason. That's why, as lonely as I felt[x01]
+when you were off making new friends without me,[x01]
+I was really, really happy more than anything.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x109
+
+#1841F#12PUmm... Ries, you do know that...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x10F
+
+#1446F#5P...Except it turns out you haven't made any new[x01]
+'friends' at all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x10F
+
+#1443F#5PYou're pulling the same exact thing you pulled with[x01]
+me on them. Every single one at arms' length--they[x01]
+can't get close to you. You won't get close to them.[x02][x03]
+
+On the surface, you're a cheerful person having fun[x01]
+with everyone, but on the inside, you're as cold as[x01]
+can be.[x02][x03]
+
+All you're doing is manipulating your own emotions[x01]
+so people think you're someone you're not.[x02][x03]
+
+After watching you ever since we were reunited,[x01]
+that's become plain as day to me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x109
+
+#1079F#12P...[x02][x03]
+
+#1840FHaha. Man, I'm happy you're worried about me,[x01]
+but you've totally got the wrong idea with this[x01]
+one.[x02][x03]
+
+#1071FSorry--I'm good at a lot of things, but pretending[x01]
+to be someone I'm not isn't one of them.[x02][x03]
+
+When I'm happy, you'll know about it, and when[x01]
+I'm mad...well, I think you know I'm not so good[x01]
+at hiding that, either.[x02][x03]
+
+#1066FI'm the same transparent guy I always was.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x10F
+
+#1447F#5POh, I didn't say you weren't easy to read.[x01]
+For me, at least.[x02][x03]
+
+#1806FAfter all, I know how genuinely shaken you[x01]
+were by the Lord of Phantasma's message.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x109
+
+#1076F#12P...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x10F
+
+#1443F#5PTheir words--and the words of that Schwarzritter--[x01]
+always come across as cryptic, but not to you.[x01]
+Deep down, you know what they're talking about.[x02][x03]
+
+You just constantly keep it from the rest of us[x01]
+and try to keep us in the dark.[x02][x03]
+
+#1445F...No. Maybe you've even managed to pull the[x01]
+wool over your own eyes, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x109
+
+#1066F#12PHaha... Come on, now. You can't seriously...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x10F
+
+#1446F#5P'Devour the new offering presented to you,[x01]
+and display your seal once more.'[x02][x03]
+
+#1805FYou know exactly what that means, don't you?[x01]
+Go on.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #49
+0x109
+
+#1067F#12P...[x02][x03]
+
+#1841FYou know what? Maybe you should sit things[x01]
+out for a bit. You're clearly really tired.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #50
+0x10F
+
+#1444F#5P...What?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #51
+0x109
+
+#1840F#12PI get that you're as angry as you are upset with[x01]
+me...but I think it's starting to make you jump to[x01]
+some really out-there conclusions.[x02][x03]
+
+And being tired out's only going to make it worse.[x01]
+Can't you see how negative your line of thinking is?[x01]
+You can't seriously believe all this is actually true.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x10F
+
+#1802F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x109
+
+#1065F#12PI'm not saying I don't deserve all the anger.[x01]
+I totally do.[x02][x03]
+
+I genuinely was busy, but at the same time,[x01]
+I wasn't sure how to face you if we did end[x01]
+up meeting, either...[x02][x03]
+
+#1078FStill, we're gonna be working together from[x01]
+now on, so--[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x10F
+
+#1445F#5PEnough.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0x109
+
+#1064F#12P...Huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #56
+0x109
+
+#1079F#12P...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #57
+0x10F
+
+#1441F#5PEverything you're saying is just...meaningless.[x02][x03]
+
+Maybe the others don't realize that, but how dare[x01]
+you think I, of all people, would fall for it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0x109
+
+#1067F#12P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0x10F
+
+#1806F#5PI realize I'm turning my back on my duties as a[x01]
+squire by doing this, but I can't bear to be near[x01]
+you any longer.[x02][x03]
+
+I can't stand to see the Kevin I thought I knew[x01]
+so...empty.[x02][x03]
+
+#1445FSo...[x02][x03]
+
+...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x109
+
+#1079F#12P...![x02][x03]
+
+#1067F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x10
+
+#1P...Kevin?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0x109
+
+#1067F#6POh. Hey...[x02][x03]
+
+#1840FHaha. I'm sorry you had to see that.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0x10
+
+#1500F#11PDon't worry about it.[x02][x03]
+
+#1503F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0x109
+
+#1075F#6P...I wanna know something, Joshua.[x02][x03]
+
+#1060FYou've looked into me a fair bit since[x01]
+I first stepped onto the scene, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0x10
+
+#1505F#11P...I have.[x02][x03]
+
+#1502FI know that you're called the Heretic Hunter.[x02][x03]
+
+I know that you're one of the twelve Dominions [x01]
+that lead the Gralsritter.[x02][x03]
+
+And I know you undertake the execution of[x01]
+sinners the church deems most unforgivable[x01]
+almost single-handedly.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #66
+0x109
+
+#1066F#6PHeh. I figured you'd know your stuff.[x02][x03]
+
+Wouldn't want any guys whose backgrounds[x01]
+you hadn't thoroughly vetted being close to[x01]
+your girlfriend for long, huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #67
+0x10
+
+#1503F#11PI can't deny it.[x02][x03]
+
+#1505FStill, the only people you harm are those sinners.[x01]
+Never anyone else.[x02][x03]
+
+#1500FSo I decided that--for the time being, at least--[x01]
+you weren't a threat to her or anyone else.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0x109
+
+#1840F#6PHaha. I see.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0x10
+
+#1502F#11PWeissmann was your work, too, wasn't it?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x109
+
+#1075F#6PSure was.[x02][x03]
+
+#1063FMy job was to get rid of him. That's it.[x02][x03]
+
+
+Everything I did with you guys leading up to that[x01]
+point was to get myself into a position to get it[x01]
+done without him catching on.[x02][x03]
+
+#1065FThat includes helping all of you out, naturally.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0x10
+
+#1505F#11P...Yeah. I know.[x02][x03]
+
+#1503FYou must have been aware of the possibility[x01]
+that Estelle would be taken on board the[x01]
+Glorious, too.[x02][x03]
+
+#1502FYou thought allowing it to happen would help[x01]
+you in the long run, so you kept quiet about it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0x109
+
+#1075F#6PWow. Now that one I'm surprised you pieced[x01]
+together.[x02][x03]
+
+#1073FBut yep. You're absolutely right. I figured there[x01]
+was a chance she might get abducted, but I did [x01]
+exactly nothing to stop it.[x02][x03]
+
+All I cared about was finding out what Weissmann[x01]
+and you were up to...and where you were, for that[x01]
+matter. Couldn't use better bait for that than her.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x10
+
+#1503F#11PI thought so.[x02][x03]
+
+#1505FAnd yet all of that doesn't change how I'm[x01]
+more grateful than words can express.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0x109
+
+#1074F#6P...Why's that?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #75
+0x10
+
+#1503F#11PBecause if you hadn't helped me back then,[x01]
+I would still be Weissmann's puppet.[x02][x03]
+
+I would've broken with my own hands what [x01]
+I value most in the whole world.[x02][x03]
+
+#1500FThat's a debt I'll never be able to fully repay.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #76
+0x109
+
+#1073F#6POh, sweet Aidios. Now you're just being cute.[x02][x03]
+
+#1075FI know you're smart enough to realize that's[x01]
+not at ALL why I threw you a bone, right?[x02][x03]
+
+I just wanted him off his guard enough to[x01]
+create the opening I needed.[x02][x03]
+
+#1072FHelping you was the perfect way to do that.[x01]
+That was all there was to it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #77
+0x10
+
+#1513F#11PAnd again: that doesn't change how grateful[x01]
+I am to you.[x02][x03]
+
+#1501FKnowing why you did what you did doesn't erase[x01]
+the gratitude I feel. Not in the slightest.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #78
+0x109
+
+#1071F#6PHaha...[x02][x03]
+
+#1840FIt really is just as well you ended up quitting[x01]
+Ouroboros.[x02][x03]
+
+You'd suck to high heaven if you were an[x01]
+Enforcer now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #79
+0x10
+
+#1513F#11PHaha... Honestly? You're totally right.[x02][x03]
+
+
+#1500FIf Ries is sitting on the sidelines for now,[x01]
+let me help you in her place.[x02][x03]
+
+I might not be as capable of helping you as[x01]
+she is, but I should be able to back you up.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #80
+0x109
+
+#1841F#6PYou don't need to feel indebted to me,[x01]
+you know...[x02][x03]
+
+#1840F...Well, I'll take what I can get. No doubt you're[x01]
+worried sick about Estelle, too, so there's your[x01]
+gold star reason for helping out besides me.[x02][x03]
+
+So, thanks. I'm glad you've got my back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #81
+0x10
+
+#1513F#11PRight back at you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #82
+
+
+[x07][x0C]#40WLook at me, Kevin Graham.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #83
+
+
+[x07][x0C]#60W...[x02][x03]
+
+...Instructor...Selnate?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #84
+
+
+[x07][x0C]#30WYou look as though you haven't eaten in days.[x02][x03]
+
+Although by the sounds of it, you really haven't. [x01]
+Nor have you even been drinking anything.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #85
+
+
+[x07][x0C]#60W...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #86
+
+
+[x07][x0C]#30WI was saddened to hear the news about Rufina[x01]
+as well.[x02][x03]
+
+But unfortunate accidents are a fact of life--[x01]
+especially in our line of work.[x02][x03]
+
+It's the risk we all choose to shoulder when we[x01]
+depart on a mission.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #87
+
+
+[x07][x0C]#60W...[x02][x03]
+
+...Kill...me...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #88
+
+
+[x07][x0C]#30WExcuse me?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #89
+
+
+[x07][x0C]#60WI've got no reason to be a knight anymore.[x02][x03]
+
+
+I've got no reason to even live anymore...[x02][x03]
+
+
+And if someone has to kill me, I couldn't ask[x01]
+for anyone better than you.[x02][x03]
+
+I doubt I'd even have the time to feel pain[x01]
+before you were done...so...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #90
+
+
+[x07][x0C]#30WIf that is your wish...[x01]
+In what world did you think I would happily[x01]
+oblige such an asinine request?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #91
+
+
+[x07][x0C]#40W...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #92
+
+
+[x07][x0C]#30WYou do remember what you said when you first[x01]
+became a squire, hmm?[x02][x03]
+
+You said you offered your soul to the Goddess[x01]
+above, and your body and blood to Her church[x01]
+here on earth.[x02][x03]
+
+After swearing that, you think you have the right[x01]
+to beg for death, much less a painless one? Don't[x01]
+make me laugh.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #93
+
+
+[x07][x0C]#40W...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #94
+
+
+[x07][x0C]#30WHeh. Still, I was reluctant to even relay this[x01]
+information for you...[x02][x03]
+
+
+...but after seeing how pathetic a state you're in,[x01]
+perhaps it won't be so difficult after all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #95
+
+
+[x07][x0C]#40W...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #96
+
+
+[x07][x0C]#30WSquire of the Gralsritter, Kevin Graham...[x02][x03]
+
+From this day on, you are to assume the position[x01]
+of Fifth Dominion.[x02][x03]
+
+Your appointment was decided by the Congregation [x01]
+of the Sacraments, and even His Holiness the Pope[x01]
+has given his approval. The job is yours.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #97
+
+
+[x07][x0C]#60W...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #98
+
+
+[x07][x0C]#40W...Wha...t...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #99
+
+
+[x07][x0C]#30WI imagine you must at least have heard rumors[x01]
+that the position of Fifth Dominion was vacant.[x01]
+Has been for several decades, too.[x02][x03]
+
+Congratulations. It turns out that position was[x01]
+meant for you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #100
+
+
+[x07][x0C]#40W...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #101
+
+
+[x07][x0C]#30WHeh. How the hell did that baby squire I once[x01]
+help teach reach the same rank as me?[x02][x03]
+
+I'm sure the fifth Merkabah will be pleased to[x01]
+finally see the light of day.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #102
+
+
+[x07][x0C]#60W...Why...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #103
+
+
+[x07][x0C]#30WOh, and incidentally, it's tradition to take on a[x01]
+title of your choosing after becoming a Dominion.[x02][x03]
+
+You might want to start giving some thought to [x01]
+what you want sooner rather than later.[x02][x03]
+
+As you already know, mine is 'Carnelia,' simple[x01]
+a name as it is.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #104
+
+
+[x07][x0C]#40WI-I don't care about titles... I don't care[x01]
+about any of those things...[x02][x03]
+
+Why...? Why me?[x02][x03]
+
+I couldn't even protect Rufina...from...[x01]
+...Why me...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #105
+
+
+[x07][x0C]#30WAnd to that I say, 'That is of no consequence here.'[x02][x03]
+
+'What is of consequence is that Rufina Argent was[x01]
+a highly capable knight.'[x02][x03]
+
+'She may not have manifested a Stigma of her own,[x01]
+but her problem solving abilities were at times[x01]
+greater than even a Dominion's.'[x02][x03]
+
+'Her loss will be keenly felt...and it will be up to our[x01]
+new Fifth Dominion to fill it.'[x02][x03]
+
+The words of His Eminence the Cardinal.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #106
+
+
+[x07][x0C]#40W...[x02][x03]
+
+...Haha...hahaha...[x02][x03]
+
+Oh, this is rich...[x02][x03]
+
+This is just RICH...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #107
+
+
+[x07][x0C]#30W#4SHahahahahahaha![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #108
+
+
+[x07][x0C]#30W...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #109
+
+
+[x07][x0C]#30WHaha... Oh, man! It's so funny, it hurts.[x02][x03]
+
+I become a knight to protect Rufina, then I end[x01]
+up shooting to the top of the ranks over her dead [x01]
+body![x02][x03]
+
+Ahaha! Amazing, huh? Who could've seen THAT [x01]
+coming?[x02][x03]
+
+I wish I could go back in time to tell myself when[x01]
+I signed up what was gonna happen just to see my[x01]
+own face! Hahaha![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #110
+
+
+[x07][x0C]#30W#4SAhahahahaha![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #111
+
+
+[x07][x0C]#30W...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #112
+
+
+[x07][x0C]#30W...Haha...hahaha...[x02][x03]
+
+Hah...hah...[x02][x03]
+
+...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #113
+
+
+[x07][x0C]#30WSo, what will you do?[x02][x03]
+
+
+I should make it clear that you do have the right[x01]
+to refuse your new appointment.[x02][x03]
+
+Admittedly, no one in the Gralsritter's thousand-[x01]
+year history has turned down a Dominion position, [x01]
+so doing so would be unprecedented, but still.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #114
+
+
+[x07][x0C]#30WHaha... Well, no shit.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #115
+
+
+[x07][x0C]#30WNo, I humbly accept my new position.[x02][x03]
+
+
+I'm ready to start work as soon as it's[x01]
+there for me. Hell, start piling it on me[x01]
+today! I'm up for it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #116
+
+
+[x07][x0C]#30W...All right, then.[x02][x03]
+
+I'll see what I can do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #117
+
+
+[x07][x0C]#30WOh, and don't hold back on me, either. Throw me[x01]
+the really hard stuff. The kind you'd need to be a[x01]
+masochist to want to take on.[x02][x03]
+
+And that title thing?[x02][x03]
+
+
+Hmm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #118
+
+
+[x07][x0C]#40WLet's go with 'Heretic Hunter,' okay?[x01]
+That sounds just perfect.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #119
+
+
+[x07][x05]There are a number of interesting books here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #120
+
+
+[x07][x05]There are a number of interesting books here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #121
+
+
+[x07][x05]There are a number of interesting books here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #122
+
+
+[x07][x05]There's a book called 'From Fat to Fit' written by Gilbert Stein.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #123
+0x109
+
+#1064FWell, uhh...[x02][x03]
+
+#1068FThis guy's...uh...dedicated. Yeah,[x01]
+let's go with that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #124
+0x10F
+
+#1936F...*slam*[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #125
+0x10F
+
+#1446F...*slam*[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #126
+0x101
+
+#1019FOh, man! What is this thing?[x02][x03]
+
+I think I'm gonna throw up...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #127
+0x102
+
+#1502FWh-What in...?[x02][x03]
+
+#1508F(It looks like he tried to adapt Ouroboros'[x01]
+jaeger strengthening program into a fitness[x01]
+regime. That's...impressive.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #128
+0x105
+
+#1165FAha...haha...[x01]
+(I almost feel sorry for him...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #129
+0x107
+
+#065FPoor Gilbert...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #130
+0x106
+
+#055FDaaamn...[x02][x03]
+
+#551FThis looks about as safe as a sword-balancing[x01]
+act on my neck. He seriously tried this?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #131
+0x103
+
+#1527FHuh. Fascinating.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #132
+0x104
+
+#1542F...Hmm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #133
+0x104
+
+#1547FOoh la la...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #134
+0x10B
+
+#216FWhaaaaaat?![x02][x03]
+
+#215F...[x02][x03]
+
+#413FI feel kind of ill...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #135
+0x10A
+
+#1317FUrk...[x02][x03]
+
+#817FI'm going to pretend I didn't see any of that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #136
+0x108
+
+#074F...*sigh*[x02][x03]
+
+#075FI really can't see there being much of a[x01]
+market for this thing...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #137
+0x10E
+
+#176F(I think I should return this to the shelf.[x01]
+...The very back of the shelf.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #138
+0x10D
+
+#272F...What a hopeless fool.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #139
+0x10C
+
+#115FThis is...a book.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #140
+0x110
+
+#264FHmm...[x02][x03]
+
+#261FHeehee. He's so dedicated. I'm ever[x01]
+so slightly impressed.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #141
+
+
+[x07][x05]All of Carnelia is on the bookshelf.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #142
+
+
+[x07][x05]All of Carnelia is on the bookshelf.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #143
+
+
+[x07][x05]All of Gambler Jack is on the bookshelf.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #144
+
+
+[x07][x05]All of Gambler Jack is on the bookshelf.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #145
+
+
+[x07][x05]All of The Doll Knight is on the bookshelf.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #146
+
+
+[x07][x05]All of The Doll Knight is on the bookshelf.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #147
+
+
+[x07][x05]There are a number of rare and valuable books here.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #148
+
+
+[x07][x05]...For some reason, a copy of 'Liberlian Cuisine' also sits among them.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,356 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x11
+
+#850F#5PHeehee. What a lovely sound.[x02][x03]
+
+The sound of everything crumbling to the ground...[x02][x03]
+
+Still, at least now the professor has the rubble[x01]
+of an ancient city to serve as his pillow in his[x01]
+eternal slumber.[x02][x03]
+
+I'm sure he must be very happy about that.[x02][x03]
+
+Haha. Don't you worry, Professor. You just leave[x01]
+everything to me now...[x02][x03]
+
+And with that...[x02][x03]
+
+...you won't ever need to crawl your way out of [x01]
+Gehenna and return to this world ever again.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+
+[x07][x00]◆Campanella clicks his fingers[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x11
+
+#850F#5PEnforcer No. 0, Campanella the Fool...[x02][x03]
+
+Entering the Celestial Globe in place of the[x01]
+Third Anguis, Georg Weissmann![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x11
+
+#850FEven all the noise going on outside can't reach[x01]
+this far inside the ship by the looks of it.[x02][x03]
+
+#853FJust as well. I couldn't fulfill my role otherwise.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x11
+
+#853F#6PRequesting access.[x02][x03]
+
+#854FI, Enforcer No. 0, Campanella the Fool...[x02][x03]
+
+
+...hereby request access to the Celestial Globe[x01]
+in place of the Third Anguis, Georg Weissmann.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x11
+
+#853F#6PSo it's time for the Phantasmal Blaze Plan to[x01]
+begin, huh?[x02][x03]
+
+The stage is set, at the very least. It's going[x01]
+to utterly dwarf the Gospel Plan in terms of[x01]
+both quality and scale...[x02][x03]
+
+#854FHeehee... Things are finally about to get[x01]
+interesting.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x11
+
+#855F#6P...By the way.[x02][x03]
+
+I might be the last person you want to hear[x01]
+this from, but...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x11
+
+#854F#5P...would you mind stopping the whole peeping[x01]
+in thing, mysterious stranger?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #8
+
+
+[x07][x00]Side Story [Phantasmal Blaze] finished![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #9
+
+
+[x07][x05]Received [x1F][x8F][x01][x07][x05].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #10
+
+
+[x07][x05]Received [x07][x02]30,000 mira[x07][x05].[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x11
+
+#850F#2PHey, Loewe.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x10
+
+#1150FDid you get plenty of rest?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x124
+
+#120FYeah...[x02][x03]
+
+
+
+
+
+
+
+So, what's the situation?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x10
+
+#1150FHeheh... Things are going even better than[x01]
+we expected.[x02][x03]
+
+The kingdom is in a complete state of panic[x01]
+because of the Aureole.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x11
+
+#850F#2PTo make matters worse for them, we sent down[x01]
+quite a lot of archaisms, too.[x02][x03]
+
+All in all, the Royal Army won't be able to act in[x01]
+an organized fashion to deal with things any time[x01]
+soon.[x02][x03]
+
+
+
+
+
+
+
+That goes for that irritating Cassius Bright, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x124
+
+#120FSo all in all, everything is going well.[x02][x03]
+
+
+
+
+
+
+
+...What about Joshua?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x10
+
+#1150FThe ship he was on has landed in Valleria Lake.[x02][x03]
+
+I don't doubt he'll begin to act again at some[x01]
+point, but for now, I don't think there's any[x01]
+need to factor him into our calculations.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x11
+
+#850F#2PHaha. By the time he's ready to act again, it'll[x01]
+be too late for him to do anything, anyway.[x02][x03]
+
+After all, now even the famous Blood and Iron[x01]
+Chancellor seems to have taken an interest in[x01]
+what's happening.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x124
+
+#120FHeh. You say that as if you had nothing to[x01]
+do with it.[x02][x03]
+
+It's only because of you that he even knows[x01]
+about the plan.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x11
+
+#850F#2PAhaha. Well, you know.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x10
+
+#1150FStill, the more actors on the stage, the livelier[x01]
+it is.[x02][x03]
+
+...Incidentally, Loewe...[x02][x03]
+
+We do have one small problem that needs to[x01]
+be dealt with.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x124
+
+#120FDo we, now?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x11
+
+#850F#2PIt's the floating city's defensive system,[x01]
+you see.[x02][x03]
+
+Amazingly enough, it's still operational.[x02][x03]
+
+We're going to need to disable it before we[x01]
+can land, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x10
+
+#1150FA giant ship like the Glorious is just going to[x01]
+be a huge, slow target for all of its firepower[x01]
+if we try getting any closer.[x02][x03]
+
+Still, if you use the Reverie Dragion that was[x01]
+developed for you, you should be able to get[x01]
+close to it and attack.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x124
+
+#120FI see...[x02][x03]
+
+So that's why you called me, is it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x11
+
+#850F#2PDo you think you can handle it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x124
+
+#120FI have the sword granted to me by the Grandmaster,[x01]
+that can cut anything in this world...[x02][x03]
+
+Of course I can.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x11
+
+#850F#2PHaha. So you do.[x02][x03]
+
+That was made with the Divergent Laws, too,[x01]
+wasn't it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x10
+
+#1150FThe Dragion is standing by for you on the deck.[x02][x03]
+
+Go forth, and use it to open the door that leads[x01]
+to a legend![x02]

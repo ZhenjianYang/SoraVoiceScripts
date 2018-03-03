@@ -1,0 +1,193 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #0
+0x11
+Man's Voice
+
+...Joshua.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x11
+
+#085F#5PDetermined to sleep outside again, hmm?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x10
+
+#1676F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x11
+
+#080F#5PNot a fan of sleeping in the same room as [x01]
+Estelle, I take it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x10
+
+#1671F#5P...She's way too much of a meddler.[x02][x03]
+
+She's also completely clueless.[x02][x03]
+
+#1675FShe's got no idea how much danger[x01]
+she's willingly exposing herself to...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x10
+
+#1670F#5PWhy don't you tell her, Cassius Bright?[x01]
+She has a right to know. [x02][x03]
+
+Why do you stand by and say nothing?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x11
+
+#085F#6P...The room next to Estelle's has been used[x01]
+as a storage room for a while now, but it could[x01]
+still be converted into a bedroom if need be.[x02][x03]
+
+#080FIt might actually be perfect for you.[x02][x03]
+
+Haven't been in there in a while, but I think[x01]
+there might even already be a bed in there.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x10
+
+#1676F#5PI'm fine as I am.[x02][x03]
+
+#1676FI don't need a room.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x11
+
+#085F#6PHmm...[x02][x03]
+
+I'll give you that Estelle loves to poke[x01]
+her nose into anything and everything[x01]
+that catches her interest.[x02][x03]
+
+And I can see how from your perspective,[x01]
+that makes her look like a simpleminded,[x01]
+clueless child.[x02][x03]
+
+But that's where you're mistaken.[x02][x03]
+
+#082FIt's not her who's clueless--it's you.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x10
+
+#1678F#5P...![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x11
+
+#080F#6PEstelle knows exactly what she wants out[x01]
+of life and what she has to do to get it.[x02][x03]
+
+
+Those things are part of what makes her[x01]
+who she is.[x02][x03]
+
+
+#083FAlthough, I can't deny that I was hoping[x01]
+to raise her to be a little more of a...well,[x01]
+ordinary girl than she's grown up to be.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x10
+
+#1675F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x11
+
+#085F#6PStill, compare that to you, Joshua.[x02][x03]
+
+You don't have a clue what you want anymore.[x01]
+You don't know what you should be doing.[x02][x03]
+
+#082FWhich of you is really in the right here?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x10
+
+#1675F#5P#40WI...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x11
+
+#085F#6PJust so we're clear, whatever you decide to do,[x01]
+I have no intention of indulging you.[x02][x03]
+
+I'm not going to tell you to leave...but I'm not[x01]
+going to tell you to stay, either.[x02][x03]
+
+#080FWhat you want to do, where you want to go,[x01]
+who you want to become...[x02][x03]
+
+Those are all things for you to decide, and you[x01]
+alone.[x02][x03]
+
+#085FNo one can make that decision for you, and no [x01]
+one knows what kind of decision you will make.[x01]
+Only you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x10
+
+#1675F#5P#40W...[x02][x03]
+
+#40WI...[x02][x03]
+
+#60W(Just what do I want...?)[x02]

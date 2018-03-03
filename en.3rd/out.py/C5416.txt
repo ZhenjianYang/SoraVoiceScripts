@@ -1,0 +1,803 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #0
+0x17
+Voice
+
+#4PWe have been waiting for you...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #1
+0x18
+Voice
+
+#3PYou have done well...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #2
+0x16
+Voice
+
+#2PSo that is the Aureole...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #3
+0x15
+Voice
+
+#1PSo you were able to recover it after all...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #4
+0x14
+Voice
+
+#5PStill, many sacrifices had to be made to obtain[x01]
+it...[x02][x03]
+
+We should not forget that...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #5
+0x13
+Voice
+
+#5PEveryone, be silent.[x02][x03]
+
+The Grandmaster is about to make an appearance.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x10
+
+#850F#4PI, Enforcer No. 0...[x02][x03]
+
+...have returned.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #7
+0x19
+Voice
+
+#5PRaise your head.[x02][x03]
+
+Well, Campanella...[x02][x03]
+
+...did the world move as I expected it would?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x10
+
+#850FWell, yes and no.[x02][x03]
+
+As you foretold, the activation of the Aureole was a[x01]
+success...[x02][x03]
+
+...but due to unforeseen circumstances that occurred,[x01]
+the Third Anguis and Enforcer No. II both journeyed to[x01]
+the Outside.[x02][x03]
+
+And as of now, No. VI and No. XV's current locations[x01]
+are unknown.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x10
+
+#850FWell, yes and no.[x02][x03]
+
+As you foretold, the activation of the Aureole was a[x01]
+success...[x02][x03]
+
+...but due to unforeseen circumstances that occurred,[x01]
+the Third Anguis and Enforcer No. II both journeyed to[x01]
+the Outside.[x02][x03]
+
+And as of now, No. VI and No. XV's current locations[x01]
+are unknown.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #10
+0x19
+Voice
+
+How pitiful...[x02][x03]
+
+As I expected, they were unable to overcome[x01]
+their trials.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x10
+
+#850F#4PPlease, do not place the burden of blame upon [x01]
+yourself.[x02][x03]
+
+The victory we obtained was more than worth[x01]
+the price we paid.[x02][x03]
+
+Please accept this. Once the Aureole returns to[x01]
+you, the Gospel Plan will be complete, after all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #12
+0x19
+Voice
+
+#5PThe Aureole...has finally returned to me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #13
+0x19
+Voice
+
+#5PThe bells in the West have rung, and the first of[x01]
+the Sept-Terrions has fulfilled its role.[x02][x03]
+
+So I hereby proclaim the end of the Gospel[x01]
+Plan...[x02][x03]
+
+...and the commencement of the next plan,[x01]
+Orpheus.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #14
+
+
+[x07][x05]We've been waiting for you...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x10
+
+#853F#6PHeehee. Already here, I see.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #16
+
+
+[x07][x05]...I certainly never envisioned that the[x01]
+Faceless would perish.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #17
+
+
+[x07][x05]Poor thing. All the trouble he caused his old[x01]
+friends finally caught up with him.[x02][x03]
+
+So, how exactly did he die? I'm simply dying[x01]
+to know.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x10
+
+#853FOh, I wish you could have seen it![x02][x03]
+
+#854FThe poor fellow was turned completely to salt,[x01]
+from the top of his head to the tips of his toes.[x02][x03]
+
+Then it all came crumbling down into itty bitty[x01]
+pieces.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #19
+
+
+[x07][x05]Oh, my... What a chilling way to go.[x02][x03]
+
+
+I do wish I could have been there to witness[x01]
+it for myself.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #20
+
+
+[x07][x05]So he fell victim to the result of that[x01]
+singularity in North Ambria, did he?[x02][x03]
+
+
+Ahhh, I would have loved to have seen[x01]
+the real thing when it first appeared...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #21
+
+
+[x07][x05]Haha. Who'd have seen that coming?[x02][x03]
+
+That guy never seemed to let his guard down[x01]
+even for a second. [x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #22
+
+
+[x07][x05]...I imagine it was the work of a Dominion.[x02][x03]
+
+
+Almost certainly the fifth--the position everyone[x01]
+previously believed to be vacant.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #23
+
+
+[x07][x05]Oh, right... Guess that explains why he screwed[x01]
+up.[x02][x03]
+
+So what's the Fifth Dominion's name, then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x10
+
+#853F#11PKevin Graham.[x02][x03]
+
+He calls himself the Heretic Hunter,[x01]
+and he studied under the one and[x01]
+only Carnelia.[x02][x03]
+
+#854FHeehee. Seemed like a real riot, too.[x01]
+Twisted in all the right places.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #25
+
+
+[x07][x05]He studied under Carnelia, now?[x02][x03]
+
+Now I'm even more interested in him.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #26
+
+
+[x07][x05]You've gotta be kidding me, Abyss.[x02][x03]
+
+After how into Leonhardt you were, you're not[x01]
+even gonna mourn his loss for more than a[x01]
+second before setting your eyes on a new guy?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #27
+
+
+[x07][x05]Oh, my... You've got me all wrong.[x02][x03]
+
+I assure you that I'm mourning Leon's death in my[x01]
+own way.[x02][x03]
+
+He's not a man I'll likely ever forget...especially as[x01]
+I could never get him to show even the slightest hint[x01]
+of interest in me to the very end.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #28
+
+
+[x07][x05]Indeed...[x02][x03]
+
+He truly was a skilled swordsman... His loss will[x01]
+be keenly felt.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #29
+
+
+[x07][x05]He was the only one among the Enforcers who was [x01]
+able to cross blades with you, I believe?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #30
+
+
+[x07][x05]Certainly of those I have fought against. I often[x01]
+asked him to humor me with my training.[x02][x03]
+
+I always felt as though there was a chance he[x01]
+may surpass me as a swordsman one day.[x02][x03]
+
+It makes knowing he lost his life before having[x01]
+a chance that much more difficult to bear.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #31
+
+
+[x07][x05]Haha. In my opinion, the loss of the Bladelord[x01]
+isn't all that significant when you look at the[x01]
+bigger picture.[x02][x03]
+
+A tiny, predictable loss in our overall combat[x01]
+capabilities.[x02][x03]
+
+Now, the loss of the Angel of Slaughter will[x01]
+have much more of a long-term impact.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #32
+
+
+[x07][x05]Heh. Oh, the chick with the scythe?[x02][x03]
+
+I wonder if she'll come back in the end.[x01]
+She seemed pretty confused.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #33
+
+
+[x07][x05]That's a decision for her and her alone to make.[x02][x03]
+
+We may be above them in the Ouroboros hierarchy,[x01]
+but that doesn't give us the right to order them[x01]
+around.[x02][x03]
+
+That is the way of the society.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #34
+
+
+[x07][x05]But still...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #35
+
+
+[x07][x05]Professor, all of us here are well aware of the[x01]
+importance of the Gordias series.[x02][x03]
+
+
+But this is a law decided by the Grandmaster.[x02][x03]
+
+
+Surely you are aware of what that means.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #36
+
+
+[x07][x05]...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #37
+
+
+[x07][x05]Heehee... You only need to look at Weissmann's[x01]
+obsession with that black-haired boy to see what[x01]
+can come from being too fixated on someone.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #38
+
+
+[x07][x05]Indeed... That very obsession proved to be[x01]
+his undoing.[x02][x03]
+
+Isn't that right, Campanella?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x10
+
+#853F#12PYou could definitely argue it was one of[x01]
+the factors that led to his failure, yes.[x02][x03]
+
+#854FKevin seemed like he was trying to use it[x01]
+to his advantage, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #40
+
+
+[x07][x05]...All right, all right. I'll drop the issue.[x02][x03]
+
+But know that as long as the Thirteen Factories[x01]
+are in my care, the Gordias series will be of[x01]
+unparalleled importance to me.[x02][x03]
+
+So I'll be keeping an eye on her from here on to[x01]
+observe how well the one she has is functioning.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #41
+
+
+[x07][x05]Certainly. We'll leave that to you.[x02][x03]
+
+I believed we've talked for long enough. The time[x01]
+has come for the Grandmaster's advent.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #42
+
+
+[x07][x05]Is that so...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #43
+
+
+[x07][x05]Teehee... How thrilling.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #44
+
+
+#7C#40WI see you have all gathered.#0C[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #45
+
+
+[x07][x05]Yes, Grandmaster.[x02][x03]
+
+With the exception of the Third Anguis,[x01]
+all are present and accounted for.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #46
+
+
+#7C#40WVery good.#0C[x02][x03]
+
+You deserve my thanks for observing all that[x01]
+transpired as my representative, Campanella.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x10
+
+#853F#11PI'm pleased to hear as much, Grandmaster.[x02][x03]
+
+#853FI imagine you are already aware of what transpired[x01]
+during the Gospel Plan even without me relaying[x01]
+the details...[x02][x03]
+
+...but allow me to fulfill my most important duty.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #48
+
+
+[x07][x05]Oh, my![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #49
+
+
+[x07][x05]So that's...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #50
+
+
+[x07][x05]That's the Aureole![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #51
+
+
+#7C#40WThank you.[x02][x03]
+
+
+If only the price we paid to obtain it weren't[x01]
+so great...[x02][x03]
+
+Weissmann... Leonhardt...[x02][x03]
+
+
+To say nothing of the countless other sacrifices,[x01]
+both human and otherwise that arose through[x01]
+this plan...[x02][x03]
+
+I, and I alone, bear responsibility for each and [x01]
+every one of them.#0C[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #52
+
+
+[x07][x05]Th-That is simply not true![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #53
+
+
+[x07][x05]Please, do not place the burden of blame upon[x01]
+yourself.[x02][x03]
+
+The Faceless alone was at fault for his death.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #54
+
+
+[x07][x05]But if anyone should take the blame, it's we[x01]
+Anguis who chose to overlook his behavior[x01]
+rather than steer him back on the right track.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #55
+
+
+#7C#40WNo... I half expected that this is what would[x01]
+happen.[x02][x03]
+
+Yet I chose to leave all of the decisions in his[x01]
+hands.[x02][x03]
+
+I did so because I believed that to be necessary[x01]
+for this world, but nonetheless...[x02][x03]
+
+...the blame is unequivocally mine.#0C[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #56
+
+
+[x07][x05]Oh, Grandmaster...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #57
+
+
+[x07][x05]Why must you blame yourself so?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #58
+
+
+#7C#40W...[x02][x03]
+
+There will inevitably be a reaction to what has[x01]
+happened in time...[x02][x03]
+
+...but I imagine the church will act regarding that.[x02][x03]
+
+
+Let us leave the matter to them.#0C[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #59
+
+
+[x07][x05]...As you wish.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #60
+
+
+[x07][x05]Haha... I must admit that my curiosity is piqued,[x01]
+but it shall be as you desire.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #61
+
+
+[x07][x05]In that case, what should all of us do now?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #62
+
+
+#7C#40W...#0C[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #63
+
+
+#7C#40WThe bells in the west have rang, and the[x01]
+first pact applies no more.#0C[x02][x03]
+
+I hereby proclaim the completion of the[x01]
+first phase of the Orpheus Final Plan,[x01]
+the Gospel Plan...#0C[x02][x03]
+
+...and the initiation of its second phase,[x01]
+the Phantasmal Blaze Plan.#0C[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #64
+
+
+[x07][x05]Very well![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #65
+
+
+[x07][x05]Heehee...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #66
+
+
+[x07][x05]Leave everything to us.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #67
+
+
+[x07][x05]We, your loyal Anguis...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #68
+
+
+[x07][x05]...in accordance with your wishes...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #69
+
+
+[x07][x05]...shall now fully devote ourselves to[x01]
+the execution of your plan.[x02]
+
+
+
+
+
+
+
+

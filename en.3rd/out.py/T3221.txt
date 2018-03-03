@@ -1,0 +1,514 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x12
+
+#070F#5PAn intelligence division in Calvard?[x02][x03]
+
+Really?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x14
+
+#1110F#6PIt's going to be established quite soon, under [x01]
+the guidance of the president.[x02][x03]
+
+It's become known as the Rocksmith Agency.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x12
+
+#070F#5PHmm... Well, it's appropriate, at least.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x13
+
+#790F#2PThen I presume the reason you're here...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x14
+
+#1110F#6PLikely so.[x02][x03]
+
+The president would like you to join this new[x01]
+agency and work in, and for the good of, the[x01]
+Republic.[x02][x03]
+
+You'll be given an important post, too.[x02][x03]
+
+You've proven yourself to have spectacular [x01]
+information handling and analytical skills[x01]
+in your position at the guild...[x02][x03]
+
+So I can hardly think of a more fitting place[x01]
+for you to put those skills to use.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x12
+
+#070F#5PUmm... Kilika...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x13
+
+#790F#4PDon't worry. I'm listening.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x14
+
+#1110FHaha. It's quite rare that you find it difficult[x01]
+to make quick judgments, but I suppose no one can[x01]
+fault you this time.[x02][x03]
+
+I won't rush you. Take a night to think long and[x01]
+hard about it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x14
+
+#1110F#6PI'll ask you for your answer again tomorrow.[x02][x03]
+
+I'm looking forward to hearing it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x13
+
+#790F#2P...Thank you.[x02][x03]
+
+I'll give it some thought.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x14
+
+#1110F#6PWell, a good night to you both.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x12
+
+#074F#5PHmm...[x02][x03]
+
+#070FSo there's going to be a new intelligence agency[x01]
+set up in Calvard, huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x14
+
+#1110F#6PThat's right. Under the direct guidance of the[x01]
+president himself.[x02][x03]
+
+It's known as the Rocksmith Agency.[x02][x03]
+
+...and as the name suggests, it's going to be an[x01]
+organization that answers directly to him.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x12
+
+#073F#5PReally, now?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x13
+
+#792F#2P...I see.[x02][x03]
+
+#790FI presume that is so that parliament can't have[x01]
+any influence over its running?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x14
+
+#1111F#6PCorrect.[x02][x03]
+
+#1113FPerhaps this new agency's biggest advantage is[x01]
+that it's separate from parliament, with all of[x01]
+its issues and vices.[x02][x03]
+
+The last thing we need is an organization like[x01]
+this suffering from parliament's inability to[x01]
+make prompt decisions or general ineffectuality.[x02][x03]
+
+#1110FOr being run in the same opaque and shady manner[x01]
+by a privileged few as it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x12
+
+#070F#5PHmm... That does sound like a good idea, [x01]
+I'll admit.[x02][x03]
+
+#074FWe're never going to be able to compare to the[x01]
+Empire's Intelligence Division, or Liberl's old[x01]
+one, if parliament's at all involved.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x14
+
+#1113F#6PQuite.[x02][x03]
+
+#1112FIt's very difficult to get anything done in a[x01]
+nation with such a lack of unity, after all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x12
+
+#074F#5PI guess that's just the fate of countries that[x01]
+take in massive amounts of immigrants, though.[x02][x03]
+
+#070FHonestly, though, I think the thing that surprises[x01]
+me the most is that the president's actually being[x01]
+proactive for once.[x02][x03]
+
+He's always struck me as a real conservative, so[x01]
+this really isn't the kind of thing I thought he[x01]
+would ever do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x13
+
+#792F#2PThat said, given the state of the Republic right[x01]
+now, it's hardly surprising that he would choose[x01]
+to act this way.[x02][x03]
+
+Outside our borders, we have the ever-present[x01]
+hawk faction in the Empire, and inside them,[x01]
+we have terrorists and extremists...[x02][x03]
+
+#790FSomething clearly has to be done, and I think he[x01]
+knows that as well as anyone.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x14
+
+#1113F#6PIndeed.[x02][x03]
+
+It's clear that in the times ahead of us, we're[x01]
+going to need to be able to respond flexibly to[x01]
+a variety of new and unforeseen threats.[x02][x03]
+
+#1110F...Regardless, I think my introduction to the[x01]
+matter has gone on long enough.[x02][x03]
+
+I should probably get to the point.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x12
+
+#070F#5POh, yeah... You've got something you need to[x01]
+specifically talk to Kilika about, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x13
+
+#790F#2PI'm guessing the reason you're here...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x14
+
+#1110F#6PI think you're probably right.[x02][x03]
+
+#1113FThe president would like you to join this new[x01]
+agency and work in, and for the good of, the[x01]
+Republic.[x02][x03]
+
+#1112FGiven your skills, I can hardly think of a more[x01]
+fitting place for you to work.[x02][x03]
+
+You'll be given an important post, too, of course.[x02][x03]
+
+This is all the will of the president himself,[x01]
+too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x13
+
+#792F#2PI see...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x12
+
+#075F#5P*sigh* I figured as much...[x02][x03]
+
+#070FStill, what led to you being the one to bring[x01]
+this to Kilika, anyway?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x14
+
+#1111F#6PA fair question, I suppose. Ordinarily, this[x01]
+would be a scout's work...[x02][x03]
+
+#1113FBut I've known the president on a personal[x01]
+level for quite some time now...[x02][x03]
+
+#1110FSo he took it upon himself to ask me to come[x01]
+to you personally.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x12
+
+#073F#5PI suppose that makes sense...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x13
+
+#790F#2P...So, what's his reason for wanting me?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x14
+
+#1110F#6PSurely you know that without asking... Or do you[x01]
+want to hear it said regardless?[x02][x03]
+
+Naturally, your master-class Taito skills are[x01]
+one reason for you being selected by the[x01]
+president...[x02][x03]
+
+But above all, he wants you for the exceptional [x01]
+analytical and information handling abilities [x01]
+you've shown in your position in the guild.[x02][x03]
+
+#1111FSurely no further reasons are necessary? You were[x01]
+practically born to do this job, if you ask me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x13
+
+#792F#2P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x12
+
+#075F#5PStill, you've got some real courage trying to[x01]
+steal an important member of the guild right[x01]
+in front of an active bracer.[x02][x03]
+
+#070FEspecially given that you were the one who asked[x01]
+him to be here yourself.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x13
+
+#792F#2P...Well, if she was hoping that you being here[x01]
+would make me more tempted to accept the offer,[x01]
+she was very much mistaken.[x02][x03]
+
+#790FYou being here will have no influence on my choice[x01]
+at all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x12
+
+#073F#5PUgh... You and your way with words.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x14
+
+#1113F#6P...[x02][x03]
+
+#1110FStill... What do you think, Kilika?[x02][x03]
+
+I'm not asking for an answer immediately, but [x01]
+I would like to know what's going through your[x01]
+mind.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x13
+
+#792F#2PWell, it's certainly an interesting proposal...[x02][x03]
+
+#790FBut I'm not sure I have any reason to accept it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x14
+
+#1113F#6PBut you have no reason to refuse it, either.[x02][x03]
+
+#1112FAm I right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x13
+
+#793F#2PW-Well...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x12
+
+#074F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x14
+
+#1110F#6PHaha. It's quite rare that you find it difficult[x01]
+to make quick judgments, but I suppose no one can[x01]
+fault you this time.[x02][x03]
+
+#1111FI won't rush you. Take a night to think long and[x01]
+hard about it.[x02][x03]
+
+It was so that you could do that I booked a room[x01]
+here tonight, after all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x14
+
+#1110F#6PI'll ask you for your answer again tomorrow.[x02][x03]
+
+I'm looking forward to hearing it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x13
+
+#790F#2P...Of course.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x14
+
+#1113F#6POh, and one more thing before I depart...[x02][x03]
+
+#1112F...If you ask me, remaining in your position as[x01]
+a simple guild receptionist just isn't going to[x01]
+let you use your abilities to their fullest.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x13
+
+#792F#2P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x14
+
+#1111F#6PWell, a good night to you both.[x02]

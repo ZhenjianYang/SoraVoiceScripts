@@ -1,0 +1,587 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xFE
+
+Santos'll be heading off for a conference[x01]
+in the near future, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xFE
+
+Which means that for a while, the only[x01]
+researcher here will be me...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xFE
+
+The curator here, Wilma, is exceptional at[x01]
+her job.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0xFE
+
+Which is why it's such a blow to us that she's[x01]
+going to be leaving us for a research institute[x01]
+abroad soon.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0xFE
+
+Still, as much as I'll miss her, the right thing[x01]
+to do here is to wish her well for the future![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0xFE
+
+Tons of fascinating archaeological finds get[x01]
+discovered here in Liberl.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0xFE
+
+Many of them come from Valleria Lake, but the[x01]
+Ahnenburg Wall is actually an ancient ruin, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0xFE
+
+Funny thing, though. Most folks don't realize[x01]
+that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0xFE
+
+This vase here was only salvaged from Valleria[x01]
+Lake last month.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0xFE
+
+Judging by the design, it's from the Middle Ages.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0xFE
+
+Haha. I always get as excited as a child on their[x01]
+birthday when things like these get brought in.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0xFE
+
+The Tetracyclic Towers aren't exactly well known[x01]
+outside of Liberl...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0xFE
+
+...so would a paper on them be well received?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0xFE
+
+I wonder if I should choose a different topic...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0xFE
+
+Oooh... I wish I wasn't doubting myself so much![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0xFE
+
+I think I could probably have done with more in[x01]
+the way of research materials, too...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0xFE
+
+Wh-What do you think, then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0xFE
+
+I feel so uncertain about how persuasively[x01]
+I'm putting my argument...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0xFE
+
+This year's archeology conference is over in[x01]
+the Ored State, I believe.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0xFE
+
+Aww... I wish I could've gooone...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0xFE
+
+Chances of me going aren't looking so hot[x01]
+this year, either. It bums me out.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0xFE
+
+It's normal to be nervous and start doubting[x01]
+yourself when you've got your first conference[x01]
+coming up.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0xFE
+
+Just take a deeeeep breath and relax.[x01]
+It's gonna be great![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0xFE
+
+Santos has his first conference coming up soon.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0xFE
+
+I can't go with him, though I wish I could.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0xFE
+
+Yeah, your ideas are good, but I think you need a[x01]
+little more in the way of hard research to back[x01]
+them up.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0xFE
+
+I've got a few papers that I think might help you,[x01]
+as it so happens. Want me to lend 'em to you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x10
+
+Wilma's going to be moving abroad next month...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x10
+
+I'll really miss her... She's been an incredible[x01]
+part of our team.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x10
+
+Wilma, the curator here, is going to be leaving[x01]
+next month for a research institute abroad.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x10
+
+...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x10
+
+She'll be missed, but none of us have any right[x01]
+to stop her.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x10
+
+The fact that she's able to do that just goes to[x01]
+show how talented she is, I suppose.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x10
+
+Hello! Welcome to the history museum.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x10
+
+Please feel free to take a look around.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #35
+
+
+[x07][x05][Tetracyclic Tower Outer Wall Segment]         Age: Pre-Septian?[x01]
+This wall segment was cut and carried from a Tetracyclic Tower--[x01]
+a structure built shortly after the Great Collapse.[x01]
+Depicted upon it are a staff-wielding priest and a winged god-[x01]
+like being, typical of period frescas. Scholars continue to[x01]
+examine the design for any connection with Aidios.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #36
+
+
+[x07][x05][Septian 1150-1200  ~The Orbal Post-Revolutionary World~][x01]
+It's been only 50 years since Prof. C. Epstein invented orbments,[x01]
+and world technology has advanced at lightning speed ever since.[x01]
+Perhaps the most notable representative of these advances is the [x01]
+modern orbal-powered airship. These 'orbalships' are already used[x01]
+extensively in Liberl, but neighboring nations such as Erebonia[x01]
+have also begun to devote themselves to their manufacture as well,[x01]
+and smaller-sized airships are also used.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #37
+
+
+[x07][x05][Pre-Septian Calendar  ~The Ancient Civilization of Zemuria~][x01]
+Around 1,200 years ago, the advanced civilization of Zemuria was[x01]
+at its peak. Then, suddenly and inexplicably, it disappeared.[x01]
+A 'Great Collapse' occurred, destroying the Zemurian culture and[x01]
+plunging its people into a dark age of ruin. The items exhibited[x01]
+on the first floor are from the very beginning of this era. They[x01]
+aren't believed to be products of the ancient civilization itself,[x01]
+but nonetheless, its influence is clearly visible upon them, giving[x01]
+them immense academic worth.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #38
+
+
+[x07][x05][Pre-Septian Calendar  ~The Ancient Civilization of Zemuria~][x01]
+Around 1,200 years ago, the advanced civilization of Zemuria was[x01]
+at its peak. Then, suddenly and inexplicably, it disappeared.[x01]
+A 'Great Collapse' occurred, destroying the Zemurian culture and[x01]
+plunging its people into a dark age of ruin. The items exhibited[x01]
+on the first floor are from the very beginning of this era. They[x01]
+aren't believed to be products of the ancient civilization itself,[x01]
+but nonetheless, its influence is clearly visible upon them, giving[x01]
+them immense academic worth.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #39
+
+
+[x07][x05][Ancient Lantern]                              Age: Pre-Septian?[x01]
+A device built to hold fire. Most often found near towers and[x01]
+other ceremonial structures. May have religious significance.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #40
+
+
+[x07][x05][Stone Pillar with Relief]                     Age: Pre-Septian?[x01]
+Found at the bottom of Valleria Lake. Adorned with reliefs[x01]
+similar to those found on the walls of the Tetracyclic Towers.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #41
+
+
+[x07][x05][Floor Tile]                                   Age: Pre-Septian?[x01]
+A piece of tiled floor from inside a ruined building. Broken[x01]
+stones fit together to create beautiful and intricate patterns.[x02]
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #42
+
+
+[x07][x05][Septian Calendar 1-500  ~The Dark Age of Ruin~][x01]
+Immediately following the Great Collapse, the world was plunged[x01]
+into confusion, signaling the beginning of what came to be[x01]
+referred to as the Dark Ages. [x01]
+This era was defined by almost endless conflict between various[x01]
+powers and numerous nations, large and small, and lasted for [x01]
+roughly 500 years.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #43
+
+
+[x07][x05][Knights' Equipment]                    Age: Septian Calendar 500[x01]
+In an era defined by conflict, war became a way of life, and as a[x01]
+result, warriors came to wield great influence in society. This[x01]
+eventually led to them becoming a privileged social class of their[x01]
+own.[x01]
+The knights wielded armaments like these when they went out onto [x01]
+the battlefield, returning with more spoils and land, and gradually[x01]
+increasing their influence and power all the more.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #44
+
+
+[x07][x05][Septian Calendar 500-1100  ~The Septian Era~][x01]
+The first appearance of the Septian Church occurred around the[x01]
+year 500 and marked the end of the Dark Ages.[x01]
+The church, centered around the 'Goddess of the Sky' Aidios and[x01]
+espousing an ideology of human salvation, began to take an active[x01]
+role in society and rapidly permeated social consciousness. [x01]
+Eventually, the nobility and knight class could no longer ignore[x01]
+the church's power, and a new order was established with the [x01]
+church at the center. [x02]
+
+
+
+
+
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #45
+
+
+[x07][x05][Ancient Artifacts]                                 Age: Unknown[x01]
+'Artifact' (noun) - A relic of any shape or size found in an[x01]
+ancient ruin and generally of unknown or uncertain purpose.[x01]
+The church believes these artifacts have some connection with[x01]
+the Sept-Terrions--gifts from Aidios--and their recovery is[x01]
+one of the duties that the church fulfills. [x01]
+Artifacts are said to have supernatural powers, but those on[x01]
+display here are all ones that have since lost said powers and[x01]
+are no longer functional.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #46
+
+
+[x07][x05][Church Ritual Items]          Age: Septian Calendar 900 (approx.)[x01]
+The church has long been a source of art, and this has been true[x01]
+since the dawn of the Septian Era. It was around the year 900,[x01]
+however, that the current likeness of Aidios is thought to have[x01]
+been first created. Likewise, many of the ritual items used by[x01]
+the church today first assumed their present forms in this time[x01]
+period, too.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #47
+
+
+[x07][x05][Church Testaments, Manuscript]        Age: Septian Calendar 500[x01]
+A handwritten copy of the scriptures used by the church at the[x01]
+end of the Dark Ages. The ability to print did not exist in the[x01]
+Middle Ages, leaving no choice but to copy by hand onto pieces[x01]
+of parchment.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #48
+
+
+[x07][x05][Medieval Loom]                        Age: Septian Calendar 900[x01]
+A man-powered machine used to spin thread. As the Septian Era[x01]
+continued and people became accustomed to peace, cotton and [x01]
+other crops became more widely cultivated and sold. This was [x01]
+also the era in which handicrafts with the intent to obtain money [x01]
+came into practice.[x02]
+

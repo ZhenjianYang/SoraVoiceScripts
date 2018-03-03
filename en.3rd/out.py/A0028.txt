@@ -1,0 +1,38 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+
+
+[x07][x05]#0W―――――――――――――――――――――――――――[x01]
+　[x01]
+　Shoot down approaching enemies and missiles[x01]
+　using Josette's machine gun.[x01]
+　The controls are as follows.[x01]
+　[x01]
+　Arrow Keys/Mouse    : Aim[x01]
+　OK Key/Button       : Fire (Hold)[x01]
+　Cancel Key/Button   : Zoom (Hold)[x01]
+  Notebook Key/Button : Change View[x01]
+　[x01]
+―――――――――――――――――――――――――――#20W[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+
+
+[x07][x05]#0W―――――――――――――――――――――――――――[x01]
+　[x01]
+　You have unlimited ammo, but take heed:[x01]
+　Shoot for too long, and you'll shoot slower.[x01]
+　Shot speed recovers gradually when not shooting.[x01]
+　[x01]
+　If the Bobcat's health falls to 0,[x01]
+　you'll get a Game Over, so be careful![x01]
+　[x01]
+　[x01]
+　[x01]
+―――――――――――――――――――――――――――#20W[x02]

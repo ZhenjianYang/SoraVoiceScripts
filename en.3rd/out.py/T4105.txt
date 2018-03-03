@@ -1,0 +1,925 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x10
+
+#151F#2PAhhh... It's so lovely to be back here again.[x02][x03]
+
+The Republic was a wonderful place, too,[x01]
+but you can't beat the air here in Liberl.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x109
+
+#1060F#6PYou wouldn't believe all that stuff happened[x01]
+half a year ago looking at Grancel now, either.[x01]
+It's all completely back to normal.[x02][x03]
+
+The people here sure are strong for what's[x01]
+usually such a peaceful country.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x10
+
+#157F#2PWell, it's a country ruled by a queen![x02][x03]
+
+
+#150FEveryone knows women are tough in[x01]
+the face of adversity.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x109
+
+#1066F#6PI'm not sure whether you're a perfect[x01]
+example of that or the opposite...[x02][x03]
+
+#1075FYou're right about the air here, though.[x01]
+It IS nice.[x02][x03]
+
+#1060FNostalgic, almost. Makes me feel a little[x01]
+homesick.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x10
+
+#150F#2PYour home's in Arteria, right?[x02][x03]
+
+
+The place with all the reeeally big churches[x01]
+and stuff?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x109
+
+#1060F#6PNah. I'm not actually from Arteria.[x02][x03]
+
+
+Not many people are.[x02][x03]
+
+
+It's actually pretty darn small--like, smaller than[x01]
+most states around the continent.[x02][x03]
+
+
+It's where the High Seat of the Septian Church [x01]
+is, so lots of pilgrims and clergymen gather there,[x01]
+but few are actually born there.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x10
+
+#151F#2POh, really? Huh...[x02][x03]
+
+#153FSo where are you from, then?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #7
+0x11
+Man's Voice
+
+#1PDoooroooooothyyyyyyyyy...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x10
+
+#153F#6POh, Nial![x02][x03]
+
+#151FI'm home! Did you miss me?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x11
+
+#147F#2PDid I miss you?[x02][x01]
+
+#144FOf course I MISSED you! What in Aidios'[x01]
+name have you been DOING?![x02][x03]
+
+I sent you to Bose! How did you end up in [x01]
+Calvard?![x02][x03]
+
+
+You were definitely on the west-bound liner![x01]
+I'm sure of it![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x10
+
+#154F#6PI really don't know...[x02][x03]
+
+
+#153FOh, wait! I might actually know![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x11
+
+#142F#2PGo on, then. Spit it out.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x10
+
+#155F#6PI bet I'm a sleepwalker.[x02][x03]
+
+
+After I got on the right airship, I fell asleep[x01]
+and then sleepwalked onto the wrong one![x02][x03]
+
+To think that all of this could turn out to be[x01]
+part of some elaborate murder plot.[x02][x03]
+
+#151FWowie! All of a sudden, I feel like I've walked[x01]
+right into a mystery novel![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x11
+
+#144F#2P#3SSleepwalkers don't change airships, you idiot![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x11
+
+#145F#2P#2S#40W*pant* *pant* [x01]
+#40WUgh... I'm all out of breath now...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x10
+
+#154F#6PA-Are you all right?[x02][x03]
+
+I really do think you should cut down on your[x01]
+smoking... You're not as young as you used to [x01]
+be, you know.[x02][x03]
+
+#150FOh, right... Your 30th birthday was last Friday,[x01]
+too, wasn't it?[x02][x03]
+
+#151FHappy birthday! I bought a cake over in Calvard[x01]
+and had a big celebration for it, too![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x11
+
+#145F#2PHow is it that you can remember useless crap like[x01]
+that and not the things that actually matter?[x02][x03]
+
+#142FI bet you were just looking for an excuse to eat[x01]
+cake all by yourself, weren't you?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x10
+
+#151F#6PYou should've seen it, Nial! It was made with[x01]
+Eastern matcha, so it was unlike any cake I'd[x01]
+ever seen![x02][x03]
+
+That perfect blend of sweetness and bitterness [x01]
+was just SUBLIME.[x02][x03]
+
+#150FI took looots and loooooots of cute pictures of it,[x01]
+so I'll show you them all later.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x11
+
+#144F#2P#3SYou brought me PICTURES OF A CAKE?![x01]
+At least bring back a souvenir![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x109
+
+#1068F#6P(M-Man...)[x02][x03]
+
+(They always FELT like they could go into business[x01]
+as a comedy duo and actually make money off it,[x01]
+but they're even more of a crackup now.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x11
+
+#143F#2PWait a second...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x109
+
+#1066F#6PHaha... Nice to see you again, Nial.[x02][x03]
+
+
+You're lookin' same old, same old...though[x01]
+maybe you're not so happy about that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x11
+
+#144F#5PWh-What are you doing here?![x02][x03]
+
+
+Please, PLEASE tell me she didn't end up going[x01]
+to Arteria and causing trouble there, too...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x109
+
+#1061F#6PHaha. Your wish is my command.[x02][x03]
+
+#1062FWe just ran into one another on that airship[x01]
+by total coincidence, that's all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x11
+
+#143F#5PO-Oh, good... You had me worried for a minute.[x02][x03]
+
+#145FI was scared stiff she'd gone and smashed[x01]
+some super expensive stained glass windows[x01]
+in the cathedral there or who knows what...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x109
+
+#1068F#6PI'm so sorry for what you have to put up with...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x10
+
+#151F#6PPshaw! You're too much of a worrywart.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x11
+
+#145F#5PWhose fault do you think that is...?[x02][x03]
+
+#141FStill, it's good to see you again, Father.[x02][x03]
+
+
+What brings you to Liberl? Somethin' else happen[x01]
+here?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x109
+
+#1060F#6POh, just a bit of work-related business I've gotta[x01]
+take care of.[x02][x03]
+
+It's not part of a major investigation, so don't go[x01]
+getting your hopes up. Nothing of interest's gonna[x01]
+happen.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x11
+
+#147F#5PHaha... I'll be the judge of that.[x02][x03]
+
+
+#141FAnyway, so where're you staying for the time[x01]
+being? Grancel Cathedral?[x02][x03]
+
+I'll have to drop by and say hi some time when[x01]
+I get the chance.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x109
+
+#1066F#6PHaha... Go for it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x11
+
+#144F#2PIn the meantime, I'm dragging your butt right[x01]
+back to the office, Dorothy![x02][x03]
+
+You're going to tell us aaaaaall about what the[x01]
+hell you've been doing these past two weeks![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x10
+
+#151F#6PHeehee. You bet'cha![x02][x03]
+
+
+I snapped photos of every meal I had while I was[x01]
+over in Calvard, so I'm sure if we develop them,[x01]
+I'll be able to remember everything![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x11
+
+#145F#2PI'm not talking about your gourmet report![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x109
+
+#1068F#5PWhew... Seeing those two together really[x01]
+makes it sink in that I'm back here.[x02][x03]
+
+
+#1060FThinking about it, I wonder how all the others [x01]
+here are doing?[x02][x03]
+
+I know Estelle and Joshua are abroad at the [x01]
+moment, but I've got no idea what the others [x01]
+are up to.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #35
+0x12
+Man's Voice
+
+#1PIs that you, Father Graham?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x109
+
+#1064F#2PLieutenant Colonel Cid![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x12
+
+#701F#2PIt's good to see you again.[x02][x03]
+
+I'm pleased to see you've been keeping well[x01]
+since we last met at that banquet.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x109
+
+#1060F#6PThe same to you, sir.[x02][x03]
+
+
+I gotta say, I wasn't expecting you to[x01]
+be the army representative who came[x01]
+to meet me, though.[x02][x03]
+
+I figured it'd be Julia.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x12
+
+#701F#2PIt may have been, but she's currently out on [x01]
+another mission, so unfortunately you'll have[x01]
+to make do with me.[x02][x03]
+
+I didn't have anything better to do, so I came[x01]
+in her place. [x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x109
+
+#1061F#6PThere's no need to be so modest![x02][x03]
+
+#1062FA little bird told me that you're going to be [x01]
+promoted to full-on colonel soon, aren't you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x12
+
+#703F#2PI shouldn't be surprised that your people have[x01]
+such a good information network, but I still am.[x02][x03]
+
+#701FHeh. Still, I'm afraid I still feel the position is too[x01]
+much responsibility for me as I am.[x02][x03]
+
+Brigadier General Bright still has plenty of work[x01]
+left in him, too. I wouldn't want to take any of it[x01]
+from him.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x109
+
+#1066F#6PPoor Cassius is still getting worked to the bone,[x01]
+huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x109
+
+#1063F#6PAnyway, getting down to business...[x01]
+It's in Grancel Cathedral, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x12
+
+#703F#2PThat's correct. It's being kept underneath it[x01]
+to be more specific, although I imagine you're[x01]
+already aware of that much.[x02][x03]
+
+#700FI hear laymen like myself can't even enter it[x01]
+without the knights' permission.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x109
+
+#1060F#6PPretty much. It's a...special place, you see.[x02][x03]
+
+
+I'll fill you in on the details when we get there.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x12
+
+#703F#2PAll right, then.[x02][x03]
+
+#701FWell, we may as well head there right away.[x01]
+There's someone I want you to meet in the[x01]
+cathedral.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x109
+
+#1064F#6PHuh? Who?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x12
+
+#701F#2PLet's just say...someone who's been assisting[x01]
+with this case.[x02][x03]
+
+They'll be apprising you of the details on what[x01]
+you're dealing with here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #49
+
+
+[x07][x05]Thank you all for waiting.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #50
+
+
+[x07][x05]The Calabria international airliner, bound for[x01]
+the Principality of Remiferia, will be departing[x01]
+momentarily.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #51
+
+
+[x07][x05]Please mind your footing when boarding.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x29
+
+#173F#6PS-So that was the Blood and Iron Chancellor...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x2A
+
+#025F#6PI can't believe he actually went out of his way[x01]
+to use a civilian airship when he probably has a[x01]
+private one of his own.[x02][x03]
+
+#022FI'd heard rumors about how out of the ordinary[x01]
+he is, but he lives up to all of them.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x23
+
+#1545F#5PHaha... He keeps me on my toes, to put it playfully[x01]
+enough.[x02][x03]
+
+#1540FHim aside, thanks for coming all this way to see me[x01]
+off, Schera.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0x2A
+
+#021F#6PI was lucky I just happened to have business[x01]
+here at the right time.[x02][x03]
+
+#524FIt feels like this is going to be the last chance[x01]
+we get to see one another for a while, after all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #56
+0x23
+
+#1541F#5PRather unfortunate, as my dream is and always[x01]
+was to live away my days in the lap of luxury[x01]
+surrounded by women as beautiful as you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #57
+0x2A
+
+#025F#6P*sigh* Well, good luck with that.[x02][x03]
+
+
+
+#022FChanging the subject, though...who was the[x01]
+young man at the chancellor's side?[x02][x03]
+
+He didn't strike me as your ordinary guy...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0x26
+
+#1122F#11POh? You could tell?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0x2A
+
+#025F#5PBut of course.[x02][x03]
+
+#524FI'd say I'm used to running into people[x01]
+who are out of the ordinary at this point.[x01]
+We've sure fought enough of them.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x23
+
+#1551F#5PHis name's Lechter Arundel. He's a secretary[x01]
+who was sent here by the Imperial government.[x02][x03]
+
+#1540FApparently, he was the one who planned out all[x01]
+the details of the chancellor's visit to Liberl.[x02][x03]
+
+#1545FI can't pretend to know much regarding his[x01]
+background, but he's exceptionally skilled at[x01]
+what he does.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x25
+
+#1169F#12PActually...[x02][x03]
+
+#1163F...I know a little.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0x29
+
+#173F#5PWhat?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0x2A
+
+#023F#6POh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0x23
+
+#1543F#5PIs that true?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0x25
+
+#1167F#12PYes...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #66
+
+
+[x07][x05]Klaudia explained that Lechter once attended the same academy as her and had[x01]
+served at its Student Council president.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #67
+
+
+[x07][x05]She also mentioned about his sudden disappearance after the academy festival[x01]
+two years ago.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0x24
+
+#270F#5PUnbelievable...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0x29
+
+#172F#5PTh-Then...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x23
+
+#1551F#5PSomeone connected to the chancellor had visited[x01]
+Liberl first?[x02][x03]
+
+#1542FThen he's very likely to have had his own veritable[x01]
+information network established here long before I[x01]
+even came up with the idea.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0x26
+
+#1125F#12PI think it's safe for us to assume that's the case.[x02][x03]
+
+
+#1128FWhich also means that it's safe to assume he[x01]
+knows every detail about all that's happened[x01]
+here since.[x02][x03]
+
+#1122FFrom the coup d'etat to the crisis regarding the[x01]
+Aureole... All of it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0x23
+
+#1551F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x2A
+
+#025F#6PThis man gets more unbelievable by the minute...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0x25
+
+#1169F#12PHe actually gave me a message to pass on to you[x01]
+earlier, too.[x02][x03]
+
+#1162F'Watch your back, so you don't get swallowed up[x01]
+by that monster when you get tired of dancing.'[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #75
+0x24
+
+#276F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #76
+0x23
+
+#1544F#5PHe sure knows how to sting where it hurts,[x01]
+doesn't he?[x02][x03]
+
+#1547FHaha. I feel like I can see a whole new world[x01]
+of pleasure opening up before my eyes.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #77
+0x23
+
+#1545F#5PHe should know better. Getting outdone at[x01]
+every turn like this is really not my style.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #78
+0x25
+
+#1164F#12PWhat do you mean?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #79
+0x23
+
+#1541F#12PCaptain Schwarz?[x02][x03]
+
+#1540FI have a little favor I'd like to ask for when[x01]
+we're in the air...[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

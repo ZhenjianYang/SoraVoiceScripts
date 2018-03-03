@@ -1,0 +1,446 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xFE
+
+Hmm... To cut, or not to cut...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xFE
+
+One thing's for sure: if we don't work out a way[x01]
+to cut production costs at least a teeeeeny tiny[x01]
+bit, we won't stack up to the Empire...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xFE
+
+You're looking for Erika Russell?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0xFE
+
+I haven't seen her today. Sorry![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0xFE
+
+If I haven't, though, it makes me wonder[x01]
+whether she's finished that project she was[x01]
+plowing through...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0xFE
+
+She's been hogging all the equipment to herself[x01]
+to work on it lately.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x10
+
+#101F#5PThis tool here's brand new. It can cut with ten[x01]
+times more precision than the previous model![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x11
+
+#1457F#12PBah... I had no idea you had something like this[x01]
+here now.[x02][x03]
+
+#1456FI think I might have to go over the designs again![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x107
+
+#560F#1POh, Mom![x02][x03]
+
+Here you are.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x11
+
+#1450F#5PWelcome back, Tita.[x02][x03]
+
+Did you manage to do what I asked?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x107
+
+#061F#12PYup. Mr. Murdock said he'll take care of[x01]
+the paperwork right away.[x02][x03]
+
+He's probably working on it right now.[x02][x03]
+
+
+#560FBut now that I've done that, Mom...[x02][x03]
+
+...I want to be part of the Orbal Gear's[x01]
+development team, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x11
+
+#1454F#5P...You?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x107
+
+#063F#12PYeah. I didn't write this in any of my letters...[x02][x03]
+
+
+...but I ended up spending some time with[x01]
+Renne while she was in Liberl.[x02][x03]
+
+
+#062FAnd even if she's a member of the society,[x01]
+she's also my friend.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x11
+
+#1452F#5PRenne...?[x02][x01]
+
+#1457FNow, where have I heard that before...?[x02][x03]
+
+
+#1453FOh! Wasn't she the girl Pater-Mater belongs to?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x10
+
+#100F#5PUmm... Erika... If I might be permitted to say[x01]
+my piece here...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x11
+
+#1830F#11PSay your piece?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x107
+
+#065FM-Mom?! What are you...?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x11
+
+#1457F#6PYou better have a DAMN GOOD explanation[x01]
+for this one, Albert.[x02][x03]
+
+My daughter ended up making friends with a[x01]
+member of OUROBOROS?![x02][x03]
+
+#1459FWhy is this the first I'm hearing of this? This[x01]
+wasn't in any of what you sent me![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x10
+
+#104F#5PWell...[x02][x03]
+
+...it was kind of hard to say...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x11
+
+#1459F#6PDon't you give me that![x02][x03]
+
+As if you hadn't already exposed her to enough[x01]
+danger to make me want to strangle you, and[x01]
+now I'm hearing THIS?![x02][x03]
+
+#1830F#3SJust what have you been doing with my[x01]
+daughter while I've been away?!#2S[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x107
+
+#062FM-Mom! I'm serious! I want to be involved in the[x01]
+Orbal Gear's development![x02][x03]
+
+I'm completely powerless on my own, but I still[x01]
+want to find some way to talk to her.[x02][x03]
+
+
+And the Orbal Gear's going to be able to fight[x01]
+on equal terms with Pater-Mater, right?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x107
+
+#068FTh-Then I want to be involved! Because I want[x01]
+the kind of power that Estelle has![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x11
+
+#1453F#5P...Tita?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x11
+
+#1452F#5PCorrect me if I'm wrong, but...[x02][x03]
+
+...you're not considering using the Orbal Gear[x01]
+to fight Pater-Mater yourself, are you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x107
+
+#564F#12PWhat...?[x02][x03]
+
+Th-That wasn't what I meant... I...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x11
+
+#1457F#5PI want to make very sure of this.[x02][x03]
+
+Do you understand just what we're making here?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x107
+
+#064F#12PUmm... Well...[x02][x03]
+
+#560FWell, I only got a quick look at the blueprints,[x01]
+but it looked like a bipedal...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x11
+
+#1453F#5PThat's not what I mean.[x02][x03]
+
+The Orbal Gear is a weapon. No matter how you[x01]
+try to dress that fact up, that's the reality.[x02][x03]
+
+#1452FIt's a tool designed to be used by people to hurt[x01]
+other people. [x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x107
+
+#063F#12PB-But...[x02][x03]
+
+But you're not making it because you want to hurt[x01]
+people, are you?[x02][x03]
+
+Even the patrol airships used by the army are made[x01]
+to protect the country, not to hurt people...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x11
+
+#1457F#5PIt doesn't matter what I think. It doesn't matter[x01]
+what the developer of any new weapon thinks.[x02][x03]
+
+We're not the ones actually going out and using[x01]
+the things we make.[x02][x03]
+
+#1453FThe devices we pour our hearts into making go[x01]
+on to cause unspeakable suffering to people,[x01]
+and there's nothing we can do to stop it.[x02][x03]
+
+#1452FHave you ever stopped to think about that?[x02][x03]
+
+
+And after having it pointed out to you, can you[x01]
+still say you want power?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x107
+
+#065F#12PWell...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x11
+
+#1453F#5PWe're doing what we're doing fully aware of what[x01]
+the potential consequences may be down the line,[x01]
+but can you?[x02][x03]
+
+#1457FYou know how much I love you, Tita.[x02][x03]
+
+And I understand that you care deeply about[x01]
+your friend. I do.[x02][x03]
+
+But that's all the more reason why I can't[x01]
+permit you to take part in this.[x02][x03]
+
+
+#1452FCan you understand where I'm coming from?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x107
+
+#065F#12P#40W...[x02][x03]
+
+#562FB-But...I...I...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x107
+
+#069F#12P#3SI'm not taking this lightly, either,[x01]
+you know![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x10
+
+#104F#5PI appreciate how you feel, Erika, but I'm sure[x01]
+Tita's been thinking about this a lot herself,[x01]
+especially after all she went through.[x02][x03]
+
+#102FWhy not show her a little more respect?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x11
+
+#1457F#6PI'm sure she has, but that doesn't mean I can[x01]
+let her be involved in developing a weapon.[x02][x03]
+
+We researchers don't get a say in how our[x01]
+inventions end up being used down the line.[x01]
+That's just our fate.[x02][x03]
+
+#1453FThat's what we have to accept when we're[x01]
+doing our jobs.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x10
+
+#104F#5P...That we do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x11
+
+#1452F#6PI know where she's coming from, but I absolutely[x01]
+can't let her be a part of this.[x02][x03]
+
+
+#1457FShe doesn't need to be shouldering this kind of[x01]
+burden. Not at her age.[x02]

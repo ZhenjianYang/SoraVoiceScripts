@@ -1,0 +1,379 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xFE
+
+I'm in the middle of talking Ochre here through[x01]
+my work so he can take over my position.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0xFE
+
+This job's something you need every detail spelled[x01]
+out for you, you see. It's kind of hard to pick up[x01]
+on your own.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0xFE
+
+I'm actually going to be becoming an on-board[x01]
+engineer for the Arseille soon.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0xFE
+
+I guess ending up on it that time was just fate,[x01]
+or something.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0xFE
+
+I was offered the job with some vacation time,[x01]
+so I wasn't about to tell 'em no![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0xFE
+
+W-Wait! I recognize you...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0xFE
+
+Weren't you one of the bracers on[x01]
+the Arseille?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x106
+
+#050FYeah...[x02][x03]
+
+#051FI remember you, too. You and the other engineers[x01]
+did a great job when it ended up falling out of the[x01]
+sky.[x02][x03]
+
+Thanks again for what you did.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0xFE
+
+Ahaha. Think nothing of it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0xFE
+
+We were just doing our jobs.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0xFE
+
+There are conveyor belts like this all throughout[x01]
+ZCF's underground, connecting various factories[x01]
+together in a big, complex network.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0xFE
+
+ZCF itself is like one tall structure, with only[x01]
+part of it visible above ground.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0xFE
+
+Not many people know this, but there are[x01]
+actually a whole five underground floors.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0xFE
+
+I was foreman in an underground orbment[x01]
+factory at one point...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0xFE
+
+...but now I'm going to be working over here[x01]
+for a while.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0xFE
+
+Faye's in the middle of explaining the work[x01]
+she does here to me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x14
+
+Professor Russell boarded the elevator not[x01]
+long ago.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x14
+
+I'm afraid I have no idea where she could've[x01]
+gone after that, though.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x14
+
+What? You're looking for Professor Russell?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x14
+
+She passed by here not long ago, actually.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x14
+
+I saw her boarding the elevator with Tita,[x01]
+but I'm afraid I have no idea where she[x01]
+could've gone after that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x13
+
+It's oddly quiet today, though...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x13
+
+Somehow that just makes me nervous rather[x01]
+than happy...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x13
+
+If you happen to hear any strange shouts or[x01]
+loud explosions while you're here, just...ignore[x01]
+them, okay?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x13
+
+It's for the best. Just trust me.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x107
+
+#061F#12POh! Good morning, Mr. Murdock![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x12
+
+#800F#5PO-Oh, it's you, Tita. Good morning.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x107
+
+#560F#12PUmm... You wouldn't happen to know where[x01]
+Mom and Grandpa are, would you?[x02][x03]
+
+
+Dad said they came here early this morning...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x12
+
+#803F#5POooh, they did... I know that very well, indeed...[x02][x03]
+
+
+Erika came charging in with a look on her face[x01]
+that signaled all hell was about to break loose...[x02][x03]
+
+#804FAll the while, she was shouting, 'We've got a new[x01]
+invention to make, so we need somewhere really,[x01]
+REALLY big! Hop to it!'#1340W #20W [x01]
+
+#803FShe wouldn't take no for an answer, either.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x107
+
+#562F#12PI-I'm so sorry about her...[x02][x03]
+
+She causes you so much trouble every time she[x01]
+decides she wants to invent something new.[x02][x03]
+
+#067FAt least she's better than Grandpa. Maybe...[x02][x03]
+
+
+She doesn't scare the daylights out of[x01]
+you by suddenly yelling, 'Fire in the hole!'[x01]
+riiight before an unexpected explosion.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x12
+
+#801F#5PIf only I could wipe that from my memory...[x01]
+Ahahaha...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x12
+
+#800F#5PIn any case, your mother should be up in the[x01]
+operations room.[x02][x03]
+
+I've got no idea what she's planning, but she said[x01]
+she had something she wanted to look into using[x01]
+the Capel.[x02][x03]
+
+#805FAs for your grandfather, he's in the design room.[x01]
+I-In a very good mood...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x12
+
+#806F#5PI can't believe the two of them are working[x01]
+together on something. This can't end well...[x02][x03]
+
+
+P-Please, Goddess... Pleeease don't let them[x01]
+break anything...[x02][x03]
+
+#803FUgh... My stomach hurts...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x107
+
+#064F#5PActually, now that I think about it, I think this[x01]
+is the first time they HAVE worked on the same[x01]
+thing together.[x02][x03]
+
+Usually they're competing over who can make[x01]
+the best invention, not joining forces on one...[x02][x03]
+
+#060FGrandpa's amazing on his own, but Mom's just[x01]
+as capable an engineer, too, even if she is kind[x01]
+of scary when she gets into her work.[x02][x03]
+
+If the two of them are actually going to put [x01]
+their heads together on something...[x02][x03]
+
+
+#067FHeehee. I can't wait to see the result! ♪[x02][x03]
+
+
+I wanna go see right away![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #34
+
+
+[x07][x05]Left: Elevator[x01]
+Right: Basement Orbment Workshop[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #35
+
+
+[x07][x05]The door is locked.[x02]

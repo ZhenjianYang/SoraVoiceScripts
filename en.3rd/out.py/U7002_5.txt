@@ -1,0 +1,3862 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x11
+
+#1446F...[x02][x03]
+
+(Renne and Estelle truly are like sisters,[x01]
+aren't they?)[x02][x03]
+
+(It's amazing to see just how strong[x01]
+their bond has become.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+
+
+[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x11
+
+#1445F...You know something, Estelle?[x02][x03]
+
+
+#1446FYou really are too soft for your own good.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x101
+
+#1008FA-Ahaha...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x11
+
+#1445F...[x02][x03]
+
+
+#1446FEstelle really is too soft for her own good.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x11
+
+#1446F...[x02][x03]
+
+(Why is she so attached to Renne to begin with?)[x02][x03]
+
+
+#1445F(They should be enemies...)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x11
+
+#1446FNow that we know the true nature of this world[x01]
+and the Lord of Phantasma knows it, they may[x01]
+use different means of attacking us than before.[x02][x03]
+
+#1440FI think we should all be on guard for that...[x01]
+Perhaps I should go and warn the others here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x11
+
+#1440FI think it would be best that we make sure [x01]
+everyone here is on guard for what the Lord[x01]
+of Phantasma may try to do.[x02][x03]
+
+#1446FPerhaps I should be the one to do so.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x11
+
+#1446FNow that we know the true nature of this world[x01]
+and the Lord of Phantasma knows it, they may[x01]
+use different means of attacking us than before.[x02][x03]
+
+#1440FI think we should all be on guard for that...[x01]
+Perhaps I should go and warn the others here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x11
+
+#1440FI think it would be best that we make sure [x01]
+everyone here is on guard for what the Lord[x01]
+of Phantasma may try to do.[x02][x03]
+
+#1446FPerhaps I should be the one to do so.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x109
+
+#1064FOh, Ries...[x02][x03]
+
+#1840FSo how are things going between you[x01]
+and the others? Getting along?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x11
+
+#1448F...Yeah, we are.[x02][x03]
+
+We had the chance to get to know one another[x01]
+better while you were asleep.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x109
+
+#1061FAhaha... That's good, I guess...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x11
+
+#1443FI fully expect you to keep your promise[x01]
+with me, however.[x02][x03]
+
+#1446FIf you dare break it...you're going without[x01]
+food for a week.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x109
+
+#1068FOuch... I'd rather you spared me THAT one.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x11
+
+#1442FHeehee...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x1E
+
+#1000FLooking at this water kinda reminds me[x01]
+of the pond behind our house, actually.[x02][x03]
+
+#1012FYou'd always sulk back there when we[x01]
+were kids.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x110
+
+#1300F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x1E
+
+#1000FLooking at this water kinda reminds me[x01]
+of the pond behind our house, actually.[x02][x03]
+
+#1012FYou'd always sulk back there when we[x01]
+were kids.[x02][x03]
+
+#1016F...It sure would be nice if the three of us[x01]
+could sit by that lake together one day,[x01]
+huh? You, me, and Renne...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x1E
+
+#1012FHeehee...[x02][x03]
+
+It's been a while since I last felt so[x01]
+at ease.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x1E
+
+#1012F*sigh* You big dummy.[x02][x03]
+
+#1006FI come to cheer you up, and yet you've already[x01]
+picked yourself up and dusted yourself off.[x02][x03]
+
+You can lean on me ONCE in a while, you know?[x01]
+Having a big sister has its perks.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x102
+
+#1513FHaha... Well, I appreciate the sentiment.[x01]
+I really am fine, though.[x02][x03]
+
+
+#1501FIf anything, right now, I'm actually grateful[x01]
+to the Lord of Phantasma.[x02][x03]
+
+Thanks to them, I was actually able to say what[x01]
+I couldn't back on the Liber Ark.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x1E
+
+#1016FHeh... Kind of like how I felt when I was able[x01]
+to meet Mom again through Luciola's illusion,[x01]
+then.[x02][x03]
+
+#1017F...Well...[x02][x03]
+
+#1012FI hope Loewe's up there with Karin feeling[x01]
+just as peaceful as we do now.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x102
+
+#1513FYeah...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x1E
+
+#1012F*sigh* You big dummy.[x02][x03]
+
+#1006FI come to cheer you up, and yet you've already[x01]
+picked yourself up and dusted yourself off.[x02][x03]
+
+You can lean on me ONCE in a while, you know?[x01]
+Having a big sister has its perks.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x16
+
+#1513FHaha... Well, I appreciate the sentiment.[x01]
+I really am fine, though.[x02][x03]
+
+
+#1501FIf anything, right now, I'm actually grateful[x01]
+to the Lord of Phantasma.[x02][x03]
+
+Thanks to them, I was actually able to say what[x01]
+I couldn't back on the Liber Ark.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x1E
+
+#1016FHeh... Kind of like how I felt when I was able[x01]
+to meet Mom again through Luciola's illusion,[x01]
+then.[x02][x03]
+
+#1017F...Well...[x02][x03]
+
+#1012FI hope Loewe's up there with Karin feeling[x01]
+just as peaceful as we do now.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x16
+
+#1513FYeah...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x1E
+
+#1010FSounds like it's finally time to settle things,[x01]
+huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x1E
+
+#1006FYou're up, Joshua![x02][x03]
+
+
+#1018FDon't let him beat you, now![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x102
+
+#1501F...Don't worry. I won't.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x1E
+
+#1010FSounds like it's finally time to settle things,[x01]
+huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x1E
+
+#1006FYou're up, Joshua![x02][x03]
+
+
+#1018FDon't let him beat you, now![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x16
+
+#1501F...Don't worry. I won't.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x102
+
+#1504FAre you practicing with your staff alone,[x01]
+Estelle?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x1E
+
+#1000FSure am. Don't wanna start slacking now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x102
+
+#1500FSorry for not being able to join you for[x01]
+today's training session, then...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x1E
+
+#1001FAww, don't sweat it.[x02][x03]
+
+#1017FHonestly, it's so hard to keep track of time[x01]
+here, I can't even be sure this isn't the same[x01]
+day as my last session.[x02][x03]
+
+#1017FI'm just still feeling really fired up after that[x01]
+battle and can't help myself, I guess.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x104
+
+#1542FDarling Estelle, there was no need to do so[x01]
+alone, however.[x02][x03]
+
+#1541FWhy, you could have asked me! I would have[x01]
+been most delighted to accompany you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x1E
+
+#1022F...Yeah, I'm not desperate enough to ask[x01]
+for YOUR help.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x102
+
+#1500FWell, all right... Just be sure to take breaks[x01]
+when you need them, okay?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x1E
+
+#1001FAhaha. You worry too much.[x02][x03]
+
+#1000FHonestly, it's so hard to keep track of time[x01]
+here, I can't even be sure this isn't the same[x01]
+day as my last session.[x02][x03]
+
+#1007FStill, the only way to catch up to Dad is good,[x01]
+old-fashioned hard work, so I can't slack off.[x02][x03]
+
+
+#1006FOkay! I'll take a little break and then get right[x01]
+back to it![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x16
+
+#1501FIt's been ages since I last fought Dad,[x01]
+come to think of it...[x02][x03]
+
+#1513FMaybe around...six years or so ago.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x16
+
+#1503FSo you ended up fighting Dad?[x02][x03]
+
+#1514FI fought him once, too, but that was[x01]
+a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x1E
+
+#1017F...Oh, yeah. So you did.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x16
+
+#1501F...Yeah.[x02][x03]
+
+#1509FHaha. I had no idea at the time just how difficult[x01]
+the task I was undertaking would be.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x1E
+
+#1007FYou know what? That was the first time[x01]
+I seriously tried taking Dad on.[x02][x03]
+
+#1002FNot that I'm up to snuff against him yet--[x01]
+it's gonna take more than a few days to[x01]
+get me there.[x02][x03]
+
+#1006FOkay! I'll take a little break and then get[x01]
+right back to it![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x1E
+
+#1002FThe only way to catch up to Dad is good,[x01]
+old-fashioned hard work, so I can't slack[x01]
+off.[x02][x03]
+
+#1006FOkay! I'll take a little break and then get[x01]
+right back to it![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x1E
+
+#1003FI wasn't expecting the Lord of Phantasma[x01]
+to use the Ravens or Phillip against us.[x02][x03]
+
+
+Or the royal academy, for that matter...[x02][x03]
+
+#1007F*sigh* Having that place used like this is[x01]
+really starting to depress me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #49
+0x105
+
+#1163FI'm sorry, Estelle...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #50
+0x102
+
+#1503FWith how many memories we have of[x01]
+the academy, I could hardly blame you[x01]
+for feeling that way.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #51
+0x1E
+
+#1010FI think they're deliberately choosing places[x01]
+we have a strong attachment to.[x02][x03]
+
+
+#1007F*sigh* If they wanted to make me feel all[x01]
+depressed, they sure as heck succeeded.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x1E
+
+#1004FOh, Kevin![x02][x03]
+
+#1002FAre you feeling okay now? We don't want you[x01]
+going and collapsing again after you've only just[x01]
+recovered.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x109
+
+#1066FHeh! C'mon, Estelle. I'm indestructible.[x02][x03]
+
+#1060FPretty swell timing on my part before,[x01]
+huh? I didn't even get to say hi before[x01]
+I fell unconscious, now, did I?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x10F
+
+#1446F...Indeed. Everyone was shaking their heads with[x01]
+disappointment when you collapsed.[x02][x03]
+
+#1801FYou're supposed to be a Dominion, but you[x01]
+wouldn't believe it from that shameful show[x01]
+of weakness.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0x11
+
+#1446F...Indeed. Everyone was shaking their heads with[x01]
+disappointment when you collapsed.[x02][x03]
+
+#1801FYou're supposed to be a Dominion, but you[x01]
+wouldn't believe it from that shameful show[x01]
+of weakness.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #56
+0x1E
+
+#1016FA-Ahaha...[x01]
+(I'm pretty sure everyone was just panicking...[x01]
+ESPECIALLY you, Ries.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #57
+0x1E
+
+#1000FJust try not to overdo it again, okay, Kevin?[x02][x03]
+
+
+#1015FI mean, I still don't know a whole lot about[x01]
+what happened, exactly...[x02][x03]
+
+#1002F...but we were all really worried about you.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0x1E
+
+#1011F...Oh, Joshua?[x02][x03]
+
+#1003FI... Uh... There's something that's kinda[x01]
+bugging me...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0x102
+
+#1503F...Oh, right.[x02][x03]
+
+#1505FI think I know what you must be talking about.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x1E
+
+#1026FY-Yeah...[x02][x03]
+
+So, then you think one of the trials...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x102
+
+#1505F...Most likely, yes.[x02][x03]
+
+#1503FI'm going to have to make sure I'm prepared.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0x11
+
+#1443F...Yes, that's right.[x02][x03]
+
+He introduced himself as 'this land of Phantasma's[x01]
+foremost guardian.'[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0x1E
+
+#1011FUmm... Joshua...[x02][x03]
+
+#1003FBy the sounds of it, you've probably encountered[x01]
+him more times than I have, but...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0x16
+
+#1505F...Yeah. I know.[x02][x03]
+
+#1503FI'm going to have to make sure I'm prepared.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0x110
+
+#1300F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #66
+0x16
+
+#1513F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #67
+0x101
+
+#1012F*sigh* You big dummy.[x02][x03]
+
+#1006FI come to cheer you up, and yet you've already[x01]
+picked yourself up and dusted yourself off.[x02][x03]
+
+You can lean on me ONCE in a while, you know?[x01]
+Having a big sister has its perks.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0x16
+
+#1513FHaha... Well, I appreciate the sentiment.[x01]
+I really am fine, though.[x02][x03]
+
+
+#1501FIf anything, right now, I'm actually grateful[x01]
+to the Lord of Phantasma.[x02][x03]
+
+Thanks to them, I was actually able to say what[x01]
+I couldn't back on the Liber Ark.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0x101
+
+#1016FHeh... Kind of like how I felt when I was able[x01]
+to meet Mom again through Luciola's illusion,[x01]
+then.[x02][x03]
+
+#1017F...Well...[x02][x03]
+
+#1012FI hope Loewe's up there with Karin feeling[x01]
+just as peaceful as we do now.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x1E
+
+#1012FYeah...[x02][x03]
+
+#1006F*sigh* You big dummy.[x02][x03]
+
+
+I come to cheer you up, and yet you've already[x01]
+picked yourself up and dusted yourself off.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0x16
+
+#1513FYou can lean on me ONCE in a while, you know?[x01]
+Having a big sister has its perks.[x02][x03]
+
+
+#1501FIf anything, right now, I'm actually grateful[x01]
+to the Lord of Phantasma.[x02][x03]
+
+Thanks to them, I was actually able to say what[x01]
+I couldn't back on the Liber Ark.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0x1E
+
+#1016FHeh... Kind of like how I felt when I was able[x01]
+to meet Mom again through Luciola's illusion,[x01]
+then.[x02][x03]
+
+#1017F...Well...[x02][x03]
+
+#1012FI hope Loewe's up there with Karin feeling[x01]
+just as peaceful as we do now.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x16
+
+#1513FYeah...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0x16
+
+#1505FIt sounds like the Schwarzritter specifically[x01]
+wants me to come with you for whatever reason.[x02][x03]
+
+#1500FI'm ready to go whenever you are. Just let me[x01]
+know when you want to leave.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #75
+0x16
+
+#1501FIt's been ages since I last fought Dad,[x01]
+come to think of it...[x02][x03]
+
+#1513FMaybe around...six years or so ago.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #76
+0x16
+
+#1503FSo you ended up fighting Dad?[x02][x03]
+
+#1514FI fought him once, too, but that was[x01]
+a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #77
+0x101
+
+#1017F...Oh, yeah. So you did.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #78
+0x1E
+
+#1017F...Oh, yeah. So you did.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #79
+0x16
+
+#1501F...Yeah.[x02][x03]
+
+#1509FHaha. I had no idea at the time just how difficult[x01]
+the task I was undertaking would be.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #80
+0x16
+
+#1500FThe first time I fought him, he clearly held back[x01]
+against me. Because I was a child, I suppose.[x02][x03]
+
+#1513FStill, it's been six years now...[x02][x03]
+
+I honestly never thought I'd get the chance to[x01]
+fight him again--mostly because I wouldn't be[x01]
+crazy enough to try challenging him again alone.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #81
+0x16
+
+#1500FSo those monuments on the scenic route are[x01]
+the entrances to the four guardians' territories.[x02][x03]
+
+
+#1503FThe four elements were initially intended to[x01]
+grant safe passage into and to protect the[x01]
+capital...[x02][x03]
+
+...but it looks like the Lord of Phantasma has[x01]
+decided to use them for their own purposes.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #82
+0x16
+
+#1503FI'm relatively certain those monuments were[x01]
+initially intended to grant safe passage into[x01]
+and to protect the capital...[x02][x03]
+
+#1505F...but it looks like the Lord of Phantasma has[x01]
+decided to use them for their own purposes.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #83
+0x16
+
+#1503FI have a feeling we were given Celeste's sealing[x01]
+stone to unlock in order to understand the[x01]
+makeup of this world.[x02][x03]
+
+Which means that they wanted us to know--and[x01]
+may use our memories and feelings against us in[x01]
+new ways as a result.[x02][x03]
+
+#1502F...Perhaps the trials ahead are the whole reason[x01]
+they started trying to recreate parts of Liberl[x01]
+in here to begin with.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #84
+0x16
+
+#1503FIf the trials ahead are the whole reason the Lord [x01]
+of Phantasma started trying to recreate parts of [x01]
+Liberl in here to begin with...[x02][x03]
+
+...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #85
+0x101
+
+#1011F...Oh, Joshua?[x02][x03]
+
+#1003FI... Uh... There's something that's kinda[x01]
+bugging me...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #86
+0x16
+
+#1503F...Oh, right. [x01]
+#1505FI think I know what you must be talking about.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #87
+0x101
+
+#1026FY-Yeah...[x02][x03]
+
+So, then you think one of the trials...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #88
+0x16
+
+#1505F...Most likely, yes.[x02][x03]
+
+#1503FI'm going to have to make sure I'm prepared.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #89
+0x11
+
+#1443F...Yes, that's right.[x02][x03]
+
+He introduced himself as 'this land of Phantasma's[x01]
+foremost guardian.'[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #90
+0x1E
+
+#1003FUmm... Joshua...[x02][x03]
+
+By the sounds of it, you've probably encountered[x01]
+him more times than I have, but...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #91
+0x16
+
+#1505F...Yeah. I know.[x02][x03]
+
+#1503FI'm going to have to make sure I'm prepared.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #92
+0x110
+
+#1300F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #93
+0x16
+
+#1503FThis 'Lord of Phantasma' seems intent on[x01]
+challenging us to some kind of game.[x02][x03]
+
+
+#1503FJust what that game is, I don't know...[x02][x03]
+
+
+#1502F...but it's possible it has something to do[x01]
+with the many rules of this land that seem[x01]
+to exist.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #94
+0x16
+
+#1502FIf the Lord of Phantasma wants to challenge[x01]
+us to some kind of game, there must be a set[x01]
+of rules or logic to it.[x02][x03]
+
+...Either way, if you find out anything new, be[x01]
+sure to let me know.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #95
+0x16
+
+#1505FProbably.[x02][x03]
+
+
+#1503FShe was right next to me when I was drawn in[x01]
+here, so I'd say the odds of her being here too[x01]
+are pretty high.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #96
+0x16
+
+#1505FProbably.[x02][x03]
+
+
+#1503FShe was right next to me when I was drawn in[x01]
+here, so I'd say the odds of her being here too[x01]
+are pretty high.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #97
+0x16
+
+#1503FI don't know what our enemies are trying[x01]
+to achieve...[x02][x03]
+
+#1505F...but I don't see any reason why Estelle[x01]
+wouldn't have been drawn in here, too.[x02][x03]
+
+
+#1502FSo please let me help however I can.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #98
+0x16
+
+#1500F...Hey, Kevin.[x02][x03]
+
+I've gone over the whole area, but I can't find[x01]
+any traps at all.[x02][x03]
+
+
+#1505FIt's still possible there may be varieties I'm not[x01]
+aware of, but I think it's safe to conclude that[x01]
+this area is free of them for now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #99
+0x109
+
+#1060FThanks. We had a look around ourselves and[x01]
+reached the same conclusion.[x02][x03]
+
+#1067FIt's only this area that's safe, though. Take one[x01]
+step outside and there're baddies around every[x01]
+corner.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #100
+0x16
+
+#1505FInteresting...[x02][x03]
+
+#1503FFor now, it's probably for the best[x01]
+if we don't act alone.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #101
+0x1C
+
+#1526F...[x02][x03]
+
+#1527F...Heh. I wonder if that's really true?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #102
+0x101
+
+#1011FHuh? ...What's up, Schera?[x02][x03]
+
+
+#1015FYou know you left one of your cards on the[x01]
+table, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #103
+0x102
+
+#1504FUmm, Schera...[x02][x03]
+
+#1500FYou know you left one of your cards on the[x01]
+table, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #104
+0x10A
+
+#814F...Oh, hi, Schera.[x02][x03]
+
+You know you left one of your cards on the[x01]
+table, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #105
+0x109
+
+#1066FUmm... You do know you left one of your tarot[x01]
+cards on the table over there, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #106
+0x1C
+
+#1526FOh, I know.[x02][x03]
+
+#1536FIt's been a while since I had such a good result,[x01]
+so I've decided to leave it there in honor of the[x01]
+occasion.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #107
+0x101
+
+#1016FWh-What kind of occasion?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #108
+0x102
+
+#1504FO-Oh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #109
+0x10A
+
+#814FU-Umm...[x02][x03]
+
+#818FY-You're okay with being a card short, then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #110
+0x109
+
+#1064FO-Oh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #111
+0x104
+
+#1545FHeh. If that's what you want to do, I see no[x01]
+reason to oppose it.[x02][x03]
+
+#1540FA maiden need only to follow her heart.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #112
+0x1C
+
+#1526F...[x02][x03]
+
+#1527F...Heh. I wonder if that's really true?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #113
+0x1C
+
+#1523F...Hmm?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #114
+0x1C
+
+#1520FHeehee. I suppose I should start getting ready[x01]
+soon, too.[x02][x03]
+
+#1536FThey won't be calling me the Silver Streak anymore[x01]
+if I start getting rusty, now, will they?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #115
+0x1C
+
+#1526FHeehee. I suppose I should start getting ready[x01]
+soon, too.[x02][x03]
+
+#1536FThey won't be calling me the Silver Streak anymore[x01]
+if I start getting rusty, now, will they?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #116
+0x1C
+
+#1526FJoshua really has gotten a whole lot tougher and[x01]
+more dependable since he started that journey,[x01]
+by the looks of it.[x02][x03]
+
+#1520FI'm sure he still has plenty of room for [x01]
+improvement...[x02][x03]
+
+#1535F...but the same applies to all of us. I'm certainly[x01]
+no exception.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #117
+0x1C
+
+#1526FSo the next area is a gospel facility called[x01]
+Aster House?[x02][x03]
+
+That's...interesting.[x02][x03]
+
+
+#1522FQuite a peculiar choice of location to recreate[x01]
+in here, if you ask me.[x02][x03]
+
+And yet there must be some kind of reason...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #118
+0x109
+
+#1067F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #119
+0x1C
+
+#1520FBoth Joshua and Estelle really seem to have grown[x01]
+stronger and more dependable since they left on[x01]
+their journey.[x02][x03]
+
+#1521FAnd I'm looking forward to seeing just how much[x01]
+more they can grow by the end of it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #120
+0x1C
+
+#1522FA gospel facility seems to be quite a peculiar[x01]
+choice of location to recreate here, if you ask[x01]
+me.[x02][x03]
+
+#1526FAnd yet there must be some kind of reason...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #121
+0x1C
+
+#1525FAhhh...[x02][x03]
+
+#1530FThis really hits the spot![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #122
+0x101
+
+#1019FWell, that didn't take long.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #123
+0x102
+
+#1508FShe's back to drinking already...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #124
+0x1C
+
+#1526FOh? You had to fight Cassius?[x02][x03]
+
+#1520FI took him on a few times myself back[x01]
+when I was training to be a bracer.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #125
+0x109
+
+#1068F*sigh* I don't think I've ever fought[x01]
+a harder battle in my life...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #126
+0x1C
+
+#1527FOh, I can imagine! Hard to make a trial[x01]
+much more difficult than a fight with him.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #127
+0x1C
+
+#1526F(So now even Luci's been recreated here.)[x02][x03]
+
+(Running into her again should have been[x01]
+more strange than it actually was...)[x02][x03]
+
+#1532F(...but then again, she's always been right[x01]
+here with me in my heart.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #128
+0x1C
+
+#1526FSo you met Luciola, did you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #129
+0x109
+
+#1067FUmm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #130
+0x1C
+
+#1520F...Don't worry, honey. I'm a big girl.[x02][x03]
+
+If I wanted to find her that badly, I would've[x01]
+already been doing it this past year.[x02][x03]
+
+#1521FHeehee. I'll be just fine on my own now.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #131
+0x104
+
+#1542F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #132
+0x1C
+
+#1528FWell, we've managed to overcome our[x01]
+toughest ordeal yet.[x02][x03]
+
+#1530FI'd say I'm entitled to a drink or two.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #133
+0x102
+
+#1508FDon't lie. We all know you're not going[x01]
+to stop at two.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #134
+0x101
+
+#1019FSo would I...except you've clearly had[x01]
+more than that ALREADY.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #135
+0x1C
+
+#1527FThis place really has been full of memorable[x01]
+experiences.[x02][x03]
+
+#1526FI'll bet anything the final area will be the[x01]
+toughest of them all, though. Which,[x01]
+seeing as we fought Cassius, says a lot.[x02][x03]
+
+#1520FWe can't afford to be getting careless.[x01]
+Not now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #136
+0x1C
+
+#1521F...Haha. I have no intention of trying to find[x01]
+Luci.[x02][x03]
+
+#1520FWe'll meet again if it's meant to be. If it isn't,[x01]
+we won't. That's all there is to it.[x02][x03]
+
+Right now, I'm a bracer, and that comes first.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #137
+0x1C
+
+#1526FThere's no point in getting all panicky now.[x01]
+Not after we've come this far.[x02][x03]
+
+#1520FWhoever we end up facing, we'll find a way[x01]
+to win.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #138
+0x1C
+
+#1526FThe rest of the guardians we face are likely to[x01]
+be even stronger than the two we've already[x01]
+defeated.[x02][x03]
+
+#1535FSo don't go skimping on preparations,[x01]
+you hear me?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #139
+0x1C
+
+#1525FTrust Anelace to cook up an idea like this...[x02][x03]
+
+
+#1534FShe might come across as silly to some,[x01]
+but I can't help but be impressed by her[x01]
+boundless optimism.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #140
+0x1C
+
+#1525FEvery time we find out something new[x01]
+about this place, things get weirder.[x02][x03]
+
+#1532FSo this world is influenced by our thoughts,[x01]
+is it?[x02][x03]
+
+Is it just me, or does that just sound like the[x01]
+real world when you're really, really drunk?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #141
+0x104
+
+#1545FHaha...[x02][x03]
+
+#1546FI know just what you mean, Schera![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #142
+0x101
+
+#1016FYou feeling okay, Olivier? You don't look[x01]
+very good...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #143
+0x102
+
+#1508FWell, if there's anyone I'd trust on that[x01]
+particular subject, it's you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #144
+0x101
+
+#1016FY-You WOULD know about that, wouldn't you?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #145
+0x1C
+
+#1525FTrust Anelace to cook up an idea like this...[x02][x03]
+
+
+#1534FShe might come across as silly to some,[x01]
+but I can't help but be impressed by her[x01]
+boundless optimism.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #146
+0x1C
+
+#1525F*sigh* So this world is influenced by our[x01]
+thoughts, is it?[x02][x03]
+
+#1532FIs it just me, or does that just sound like the[x01]
+real world when you're really, really drunk?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #147
+0x1C
+
+#1526F...So.[x02][x03]
+
+#1527FHow are things coming along with you two,[x01]
+anyway? Any major developments?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #148
+0x101
+
+#1013FH-Heeey...[x02][x03]
+
+#1022FYou think you can give me some kinda heads[x01]
+up before asking me personal questions?![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #149
+0x102
+
+#1514FTo be fair, I did figure it was going to come[x01]
+up eventually.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #150
+0x1C
+
+#1526F...So.[x02][x03]
+
+#1527FHow are things coming along with you two,[x01]
+anyway? Any major developments?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #151
+0x101
+
+#1013FH-Heeey...[x02][x03]
+
+#1022FYou think you can give me some kinda heads[x01]
+up before asking me something like that?![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #152
+0x1C
+
+#1535FGo on! Spill. I need to know these things![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #153
+0x105
+
+#1165FAha...haha...[x02][x03]
+
+(I can't deny that I'm curious, too...)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #154
+0x10B
+
+#216FWell, I DON'T want to know, so save it[x01]
+for when I'm not here![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #155
+0x1C
+
+#1520FEither way, now we've got both stars of[x01]
+our old show together.[x02][x03]
+
+#1535FIt's time to seriously focus on getting out[x01]
+of this place and back into the real world.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #156
+0x1C
+
+#1525FIt's been one thing after another since we got[x01]
+in here, but I'm just glad you turned out to be[x01]
+all right.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #157
+0x101
+
+#1004FWho, me?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #158
+0x1C
+
+#1525FBut of course.[x02][x03]
+
+#1532FJoshua was putting on a brave face the whole[x01]
+time, but you know him. Anyone could tell how[x01]
+worried he was about you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #159
+0x102
+
+#1505FCould you? I don't believe I was showing it.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #160
+0x101
+
+#1017FYou were worried about me?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #161
+0x102
+
+#1511FWell...I think most people would be if[x01]
+they'd heard their girlfriend had been[x01]
+captured, don't you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #162
+0x101
+
+#1004FI was captured? For real?![x02][x03]
+
+#1013FI... Was I? I mean, I guess I was, but it sure[x01]
+doesn't feel like it.[x02][x03]
+
+I don't even remember anything like that[x01]
+happening.[x02][x03]
+
+
+Well, whatever... No big deal if I can't[x01]
+remember, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #163
+0x1C
+
+#1522F...[x02][x03]
+
+#1521FYou never change.[x02][x03]
+
+And neither do I! Now I can go back[x01]
+to drinking, worry-free! ㈱[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #164
+0x102
+
+#1508FUmm... Schera...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #165
+0x101
+
+#1009FWhat kind of reaction is that?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #166
+0x101
+
+#1017FI can't believe you...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #167
+0x1C
+
+#1526FWell, I can't say I blame him. Not one bit.[x02][x03]
+
+
+
+#1535FI was worried sick when I found out the[x01]
+Lord of Phantasma had captured you.[x01]
+It must have been so much worse for him.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #168
+0x101
+
+#1004FI was captured? For real?![x02][x03]
+
+#1013FI... Was I? I mean, I guess I was, but it sure[x01]
+doesn't feel like it.[x02][x03]
+
+I don't even remember anything like that[x01]
+happening.[x02][x03]
+
+
+Well, whatever... No big deal if I can't[x01]
+remember, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #169
+0x1C
+
+#1522F...[x02][x03]
+
+#1521FYou never change.[x02][x03]
+
+And neither do I! Now I can go back[x01]
+to drinking, worry-free! ㈱[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #170
+0x101
+
+#1009F...Why? What'd I say?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #171
+0x1C
+
+#1525F*sigh* This place just baffles me more the[x01]
+more I think about it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #172
+0x1C
+
+#1532FIf only this fountain were full of booze instead[x01]
+of water. Then I'd at least have something to[x01]
+keep me company.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #173
+0x102
+
+#1514F...You're kidding me, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #174
+0x1C
+
+#1526FYes, yes. I know.[x02][x03]
+
+#1520FI'm pretty familiar with Le Locle since I've[x01]
+been there myself.[x02][x03]
+
+#1520FTake me along if that's where you're planning[x01]
+on going. I'm sure I could show you around.[x02][x03]
+
+#1535FAnd I want to rescue Estelle as much as you[x01]
+guys do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #175
+0x1C
+
+#1532F*sigh* This place just baffles me more the more[x01]
+I think about it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #176
+0x1C
+
+#1525F...I wonder how many bottles Aina's gone through[x01]
+now?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #177
+0x19
+
+#1543F...Hmm?[x02][x03]
+
+Oh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #178
+0x19
+
+#1545F...And so the end is finally upon us.[x02][x03]
+
+
+#1544FPart of me would rather remain here than return[x01]
+to the no-doubt mountains of work that eagerly[x01]
+await my return, however...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #179
+0x10D
+
+#272FNot to worry, Olivier. No part of you even has[x01]
+a choice in the matter.[x02][x03]
+
+#270FI'll drag you back to the real world by your ears[x01]
+if I must.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #180
+0x19
+
+#1546FHow could you, dearest Mueller?! Must you[x01]
+always be so cruel?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #181
+0x19
+
+#1545FHeh. Despite being dragged here against my will,[x01]
+I have to admit that part of me will be sad to[x01]
+say farewell to this world.[x02][x03]
+
+#1540F...Perhaps I should try to add Celeste to my list[x01]
+of conquests while I still have the chance.[x02][x03]
+
+#1541FI'm sure Aidios will forgive me.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #182
+0x101
+
+#1007FI can smack you at any time, you know.[x02][x03]
+
+If she bans you from the garden, you'll only[x01]
+have yourself to blame.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #183
+0x102
+
+#1514FYou really are too fearless for your own good...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #184
+0x103
+
+#1527FHaha. Maybe she'll use her power to throw you [x01]
+outside the planes and let you fend for yourself.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #185
+0x105
+
+#1165FA-Ahaha...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #186
+0x19
+
+#1540FI'd speculate that there are a fair amount of[x01]
+gospel facilities in the more remote regions[x01]
+of the continent.[x02][x03]
+
+#1545FI think there were actually a few in the Empire,[x01]
+too.[x02][x03]
+
+States annexed by the Empire tend to grow[x01]
+weaker economically, which makes facilities[x01]
+like those invaluable.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #187
+0x19
+
+#1545FStates annexed by the Empire tend to grow[x01]
+weaker economically, you see.[x02][x03]
+
+#1540FWithout the church's help, some of said areas[x01]
+would really struggle.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #188
+0x19
+
+#1545FHeh. Sitting here, I can't help but think about[x01]
+the ancients who lived in the Liber Ark during[x01]
+its heyday.[x02][x03]
+
+#1540FI can't pretend to be an expert on why this[x01]
+paradise caused ruin by granting people's[x01]
+wishes...[x02][x03]
+
+#1541F...but I still believe people have the right to[x01]
+wish for their dreams to come true.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #189
+0x103
+
+#1523F...Is that an empty glass I spy, Olivier?[x01]
+This won't do at all.[x02][x03]
+
+#1521FShould I pour you another one?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #190
+0x1C
+
+#1523F...Is that an empty glass I spy, Olivier?[x01]
+This won't do at all.[x02][x03]
+
+#1530FShould I pour you another one?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #191
+0x19
+
+#1546FP-Please, no! Any more and my consciousness[x01]
+will escape me![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #192
+0x19
+
+#1545FHeh. I still believe that people have the right[x01]
+to wish for their dreams to come true, even if[x01]
+the Aureole is no longer there to grant them.[x02][x03]
+
+#1546FI-I also believe I have the right to refuse libations[x01]
+in the face of danger. So please! No more![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #193
+0x102
+
+#1505FBy the way, Olivier?[x02][x03]
+
+#1500FWhen we'd arrived in the Empire, Hamel wasn't[x01]
+sealed off any more.[x02][x03]
+
+
+I heard that had been done on your orders, too.[x02][x03]
+
+
+#1513F...So I just wanted to say thank you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #194
+0x19
+
+#1545FHeh. Think nothing of it.[x02][x03]
+
+
+#1547FWe are soul mates, you and I. I only did[x01]
+what was natural.[x02][x03]
+
+
+#1541FStill, if you truly wish to thank me...do it[x01]
+less with sweet words and more with your[x01]
+ever-sweeter lips.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #195
+0x102
+
+#1514F...Haha...[x02][x03]
+
+#1513FYou might be a member of the Imperial family...#400W [x01]
+#20W...but if anything, I think that would make it[x01]
+even harder to raise the issue of Hamel.[x02][x03]
+
+#1501FSo I really do appreciate you doing what you did.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #196
+0x19
+
+#1540FHaha...[x02][x03]
+
+#1545FWell, you're right. With my position, I can't even[x01]
+get close to the place without leaving an endless[x01]
+number of scandals in my wake.[x02][x03]
+
+Were it up to me, I'd go and place an offering[x01]
+of flowers there, but alas; I'm going to have to[x01]
+leave that to you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #197
+0x19
+
+#1548FE-Everything is...spinning...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #198
+0x103
+
+#1523FWhat's up with you, Olivier?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #199
+0x101
+
+#1016FAre you seriously asking that?[x02][x03]
+
+He's like this because you drank him[x01]
+into oblivion. Duh.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #200
+0x109
+
+#1061FI think everyone knows full well you're the[x01]
+cause of this...uhh...poor fellow's woes.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #201
+0x102
+
+#1508F...Is this really news to you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #202
+0x19
+
+#1546FU-Umm... Schera...[x02][x03]
+
+Might you slow your drinking pace just[x01]
+a teensy little bit?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #203
+0x1C
+
+#1526F*gulp*[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #204
+0x103
+
+#1527FIf we throw him in the pond, he'll sober right up.[x02][x03]
+
+#1530FI say we take him with us.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #205
+0x109
+
+#1068F(Y-You're a monster...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #206
+0x19
+
+#1542FWhen her mind begins to wander, Schera has a [x01]
+habit of unconsciously starting to drink faster.[x02][x03]
+
+
+I can't say I mind watching her like that...[x02][x03]
+
+#1547F...but trying to keep up with it for too long runs[x01]
+the risk of knocking me into a coma. Haha.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #207
+0x19
+
+#1540FJulia, Kilika...[x02][x03]
+
+#1545FLiberl really does have a frightful number of[x01]
+dangerous women living there.[x02][x03]
+
+#1544FAnd for every docile and doe-eyed young lady[x01]
+I meet, their...erm...bodyguard...certainly makes[x01]
+up for it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #208
+0x106
+
+#053FYou say something?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #209
+0x107
+
+#064F...Huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #210
+0x109
+
+#1077FHaha... I wouldn't be provoking Agate too[x01]
+much if I was you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #211
+0x19
+
+#1540FSchera's absolutely right here.[x02][x03]
+
+#1541FThe best approach here is to keep calm[x01]
+and take obstacles as they come.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #212
+0x19
+
+#1542FStill, if Phantasma is able to recreate people[x01]
+who are in Calvard, too...[x02][x03]
+
+
+#1551F...we might find ourselves against someone[x01]
+truly fearsome sooner or later.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #213
+0x19
+
+#1545FHmm... It is an interesting concept, I must say.[x01]
+Who would have thought this world changes in[x01]
+accordance to the thoughts and desires of those[x01]
+within?[x02][x03]
+
+If what Renne was saying about discovering that[x01]
+being one of the conditions to moving on to the[x01]
+sixth plane is true...[x02][x03]
+
+#1540F...then we must be reaching the end of this[x01]
+particular plane.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #214
+0x19
+
+#1541FHaha. Still, I never thought this place would test[x01]
+our reasoning and deductive skills to this extent![x02][x03]
+
+
+I'm starting to enjoy this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #215
+0x19
+
+#1543FOh, my...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #216
+0x19
+
+#1547FWhat a delightful team you have there.[x02][x03]
+
+By all means, come and lay your soft cheeks[x01]
+upon my person, ladies![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #217
+0x101
+
+#1019FDo you have a death wish?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #218
+0x103
+
+#1535FWhat's that? You want me to hang you upside[x01]
+down by the waterfall? Well, aren't we feeling[x01]
+naughty today![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #219
+0x19
+
+#1546F...I-I'm sorry! Please, I merely jest.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #220
+0x19
+
+#1540FIf you're looking for Schera, she went to check[x01]
+up on how that priest is doing.[x02][x03]
+
+#1545FWhich means I am alone and in need of comfort![x01]
+Which naturally you will be providing, Estelle.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #221
+0x101
+
+#1019FNot a chance, buster.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #222
+0x19
+
+#1540FTita said that she was feeling a little tired,[x01]
+you see...[x02][x03]
+
+#1541F...so I'm currently in the process of lulling her[x01]
+into a peaceful slumber with my sweet nothings.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #223
+0x101
+
+#1019F...This just feels like a crime in the making.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #224
+0x102
+
+#1505FI have no counter argument.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #225
+0x10D
+
+#272FFunnily enough, I was thinking the same[x01]
+thing.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #226
+0x103
+
+#1525FI see that mind of yours is still as filthy as[x01]
+ever...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #227
+0x106
+
+#057F#3S*glare*#2S[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #228
+0x19
+
+#1541FHaha. I haven't the faintest clue what you are[x01]
+all accusing me of![x02][x03]
+
+#1547FI always put the ladies in my life above all else![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #229
+0x101
+
+#1022FYeah, that's exactly the problem...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #230
+0x19
+
+#1551FAh, it just doesn't feel right to be sitting[x01]
+here alone.[x02][x03]
+
+#1542FWould you care to keep me company,[x01]
+Estelle?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #231
+0x19
+
+#1540FHeh. Still, her adorable sleeping face does[x01]
+wonders to stimulate my paternal instincts.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #232
+0x19
+
+#1541FPerhaps I should ask her to call me 'Daddy'[x01]
+after she wakes up? ㈱[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #233
+0x19
+
+#1551FSo we're dealing with foes who are content[x01]
+making an enemy out of an extremely powerful[x01]
+Dominion, are we?[x02][x03]
+
+The Schwarzritter and the Lord of Phantasma[x01]
+will surely be a force to be reckoned with...[x02][x03]
+
+#1547F...which is why I'm going to stay here and get[x01]
+my beauty sleep. I wouldn't stand a chance[x01]
+against them![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #234
+0x10D
+
+#274F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #235
+0x19
+
+#1551FSo we're dealing with foes who are content[x01]
+making an enemy out of an extremely powerful[x01]
+Dominion, are we?[x02][x03]
+
+The Schwarzritter and the Lord of Phantasma[x01]
+will surely be a force to be reckoned with...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #236
+0x19
+
+#1542FI've tried looking into the Gralsritter and[x01]
+the Congregation for the Sacraments myself[x01]
+before.[x02][x03]
+
+#1551FUnfortunately, no amount of research could[x01]
+have prepared me for the sheer power that[x01]
+the Dominions seemingly possess.[x02][x03]
+
+#1542FIf we're to deal with foes who are comfortable[x01]
+making an enemy of someone who possesses[x01]
+such power...this could get very tricky indeed.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #237
+0x101
+
+#1002FYeah... From what everyone's said, this Lord[x01]
+of Phantasma guy doesn't sound like they're[x01]
+gonna be a walk in the park.[x02][x03]
+
+#1011FOh, yeah. While I've got you here...[x02][x03]
+
+#1006F...how's that whole plan going these days?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #238
+0x19
+
+#1543FHmm? Whatever do you mean?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #239
+0x101
+
+#1006FYou know, the one you were heading back to[x01]
+the Empire to put into action.[x02][x03]
+
+#1012FAfter you had us going with that crazy stunt you[x01]
+pulled back at Haken Gate, you better be putting[x01]
+your back into it.[x02][x03]
+
+#1018FIf you're not, there's a staff here with your name[x01]
+on it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #240
+0x19
+
+#1543F...[x02][x03]
+
+#1540F...Haha. Oh, I see.[x02][x03]
+
+#1541FThank you for your words of encouragement, [x01]
+Estelle. I'll be sure to take them to heart.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #241
+0x101
+
+#1004F...Wait. That's it? No dodging questions or[x01]
+creepy comments with that dumb grin you've[x01]
+always got on half the time?[x02][x03]
+
+#1002FYou feeling okay, Olivier? Schera didn't drink[x01]
+you under the table again, did she?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #242
+0x19
+
+#1545FIf alcohol is what you desire, my dear Schera,[x01]
+then I shall be happy to provide![x02][x03]
+
+This beverage I acquired from that great tree[x01]
+has quite the fragrance--and a taste to match.[x02][x03]
+
+#1541F...Unfortunately, however, I haven't a clue of[x01]
+the maker or year.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #243
+0x102
+
+#1500FYou do know inviting her to drink with you is[x01]
+going to end with you vomiting in the fountain,[x01]
+right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #244
+0x19
+
+#1546FI... Uh...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #245
+0x19
+
+#1545FHaha...haha... Dearest Joshua, your concern moves me,[x01]
+but so long as Aina isn't here, I will persevere![x02][x03]
+
+#1546FWhy are you looking at me like that? I-I WILL be fine,[x01]
+won't I? ...Won't I?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #246
+0x17
+
+#1160FThis place really is beautiful, though, isn't it?[x02][x03]
+
+
+I'm surprised how at ease I feel here.[x02][x03]
+
+
+
+#1382FThe trees, the fountain... It's more relaxing than[x01]
+anything.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #247
+0x17
+
+#1169FI see...[x02][x03]
+
+So you think that Estelle might have...?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #248
+0x17
+
+#1383FThis garden is so relaxing, isn't it?[x02][x03]
+
+#1160FI'm surprised how at ease I feel here.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #249
+0x17
+
+#1169FI see...[x02][x03]
+
+So you think that Estelle might have...?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #250
+0x17
+
+#1167FI had just finished writing in my diary before [x01]
+settling down to sleep when I took a glance[x01]
+out the window.[x02][x03]
+
+#1162FWhen I did, I saw a bright light...[x02][x03]
+
+
+#1163F...and next, all I could see was white.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #251
+0x16
+
+#1503FOh, right... You can see the port from your[x01]
+window in the castle, can't you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #252
+0x13
+
+#176FI see... I'd forgotten how you can see the[x01]
+port from the castle.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #253
+0x15
+
+#213FOh, yeah.[x02][x03]
+
+Grancel Castle's right next to the port,[x01]
+isn't it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #254
+0x17
+
+#1167FYes...[x02][x03]
+
+So judging by all I've heard, it sounds as though[x01]
+the first light I saw was the cube activating,[x01]
+and then I was drawn in here with everyone else.[x02][x03]
+
+#1169FIf only I had known what was going to happen,[x01]
+perhaps I would have been able to do something[x01]
+after seeing the first light...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #255
+0x10B
+
+#215FThat's... Well...[x02][x03]
+
+#210F...Let's look at the positives! We're never gonna[x01]
+run out of food or water or anything while we're[x01]
+here, right?[x02][x03]
+
+I'll pitch in with the cooking, too, so...don't worry[x01]
+so much, okay?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #256
+0x17
+
+#1160FIn that case...perhaps we could cook together[x01]
+later?[x02][x03]
+
+#1165FI'm not a bad chef, if I do say so myself. Heehee.[x01]
+Besides, I think it'd be easier to calm down if[x01]
+I could take my mind off things.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #257
+0x10B
+
+#213FOh... Sure thing...[x02][x03]
+
+#210F...You know what? Yeah! I'd be totally[x01]
+up for that![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #258
+0x15
+
+#215FThat's... Well...[x02][x03]
+
+#210F...Let's look at the positives! We're never gonna[x01]
+run out of food or water or anything while we're[x01]
+here, right?[x02][x03]
+
+I'll pitch in with the cooking, too, so...don't worry[x01]
+so much, okay?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #259
+0x17
+
+#1160FIn that case...perhaps we could cook together[x01]
+later?[x02][x03]
+
+#1165FI'm not a bad chef, if I do say so myself. Heehee.[x01]
+Besides, I think it'd be easier to calm down if[x01]
+I could take my mind off things.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #260
+0x15
+
+#213FOh... Sure thing...[x02][x03]
+
+#210F...You know what? Yeah! I'd be totally[x01]
+up for that![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #261
+0x1D
+
+#551FWhew...[x02][x03]
+
+#053FOkay, I think it's about time we got moving.[x02][x03]
+
+#051FNext up is the seventh plane, right?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #262
+0x1D
+
+#053FWe're off to the seventh plane next, right?[x02][x03]
+
+#051FThe first place the Lord of Phantasma made[x01]
+when they came in here or whatever.[x02][x03]
+
+We're gonna need to be on guard while we're[x01]
+there, no doubt.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #263
+0x1D
+
+#053FBack when I first met that old man, he kicked[x01]
+my sorry ass more times than I can count.[x02][x03]
+
+
+#051FOne day, I'm gonna pay him back tenfold--[x01]
+count on it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #264
+0x1D
+
+#053FI owe that old man a hell of a lot of beatings.[x02][x03]
+
+
+#051FAnd one day, I'm gonna give him them.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #265
+0x101
+
+#1004FOh. 'Sup, Agate?[x02][x03]
+
+#1028FHeehee. So how'd it feel to fight my dad?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #266
+0x103
+
+#1520FOh. 'Sup, Agate?[x02][x03]
+
+#1521FHaha. So how do you feel after your fight[x01]
+with Cassius?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #267
+0x109
+
+#1066FOh, Agate. Thanks again for pitching in before.[x02][x03]
+
+
+#1060FSure seems like there's a lot between you and[x01]
+Cassius, though, huh?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #268
+0x1D
+
+#053FHeh. Just beating him once isn't gonna be[x01]
+enough to settle the score, that's for sure.[x02][x03]
+
+
+#552FBack when I first met that old man, he kicked[x01]
+my sorry ass more times than I can count.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #269
+0x109
+
+#1064FO-Oh, right.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #270
+0x1D
+
+#051FOne day, I'm gonna pay him back tenfold--[x01]
+count on it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #271
+0x101
+
+#1004FOh, Agate?[x02][x03]
+
+#1015FJust so you know, the guardian of the third[x01]
+area turned out to be Dad...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #272
+0x103
+
+#1523FOh, Agate.[x02][x03]
+
+#1520F...Just so you know, the guardian of the third[x01]
+area turned out to be Cassius.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #273
+0x109
+
+#1066FUmm... So, uh, Agate?[x02][x03]
+
+Just for the record, the guardian of the third[x01]
+area was Cassius...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #274
+0x1D
+
+#053F...Yeah, yeah. I already know.[x02][x03]
+
+Celeste told me.[x02][x03]
+
+
+#552FI'd be lyin' if I said I wasn't bitter about not[x01]
+being able to fight him with you...[x02][x03]
+
+#556F...but I'll just pay him back another time,[x01]
+I guess.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #275
+0x1D
+
+#552FI swear, Kilika's somethin' else.[x02][x03]
+
+I always figured she was strict, but come ON.[x02][x03]
+
+
+#053F...Well, whatever.[x02][x03]
+
+I guess I'll help out with some of the guild's[x01]
+workload in Zeiss when I get back.[x02][x03]
+
+#051FShe did seem kinda attached to the place[x01]
+and all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #276
+0x1D
+
+#552FI swear, Kilika's somethin' else.[x02][x03]
+
+#053F...Well, whatever.[x02][x03]
+
+I guess I'll help out with some of the guild's[x01]
+workload in Zeiss when I get back.[x02][x03]
+
+#051FShe did seem kinda attached to the place[x01]
+and all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #277
+0x1D
+
+#057F...Wait. Erika Russell's probably still gonna[x01]
+be there, isn't she?[x02][x03]
+
+#555F......[x02][x03]
+
+
+
+#552F...Damn it.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #278
+0x108
+
+#073FYou doing some training by yourself, Agate?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #279
+0x1D
+
+#051FYep. You're welcome to come join me[x01]
+if you get the chance. [x02][x03]
+
+Pretty sure I'd get better results if I had[x01]
+a tough old bear like you to fight.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #280
+0x1D
+
+#053FHey. You guys should do some training of your[x01]
+own, if you ask me.[x02][x03]
+
+#051FThere's no tellin' what we've got waiting for us.[x01]
+No such thing as being too prepared.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #281
+0x1D
+
+#053F*deep breath*[x01]
+*deep breath*[x02][x03]
+
+#057FHaaaaaah![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #282
+0x1D
+
+#053FOkay. One more time.[x02][x03]
+
+#051FAnd I'm gonna win this one![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #283
+0x1D
+
+#053FZin told me somethin' pretty cool earlier.[x02][x03]
+
+
+He says this place is perfect for martial arts[x01]
+training.[x02][x03]
+
+#051FHeh. I might not be into the same combat style[x01]
+as him, but I'm not gonna say no to a chance to[x01]
+get stronger.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #284
+0x1D
+
+#053FHey. Zin was sayin' something kinda cool[x01]
+earlier.[x02][x03]
+
+He says this place is perfect for martial arts[x01]
+training.[x02][x03]
+
+#051FHeh. I might not be into the same combat style[x01]
+as him, but I'm not gonna say no to a chance to[x01]
+get stronger.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #285
+0x1D
+
+#051FSay, you wanna join me for some sparring later,[x01]
+Zin?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #286
+0x108
+
+#070FHaha. Sure thing.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #287
+0x1A
+
+#070FHaha. Sure thing.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #288
+0x1D
+
+#050FZin told me this place is probably perfect for[x01]
+martial arts training.[x02][x03]
+
+#053FAnd I'm always up for a chance to get my training[x01]
+on.[x02][x03]
+
+#051FBetter take advantage of it while we're still here![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #289
+0x1D
+
+#552FAll this crap about how Phantasma's made up is[x01]
+givin' me a headache...[x02][x03]
+
+...but it doesn't take a genius to figure out just[x01]
+how strong the fiends in it are getting the farther[x01]
+in we go.[x02][x03]
+
+#057FWe're gonna have to get a hell of a lot stronger[x01]
+if we wanna standing a chance against them.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #290
+0x1D
+
+#053FIf the fight against that devil at the end of the[x01]
+plane's anything to go by, Kevin can handle 'em[x01]
+just fine...[x02][x03]
+
+#057F...but we can't go shovin' the burden of doing the[x01]
+tough fights onto him every time. We're gonna[x01]
+need to kick it into high gear at some point, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #291
+0x1D
+
+#051FYou're pretty tough from what I've heard,[x01]
+Colonel.[x02][x03]
+
+So I'm itchin' to fight you one on one while[x01]
+we've got the chance and see what I can[x01]
+really do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #292
+0x10C
+
+#119FHaha... Haha...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #293
+0x1D
+
+#051FColonel Richard's supposed to be pretty tough[x01]
+from what I've heard.[x02][x03]
+
+I'm just itchin' to fight him one on one myself[x01]
+while I've got the chance.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #294
+0x1D
+
+#051FYou're pretty tough from what I've heard,[x01]
+Colonel.[x02][x03]
+
+So I'm itchin' to fight you one on one while[x01]
+we've got the chance and see what I can[x01]
+really do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #295
+0x1D
+
+#051FColonel Richard's supposed to be pretty tough[x01]
+from what I've heard.[x02][x03]
+
+I'm just itchin' to fight him one on one myself[x01]
+while I've got the chance.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #296
+0x1D
+
+#052FOh, if it ain't Estelle and Joshua.[x02][x03]
+
+#051FI was talking to Schera earlier, and she told[x01]
+me somethin' interesting about Anelace.[x02][x03]
+
+#051FApparently, she fought our buddy Colonel [x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #297
+0x1D
+
+#052FOh, if it ain't Estelle and Joshua.[x02][x03]
+
+#051FHey, you heard this thing about Anelace?[x01]
+Apparently, she fought our buddy Colonel[x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #298
+0x1D
+
+#052FOh, if it ain't Estelle.[x02][x03]
+
+#051FI was talking to Schera earlier, and she told[x01]
+me somethin' interesting about Anelace.[x02][x03]
+
+#051FApparently, she fought our buddy Colonel [x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #299
+0x1D
+
+#052FOh, if it ain't Estelle.[x02][x03]
+
+#051FHey, you heard this thing about Anelace?[x01]
+Apparently, she fought our buddy Colonel[x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #300
+0x101
+
+#1004FWhoa. Really?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #301
+0x10A
+
+#819FHeehee. Yeah, it's true.[x02][x03]
+
+I wasn't expecting it to happen, though.[x01]
+But it was just a friendly bout, so don't[x01]
+take it too seriously.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #302
+0x1B
+
+#819FHeehee. Yeah, it's true.[x02][x03]
+
+I wasn't expecting it to happen, either.[x01]
+But it was just a friendly bout, so don't[x01]
+take it too seriously.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #303
+0x10C
+
+#111FIt was just another of Brigadier General Bright's [x01]
+whims.[x02][x03]
+
+#110FStill, I saw no reason to object, so I was happy[x01]
+to put my swordsmanship to the test.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #304
+0x101
+
+#1017FO-Oh, right.[x02][x03]
+
+#1015FCome to think of it, I've fought you once before,[x01]
+too, haven't I?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #305
+0x102
+
+#1500FAlthough that was a four-on-one battle, and even[x01]
+then we barely managed to scrape a victory...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #306
+0x101
+
+#1017FO-Oh, right.[x02][x03]
+
+#1015FCome to think of it, I've fought you once before,[x01]
+too, haven't I?[x02][x03]
+
+Although that was a four-on-one battle, and even[x01]
+then we barely managed to scrape by with a victory...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #307
+0x10C
+
+#118FHaha... I can't say that occasion is an especially[x01]
+pleasant memory to me at this point.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #308
+0x1D
+
+#051FYou learned your swordsmanship under the[x01]
+old man directly, right?[x02][x03]
+
+I'd be down for a one-on-one fight against[x01]
+you if you are.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #309
+0x10C
+
+#495F(I fear you're only setting yourself up for[x01]
+disappointment by comparing me to him...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #310
+0x1D
+
+#052FOh, if it ain't Estelle and Joshua.[x02][x03]
+
+#051FI was talking to Schera earlier, and she told[x01]
+me somethin' interesting about Anelace.[x02][x03]
+
+#051FApparently, she fought our buddy Colonel [x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #311
+0x1D
+
+#052FOh, if it ain't Estelle and Joshua.[x02][x03]
+
+#051FHey, you heard this thing about Anelace?[x01]
+Apparently, she fought our buddy Colonel[x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #312
+0x1D
+
+#052FOh, if it ain't Estelle.[x02][x03]
+
+#051FI was talking to Schera earlier, and she told[x01]
+me somethin' interesting about Anelace.[x02][x03]
+
+#051FApparently, she fought our buddy Colonel [x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #313
+0x1D
+
+#052FOh, if it ain't Estelle.[x02][x03]
+
+#051FHey, you heard this thing about Anelace?[x01]
+Apparently, she fought our buddy Colonel[x01]
+Richard here a while back.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #314
+0x101
+
+#1004FWhoa. Really?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #315
+0x103
+
+#1525FI couldn't believe my ears when I first heard it,[x01]
+either.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #316
+0x10A
+
+#819FHeehee. Yeah, it's true.[x02][x03]
+
+I wasn't expecting it to happen, though.[x01]
+But it was just a friendly bout, so don't[x01]
+take it too seriously.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #317
+0x1B
+
+#819FHeehee. Yeah, it's true.[x02][x03]
+
+I wasn't expecting it to happen, though.[x01]
+But it was just a friendly bout, so don't[x01]
+take it too seriously.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #318
+0x101
+
+#1017FHuh. Never would've guessed.[x02][x03]
+
+#1015FI mean, I've fought him once before,[x01]
+too, but it's still weird.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #319
+0x102
+
+#1500FYeah. But that fight was four against one,[x01]
+and even then we barely scraped a victory.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #320
+0x101
+
+#1017FHuh. Never would've guessed.[x02][x03]
+
+#1015FI mean, I've fought him once before,[x01]
+too, but it's still weird.[x02][x03]
+
+Yeah. But that fight was four against one,[x01]
+and even then we barely scraped by with[x01]
+a victory.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #321
+0x1D
+
+#053FWell, you know someone's gonna be tough[x01]
+when your old man's the one who trained[x01]
+him with a sword.[x02][x03]
+
+#051FI'd be down for a one-on-one fight against[x01]
+him if he is. Hell, maybe I should go ask him[x01]
+now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #322
+0x1D
+
+#552FDominion or not, I dunno what that priest[x01]
+was thinking goin' nuts and knockin' himself[x01]
+out cold.[x02][x03]
+
+#053FHe could've ran what he was plannin' past us[x01]
+first before becoming dead weight.[x02][x03]
+
+Some people, I swear.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #323
+0x101
+
+#1019FLook who's talking, bucko.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #324
+0x1D
+
+#552FI always figured Kevin was more than he[x01]
+let on...[x02][x03]
+
+#053FDidn't think he'd go using some superpower[x01]
+and collapsin' on us like this. Bah.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #325
+0x107
+
+#067FI'm so glad you're okay, though![x02][x03]
+
+
+#560FI was already worried about whether you were[x01]
+drawn here, but not knowing if you were okay[x01]
+was--[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #326
+0x1D
+
+#551FOkay, I get it! Stop hugging me![x02][x03]
+
+
+#050FBesides...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #327
+0x1D
+
+#552F...never mind me. You haven't been gettin'[x01]
+yourself hurt while I was away, have you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #328
+0x107
+
+#565FUmm...[x02][x03]
+
+N-No. I'm okay...[x02][x03]
+
+#067FI had lots of people looking out for me.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #329
+0x1D
+
+#053FReally?[x02][x03]
+
+#051FWell, that's good.[x02][x03]
+
+Now all that's left is to save the other guys who[x01]
+ended up trapped in stones and get the hell out [x01]
+of this weird place.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #330
+0x1D
+
+#050FNext time you're heading out, take me with you.[x02][x03]
+
+I don't feel like I'm gonna get what's going on[x01]
+unless I see it all for myself.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #331
+0x109
+
+#1066FHaha. Daaamn. Someone's motivated.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #332
+0x1D
+
+#555FO-Oh...[x02][x03]
+
+R-Right...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #333
+0x1D
+
+#053FI'm not doing any good standing around here [x01]
+wasting time.[x02][x03]
+
+#051FTake me with you next time you head out, okay?[x01]
+I wanna get a handle on the situation we're in,[x01]
+and going with you's the best way to do it.[x02]

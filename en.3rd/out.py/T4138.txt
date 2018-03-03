@@ -1,0 +1,282 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+
+
+[x07][x05]Some time had passed since the crisis involving[x01]
+the Aureole came to an end.[x02][x03]
+
+One by one, many of those who fought to bring it[x01]
+to an end set off from the land of Liberl to [x01]
+begin new lives...[x02][x03]
+
+And today, yet another of their group was ready[x01]
+to leave the kingdom behind as well.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x12
+
+#1100FI-I can't believe that you...[x02][x03]
+
+I mean, my deepest apologies for not noticing that[x01]
+you were His Highness Prince Olivert sooner![x02][x03]
+
+While I may not have had the opportunity to see[x01]
+you in public before now, I realize that is no[x01]
+excuse... I do hope you will forgive my ignorance.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x11
+
+#030F#5PHaha. There's no need to be so apologetic, [x01]
+Ambassador.[x02][x03]
+
+If anyone deserves to be blamed here, it's me for[x01]
+falsifying my identity, and not you.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x12
+
+#1100FI-I thank you for your mercy...[x02][x03]
+
+Still, I can hardly believe that you went so far[x01]
+just to come here and enjoy yourself.[x02][x03]
+
+It's just as well you came out of it all safely,[x01]
+or this could have become a major international[x01]
+incident.[x02][x03]
+
+I dread to think what would have happened to me[x01]
+in that case... You were really playing with [x01]
+fire this time, Your Highness.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x11
+
+#030F#5PHeh. Still, thanks to that, I was able to get the[x01]
+kind of firsthand knowledge about this country[x01]
+that no amount of books could have given me.[x02][x03]
+
+Regardless, this won't be the last this country[x01]
+sees of me, so I hope I'll be able to count on[x01]
+you on future visits, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x12
+
+#1100FWh-What?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x11
+
+#030F#5PPerhaps next time I could even involve you more[x01]
+directly in the proceedings. What say you to a[x01]
+little hot springs trip together?[x02][x03]
+
+Heh. We could even invite Ambassador Cochrane to[x01]
+join us.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x12
+
+#1100FY-Your Highness...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x10
+
+#270F#2P*cough* Ambassador, if I may...[x02][x03]
+
+Please don't take every one of his worthless jokes[x01]
+at face value, or this meeting will take the rest[x01]
+of the day.[x02][x03]
+
+I think it would be best to get right to the point[x01]
+and discuss the request regarding our return home[x01]
+that we made  earlier.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x12
+
+#1100FY-Yes, of course... I'll arrange an airship at[x01]
+once.[x02][x03]
+
+I should be able to have one of the high-speed[x01]
+airships for diplomats arranged for tomorrow.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x11
+
+#030F#5PHeh. You have our thanks.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x12
+
+#1100FIt's an honor to be able to do anything to help[x01]
+you, Your Highness.[x02][x03]
+
+Besides, I think you're right that in these times,[x01]
+returning on a military airship would be an unwise[x01]
+move...[x02][x03]
+
+Especially with how tense the situation at the[x01]
+border is...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x10
+
+#270F#6PSo, regarding what the ambassador said...[x02][x03]
+
+What exactly is it that you're on the alert for?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x11
+
+#030F#2PHeh. I just want to avoid the possibility of any[x01]
+unfortunate accidents.[x02][x03]
+
+What I did will have caused the hawk faction in[x01]
+the Empire to completely lose face.[x02][x03]
+
+There's just no telling what they'll choose to do.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x10
+
+#270F#6PIn other words...[x02][x03]
+
+You think there's a possibility that there may be[x01]
+an attempt on your life disguised as an accident?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x11
+
+#030F#2PMy instinct is that the chancellor is far too [x01]
+patient a man to try doing something so rash.[x02][x03]
+
+Still, if I was in his position, I can't deny the[x01]
+possibility I may try to use this opportunity.[x02][x03]
+
+Once that thought occurred to me, no precaution[x01]
+seemed too great, I suppose.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x10
+
+#270F#6P...[x02][x03]
+
+The 7th Armored Division I serve is your ally,[x01]
+as you well know.[x02][x03]
+
+If anything were to happen, they would be right[x01]
+there for you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x11
+
+#030F#2PWell, that's certainly reassuring to know...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x11
+
+#030F#2PBut as I'm sure you know, acting rashly in the[x01]
+current situation is just what our enemy would[x01]
+want us to do.[x02][x03]
+
+It's similar to street fights in a sense -- the[x01]
+first one to draw their weapon is the one in the[x01]
+wrong.[x02][x03]
+
+If I decide to rely on brute force, they'll have[x01]
+every reason to decry me as a rebellious traitor.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x10
+
+#270F#6PI suppose you're right...[x02][x03]
+
+Sometimes trying too hard to defend yourself can[x01]
+end up cornering you instead.[x02][x03]
+
+Perhaps sometimes the best method of self-defense[x01]
+is to do nothing at all.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x11
+
+#030F#2PHeh. Indeed.[x02][x03]
+
+As long as our enemy doesn't know what we plan to[x01]
+do, they can't do anything to counter it, either.[x02][x03]
+
+First, we need to return to Heimdallr and tell[x01]
+His Majesty the truth of all that happened here.[x02][x03]
+
+
+We can decide what we're going to after seeing[x01]
+what kind of a reaction we get.[x02]

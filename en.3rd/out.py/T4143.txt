@@ -1,0 +1,564 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x103
+
+#1642F#2PCome ON... Why're there still so many[x01]
+of them going around?[x02][x03]
+
+#1647FHow can we get to the guild like this?![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x151
+
+#1654FI think we're going to have to spend the rest[x01]
+of the night here, unfortunately.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x103
+
+#1642F#2PIt won't need to come to that. I think if I can find[x01]
+a good opening, we can force our way through.[x02][x03]
+
+It's just a case of finding one...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x151
+
+#1652FI don't think that's a good idea. We need to be[x01]
+careful and rest while we can.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x103
+
+#1647F#2P(...As logical as that sounds, I'm not buying[x01]
+it's her real reason.)[x02][x03]
+
+#1646F(Get a grip, Schera! I can't let my emotions[x01]
+get the better of me!)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x103
+
+#1646F#2PThere's no guarantee we're even safe here,[x01]
+you know.[x02][x03]
+
+#1642FI still think the safest option in the long run is[x01]
+to get to the guild--no matter what we have to[x01]
+do to get there.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x103
+
+#1644FH-Hey! Where do you think you're going?![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x151
+
+#1650FI think the second floor is a better place[x01]
+to rest than the first.[x02][x03]
+
+We'll find it easier to escape from here[x01]
+than we would from below.[x02][x03]
+
+This should be a good spot.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x103
+
+#1642F#1PWait one damn minute.[x02][x03]
+
+#1642FThis is your safety we're talking about, here![x01]
+You could stand to listen to me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x151
+
+#1654FThose men will be patrolling carefully for the[x01]
+rest of the night. [x02][x03]
+
+
+They aren't going to give you the opening you[x01]
+want...or at least I don't believe they will.[x02][x03]
+
+#1650FWe've made it this far, so I think it would be[x01]
+best for us to rest tonight and resume trying[x01]
+tomorrow. Don't you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x103
+
+#1646F#1P...[x02][x03]
+
+#1648FTrying to do what?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x151
+
+#1653FPardon?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x103
+
+#1646F#3PYou're still hiding something, aren't you?[x02][x03]
+
+
+For one thing, you're aaawfully familiar with[x01]
+this city for someone who claims it's her first[x01]
+time here.[x02][x03]
+
+You also seem to know a lot about those men[x01]
+and what they will and won't do, too...[x02][x03]
+
+#1648FWhat exactly are you really after?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x103
+
+#1646FIt's plain as day at this point that you want[x01]
+more than just not to be caught by them.[x02][x03]
+
+If that wasn't the case, you wouldn't have[x01]
+asked to be shown around the capital. Not[x01]
+that I think that's what you want, either.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x103
+
+#1648FWhat's your real goal?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x103
+
+#1648F#4P...Well? No answer?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x151
+
+#1656F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x103
+
+#1646F#4PThe work we do is based around trust.[x02][x03]
+
+We can't accept requests from people who won't[x01]
+tell us what they're up to, or who knows what[x01]
+kinds of crimes we could be abetting?[x02][x03]
+
+#1642FGo on. The whole thing about that inheritance[x01]
+was all a big, fat lie, wasn't it?[x02][x03]
+
+Something about you'd been setting off alarms[x01]
+since we started running around together.[x01]
+Strike that--since you first came to the guild.[x02][x03]
+
+#1648FWhy did you lie to me?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x151
+
+#1654F#5PU-Umm...[x02][x03]
+
+The story about the inheritance is true.[x01]
+I swear it.[x02][x03]
+
+#1652FI... I want to go to Grancel Castle.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x151
+
+#1652F#5PI really am the one to whom my grandfather gave[x01]
+his fortune.[x02][x03]
+
+But I haven't finished the necessary procedures[x01]
+to truly inherit it yet.[x02][x03]
+
+#1654FUntil I complete the required paperwork in Grancel[x01]
+Castle's administrative room, I'm not legally allowed[x01]
+anything.[x02][x03]
+
+And that's why there are so many of those men in[x01]
+black around that area.[x02][x03]
+
+#1656FAll of my relatives know exactly what I need to do,[x01]
+you see.[x02][x03]
+
+So they're...trying to make sure I can't do it.[x02][x03]
+
+
+...[x02][x03]
+
+#1652FStill, if I don't keep trying to move forward,[x01]
+I'll...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x103
+
+#1648F#4PWhat a mess...[x02][x03]
+
+Well, okay. For argument's sake, let's assume[x01]
+that I believe all of what you just said.[x02][x03]
+
+#1646FWhy am I only hearing about it now?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x151
+
+#1656F#5PUmm...[x02][x03]
+
+#1655FTh-That is...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x103
+
+#1646F#4PYou thought I'd want in on that money,[x01]
+didn't you?[x02][x03]
+
+If I did and I knew everything, I'd have all the[x01]
+opportunities a greedy girl could dream of to[x01]
+take it when together with you.[x02][x03]
+
+#1642FThat's what you thought I'd do, isn't it? I'd play[x01]
+along and then steal it all for myself the second[x01]
+a chance presented itself.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x103
+
+#1644F#4P#3SDo I look like THAT much of a scumbag[x01]
+to you?!#2S[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x151
+
+#1652F#3S#5PN-No! You don't!#2S[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x151
+
+#1652F#5PThat's not it at all.[x02][x03]
+
+After I lost Grandfather, I lived all on my own.[x02][x03]
+
+
+#1654FBut the second his will became public, I had[x01]
+crowds of people descending upon me.[x02][x03]
+
+#1656FPeople who, like you said, were interested only[x01]
+in claiming his fortune for themselves.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x151
+
+#1652F#5PThat was why I decided to try and get an escort[x01]
+from someone I COULD trust.[x02][x03]
+
+So it's not that I don't think I can trust you.[x01]
+Not at all.[x02][x03]
+
+#1656FA-And, erm...[x02][x03]
+
+#1655F...I will admit that wanting to explore the capital[x01]
+was a lie. I'm sorry for deceiving you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x103
+
+#1645F*sigh* You're a grade-A moron...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x151
+
+#1656F#5P...I'm sorry...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x103
+
+#1642FYou could've said all of this from the beginning[x01]
+and saved us a lot headache.[x02][x03]
+
+If I'd known what you were trying to do, I would[x01]
+have been able to formally escort you where you[x01]
+want to go to.[x02][x03]
+
+And the guild would've been the safest place for[x01]
+you to hide out, too. We wouldn't have ended up[x01]
+in this dump instead.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x151
+
+#1653F#5PI...suppose you're right.[x02][x03]
+
+...[x02][x03]
+
+#1656FI... I was just...scared.[x02][x03]
+
+
+I'll never be able to forget what I saw that day.[x02][x03]
+
+What I saw in the eyes of everyone who gathered[x01]
+to hear that will read.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x151
+
+#1654F#5PThe horror I felt when I saw it.[x02][x03]
+
+
+Madness. Insanity. Cold, murderous light...[x02][x03]
+
+Emotions that no one can explain. That no one[x01]
+can put into words...[x02][x03]
+
+It wasn't visible for long before they managed to[x01]
+push it back below the surface and out of sight...[x02][x03]
+
+...but it was still there.[x02][x03]
+
+
+#1656FBecause now, I believe that's something that all[x01]
+of us possess naturally.[x02][x03]
+
+Human beings are capable of limitless cruelty.[x01]
+Every one of us.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x151
+
+#1654F#5PAnd that realization's left me terrified of us all.[x02][x03]
+
+It's not that I don't trust bracers...[x02][x03]
+
+
+#1656FIt's just that...[x02][x03]
+
+...I've been so scared...[x02][x03]
+
+#1654F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x151
+
+#1652F#5PI-I'm so sorry![x02][x03]
+
+#1656FI know I shouldn't have wasted your[x01]
+time with any of this...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x103
+
+#1646F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x151
+
+#1656F#5PUmm... I...[x02][x03]
+
+#1655FI should never have gotten you caught up in all[x01]
+of this when you were busy enough already...[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x151
+
+#1655F#5PJust forget that I--[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x103
+
+#1646FListen.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x151
+
+#1653F#5P...Huh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x103
+
+#1646FIt's my policy to give 100% to all work [x01]
+I undertake.[x02][x03]
+
+Don't underestimate me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #40
+
+
+[x18][x07][x0C]I'm the one who should be apologizing to you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #41
+
+
+[x18][x07][x0C]I've wanted to be strong and to live with my[x01]
+head held high.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #42
+
+
+[x18][x07][x0C]I still believe I was right to feel that way,[x01]
+and yes, I've lived my hardest until now...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #43
+
+
+[x18][x07][x0C]...but you've made me notice that there's[x01]
+something wrong with my attitude. I'm not[x01]
+going about it the right way.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #44
+
+
+[x18][x07][x0C]And it's made me realize anew that I want to be[x01]
+able to keep living with pride in my every step.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #45
+
+
+[x18][x07][x0C]So no more saying sorry, okay? I want to see[x01]
+this job through to the very end.[x02]

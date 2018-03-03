@@ -1,0 +1,671 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x12
+
+#1485F#11PAhh...[x02][x03]
+
+It's obvious that Her Majesty is quite the tea [x01]
+fancier, if this blend is anything to go by.[x02][x03]
+
+The fragrance, the temperature, the taste...[x01]
+I'd be hard-pressed to find fault with any of it.[x02][x03]
+
+#1480FI've always been more of a coffee man myself,[x01]
+but I have no doubt that I'd be content with a[x01]
+cup of this at my desk each morning.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x10
+
+#1551F#6P...As much as I agree with you, I don't believe[x01]
+we're here to talk about beverages.[x02][x03]
+
+#1542FSo, shall we get right to the point? What did you[x01]
+want to discuss with me?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x12
+
+#1485F#11PHaha...[x02][x03]
+
+#1481FI see your sojourn in Liberl has proven most[x01]
+fruitful.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x10
+
+#1543F#6P...Pardon?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x12
+
+#1480F#11PWhen we last spoke, you struck me as a bright,[x01]
+flexible young man...[x02][x03]
+
+
+...and no doubt, you still are. But now, I see[x01]
+in you a resilient inner strength girding those[x01]
+aspects.[x02][x03]
+
+#1485FI'm sure His Majesty will be most delighted with[x01]
+your personal development.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x10
+
+#1545F#6PHeh. Meanwhile, I see you're the same fearless[x01]
+man I've always known you to be.[x02][x03]
+
+#1540FMore so, even. That crushing aura about you[x01]
+seems to have only grown with time.[x02][x03]
+
+#1541FIt's as if you feed on the resentment of those[x01]
+who live in the territories you annex.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x12
+
+#1481F#11PHaha. Such harsh words, Your Highness.[x02][x03]
+
+#1485FPersonally, I prefer the term 'political unification.' [x01]
+'Annex' can carry such...negative connotations,[x01]
+you know.[x02][x03]
+
+Since the end of the Hundred Days War, our army[x01]
+hasn't committed a single act of aggression.[x01]
+All our unifications have been entirely peaceful.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x10
+
+#1545F#6POh, you're quite right about that.[x02][x03]
+
+#1540F...On the surface.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x12
+
+#1483F#11POh?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x10
+
+#1544F#6PIt's amazing how similar the annexation process[x01]
+is every single time it happens.[x02][x03]
+
+#1542FIt starts with a small nation or independent state[x01]
+with an array of problems beyond repair.[x02][x03]
+
+
+Those problems start to worsen, after which[x01]
+jaegers and other dangerous elements enter,[x01]
+plunging public order to an all-time low...[x02][x03]
+
+#1551FDesperate for a solution, the local government[x01]
+requests the help of the Imperial Army.[x01]
+Before they know it, they're part of the Empire.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x12
+
+#1480F#11PWell, it's not as though I can deny what you're[x01]
+saying. Each instance does share certain[x01]
+commonalities.[x02][x03]
+
+#1485FStill, it's to be expected--an inevitable[x01]
+consequence of the age of unchecked growth[x01]
+and progress in which we live.[x02][x03]
+
+The Imperial Army is simply acting in the Empire's[x01]
+best interests, helping to stabilize our neighbors[x01]
+for the good of the Empire.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x10
+
+#1540F#6PAnd it's understandable that they would.[x02][x03]
+
+#1541FI do find myself rather curious why Intelligence[x01]
+Division members are going to such nations with[x01]
+such peculiar frequency...[x02][x03]
+
+Well before the problems I described worsen, [x01]
+no less.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x12
+
+#1485F#11PHaha. I won't press as to where you came by[x01]
+such information, as curious as I am...[x02][x03]
+
+
+#1481F...but I will say this: at its most basic level,[x01]
+these actions are about risk management.[x02][x03]
+
+It's because we've been acting to minimize such[x01]
+risks beforehand that the army has been able to[x01]
+successfully quell each problem in turn.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x10
+
+#1544F#6PWith the small price of earning the disdain of [x01]
+the people in those nations and an increased[x01]
+risk of terrorism in exchange.[x02][x03]
+
+#1542FTo tell you the truth, I'm rather astounded that[x01]
+you had the courage to come here to Liberl all[x01]
+on your own to begin with.[x02][x03]
+
+After all, you've earned yourself the biggest[x01]
+target for terrorists in all of Erebonia.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x12
+
+#1485F#11PHaha. Your concern is touching, Your Highness.[x02][x03]
+
+#1480FI would ask that you not trouble yourself with[x01]
+my safety.[x02][x03]
+
+I employ some very skilled subordinates tasked[x01]
+primarily with eliminating the risk of terrorist[x01]
+attacks against me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x10
+
+#1543F#6PReally, now?[x02][x01]
+
+#1542FThat Lechter is one of those, I assume?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x12
+
+#1485F#11PHaha. A rather peculiar fellow, isn't he? But[x01]
+a very useful one all the same.[x02][x03]
+
+Working out the scheduling for this trip and[x01]
+taking all the necessary precautions to ward[x01]
+off terrorist threats were both his doing.[x02][x03]
+
+#1480FAnd thanks to his commendable efforts, I can[x01]
+depart for Crossbell free from worries as soon[x01]
+as I've finished my business here.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x10
+
+#1543F#6P#3SCrossbell?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x12
+
+#1480F#11PAre you surprised? I'll be participating in a top-[x01]
+secret discussion with a representative of the[x01]
+Crossbell government.[x02][x03]
+
+Recently, a large amount of funding has been[x01]
+flowing into the country through Republican[x01]
+channels, putting our allies on the defensive.[x02][x03]
+
+#1485FI'd always meant to visit at some point, and this[x01]
+seemed the perfect opportunity.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x10
+
+#1550F#6PA-Are you out of your mind?![x02][x03]
+
+#1544FCrossbell is full of enemies and different factions[x01]
+at each other's throats![x02][x03]
+
+I hear it's now even a hotbed for terrorists and[x01]
+criminal organizations because of its position as[x01]
+a buffer state...[x02][x03]
+
+#1542FDoes that really sound like a place the Erebonian[x01]
+chancellor should be going even on an unofficial[x01]
+visit?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x12
+
+#1481F#11PI'm surprised to hear you advocating caution in[x01]
+the face of potential danger, Your Highness.[x02][x03]
+
+After all, it was you who flew onto an ancient city--[x01]
+at great risk to your own safety--and returned[x01]
+unharmed after surveying it.[x02][x03]
+
+#1485FCompared to such rousing risk-taking, my visit to[x01]
+Crossbell will be child's play. [x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x10
+
+#1542F#6P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x12
+
+#1480F#11PAs I'm sure you're aware, you're regarded as[x01]
+something of a hero back in Erebonia now.[x02][x03]
+
+Ah, to see a hero make a grand return befitting[x01]
+his newly-minted legend...and aboard the famous[x01]
+Arseille, no less.[x02][x03]
+
+Naturally, our hero has also taken the time to[x01]
+ensure that every well-known newspaper and[x01]
+magazine are aware of his homecoming, too...[x02][x03]
+
+#1485FOh, I have no doubts that your triumphant arrival[x01]
+will be every bit as glorious as it has played out[x01]
+in your imaginings, Your Highness.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x10
+
+#1549F#6P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x12
+
+#1485F#11PHaha. Do be sure to capitalize on this chance as[x01]
+best you can to build yourself a firm foothold.[x02][x03]
+
+
+#1481FI expect great things from you, after all.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x10
+
+#1542F#6PDo you, now?[x02][x03]
+
+#1545FHaha. I have to admit, I never imagined that[x01]
+would be the case.[x02][x03]
+
+#1540FOn the contrary, I was expecting you to tell[x01]
+me to back off.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x12
+
+#1483F#11POh, Aidios forbid. What reason would I have to[x01]
+suggest such a thing?[x02][x03]
+
+#1481FAfter all, at the end of the day, our positions are[x01]
+functionally the same.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x10
+
+#1543F#6PI'm not sure I understand.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x12
+
+#1484F#5PDo you not think so? Personally, I find it[x01]
+difficult to believe that you would not harbor[x01]
+some hatred toward Erebonia as it is today.[x02][x03]
+
+A grand empire clinging to the glories of a[x01]
+bygone era--ruled by the nobility and shackled[x01]
+by meaningless conventions.[x02][x03]
+
+#1481FAm I wrong?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x10
+
+#1542F#6P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x12
+
+#1480F#5PPeople call me the Blood and Iron Chancellor[x01]
+as though I hold the whole of Erebonia in the[x01]
+palm of my hand...[x02][x03]
+
+...but in reality, my position is far more tenuous.[x02][x03]
+
+
+#1485FI have supporters and allies in the capital,[x01]
+certainly, but outside its walls, the nobility holds[x01]
+far more sway than any of them.[x02][x03]
+
+And while it IS true I hold a great amount of[x01]
+power in the form of the Imperial Army, even[x01]
+then, I only truly command around 70% of it.[x02][x03]
+
+The remainder is loyal to the nobility, who also[x01]
+maintain their own private armies. With those[x01]
+factored in, my 'advantage' shrinks substantially.[x02][x03]
+
+#1481FSo you see, I'm still very much in the midst of[x01]
+a battle to truly exert control.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x10
+
+#1551F#6PWhich is why you're building railways all over the[x01]
+country to expand your area of influence...[x02][x03]
+
+...and you've been annexing new territory to that[x01]
+same end.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x12
+
+#1485F#5PAs I've long thought, you clearly understand me[x01]
+better than anyone else.[x02][x03]
+
+#1482FThat is why I'll say this once again: work with me,[x01]
+Your Highness.[x02][x03]
+
+With your support, our nation will be able to bring[x01]
+about real reform faster than ever.[x02][x03]
+
+The Noble Faction, bloated with its centuries of[x01]
+decadence, can be stopped before they even have[x01]
+the chance to unify against us.[x02][x03]
+
+#1485FSurely that's what you desire more than anything.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x10
+
+#1551F#6P...[x02][x03]
+
+#1542FLet me just ask a simple question, Chancellor.[x02][x03]
+
+
+What connection do you have with Ouroboros?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x12
+
+#1485F#5PHmm... I'm afraid I'm not quite sure what you're[x01]
+asking.[x02][x03]
+
+#1481FI WILL say this, however: I'm a firm believer in[x01]
+using every resource at my disposal in the name[x01]
+of achieving reform.[x02][x03]
+
+That's the way I believe in handling politics.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x10
+
+#1541F#6PI see... Well, it certainly does seem as though[x01]
+we would see eye to eye in many ways.[x02][x03]
+
+#1540FAnd that's all the more reason why I am afraid[x01]
+I must refuse your offer.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x12
+
+#1483F#5PIs that so?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x10
+
+#1551F#6PYes, I find it difficult to like the rotten Noble[x01]
+Faction that exists in the Empire...[x02][x03]
+
+Or...perhaps you're right that 'hate' is the more[x01]
+appropriate word.[x02][x03]
+
+#1542FBut my feelings of fear towards your methods are[x01]
+far greater than my feelings of hatred towards[x01]
+the nobles.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x12
+
+#1480F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x10
+
+#1540F#6PWhat you seem to be doing is trying to compel[x01]
+Erebonians with a delusive utopia--to whip them[x01]
+into an enthusiastic frenzy.[x02][x03]
+
+No doubt by successfully convincing the people,[x01]
+the old guard will fall into the metaphorical[x01]
+firestorm created...[x02][x03]
+
+#1551F...and yet by then, the gears will have already[x01]
+begun turning; there will be no satisfying a roused[x01]
+populace with a thirst for revolution.[x02][x03]
+
+The storm will just keep growing larger and more[x01]
+ravenous, engulfing anything and everything in its[x01]
+wake...[x02][x03]
+
+#1542FYou know this, don't you, Chancellor?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x12
+
+#1486F#5PBut of course![x02][x03]
+
+#1481FAfter all, that's what I intend to happen.[x01]
+It's the first stage of my reforms.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x10
+
+#1549F#6P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x12
+
+#1485F#11PI'd be more than happy to share further details[x01]
+with you if you were to decide to work with me, [x01]
+Your Highness.[x02][x03]
+
+#1480FIn the meantime, I wish you well in strengthening[x01]
+your foothold back in the Empire.[x02][x03]
+
+Of course, if that's your intention, you'll find[x01]
+it a necessity to work with those nobles you so[x01]
+despise.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x10
+
+#1545F#6PHeh. You truly do see through everything,[x01]
+don't you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x12
+
+#1485F#11PWell, that sounds like the noon bell. The airship[x01]
+should be arriving shortly.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x12
+
+#1480F#11PWhich means it's time for me to take my leave,[x01]
+I'm afraid.[x02][x03]
+
+#1485FI look forward to seeing you again in the capital[x01]
+in two weeks' time.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x11
+
+#276F#5PI take it the discussion is over, then?[x02][x03]
+
+#270FWhat's wrong? You look awfully tired...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x10
+
+#1544F#6POh, nothing...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x10
+
+#1540F#6PI'm just feeling awed anew at what a monster[x01]
+I decided to pick a fight with.[x02]
+

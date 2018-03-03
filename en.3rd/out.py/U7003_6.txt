@@ -1,0 +1,1014 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x20
+
+#265FThe Arseille's that really pretty white ship,[x01]
+right?[x02][x03]
+
+#261FHeehee. I've wanted to have a ride on it for [x01]
+ages.[x02][x03]
+
+The view from the deck sounds like it's amazing.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x20
+
+#264FOh, dear! Are you being naughty again, Ries?[x02][x03]
+
+#260FYou're supposed to be getting ready, not stuffing[x01]
+yourself full of food when you think no one's looking.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x11
+
+#1933FI-I'm doing no such thing![x02][x03]
+
+
+#1940FThis is purely a taste-testing exercise.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x20
+
+#265FI can't wait to ride on the Arseille![x02][x03]
+
+
+#261FTeehee. This is going to be such a wonderful trip.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x109
+
+#1066FWe're not going on a picnic, you know...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #5
+0x109
+
+#1079F#6PHuh? What're you doing here, Renne?[x02][x03]
+
+
+#1066FTrying to guess who the next guardian will be[x01]
+or something?[x02][x03]
+
+#1068FIt'd sure help if we knew how they fought before[x01]
+we actually ended up in battle with them...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x20
+
+#263F#11PI suppose it would.[x02][x03]
+
+#269FThe Lord of Phantasma always picks really exciting[x01]
+people for us to fight, don't they?[x02][x03]
+
+#265FI can hardly wait to see who makes an appearance[x01]
+in our fairy tale next.[x02][x03]
+
+#261FWhoever will it be? ♪[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x109
+
+#1061F#6PU-Umm... You're looking forward to the next fight?[x02][x03]
+
+#1066FSo you're not trying to work out who it'll be against,[x01]
+then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x20
+
+#264F#11PWhy would I want to do that?[x02][x03]
+
+
+#1305FFairy tales are always more exciting when you[x01]
+don't know what's going to happen.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x10F
+
+#1446F#12P...I was reluctant to comment at first, but now[x01]
+I feel obliged to do so.[x02][x03]
+
+#1805FDo you not find such remarks a little imprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x20
+
+#264F#11PImprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x11
+
+#1446F#6P...I was reluctant to comment at first, but now[x01]
+I feel obliged to do so.[x02][x03]
+
+#1805FDo you not find such remarks a little imprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x20
+
+#264F#12PImprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x11
+
+#1446F#6P...I was reluctant to comment at first, but now[x01]
+I feel obliged to do so.[x02][x03]
+
+#1805FDo you not find such remarks a little imprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x20
+
+#264F#11PImprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x109
+
+#1079F#6PHuh? What're you doing here, Renne?[x02][x03]
+
+
+#1066FTrying to guess who the next guardian will be[x01]
+or something?[x02][x03]
+
+#1068FIt'd sure help if we knew how they fought before[x01]
+we actually ended up in battle with them...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x20
+
+#263F#11PI suppose it would.[x02][x03]
+
+#269FThe Lord of Phantasma always picks really exciting[x01]
+people for us to fight, don't they?[x02][x03]
+
+#265FI can hardly wait to see who makes an appearance[x01]
+in our fairy tale next.[x02][x03]
+
+#261FWhoever will it be? ♪[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x109
+
+#1061F#6PU-Umm... You're looking forward to the next fight?[x02][x03]
+
+#1066FSo you're not trying to work out who it'll be against,[x01]
+then?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x20
+
+#264F#11PWhy would I want to do that?[x02][x03]
+
+
+#1305FFairy tales are always more exciting when you[x01]
+don't know what's going to happen.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x11
+
+#1446F#6P...I was reluctant to comment at first, but now[x01]
+I feel obliged to do so.[x02][x03]
+
+#1805FDo you not find such remarks a little imprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x20
+
+#264F#11PImprudent?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x11
+
+#1446F#5PIt's clear from all they've done so far that the[x01]
+Lord of Phantasma is our enemy.[x02][x03]
+
+Furthermore, while the guardians we are[x01]
+fighting may not be the individuals themselves,[x01]
+their personalities are still being violated.[x02][x03]
+
+#1443FIn light of that, I hardly find it appropriate to[x01]
+be talking about all of this like it's some sort[x01]
+of game orchestrated for your entertainment.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x109
+
+#1079F#5PU-Umm... Ries...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x20
+
+#262F#12P...[x02][x03]
+
+#268FWhat's got you so mad all of a sudden?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x11
+
+#1446F#5PI'm not.[x02][x03]
+
+
+#1445FHowever, I was under the distinct impression[x01]
+that we were all in agreement on one thing:[x01]
+the Lord of Phantasma was our enemy.[x02][x03]
+
+#1443FSo I will not stand by and listen to them being,[x01]
+of all things, praised.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x20
+
+#263F#12PReally, now?[x02][x03]
+
+#260FCome to think of it, every time we've encountered[x01]
+them, they've always made a point of taunting you[x01]
+and Kevin, haven't they?[x02][x03]
+
+#261FHeeheehee. That wouldn't have anything to do with [x01]
+why you're angry, would it?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x11
+
+#1441F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x20
+
+#263F#12POooh. I bet it does.[x02][x03]
+
+
+The Lord of Phantasma seems to have a peculiar[x01]
+fascination with Kevin, and yet you just can't[x01]
+work out why...[x02][x03]
+
+#1306FThat's why you're getting so worked up, isn't it?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x109
+
+#1067F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x11
+
+#1443F#5P...[x02][x03]
+
+#1446FThis isn't a game, Renne.[x02][x03]
+
+
+#1805FYou might be a genius, but that doesn't mean[x01]
+everything in life will go the way you want it to,[x01]
+and to assume otherwise is sheer arrogance.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #30
+0x1E
+Voice
+
+#4P...Okay, okay! That's enough.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x1E
+
+#1007F#5P...Okay, okay! That's enough.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x1E
+
+#1009F#11PLet's stop this before it gets nasty.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x1E
+
+#1019F#5PRenne, bringing up things that clearly bother[x01]
+people and teasing them with them isn't a very[x01]
+nice to thing to do.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x1E
+
+#1007F#11PAs for you, Ries...[x02][x03]
+
+#1002FShe might be smarter than other girls her age,[x01]
+but that doesn't change the fact that Renne is[x01]
+still an ordinary 12-year-old girl.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x20
+
+#264F#12P...Excuse me?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x11
+
+#1443F#6P...[x02][x03]
+
+#1446FI'm not sure I understand what you mean.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x1E
+
+#1003F#11PWell, let me put it this way.[x02][x03]
+
+#1002FShe's smart and she's strong. We both know that.[x02][x03]
+
+
+But do those two things really make her that much[x01]
+different from other girls her age? Or make it so[x01]
+that she can't act like they do?[x02][x03]
+
+#1007FBecause I think you'd find plenty of 12-year-olds[x01]
+out there who're a little selfish and cheeky or like[x01]
+to cause trouble. That's pretty normal.[x02][x03]
+
+#1006FPlus she's got tons of good points, too, like how[x01]
+she's always considerate toward others when the[x01]
+situation calls for it.[x02][x03]
+
+#1016FSee? She's just like your average girl who goes[x01]
+to Sunday School, right? Just a little brighter[x01]
+and a little stronger.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x11
+
+#1802F#6P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x20
+
+#1307F#12P...You think so...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x1E
+
+#1025F#11PIt just doesn't seem fair to me to hold her to a[x01]
+totally different standard than everyone else her[x01]
+age because you see her as somehow different.[x02][x03]
+
+#1007FThat's not to say don't tell her off if she's been[x01]
+bad, because you do that to kids, too...[x02][x03]
+
+
+#1003FIt's more you're being unusually hard on her.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #41
+0x11
+
+#1445F#6P...[x02][x03]
+
+#1446FI suppose you may be right.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x11
+
+#1446F#5PYou have my apologies, Renne.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x20
+
+#269F#12PReally...? I wasn't expecting an apology from you.[x02][x03]
+
+
+#263F...Although, your face says you've still got a lot[x01]
+you want to say to me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x11
+
+#1447F#5PNaturally.[x02][x03]
+
+#1448FAfter all, admonishing unreasonable children is[x01]
+the duty of their elders, however special or not[x01]
+special they may be.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x1E
+
+#1006F#5PYup. Like I said, I'm not gonna disagree on that[x01]
+point.[x02][x03]
+
+As long as we're all here, we're basically her[x01]
+guardians and stuff.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x20
+
+#266F#12POh, please... You can say what you like.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x20
+
+#262F#12PBut by the way, Estelle...[x02][x03]
+
+You said I was 'just like your average girl[x01]
+who goes to Sunday School,' right?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x1E
+
+#1011F#5PSure did. Am I wrong?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #49
+0x20
+
+#266F#12PYou can think whatever you like about me--[x01]
+I don't care.[x02][x03]
+
+But I do want to make one correction.[x02][x03]
+
+#269FI wouldn't be attending school as a student.[x01]
+I'd be teaching there.[x02][x03]
+
+I've got three doctorates, after all.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #50
+0x1E
+
+#1004F#5P#3S...You what?#2S[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #51
+0x11
+
+#1444F#5PWha...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x20
+
+#263F#12POne's in chemistry, one's in mathematics,[x01]
+and the third is in information theory.[x01]
+I even publish regular papers in those fields.[x02][x03]
+
+#1305FI do it through someone else because I don't[x01]
+want the hassle of someone finding out who[x01]
+I am, though.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x1E
+
+#1016F#5PHaha...haha... R-Right...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x11
+
+#1446F#5P(Disciplining her appears as if it will be an even[x01]
+more difficult task than I'd anticipated...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0x20
+
+#266F*sigh* Don't go underestimating me, if you[x01]
+wouldn't mind.[x02][x03]
+
+#262FAnd don't forget: you've got no chance of[x01]
+getting out of this world unless I'm with you[x01]
+to help.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #56
+0x101
+
+#1007FWe won't, we won't...[x02][x03]
+
+#1006FWe're counting on you, Renne.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #57
+0x20
+
+#263FI wasn't expecting the Lord of Phantasma to[x01]
+make a copy of that narrow-eyed old man.[x02][x03]
+
+#269FThey really know how to make their games[x01]
+interesting.[x02][x03]
+
+I can't wait to finally get to face off against[x01]
+them directly...[x02][x03]
+
+#261F...Maaaybe I should try and sneak on ahead.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0x107
+
+#562FTh-That's dangerous, Renne...[x02][x03]
+
+Just be patient and stick with us, okay?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0x12
+
+#562FTh-That's dangerous, Renne...[x02][x03]
+
+Just be patient and stick with us, okay?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x10F
+
+#1440F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x20
+
+#266FBeing stuck here is so boring.[x02][x03]
+
+
+#265F...Maaaybe I should try and sneak on ahead.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0x10F
+
+#1440F...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0x20
+
+#260FI've got looots of plushies.[x02][x03]
+
+
+My room's full of them![x02][x03]
+
+
+#261FI wish I could show you them.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0x20
+
+#260FMy room's full of plushies.[x02][x03]
+
+
+
+#261FI wish I could show you them all.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0x107
+
+#560FOooh, Renne![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #66
+0x20
+
+#264FOh, are you going off with Estelle, Tita?[x02][x03]
+
+
+#266FWhy can't I go, too? It's boring being here[x01]
+all on my own.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #67
+0x107
+
+#065FS-Sorry...[x02][x03]
+
+#066FI know! I'll go shopping with you again[x01]
+to make up for it![x02][x03]
+
+#067FMaybe we can try to find something as[x01]
+nice as those brooches we bought last[x01]
+time?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0x20
+
+#260FTeehee. I'm sure we can.[x02][x03]
+
+#267FThat reminds me, though...[x01]
+I found one exactly like them in a tiny little[x01]
+shop a while back.[x02][x03]
+
+#261FThe jewel in the middle was red, though.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0x107
+
+#064FAww... You're so lucky.[x02][x03]
+
+They were all sold out of those in the shop[x01]
+in Grancel.[x02][x03]
+
+#562F*sigh* I really wanted a red one, too...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x20
+
+#265FI know! Why don't we go on a shopping trip[x01]
+together sometime, then? We could go to[x01]
+somewhere reeeally far away.[x02][x03]
+
+#269FYou'd like the Eastern Quarter in Calvard,[x01]
+that's for sure. You could spend a whole day[x01]
+shopping there and never feel bored.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0x107
+
+#064FR-Really?[x02][x03]
+
+#061FI wonder what kinds of cute accessories[x01]
+they'd have there?[x02][x03]
+
+#560FOh, yeah! Let me tell you about the pendant [x01]
+I bought a while back![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0x101
+
+#1016F(These two sure are having fun together.)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x20
+
+#261F...But guess what? I found a brooch exactly[x01]
+like the ones we bought a while back there.[x02][x03]
+
+#265FThe jewel in the middle was red, though.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0x12
+
+#064FAww... You're so lucky.[x02][x03]
+
+They were all sold out of those in the shop[x01]
+in Grancel.[x02][x03]
+
+#562F*sigh* I really wanted one, too...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #75
+0x20
+
+#265FI know! Why don't we go on a shopping trip[x01]
+together sometime, then? We could go to[x01]
+somewhere reeeally far away.[x02][x03]
+
+#269FYou'd like the Eastern Quarter in Calvard,[x01]
+that's for sure. You could spend a whole day[x01]
+shopping there and never feel bored.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #76
+0x12
+
+#064FR-Really?[x02][x03]
+
+#061FI wonder what kinds of cute accessories[x01]
+they'd have there?[x02][x03]
+
+#560FOh, yeah! Let me tell you about the pendant [x01]
+I bought a while back![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #77
+0x101
+
+#1016F(These two sure are having fun together.)[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #78
+0x20
+
+#261FI found a reeeally huge stuffed bear in[x01]
+a shop in the Empire a while back.[x02][x03]
+
+
+#265FIt was as big as a grown man![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #79
+0x107
+
+#065FWh-What? Really?![x02][x03]
+
+#067F...I kinda want to see it now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #80
+0x20
+
+#260FThere are loads of big shops in the Empire,[x01]
+too.[x02][x03]
+
+#261FI found a huge stuffed bear in one of them[x01]
+a while back.[x02][x03]
+
+It was as big as a grown man![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #81
+0x12
+
+#065FWh-What? Really?![x02][x03]
+
+#067F...I kinda want to see it now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #82
+0x20
+
+#260FThere are loads of big shops in the Empire,[x01]
+too.[x02][x03]
+
+#261FI found a huge stuffed bear in one of them[x01]
+a while back.[x02][x03]
+
+It was as big as a grown man![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #83
+0x20
+
+#261FI found a reeeally huge stuffed bear in[x01]
+a shop in the Empire a while back.[x02][x03]
+
+
+#265FIt was as big as a grown man![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #84
+0x18
+
+#311F...Scree! ☆[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #85
+
+
+[x07][x05]Sieg is happily eating food from Kloe's hand.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #86
+
+
+[x07][x05]Sieg is happily eating food from Kloe's hand.[x02]
+

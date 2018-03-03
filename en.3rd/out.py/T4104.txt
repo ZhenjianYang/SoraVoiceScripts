@@ -1,0 +1,393 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x10
+
+#272F#5PThis will be a one-round duel.[x02][x03]
+
+#270FBoth arts and items may be used.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #1
+0x10E
+Captain Schwarz
+
+#179F#12PSo this was what you had in mind...[x02][x03]
+
+
+#171FI can't say I feel especially confident about[x01]
+my chances of defeating a warrior of the[x01]
+famed Vander family, but I'll certainly try.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x10
+
+#277F#5PHah. There's no need to be so modest.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x10
+
+#272F#5PWell, Captain...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x10
+
+#271F#5P#4S...let us begin![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #5
+0x10E
+Captain Schwarz
+
+#176F#12P#40W*pant*...*pant*...[x02][x03]
+
+#179FUgh... I knew you would be formidable,[x01]
+but not quite like this![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x10
+
+#272F#5PCaptain, may I ask something?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #7
+0x10
+
+#270F#5PWhat did you lose by being defeated?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #8
+0x10E
+Captain Schwarz
+
+#173F#12P...? I'm...not sure I understand.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x10
+
+#270F#5PThe easiest way to determine the true worth[x01]
+of something is to imagine how things would[x01]
+be if you were to lose it.[x02][x03]
+
+When you do that, you start to see things for[x01]
+how they really are beyond simple logic.[x02][x03]
+
+#272FImagine you were to vanish from the world,[x01]
+and yet you still possessed the ability to think.[x02][x03]
+
+Would there be anything left lingering on your[x01]
+mind? Anything that worried you? Something that[x01]
+you wished you could do?[x02][x03]
+
+#277FIf so, that is what you should do most.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #10
+0x10E
+Captain Schwarz
+
+#175F#12PThose are excellent questions, Major...[x02][x03]
+
+...[x02][x03]
+
+
+#176F(Your Highness...I think I finally know what[x01]
+to do.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #11
+0x10E
+Captain Schwarz
+
+#179F#12PI cannot thank you enough.[x02][x03]
+
+
+#171FThanks to you, I can finally see the path[x01]
+I ought to take.[x02][x03]
+
+I'll be sure to take all you've taught me[x01]
+today to heart.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x10
+
+#275F#5PHaha. Just don't assume I thought of any of[x01]
+what I've said or done today myself.[x02][x03]
+
+I often would cross swords with my uncle to[x01]
+clear away frustrations from having to deal[x01]
+with my own insufferable charge.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x10
+
+#278F#5P...Well, it's probably about time I thought about[x01]
+returning to Erebonia.[x02][x03]
+
+As much as I hate to admit it, I'm feeling a hint[x01]
+of concern for his well-being.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #14
+0x10E
+Captain Schwarz
+
+#171F#12PHaha... Only a hint?[x02][x03]
+
+#179FPlease give my regards to the prince when[x01]
+you see him, then.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x10
+
+#277F#5PI shall.[x02][x03]
+
+And give mine to Princess Klaudia as well.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #16
+0x10E
+Captain Schwarz
+
+#176F#12P#40W*pant*...*pant*...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #17
+0x10
+
+#273F#5P...Well, this is a surprise.[x02][x03]
+
+#272FI had no idea you were this strong.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #18
+0x10E
+Captain Schwarz
+
+#179F#12PHaha. Surely you jest.[x02][x03]
+
+#170FI could tell that you were holding back against[x01]
+me.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x10
+
+#278F#5PI only wish I could say that were true.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x10
+
+#277FI'm looking forward to the next chance we have[x01]
+to do battle now.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #21
+0x10E
+Captain Schwarz
+
+#179F#12PI will strive not to let you down.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x10
+
+#272F#5PCaptain...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x10
+
+#272F#5PYou said to me that you failed to protect those[x01]
+you care about most.[x02][x03]
+
+#270FWhat did you lose because of that?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #24
+0x10E
+Captain Schwarz
+
+#173F#12P...? I'm...not sure I understand.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x10
+
+#270F#5PThe easiest way to determine the true worth[x01]
+of something is to imagine how things would[x01]
+be if you were to lose it.[x02][x03]
+
+When you do that, you start to see things for[x01]
+how they really are beyond simple logic.[x02][x03]
+
+#272FImagine you were to vanish from the world,[x01]
+and yet you still possessed the ability to think.[x02][x03]
+
+Would there be anything left lingering on your[x01]
+mind? Anything that worried you? Something that[x01]
+you wished you could do?[x02][x03]
+
+#277FIf so, that is what you should do most.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #26
+0x10E
+Captain Schwarz
+
+#175F#12PThose are excellent questions, Major...[x02][x03]
+
+...[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #27
+0x10E
+Captain Schwarz
+
+#176F#12P(Your Highness...I think I finally know what[x01]
+to do.)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #28
+0x10E
+Captain Schwarz
+
+#179F#12PI cannot thank you enough.[x02][x03]
+
+
+#171FThanks to you, I can finally see the path[x01]
+I ought to take.[x02][x03]
+
+I'll be sure to take all you've taught me[x01]
+today to heart.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x10
+
+#275F#5PHaha. Just don't assume I thought of any of[x01]
+what I've said or done today myself.[x02][x03]
+
+I often would cross swords with my uncle to[x01]
+clear away frustrations from having to deal[x01]
+with my own insufferable charge.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x10
+
+#278F#5P...Well, it's probably about time I thought about[x01]
+returning to Erebonia.[x02][x03]
+
+As much as I hate to admit it, I'm feeling a hint[x01]
+of concern for his well-being.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #31
+0x10E
+Captain Schwarz
+
+#171F#12PHaha... Only a hint?[x02][x03]
+
+#179FPlease give my regards to the prince when[x01]
+you see him, then.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x10
+
+#277F#5PI shall.[x02][x03]
+
+And give mine to Princess Klaudia as well.[x02]
+
+
+
+
+
+
+
+
+
+
+

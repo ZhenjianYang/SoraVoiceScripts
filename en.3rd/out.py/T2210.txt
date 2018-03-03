@@ -1,0 +1,215 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0x105
+
+#543F#12PUmm... Excuse me.[x02][x03]
+
+#040FI'm a student of Jenis Royal Academy[x01]
+here on Student Council business.[x02][x03]
+
+
+Would it be possible for me to meet with[x01]
+Mayor Dalmore?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #1
+0x10
+
+#5PI'm afraid not.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x10
+
+#5PHe's currently not in, you see.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #3
+0x10
+
+#5PIf your business isn't urgent, might I recommend[x01]
+coming back another day?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #4
+0x11
+Voice
+
+#2PI'll be happy to hear what you have to say.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #5
+0x11
+Eloquent Young Man
+
+#678F#5PI'm the mayor's steward, Gilbert, and I act as[x01]
+his representative during his absence.[x02][x03]
+
+#670FSo you're a student of Jenis Royal Academy,[x01]
+are you?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x105
+
+#044F#6PThat's correct, sir.[x02][x03]
+
+#040FI've come to deliver an envelope from the[x01]
+Student Council to the mayor.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #7
+
+
+[x07][x05]Kloe handed over the envelope to the steward.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x11
+
+#672F#5PAh, I see. It's the list of all the academy's[x01]
+students for the current year.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #9
+0x11
+
+#670F#5PAs you know, students generally live in dorms...[x01]
+and obviously, there are large numbers of them[x01]
+coming and going year after year.[x02][x03]
+
+It makes keeping track of all the residents of the[x01]
+region that much easier when the school submits[x01]
+a list of students like this.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x105
+
+#542F#6POh, that's interesting... I wasn't aware of that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x11
+
+#678F#5PHaha. To tell you the truth, I was once a student[x01]
+of the academy.[x02][x03]
+
+Not just any student, either. I was part of the[x01]
+Student Council as well![x02][x03]
+
+#670FJenis' council is a fine organization.[x02][x03]
+
+
+#673FThey're proud as they are nobleminded, with a[x01]
+true dedication to carrying out their duties and[x01]
+bettering the academy they serve and belong to.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #12
+0x105
+
+#044F#6PI-I see...[x02][x03]
+
+#047F(It's hard to believe that was ever the case[x01]
+looking at the current Student Council...)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x11
+
+#670F#5PThe experience I gained there continues to be[x01]
+valuable to me to this very day.[x02][x03]
+
+
+I'm sure the same will be true for you in your[x01]
+adult life, too, so do continue to work as part[x01]
+of it the best you can.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #14
+0x105
+
+#045F#6PTh-Thank you... I will.[x02][x03]
+
+
+(I'm not actually a member, though...)[x02][x03]
+
+
+#542FWell, if you will excuse me. I wouldn't[x01]
+want to keep you any longer.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x11
+
+#670F#5POh, it was no trouble.[x02][x03]
+
+If I can do anything else to help you in[x01]
+the future, by all means stop by.[x02][x03]
+
+#678FI might be able to help.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #16
+0x105
+
+#543F#6PThank you very much.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #17
+
+
+[x07][x05]'Sapphire Glim'[x01]
+Said to be the culmination of early orbal arts.[x01]
+Given to House Dalmore by the citizens of Ruan[x01]
+immediately after the Orbal Revolution, as[x01]
+thanks for contributions to the city's growth.[x02]
+
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #18
+
+
+[x07][x05]There's a drawbridge control unit here.[x02]

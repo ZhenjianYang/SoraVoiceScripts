@@ -1,0 +1,1149 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+
+
+[x07][x00]Roughly two months after the crisis that struck [x01]
+Liberl came to an end...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #1
+0x10E
+Captain Schwarz
+
+#178FThat concludes my report on all that transpired[x01]
+here two months prior.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #2
+0x10
+
+#094FI really cannot thank you enough for your above[x01]
+and beyond efforts, Captain.[x02][x03]
+
+#90FBringing an end to the chaos and restoring hope[x01]
+to its people was no easy task. You should truly[x01]
+be proud of yourself.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #3
+0x10E
+Captain Schwarz
+
+#176FYour Majesty, please...[x02][x03]
+
+#176FI have done nothing to deserve such praise.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #4
+0x10
+
+#090FI would beg to differ, and it's why I want to[x01]
+thank you on behalf of every one of Liberl's[x01]
+citizens.[x02][x03]
+
+#090FNot only did you ensure our safety, you went [x01]
+from place to place aiding in the restoration[x01]
+as well.[x02][x03]
+
+Now you continue to be just as busy serving as[x01]
+the leader of the Royal Guard. You deserve all[x01]
+the thanks you get.[x02][x03]
+
+#090FI really am proud of you, Captain Schwarz.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #5
+0x10E
+Captain Schwarz
+
+#170FI am honored, Your Majesty![x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #6
+0x10
+
+#090FI believe I'll be able to formally present you with[x01]
+at least one medal for your achievements at a[x01]
+later date, too.[x02][x03]
+
+#91FHaha. General Morgan seems to think a promotion[x01]
+is almost assured as well. I'm looking forward to[x01]
+seeing what the future holds in store for you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #7
+0x10E
+Captain Schwarz
+
+#172FB-But, Your Majesty...I must object.[x02][x03]
+
+
+#178FThe only reason this crisis was resolved at all[x01]
+was because of the efforts of countless people,[x01]
+all of whom gave their all for Liberl's sake.[x02][x03]
+
+My contribution was but a minor part of a much,[x01]
+much greater whole.[x02][x03]
+
+#175FI don't feel it would be appropriate for me to be[x01]
+receiving medals or promotions...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #8
+0x10
+
+#094F...Captain.[x02][x03]
+
+I agree that countless people contributed to[x01]
+achieving the peace that we now have.[x02][x03]
+
+
+Everyone who fought, who tried to protect their[x01]
+loved ones, and who endured the suffering they[x01]
+faced contributed in some way. [x02][x03]
+
+#090FBut I believe it's clear to everyone that without[x01]
+the Arseille, the crisis would not have seen the[x01]
+conclusion that it did.[x02][x03]
+
+And the one who commanded the Arseille was[x01]
+you.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #9
+0x10E
+Captain Schwarz
+
+#175FB-Be that as it may...medals are one thing,[x01]
+but I couldn't possibly consider accepting a[x01]
+promotion...[x02][x03]
+
+I feel as though I've barely spent all that much[x01]
+time in my current position, so assuming one[x01]
+with even greater responsibility would be...erm...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #10
+0x10
+
+#090FHeehee. There's no need to be so modest.[x02][x03]
+
+
+In my opinion, you've accomplished much more in[x01]
+your current position than you seem to believe[x01]
+you have.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #11
+0x10
+
+#094F...Actually...[x02][x03]
+
+#090FCaptain, I'd like to propose that you take[x01]
+the rest of today off. How would you feel[x01]
+about that?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #12
+0x10E
+Captain Schwarz
+
+#173FMay I ask why, Your Majesty? I'm not sure[x01]
+I quite understand...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #13
+0x10
+
+#090FAs I mentioned, I want to show my thanks to you [x01]
+for all you did...and I believe there to be better[x01]
+ways to do that than formal meetings like these. [x02][x03]
+
+You certainly deserve some rest, too, given how[x01]
+exhausting going back and forth between military[x01]
+HQ and the castle practically every day must be.[x02][x03]
+
+I've even been receiving requests from members[x01]
+of the Royal Guard saying that they would like[x01]
+for you to take a break as well.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #14
+0x10E
+Captain Schwarz
+
+#172FI-I'm terribly sorry that you had to listen to[x01]
+such complaints, Your Majesty.[x02][x03]
+
+It was certainly not my intent that you should[x01]
+be troubled so...[x02][x03]
+
+#176F(So who was it? Lux? Leon? It could easily be[x01]
+both, knowing them...)[x02][x03]
+
+(I'm used to them telling me as much every time[x01]
+they see me, but I cannot believe they chose to[x01]
+bother Her Majesty with the issue!)[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #15
+0x10
+
+#090FAs such, I would like for you to take the remainder[x01]
+of the day and use it to relax.[x02][x03]
+
+
+That way, you can return to your duties tomorrow[x01]
+feeling refreshed and ready to work for the good[x01]
+of this nation anew.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #16
+0x10E
+Captain Schwarz
+
+#172FV-Very well...[x02][x03]
+
+#176FIf that is your wish, Your Majesty.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #17
+0x10E
+Captain Schwarz
+
+#170F#5PI, Captain Julia Schwarz of the Royal Guard,[x01]
+accept your proposal and shall take leave of[x01]
+my duties for the remainder of the day.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #18
+0x13
+
+#1545F#12PYour Majesty, Your Highness, I humbly thank you[x01]
+both for your generous hospitality during my stay[x01]
+in your fine kingdom.[x02][x03]
+
+#1540FYou were even gracious enough to humor my[x01]
+brazen request of escorting me back to Heimdallr[x01]
+aboard the Arseille.[x02][x03]
+
+#1541FThis debt I owe you will be repaid many times over[x01]
+in the future. Rest assured of that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #19
+0x10
+
+#091F#5PHaha. Oh, you needn't think of this as anything[x01]
+we went out of our way for.[x02][x03]
+
+#090FEscorting an honored state guest back home is[x01]
+a matter of course.[x02][x03]
+
+
+Particularly a guest to whom we owe a great debt[x01]
+of gratitude.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #20
+0x15
+
+#1818F#5PIf you ever have the opportunity, please do come[x01]
+back to Liberl again in the future.[x02][x03]
+
+I imagine Estelle and Joshua will be back by then,[x01]
+too.[x02][x03]
+
+So we'll all be able to give you a nice, warm [x01]
+welcome.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #21
+0x13
+
+#1541F#12PHaha. I'm already excited for my next visit.[x02][x03]
+
+#1540FHave they left the country yet, by the way?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #22
+0x16
+
+#1125F#5PThey're busy getting ready to leave over[x01]
+in Rolent at the moment, I believe.[x02][x03]
+
+#1120FI'm planning to see them off when the time[x01]
+comes.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #23
+0x13
+
+#1545F#12PI see...[x02][x03]
+
+#1540FIncidentally, while the ruins of Hamel are[x01]
+currently sealed off, I'll do what I can on[x01]
+my end to ensure they are allowed inside.[x02][x03]
+
+Could I trouble you to pass that along to[x01]
+them?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #24
+0x16
+
+#1125F#5PCertainly.[x02][x03]
+
+Thank you very much, Your Highness.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #25
+0x13
+
+#1541F#12POh, think nothing of it. It's the least I could[x01]
+do after all they've done for me.[x02][x03]
+
+
+#1540FI owe you a great deal, too, Cassius.[x02][x03]
+
+
+If not for your assistance, stopping that[x01]
+armored division from crossing into Liberl[x01]
+wouldn't have been as simple as it was.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #26
+0x16
+
+#1120F#5PHaha... I could say the same to you.[x02][x03]
+
+
+#1125FStill, as I'm sure you're aware, that outcome will[x01]
+have been well within the realm of possibility for[x01]
+the chancellor.[x02][x03]
+
+#1122FI doubt he was even surprised by the incident.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #27
+0x13
+
+#1545F#12P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #28
+0x15
+
+#1814F#5P...Really?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #29
+0x10
+
+#093F#5PMost likely not...[x02][x03]
+
+#094FErebonia had nothing anything to gain from[x01]
+using that situation to occupy Liberl.[x02][x03]
+
+
+Certainly not to the extent that it would be[x01]
+worth going out of their way to develop [x01]
+inefficient steam tanks.[x02][x03]
+
+#092FThe only reason I can see for him doing what[x01]
+he did...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #30
+0x13
+
+#1551F#12P...was as a show of power to surrounding[x01]
+nations. A statement that even without orbal[x01]
+power, Erebonia's army could still act.[x02][x03]
+
+#1542FI indeed suspect that was his true aim all along.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #31
+0x15
+
+#1813F#5PGoodness...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #32
+0x16
+
+#1125F#5PSo you did notice.[x02][x03]
+
+
+#1122FThe Orbal Shutdown Phenomenon was a complete[x01]
+unknown to the rest of the continent.[x02][x03]
+
+Perhaps it might never occur again--but there's[x01]
+always the chance it might, whether it's here or[x01]
+somewhere else entirely.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #33
+0x14
+
+#272F#11PI hear the Empire only built a relatively small[x01]
+number of those tanks in all, too. Certainly not[x01]
+enough to launch a full-scale invasion.[x02][x03]
+
+#276FBy the sounds of it, they were just put together [x01]
+in Reinford's factories using parts intended for[x01]
+standard orbal tanks.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #34
+0x13
+
+#1545F#12PBut as it stands, the knowhow to put together[x01]
+tanks like that only exists in the Empire.[x02][x03]
+
+And in these unpredictable times, no other nation[x01]
+has the time or resources to try and develop[x01]
+extremely inefficient steam-powered weaponry.[x02][x03]
+
+#1540FIn a sense, because of what just happened,[x01]
+the Imperial Army's effect as a deterrent is even[x01]
+greater than ever.[x02][x03]
+
+#1541FHe's using war as a diplomatic tool...and very[x01]
+effectively at that.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #35
+0x15
+
+#1813F#5PNone of this had even occurred to me...[x02][x03]
+
+#1819FI have a long way to go before I'm fit to be[x01]
+the ruler of this country...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #36
+0x13
+
+#1544F#12PDon't beat yourself up too much about it. He's no[x01]
+ordinary foe to even the most hardened veterans.[x02][x03]
+
+#1542FThe chancellor always seems to be thinking several[x01]
+steps ahead of the rest of the world. It's impressive,[x01]
+no matter what we may think of his actual ideas.[x02][x03]
+
+#1541FHeh. I'm quite the reckless fool to be trying to[x01]
+challenge him, if I do say so myself.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #37
+0x15
+
+#1872F#5PDon't be silly, Your Highness...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #38
+0x14
+
+#274F#11PHow you can say that with a smile on your face is[x01]
+utterly beyond me...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #39
+0x10
+
+#094F#5PYou should focus on building yourself a strong[x01]
+foothold to begin with.[x02][x03]
+
+#090FI do hope you'll be careful.[x02][x03]
+
+No matter what may occur, be sure not to[x01]
+lose sight of exactly where you stand.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #40
+0x13
+
+#1545F#12P...Of course, Your Majesty.[x02][x03]
+
+#1540FIf I were to go and bring shame upon myself now,[x01]
+I'd be wasting all the effort involved in escorting[x01]
+me back home.[x02][x03]
+
+I'll be sure to take what you have said to heart.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+NpcTalk #41
+0x19
+Woman's Voice
+
+#1PE-Excuse me, Your Majesty![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #42
+0x15
+
+#1814F#5PHilda...?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #43
+0x10
+
+#097F#5PWhatever is the matter?[x02][x03]
+
+It's not often I see you so flustered.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #44
+0x19
+
+#716F#12PMy apologies, Your Majesty. It's just that a guest[x01]
+for you arrived all of a sudden at the castle...[x02][x03]
+
+
+#714FOrdinarily, I would not have rushed in while you [x01]
+were meeting with others, but the visitor is so [x01]
+irregular that I thought you should know at once.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #45
+0x10
+
+#093F#5PIrregular? How so?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #46
+0x13
+
+#1540F#5PHmm... It sounds like it's about time[x01]
+I take my leave, then.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #47
+0x19
+
+#716FActually...[x02][x03]
+
+#714F...the visitor said he would like to greet[x01]
+you as well, and not just Her Majesty.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #48
+0x14
+
+#273F#5PWhat?![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #49
+0x13
+
+#1543F#5P...[x02][x03]
+
+#1542FHilda. Just who is this visitor?[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #50
+0x19
+
+#713F#12PWell...[x02][x03]
+
+#710F...he introduced himself as Chancellor Giliath[x01]
+Osborne of the Erebonian Empire.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #51
+
+
+Ahh, it's an honor to be granted a personal audience.[x02][x03]
+
+I am Giliath Osborne, representative of the Imperial government.[x02][x03]
+
+
+My apologies for the abrupt intrusion.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #52
+0x10
+
+#097F#6PSo you are Chancellor Osborne...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #53
+0x15
+
+#1814F#4P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #54
+0x18
+
+#1485F#11PAnd it's a pleasure to see you again as well,[x01]
+Your Highness.[x02][x03]
+
+#1480FIt's been a year since we last met, has it not?[x01]
+I hope these passing months have seen you well.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #55
+0x13
+
+#1545F#6P...Yes, a year sounds about right.[x02][x03]
+
+#1542FStill, while I hope you'll forgive me for asking...[x02][x03]
+
+
+...just what did prompt someone of your stature[x01]
+to appear at the castle without warning?[x02][x03]
+
+I'd very much like to hear your side of the story.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #56
+0x18
+
+#1483F#11PMy apologies, Your Highness.[x02][x03]
+
+#1485FYou see, these past few days, I've been touring[x01]
+eastern Erebonia on routine inspections.[x02][x03]
+
+
+#1480FIt's been going very smoothly--more so than I had[x01]
+initially anticipated. I had enough free time in my[x01]
+schedule to pay a cordial visit.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #57
+0x13
+
+#1543F#6POh, my... Is that so?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #58
+0x18
+
+#1485F#11PNaturally, I would have preferred to come here[x01]
+while the crisis was still unfolding like you yourself[x01]
+did, Your Highness...[x02][x03]
+
+Unfortunately, the confusion in southern Erebonia[x01]
+was simply too pressing a matter, and I had no[x01]
+choice but to deal with that first.[x02][x03]
+
+#1480FThis was the first chance that presented itself to[x01]
+come here and meet directly with Her Majesty, so[x01]
+I acted with the utmost expediency.[x02][x03]
+
+I hope you'll forgive my lack of proper decorum in[x01]
+failing to give advance notice of my arrival.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #59
+0x13
+
+#1545F#6P...That does make sense, at least.[x02][x03]
+
+
+#1540FRegardless, please don't concern yourself with me.[x01]
+No doubt you wish to offer your greetings to Her[x01]
+Majesty.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #60
+0x18
+
+#1485F#11PMy thanks, Your Highness. [x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #61
+0x18
+
+#1485F#11PWell, then...[x02][x03]
+
+Allow me to extend my most heartfelt greetings to[x01]
+both of you, Queen Alicia and Princess Klaudia.[x02][x03]
+
+
+#1482FIt's abundantly clear that the crisis that unfolded[x01]
+here has been quite the ordeal for yourselves and[x01]
+for your nation's people.[x02][x03]
+
+#1484FYou have my deepest sympathies for the hardships [x01]
+you have endured, as well as my commendation for [x01]
+bringing the situation under control.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #62
+0x15
+
+#1813F#6PI...[x02][x03]
+
+#1815FI thank you for your kind words, Your Excellency.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #63
+0x10
+
+#094F#6PIf anything, we should be apologizing to you for[x01]
+the fact that the southern side of your nation was[x01]
+caught up in what should have been our problem.[x02][x03]
+
+We should be the ones going to you, rather than[x01]
+having you trouble yourself to come all the way[x01]
+to Liberl.[x02][x03]
+
+#090FI beg you to accept our apologies together with[x01]
+my deepest thanks for coming here today.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #64
+0x18
+
+#1480F#11PI would never ask for apologies; I've heard what[x01]
+happened was the work of a shadowy organization[x01]
+stirring up trouble within your borders.[x02][x03]
+
+While I meant well by sending a military force[x01]
+to aid you, I wouldn't have done something so[x01]
+careless had I known the truth of the matter.[x02][x03]
+
+#1485FMy actions were rash. Foolish, even, and I was[x01]
+rightfully reprimanded by His Imperial Majesty[x01]
+for them.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #65
+0x10
+
+#097F#6POh, my... [x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #66
+0x18
+
+#1480F#11PFortunately, His Highness the Prince was able[x01]
+to act with all due haste to put right my[x01]
+misstep before even greater harm was done...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #67
+0x18
+
+#1485F#12PI owe you a great debt of gratitude for that,[x01]
+Your Highness.[x02][x03]
+
+#1480FAnd congratulations besides, for your part in[x01]
+bringing an end to the crisis.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #68
+0x13
+
+#1545F#5POh, I did nothing out of the ordinary.[x02][x03]
+
+
+#1540FI had a lot of help from Her Majesty,[x01]
+Her Highness, and Brigadier General[x01]
+Bright here, too.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #69
+0x18
+
+#1483F#11PBright, you say?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #70
+0x16
+
+#1125F#6P...It's a pleasure to meet you, Your Excellency.[x02][x03]
+
+#1120FI am Cassius Bright, a brigadier general in the[x01]
+Liberlian Royal Army.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #71
+0x18
+
+#1485F#11PHaha. The pleasure is all mine, I assure you.[x02][x03]
+
+
+#1480FYour name is rather well known even in the[x01]
+Empire.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #72
+0x16
+
+#1120F#6PNot as much as yours is known here in Liberl,[x01]
+I would imagine. It's an honor to be able to[x01]
+speak with you in person.[x02][x03]
+
+#1123FIt's certainly a surprise to be able to, though.[x01]
+Coming here on a whim can't have been easy[x01]
+for a man as busy as yourself.[x02][x03]
+
+#1122FIt sounds as though I may have underestimated[x01]
+just how capable you truly are.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #73
+0x18
+
+#1485F#11PNot at all. I was greatly impressed to see the[x01]
+Royal Army's effectiveness in dealing with the[x01]
+tumult here.[x02][x03]
+
+Your forces have proven powerful yet flexible,[x01]
+capable of dealing with emergencies ably and[x01]
+decisively.[x02][x03]
+
+#1481FI might go so far as to say it embodies an ideal[x01]
+that the Imperial Army, with its swollen ranks,[x01]
+could never hope to realize.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #74
+0x16
+
+#1125F#6PYou flatter us, Your Excellency.[x02][x03]
+
+#1120FFor your part, I hear you were responsible for[x01]
+the establishment of the Imperial Army's famed [x01]
+Intelligence Division.[x02][x03]
+
+Our army is in desperate need of a new one of[x01]
+its own, so I find myself quite envious.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #75
+0x18
+
+#1486F#11PHaha... It almost sounds as though the two[x01]
+of us each want what the other has.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #76
+0x16
+
+#1121F#6PHaha. So it does![x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #77
+0x13
+
+#1551F#5P...May I ask, Your Excellency, what will you be[x01]
+doing now?[x02][x03]
+
+#1540FFor my part, I'm intending to leave Liberl today,[x01]
+so I'm afraid I won't be around much longer.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #78
+0x18
+
+#1485F#12PYes, so I've been told.[x02][x03]
+
+#1480FI believe you're intending to make your grand[x01]
+arrival in Heimdallr aboard the famous Arseille?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #79
+0x13
+
+#1542F#5PI'm impressed you're already aware.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #80
+0x18
+
+#1485F#12PI almost wish I could return to Erebonia on[x01]
+board it alongside you...[x02][x03]
+
+#1480F...but alas, I'm afraid I have other business[x01]
+demanding my attention after I'm finished here.[x02][x03]
+
+I'll be leaving Liberl separately this afternoon.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #81
+0x10
+
+#097F#6PThat is a shame... I would very much have liked[x01]
+to invite you to this evening's banquet.[x02]
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #82
+0x18
+
+#1486F#12PPlease, you need not go to such troubles on my[x01]
+account.[x02][x03]
+
+I feel as though I've put you out enough showing[x01]
+up unannounced as I did, to say nothing of dining[x01]
+with such esteemed company.[x02][x03]
+
+#1485FStill, I do have some time before the airship I'll be[x01]
+leaving on is due to depart...[x02][x03]
+
+That being the case, might I ask for a little of[x01]
+your time, Your Highness?[x02][x03]
+
+#1481FI have a few things I'd like to discuss with you[x01]
+personally.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #83
+0x14
+
+#270F#5P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #84
+0x1A
+
+#1885F#11P...Heh.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #85
+0x15
+
+#1813F#6P...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #86
+0x13
+
+#1545F#5PVery well.[x02][x03]
+
+#1540FI have some matters I would actually like to[x01]
+discuss personally with you as well.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #87
+0x18
+
+#1485F#12PWhat a fortuitous coincidence.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #88
+0x10
+
+#094F#6PAllow me to have a room arranged for the two[x01]
+of you to have your discussion, then.[x02][x03]
+
+#090FHilda, if you would?[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #89
+0x19
+
+#713F#12PCertainly, Your Majesty.[x02]
+
+
+
+
+
+
+
+
+
+
+
+
+

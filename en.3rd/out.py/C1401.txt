@@ -1,0 +1,82 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+
+
+[x07][x00]#40W'Why don't you guys try becoming bracers?'[x01]
+#500W [x01]
+#40WThose words were all it took to set the[x01]
+wheels in motion.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+
+
+[x07][x00]#40WThe three young men Estelle had spoken to,[x01]
+Deen, Rais, and Rocco, were the leaders of a[x01]
+group of delinquents who spent most of their[x01]
+time in the warehouse district of Ruan...[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #2
+
+
+[x07][x00]#40WIn light of the unprecedented chaos that[x01]
+swept over Liberl, they soon began[x01]
+reexamining themselves and their lives...[x01]
+#500W [x01]
+#40Wand after much thought, they agreed that[x01]
+the path of a bracer--a protector of the land's[x01]
+peace and its people's safety--may be the best[x01]
+road forward for them.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #3
+
+
+[x07][x00]#40WThat's not to say, however, that they didn't[x01]
+have any ulterior motives.[x01]
+#500W [x01]
+#40WNo, no, no. They did think it would also give[x01]
+them the opportunity to be trained directly by[x01]
+the guild's Carna.[x01]
+#500W [x01]
+#40WWith this hope in their hearts, they made[x01]
+their way to the Ruan Bracer Guild and expressed[x01]
+interest in joining.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #4
+
+
+[x07][x00]#40WBut the guild's crafty receptionist, Jean,[x01]
+had other ideas swirling in his brain...[x01]
+#500W [x01]
+#40Wand unfortunately for them, they were[x01]
+to receive their training from their longtime[x01]
+sworn enemy and former Raven group leader,[x01]
+Agate Crosner.[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #5
+
+
+[x07][x00]#40WTheir grueling training began in earnest under [x01]
+his strict guidance.[x01]
+#500W [x01]
+#40WAfter roughly three months of pure hell,[x01]
+the end was finally in sight.[x01]
+#500W [x01]
+#40WOnly today's final examination remained...[x02]
