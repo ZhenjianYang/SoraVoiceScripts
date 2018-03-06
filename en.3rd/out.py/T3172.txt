@@ -8,7 +8,7 @@ ChrTalk #0
 #063F#11PSo that's what it was...[x02][x03]
 
 I can't believe I didn't notice that when I was[x01]
-doing the final checks... This is all my fault...[x02]
+doing the final checks. This is all my fault...[x02]
 
 
 ;----------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ Young Man's Voice
 #1S#1PWh-Where the hell did this hammer come[x01]
 from?!#2S[x02][x03]
 
-#1SWhat wrong with this place...?#2S[x02]
+#1SWhat's wrong with this place...?#2S[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -440,7 +440,7 @@ torque is so low, and it's bugging me.[x02]
 ChrTalk #42
 0x12
 
-#1465F#12P(...It looks like her obsession's grown by[x01]
+#1465F#12P(It looks like her obsession's grown by[x01]
 monstrous proportions since we've been[x01]
 away.)[x02][x03]
 
@@ -549,9 +549,9 @@ How does that sound? Good enough?[x02]
 ChrTalk #53
 0x107
 
-#1272F#5PBut...[x01]
-...[x01]
-...[x02]
+#1272F#5PBut...[x02]
+
+
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -692,8 +692,8 @@ ChrTalk #66
 #1464F#2PThe thing is...[x02][x03]
 
 #1462F...we didn't actually learn of them through the[x01]
-information you sent. We knew of them before[x01]
-that.[x02]
+information you sent. We knew of them before that.[x02]
+
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -775,7 +775,7 @@ ChrTalk #73
 ChrTalk #74
 0x12
 
-#1460F#6POh, no, I just need to leave it to boil now.[x02][x03]
+#1460F#6POh no, I just need to leave it to boil now.[x02][x03]
 
 
 So I thought I'd come and check on you instead.[x02]
