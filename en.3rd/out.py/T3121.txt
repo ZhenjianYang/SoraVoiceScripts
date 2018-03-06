@@ -98,7 +98,7 @@ ChrTalk #10
 
 #1453F#5PTita and I are fine...[x02][x03]
 
-...but...[x02]
+But...[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -352,8 +352,8 @@ ChrTalk #33
 #053F#4PI've had a worthless ten years, Tita.[x02][x03]
 
 
-I'm not gonna deny that...but there was[x01]
-one thing I could never bring myself to do,[x01]
+I'm not gonna deny that, but there was one[x01]
+thing I could never bring myself to do,[x01]
 and that was to throw this away.[x02][x03]
 
 Never.[x02][x03]
@@ -1055,7 +1055,7 @@ Have you lost control of it?![x02]
 ChrTalk #100
 0x12
 
-#065F#5PAgate...I...[x02]
+#065F#5PAgate... I...[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
