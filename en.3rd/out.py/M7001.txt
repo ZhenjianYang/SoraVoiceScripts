@@ -956,7 +956,7 @@ ChrTalk #82
 ChrTalk #83
 0x10F
 
-#1444F#2PA shining door with a moon on it..?[x02]
+#1444F#2PA shining door with a moon on it...?[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -1402,9 +1402,9 @@ AnonymousTalk #123
 AnonymousTalk #124
 
 
-[x07][x05]Did you know? It's true that Zin's name was once written as 'Zane,' but[x01]
+[x07][x05]Did you know? It's true that Zin's name was once written as 'Zane', but[x01]
 another name change considered was Olivier's. The original suggestion[x01]
-was 'Oliver.' This chest is glad that request never went through.[x07][x00][x02]
+was 'Oliver'. This chest is glad that request never went through.[x07][x00][x02]
 
 
 ;----------------------------------------------------------------------------------
