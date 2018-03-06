@@ -497,7 +497,7 @@ Eventually, we hope to end up with something that [x01]
 can even go head to head with Pater-Mater.[x02][x03]
 
 #1464FAs soon as she heard about what we were planning[x01]
-to do, Tita told us that she wanted to be part it--[x01]
+to do, Tita told us that she wanted to be part of it--[x01]
 of her own volition.[x02][x03]
 
 At first, Erika and I were strongly opposed to the idea.[x02][x03]
@@ -860,7 +860,7 @@ ChrTalk #76
 
 #064F#0C#12POh![x02][x03]
 
-#061F#3SMom! Dad! #2S[x02]
+#061F#3SDad! Mom! #2S[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -1052,7 +1052,7 @@ ChrTalk #93
 ChrTalk #94
 0x16
 
-#1977F#11P...shall we take care of...business first,[x01]
+#1977F#11P...shall we take care of 'business' first,[x01]
 then?[x02]
 
 ;----------------------------------------------------------------------------------
