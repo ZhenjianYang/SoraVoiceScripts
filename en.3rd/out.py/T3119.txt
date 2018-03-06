@@ -177,7 +177,7 @@ ChrTalk #17
 ChrTalk #18
 0x107
 
-#560F#12PUmm... Well, yeah, but...[x02][x03]
+#560F#12PUmm... Well yeah, but...[x02][x03]
 
 
 ...why do you ask?[x02]
@@ -241,7 +241,7 @@ invention?[x02]
 ChrTalk #24
 0x107
 
-#064F#12P...Wait... You're not...[x02]
+#064F#12PWait, you're not...[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -312,7 +312,7 @@ new being invented, I get all excited.)[x02][x03]
 that I tune out to the world around me[x01]
 and focus on helping Grandpa.)[x02][x03]
 
-(But today...I just feel a little bit sad...)[x02]
+(But today... I just feel a little bit sad...)[x02]
 
 
 ;----------------------------------------------------------------------------------
