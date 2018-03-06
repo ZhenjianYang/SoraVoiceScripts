@@ -358,11 +358,11 @@ ChrTalk #33
 AnonymousTalk #34
 
 
-[x07][x00]#40WThat day's dinner was a real feast...[x02][x03]
+[x07][x00]#40WThat day's dinner was a real feast.[x02][x03]
 
 
-...and for the first time in quite a while, Tita was able[x01]
-to experience the joy of dining happily with her family.[x02]
+For the first time in quite a while, Tita was able to[x01]
+experience the joy of dining happily with her family.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
