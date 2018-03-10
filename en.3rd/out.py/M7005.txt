@@ -118,11 +118,10 @@ ChrTalk #12
 0x10F
 
 #1446F#6POne of the seventy-seven devils that appear in the[x01]
-Testaments. The spiritual coffin that guides the[x01]
-souls of the dead and serves as Hades' ferryman...[x02][x03]
+Testaments.[x02][x03]
 
-#1441FBennu, the Casket of Sorrow![x02]
-
+#1441FThe spiritual coffin that guides the souls of the dead[x01]
+and serves as Hades' ferryman: Bennu, the Casket of Sorrow![x02]
 
 
 ;----------------------------------------------------------------------------------
