@@ -108,9 +108,9 @@ He's probably working on it right now.[x02][x03]
 
 
 #560FBut now that I've done that, Mom...[x02][x03]
+
 I want to be part of the Orbal Gear's[x01]
 development team, too.[x02]
-
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -127,10 +127,10 @@ ChrTalk #12
 0x107
 
 #063F#12PYeah. I didn't write this in any of my letters...[x02][x03]
-but I ended up spending some time with[x01]
+
+
+But I ended up spending some time with[x01]
 Renne while she was in Liberl.[x02][x03]
-
-
 
 
 #062FAnd even if she's a member of the society,[x01]
@@ -197,9 +197,9 @@ wasn't in any of what you sent me![x02]
 ChrTalk #18
 0x10
 
-#104F#5PWell... it was kind[x02][x03]
-of hard to say...[x02]
+#104F#5PWell...[x02][x03]
 
+It was kind of hard to say...[x02]
 
 
 ;----------------------------------------------------------------------------------
@@ -259,9 +259,9 @@ ChrTalk #23
 0x11
 
 #1452F#5PCorrect me if I'm wrong, but...[x02][x03]
-you're not considering using the Orbal Gear[x01]
-to fight Pater-Mater yourself, are you?[x02]
 
+You're not considering using the Orbal Gear[x01]
+to fight Pater-Mater yourself, are you?[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
