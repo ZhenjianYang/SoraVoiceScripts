@@ -109,7 +109,7 @@ He's probably working on it right now.[x02][x03]
 
 #560FBut now that I've done that, Mom...[x02][x03]
 
-...I want to be part of the Orbal Gear's[x01]
+I want to be part of the Orbal Gear's[x01]
 development team, too.[x02]
 
 ;----------------------------------------------------------------------------------
@@ -129,7 +129,7 @@ ChrTalk #12
 #063F#12PYeah. I didn't write this in any of my letters...[x02][x03]
 
 
-...but I ended up spending some time with[x01]
+But I ended up spending some time with[x01]
 Renne while she was in Liberl.[x02][x03]
 
 
@@ -156,7 +156,7 @@ ChrTalk #13
 ChrTalk #14
 0x10
 
-#100F#5PUmm... Erika... If I might be permitted to say[x01]
+#100F#5PUmm, Erika. If I might be permitted to say[x01]
 my piece here...[x02]
 
 ;----------------------------------------------------------------------------------
@@ -199,7 +199,7 @@ ChrTalk #18
 
 #104F#5PWell...[x02][x03]
 
-...it was kind of hard to say...[x02]
+It was kind of hard to say...[x02]
 
 
 ;----------------------------------------------------------------------------------
@@ -260,7 +260,7 @@ ChrTalk #23
 
 #1452F#5PCorrect me if I'm wrong, but...[x02][x03]
 
-...you're not considering using the Orbal Gear[x01]
+You're not considering using the Orbal Gear[x01]
 to fight Pater-Mater yourself, are you?[x02]
 
 ;----------------------------------------------------------------------------------
@@ -383,7 +383,7 @@ ChrTalk #32
 
 #065F#12P#40W...[x02][x03]
 
-#562FB-But...I...I...[x02]
+#562FB-But... I... I...[x02]
 
 
 ;----------------------------------------------------------------------------------
