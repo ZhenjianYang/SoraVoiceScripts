@@ -1483,7 +1483,7 @@ ChrTalk #157
 
 #5PIt appears to me that there is little point in[x01]
 trying to disguise your identity from this man.[x01]
-Perhaps you need needn't bother?[x02]
+Perhaps you needn't bother?[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
