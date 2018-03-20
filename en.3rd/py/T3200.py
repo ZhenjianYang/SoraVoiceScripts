@@ -1955,7 +1955,7 @@ def main():
         (
             "#573F#5P#20W#15A...Heh. You win.\x02\x03",
 
-            "#20WThere's no need to rush things...\x02",
+            "#20W#25AThere's no need to rush things...\x02",
         )
     )
 
