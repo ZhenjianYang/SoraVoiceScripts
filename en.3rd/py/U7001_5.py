@@ -1422,21 +1422,130 @@ def main():
     SetChrFlags(0xFE, 0x10)
     TalkBegin(0xFE)
     Jc((scpexpr(EXPR_TEST_SCENA_FLAGS, MakeScenarioFlags(0x0, 6)), scpexpr(EXPR_EQUZ), scpexpr(EXPR_END)), "loc_221E")
+    Sleep(500)
+    OP_4F(0x1, (scpexpr(EXPR_PUSH_LONG, 0x49), scpexpr(EXPR_STUB), scpexpr(EXPR_END)))
+    OP_20(0x1F4)
+    OP_21()
+    OP_1D(0x0)
 
-    ChrTalk(    #85 op#A op#5
+    ChrTalk(    #898
         0x19,
-        (
-            "#1545F#70W#20AThe sun shines, a rainbow bridge...\x01\x05\x02",
-
-            "I cross it to reach you...\x05\x02\x03",
-
-            "And yet as I search...it fades...into the sky...\x01\x05\x02",
-
-            "Dancing with loneliness on the wind...\x05\x02",
-        )
+        "#1545Fこのボクの独奏会にようこそ！\x02\x03",
     )
 
     CloseMessageWindow()
+
+    ChrTalk(    #899
+        0x19,
+        "#1540F#30Aさぁ！華麗なショータイムの始まりさ♪\x02",
+    )
+
+    CloseMessageWindow()
+    Sleep(2500)
+    TalkEnd(0xFE)
+    EventBegin(0x1)
+
+    ChrTalk(    #900 op#A op#5
+        0x19,
+        "#1545F20A#0W...\x05\x02",
+    )
+
+    OP_4B(0x12, 255)
+    CloseMessageWindow()
+    Sleep(5770)
+
+    ChrTalk(    #901 op#A op#5
+        0x19,
+        (
+            "#100A#0WBrightly shooting stars,\x01",
+            "leaving trails in the skies...\x05\x02",
+        )
+    )
+
+    Sleep(6600)
+
+    ChrTalk(    #902 op#A op#5
+        0x19,
+        (
+            "#100A#0WLike a guiding light, they show\x01",
+            "me the way to your eyes...\x05\x02",
+        )
+    )
+
+    Sleep(6200)
+
+    ChrTalk(    #903 op#A op#5
+        0x19,
+        (
+            "#100A#0WThis yearning passion,\x01",
+            "tears my heart in twain...\x05\x02",
+        )
+    )
+
+    Sleep(5600)
+
+    ChrTalk(    #904 op#A op#5
+        0x19,
+        (
+            "#100A#0WAnd the cruel moon mocks\x01",
+            "my pain...\x05\x02",
+        )
+    )
+
+    Sleep(7000)
+
+    ChrTalk(    #905 op#A op#5
+        0x19,
+        (
+            "#100A#0WIf this fleeting dream shall\x01",
+            "never be...\x05\x02",
+        )
+    )
+
+    Sleep(7000)
+
+    ChrTalk(    #906 op#A op#5
+        0x19,
+        (
+            "#100A#0WA single wound will remain in\x01",
+            "my heart for all to see...\x05\x02",
+        )
+    )
+
+    Sleep(9500)
+
+    ChrTalk(    #907 op#A op#5
+        0x19,
+        (
+            "#100A#0WOur passionate first and final\x01",
+            "kiss...\x05\x02",
+        )
+    )
+
+    Sleep(8500)
+
+    ChrTalk(    #908 op#A op#5
+        0x19,
+        (
+            "#100A#0WYour tears to me are an\x01",
+            "amber bliss...\x05\x02",
+        )
+    )
+
+    Sleep(8800)
+
+    ChrTalk(    #909 op#A op#5
+        0x19,
+        "#100A#0WLet us immure this eternal love...\x05\x02",
+    )
+
+    Sleep(10800)
+
+    CloseMessageWindow()
+    Sleep(5500)
+    EventEnd(0x1)
+    SetChrFlags(0xFE, 0x10)
+    TalkBegin(0xFE)
     Jc((scpexpr(EXPR_EXEC_OP, "OP_42(0xA)"), scpexpr(EXPR_PUSH_LONG, 0x1), scpexpr(EXPR_NEG), scpexpr(EXPR_NEQ), scpexpr(EXPR_END)), "loc_21A4")
 
     ChrTalk(    #86
