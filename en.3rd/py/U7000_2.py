@@ -2214,7 +2214,7 @@ def main():
     SetChrName("Kevin")
 
     AnonymousTalk(    #111
-        "\x07\x0C#30W#3S...!\x02",
+        "\x07\x0C#30W#3S...!      \x02",
     )
 
     CloseMessageWindow()
