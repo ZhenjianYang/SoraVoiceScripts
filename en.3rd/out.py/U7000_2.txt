@@ -3121,7 +3121,7 @@ trained there before?[x02]
 ChrTalk #279
 0x1B
 
-#1526F#5PNow you mention it, yes. He has.[x02][x03]
+#1526F#5PNow that you mention it, yes. He has.[x02][x03]
 
 #1534FCassius supposedly tricked him into going,[x01]
 and he was...not a fan of the experience.[x02][x03]
