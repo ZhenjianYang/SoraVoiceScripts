@@ -1584,6 +1584,7 @@ def main():
     label("loc_2218")
 
     OP_A2(0x6)
+    OP_1D(71)
     Jump("loc_2313")
 
     label("loc_221E")
