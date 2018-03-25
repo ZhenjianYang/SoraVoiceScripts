@@ -1430,14 +1430,17 @@ def main():
 
     ChrTalk(    #898
         0x19,
-        "#1545Fこのボクの独奏会にようこそ！\x02\x03",
+        (
+            "#1545FWelcome to none other than the one and only,\x01",
+            "Olivier Lenheim's solo concert!\x02\x03",
+        )
     )
 
     CloseMessageWindow()
 
     ChrTalk(    #899
         0x19,
-        "#1540F#30Aさぁ！華麗なショータイムの始まりさ♪\x02",
+        "#1540F#30ANow, a magnificent showtime is about to begin.♪\x02",
     )
 
     CloseMessageWindow()
