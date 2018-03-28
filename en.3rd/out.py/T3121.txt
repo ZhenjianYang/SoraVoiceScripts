@@ -1112,8 +1112,8 @@ bears repeating: only aim for the Orbal Gear.[x02][x03]
 
 #1457FIf I find so much as a hair out of place on Tita...[x02][x01]
 
-#1459F...you will be very painfully executed on the[x01]
-spot.[x02]
+#1459Fyou will be very painfully executed on the spot.[x02]
+
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
