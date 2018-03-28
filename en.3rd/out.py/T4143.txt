@@ -371,7 +371,7 @@ ChrTalk #29
 0x103
 
 #1642FYou could've said all of this from the beginning[x01]
-and saved us a lot headache.[x02][x03]
+and saved us a lot of headaches.[x02][x03]
 
 If I'd known what you were trying to do, I would[x01]
 have been able to formally escort you where you[x01]
@@ -391,7 +391,7 @@ ChrTalk #30
 
 ...[x02][x03]
 
-#1656FI... I was just...scared.[x02][x03]
+#1656FI... I was just... scared.[x02][x03]
 
 
 I'll never be able to forget what I saw that day.[x02][x03]
@@ -469,7 +469,7 @@ ChrTalk #35
 
 #1656F#5PUmm... I...[x02][x03]
 
-#1655FI should never have gotten you caught up in all[x01]
+#1655FI should have never gotten you caught up in all[x01]
 of this when you were busy enough already...[x02]
 
 
