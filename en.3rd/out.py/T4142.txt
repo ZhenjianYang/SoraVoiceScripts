@@ -129,7 +129,7 @@ ChrTalk #12
 #1643FCrap... It's Kurt.[x02][x03]
 
 #1646FUmm... This... This might LOOK like alcohol to you,[x01]
-but it's actually...water...?[x02]
+but it's actually... water...?[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -349,7 +349,7 @@ wealthy individuals in hopes of getting them to[x01]
 sign contracts.[x02][x03]
 
 #842FThere have been countless cases like this all[x01]
-around the country of late, with civilians getting[x01]
+around the country as of late, with civilians getting[x01]
 caught up in it at a worrying frequently.[x02]
 
 ;----------------------------------------------------------------------------------
@@ -601,7 +601,7 @@ ChrTalk #56
 receptionist remaining, after all.[x02][x03]
 
 #845FAs for you, Schera...be careful you don't have[x01]
-too much 'water.'[x02]
+too much 'water'.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
