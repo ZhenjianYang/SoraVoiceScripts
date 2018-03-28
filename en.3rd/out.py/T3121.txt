@@ -1844,7 +1844,7 @@ ChrTalk #178
 
 #562F#11PI-I'm so sorry...[x02][x03]
 
-Mom and Dad seem to've got you all wrong...[x02][x03]
+Dad and Mom seem to've got you all wrong...[x02][x03]
 
 
 
