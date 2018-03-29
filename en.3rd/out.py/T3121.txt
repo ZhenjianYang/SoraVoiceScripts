@@ -792,7 +792,7 @@ ChrTalk #74
 
 
 #1450FDidn't you say you wanted a one-on-one fight[x01]
-against this redheaded ruffian yesterday?[x02]
+against this red-headed ruffian yesterday?[x02]
 
 
 ;----------------------------------------------------------------------------------
