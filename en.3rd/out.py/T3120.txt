@@ -931,8 +931,8 @@ NpcTalk #91
 Researcher
 
 #1830F#6P#3SYou do not get within a one selge radius[x01]
-of my sugar-powdered donut under ANY[x01]
-circumstances![x02]
+of my sugar-powdered donut under ANY circumstances![x02]
+
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -1085,7 +1085,7 @@ ChrTalk #107
 #052F#6PO-Oh... Yeah. Lay it on me.[x02][x03]
 
 #051FI'm free until this evening, so if you've got any[x01]
-quick jobs that need doing, I can knock' em out[x01]
+quick jobs that need doing, I can knock 'em out[x01]
 for you.[x02]
 
 ;----------------------------------------------------------------------------------
@@ -1202,8 +1202,8 @@ about them from Tita, so it's not like I could[x01]
 pretend to know what they're like.)[x02][x03]
 
 (But her mom's nothing like she made her[x01]
-sound...and she seems kinda...messed up in[x01]
-the head.)[x02][x03]
+sound, and she seems kinda...messed up[x01]
+in the head.)[x02][x03]
 
 ...[x02][x03]
 
