@@ -287,7 +287,7 @@ ChrTalk #27
 
 I... I...[x02][x03]
 
-I'm not going to do this any more.[x01]
+I'm not going to do this anymore.[x01]
 I quit...[x02][x03]
 
 S-So...[x02]
@@ -400,10 +400,10 @@ ChrTalk #35
 ChrTalk #36
 0x12
 
-#561F#5PUmm... Agate...I...[x02][x03]
+#561F#5PUmm... Agate... I...[x02][x03]
 
 
-#062FI change my mind! I won't give up![x02]
+#062FI changed my mind! I won't give up![x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -491,7 +491,7 @@ ChrTalk #44
 #1457FThe preparations for it aren't quite finished...[x02][x03]
 
 #1832F...but I think it's time we get to the second[x01]
-phase of testing our redheaded friend right[x01]
+phase of testing our red-headed friend right[x01]
 away![x02]
 
 ;----------------------------------------------------------------------------------
