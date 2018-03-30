@@ -1454,7 +1454,7 @@ def main():
     ChrTalk(    #63
         0x151,
         (
-            "#1650FOh, my. That's kind of...#3700W #20 \x01\x03",
+            "#1650FOh, my. That's kind of...#3700W #20W \x01\x03",
             "#1651F...romantic, don't you think? ㈱\x02",
         )
     )
