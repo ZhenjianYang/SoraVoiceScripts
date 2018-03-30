@@ -937,17 +937,17 @@ def main():
 
     ChrTalk(    #36
         0x151,
-        "#1655F#5PJust forget that I--\x02",
+        "#1655F#5P#20AJust forget that I--\x02",
     )
 
-    Sleep(200)
+    Sleep(2000)
 
     ChrTalk(    #37
         0x103,
-        "#1646FListen.\x02",
+        "#1646F#7AListen.\x02",
     )
 
-    OP_56(0x1)
+    #OP_56(0x1)
     OP_59()
 
     ChrTalk(    #38
