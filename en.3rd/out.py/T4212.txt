@@ -149,9 +149,9 @@ AnonymousTalk #15
 
 [x07][x05]The undersigned, Aina Holden, shall hereby inherit[x01]
 the property of Saul John Holden, as outlined in his[x01]
-last will and testament.[x02][x01][x01]
+last will and testament.[x01][x01]
 [x01]
-                       Witness: Scherazard Harvey[x02]
+                      #5400W #20WWitness: Scherazard Harvey[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
