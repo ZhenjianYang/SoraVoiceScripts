@@ -4177,7 +4177,7 @@ def main():
 
     ChrTalk(    #127
         0x14,
-        "#1462F#3S#40WReady... Go!#2S\x02",
+        "#1462F#3S#40WReady...#1520W #40WGo!#2S\x02",
     )
 
     OP_7C(0x0, 0x12C, 0xBB8, 0x64)
