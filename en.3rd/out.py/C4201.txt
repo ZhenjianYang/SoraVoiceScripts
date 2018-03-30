@@ -392,8 +392,7 @@ AnonymousTalk #41
 
 
 [x18][x07][x0C]#40WAm I really doing all right in my new life?[x01]
-Am I really getting stronger?[x02][x01]
-
+Am I really getting stronger?#3540W #40W [x01]
 ...Am I, Luci?[x02]
 
 ;----------------------------------------------------------------------------------
