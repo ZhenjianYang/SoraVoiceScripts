@@ -3589,13 +3589,13 @@ ChrTalk #335
 ChrTalk #336
 0x16
 
-#1167F#6PSo, in other words...[x02][x03]
+#1167F#6PSo, in other words...many of the contents[x01]
+of this world exist because of us...[x02][x03]
 
 
-
-#1162F...many of the contents of this world exist[x01]
-because of us, but its overall structure is[x01]
+#1162F...but its overall structure is[x01]
 the result of someone else within it?[x02]
+
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -3633,12 +3633,12 @@ NpcTalk #339
 0x1F
 Renne
 
-#263F#11PExactly.[x02][x03]
+#263F#11PExactly. Based on everything that's been said,[x01]
+they weren't in this world originally.[x02][x03]
 
-
-Based on everything that's been said, they weren't[x01]
-in this world originally. That was just the ghost you[x01]
+That was just the ghost[x01]
 you've encountered.[x02][x03]
+
 
 #260FUntil the Lord of Phantasma, she simply watched[x01]
 over this place from this garden here...[x02][x03]
