@@ -10,4 +10,4 @@ title %curd% %~n0%
 
 call "%curp%\..\Common.bat"
 
-"%dir_tools%\SoraInputTalk.exe" -c p "%curp%\py"  "%tmp%\v.out.py" "%tmp%\v.py" "%tmp%\report_import.txt"
+"%dir_tools%\SoraInputTalk.exe" -cw p "%curp%\py"  "%tmp%\v.out.py" "%tmp%\v.py" "%tmp%\report_import.txt"

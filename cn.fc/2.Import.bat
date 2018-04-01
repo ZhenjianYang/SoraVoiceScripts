@@ -19,4 +19,4 @@ set a=%%~ni
 for /f "tokens=1 delims=." %%j in ("!a!") do copy /Y "%%i" "%py%\%%j.py"
 )
 
-"%dir_tools%\SoraInputTalk.exe" -c p "%py%"  "%tmp%\v.out.py" "%tmp%\v.py" "%tmp%\report_import.txt"
+"%dir_tools%\SoraInputTalk.exe" -cw p "%py%"  "%tmp%\v.out.py" "%tmp%\v.py" "%tmp%\report_import.txt"
