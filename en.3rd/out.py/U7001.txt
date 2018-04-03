@@ -1224,7 +1224,7 @@ title of your choosing after becoming a Dominion.[x02][x03]
 You might want to start giving some thought to [x01]
 what you want sooner rather than later.[x02][x03]
 
-As you already know, mine is 'Carnelia,' simple[x01]
+As you already know, mine is 'Carnelia', simple[x01]
 a name as it is.[x02]
 
 
@@ -1240,7 +1240,7 @@ about any of those things...[x02][x03]
 Why...? Why me?[x02][x03]
 
 I couldn't even protect Rufina...from...[x01]
-...Why me...?[x02]
+Why me...?[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -1408,7 +1408,7 @@ Hmm...[x02]
 AnonymousTalk #118
 
 
-[x07][x0C]#40WLet's go with 'Heretic Hunter,' okay?[x01]
+[x07][x0C]#40WLet's go with 'Heretic Hunter', okay?[x01]
 That sounds just perfect.[x02]
 
 ;----------------------------------------------------------------------------------

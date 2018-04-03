@@ -184,7 +184,7 @@ ChrTalk #18
 
 #1022FAnd as for YOU, Josette...[x02][x01]
 
-#1019F...can you quit calling me a damn airhead?[x01]
+#1019Fcan you quit calling me a damn airhead?[x01]
 In case you were raised in a barn, that's not[x01]
 a very nice way to greet someone![x02]
 
@@ -336,7 +336,7 @@ ChrTalk #32
 ChrTalk #33
 0x109
 
-#1076F#12P#50WSorry...Ries... Gonna have to take a[x01]
+#1076F#12P#50WSorry, Ries... Gonna have to take a[x01]
 rain check on our talk...[x02]
 
 ;----------------------------------------------------------------------------------
