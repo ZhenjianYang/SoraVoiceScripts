@@ -282,7 +282,7 @@ ChrTalk #30
 0x19
 
 But 'more-or-less healed' means they're still healing![x01]
-We can't ask an injured boy do all our work for us.[x01]
+We can't ask an injured boy to do all our work for us.[x01]
 You need to sit and rest...[x02]
 
 ;----------------------------------------------------------------------------------

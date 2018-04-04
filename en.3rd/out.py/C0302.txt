@@ -187,7 +187,7 @@ ChrTalk #18
 
 #295F#6PIf something bad happened to you in the past...[x02][x03]
 
-but you don't want to talk about it,[x01]
+...but you don't want to talk about it,[x01]
 then I'm not going to force you to.[x02][x03]
 
 #299FI'll just wait until you feel ready to talk about it[x01]

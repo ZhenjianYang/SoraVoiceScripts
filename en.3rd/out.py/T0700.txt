@@ -470,8 +470,8 @@ ChrTalk #46
 ChrTalk #47
 0x36
 
-#1PYou've have been looking after them since[x01]
-they were babies. Of course they'll miss you.[x02]
+#1PYou've been looking after them since they[x01]
+were babies. Of course they'll miss you.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
