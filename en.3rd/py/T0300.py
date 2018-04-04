@@ -3410,7 +3410,7 @@ def main():
         (
             "#292F#12P#15AListen, young man!\x02\x03",
 
-            "Listen to what your older sister tells you!\x02",
+            "#20AListen to what your older sister tells you!\x02",
         )
     )
 
