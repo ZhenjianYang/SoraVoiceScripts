@@ -377,7 +377,7 @@ ChrTalk #26
 #1120F#5PHaha... I could say the same to you.[x02][x03]
 
 
-#1125FStill, as I'm sure you're aware, that outcome will[x01]
+#1125FStill, as I'm sure you're aware, that outcome would[x01]
 have been well within the realm of possibility for[x01]
 the chancellor.[x02][x03]
 
@@ -407,7 +407,7 @@ ChrTalk #29
 
 #093F#5PMost likely not...[x02][x03]
 
-#094FErebonia had nothing anything to gain from[x01]
+#094FErebonia had nothing to gain from[x01]
 using that situation to occupy Liberl.[x02][x03]
 
 
