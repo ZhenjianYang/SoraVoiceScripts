@@ -351,8 +351,8 @@ ChrTalk #29
 #1610FI'm not the real Celeste D. Auslese; think of[x01]
 me as something of a shadow.[x02][x03]
 
-Or a partial copy her personality created in[x01]
-order to influence Phantasma from within.[x07][x00][x02]
+Or a partial copy of her personality created[x01]
+in order to influence Phantasma from within.[x07][x00][x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------

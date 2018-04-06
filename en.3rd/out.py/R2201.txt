@@ -16,15 +16,15 @@ AnonymousTalk #1
 
 [x07][x00]Along the shore off Gull Seaside Way, near Ruan...[x02][x01]
 
-...the decisive moment that Norche had foretold[x01]
+the decisive moment that Norche had foretold[x01]
 was finally to come.[x02][x01]
 
 Whether their meeting was a coincidence or fated[x01]
 all along, no one could possibly say...[x02][x01]
 
-Estelle was idly walking along shore for no particularly[x01]
-adequate reason, when all of a sudden, a single small[x01]
-yacht drew closer and closer.[x02]
+Estelle was idly walking along the shore for no[x01]
+particularly adequate reason, when all of a sudden,[x01]
+a single small yacht drew closer and closer.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -349,7 +349,7 @@ AnonymousTalk #33
 [x07][x00]After roughly an hour of continuous negotiations in[x01]
 which neither of them wished to back down...[x02][x01]
 
-...Estelle was able to convince Mr. Fisher that the burden[x01]
+Estelle was able to convince Mr. Fisher that the burden[x01]
 of being leader was too great for her, and she was granted[x01]
 an honorary member of the guild instead.[x02][x01]
 
@@ -369,7 +369,7 @@ AnonymousTalk #34
 [x07][x00]A fitting nickname for one who had triumphed in such[x01]
 challenging anglers' duels...[x02][x01]
 
-...Estelle the Supreme Fisher.[x02]
+Estelle the Supreme Fisher.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------

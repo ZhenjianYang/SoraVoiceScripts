@@ -816,9 +816,9 @@ AnonymousTalk #70
 you know.[x02][x03]
 
 The name's Halle. I'm the daughter of the[x01]
-legendary gambler 'King.'[x02][x03]
+legendary gambler 'King'.[x02][x03]
 
-Not exactly a household name, but its a pretty[x01]
+Not exactly a household name, but it's a pretty[x01]
 famous one in these kinds of circles.[x02]
 
 ;----------------------------------------------------------------------------------
@@ -946,8 +946,8 @@ AnonymousTalk #78
 AnonymousTalk #79
 
 
-[x07][x00]...Wow. Who'd've thought? You're actually[x01]
-really good.[x02][x03]
+[x07][x00]...Wow. Who would've thought?[x01]
+You're actually really good.[x02][x03]
 
 All right, a deal's a deal. I'll go and talk to[x01]
 Jack again.[x02]
