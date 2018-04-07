@@ -22,10 +22,11 @@ Get them at [Release](https://github.com/ZhenjianYang/SoraVoiceScripts/releases/
   We assume the path of 7zip is `C:\Program Files\7-Zip\7z.exe`  
   Some python libs need to be installed. Please refer to [tools/EDDecompiler](https://github.com/ZhenjianYang/EDDecompiler#1-install-python3).
 
-3.  Copy **\.dir** files in games' in installation folders to this project   
+3.  Copy some files in games' in installation folders to this project   
     ***Trails in the Sky FC***      : Copy **\.dir** files to `game_files/DIR_FC/`   
     ***Trails in the Sky SC***      : Copy **\.dir** files to `game_files/DIR_SC/`   
     ***Trails in the Sky the 3rd*** : Copy **\.dir** files to `game_files/DIR_3RD/`   
+    ***Trails in the Sky the 3rd*** : Copy **T_FISH\._DT**(extracted from **ED6_DT22\.dat/\.dir**, English ver) to `game_files/EN_3RD/`   
 
 4.  **Generate script files**   
   Just run the batch file `DoAll.bat`   
@@ -65,6 +66,7 @@ PC游戏《空之轨迹》系列的语音脚本
     **《空之轨迹 FC》**     : 复制 **\.dir**文件到`game_files/DIR_FC/`   
     **《空之轨迹 SC》**     : 复制 **\.dir**文件到`game_files/DIR_SC/`   
     **《空之轨迹 the 3rd》**: 复制 **\.dir**文件到`game_files/DIR_3RD/`   
+    **《空之轨迹 the 3rd》**: 复制从 **ED6_DT22\.dat/\.dir**中导出的 **T_FISH\._DT**到`game_files/EN_3RD/`   
 
 4.  **生成脚本文件**   
   执行`DoAll.bat`即可    

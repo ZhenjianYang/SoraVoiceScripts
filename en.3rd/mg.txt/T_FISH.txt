@@ -1,0 +1,162 @@
+T_FISH  ._DT
+
+#1000F#1PNow, which rod should I use?[x02][x03]
+
+#1015F#1PWhat about bait?[x02][x03]
+
+#1018F#1P#20AThere![x02]
+
+#1018F#1P#20AHere goes![x02]
+
+#1009F#1P#20ACast off![x02]
+
+#1001F#1PNot bad![x02]
+
+#1001F#1PEasy peasy![x02]
+
+#1001F#1PWow! This one's a big 'un![x02][x03]
+
+#1005F#1PWh-Whaaat?![x02][x03]
+
+#1007F#1POops... Maybe my nerves are getting the[x01]better of me.[x02][x03]
+
+#1009F#1PMan... So close, too![x02][x03]
+
+#1006F#1PI wonder how my opponent's doing? ♪[x02][x03]
+
+#1015F#1PHmm... I wonder how my opponent's doing?[x02][x03]
+
+#1009F#1PDon't get cocky! I'm just getting started![x02][x03]
+
+#1018F#1PAll right! I've got to make the most of this[x01]opportunity![x02][x03]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+#4PHmph... Not bad. But I can do better![x02][x03]
+
+#4PI've gotta take this baby slow an' steady.[x02][x03]
+
+#4P#20AHmph![x02]
+
+#4P#20AHah![x02]
+
+#4P#20AHa![x02]
+
+#4PA good catch![x02]
+
+#4PThis one ain't bad![x02]
+
+#4PSee? I gave it my all, and now I got[x01]it all![x02][x03]
+
+#4PN-No way...[x02]
+
+#4PThis can't be happening...[x02]
+
+#4P...What?[x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+#1POh, my! How impressive. I see I can't afford to[x01]let my guard down against you.[x02][x03]
+
+#1PHeehee. Slow and steady wins the race.[x02][x03]
+
+#1P#20ACast off![x02]
+
+#1P#20ACome to me![x02]
+
+#1P#20AThere![x02]
+
+#1PHeehee. Catching fish this size is nothing![x02][x03]
+
+#1POhohoho! Take a good look at this![x02]
+
+#1POhohoho! Now do you see what I can really do?[x02][x03]
+
+#1PTh-This can't be happening![x02]
+
+#1PGracious no![x02]
+
+#1PI-Impossible...[x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+#4PHmm... I see my foe is quite capable.[x02][x03]
+
+#4PHahaha! Now's my chance![x02][x03]
+
+#4P#20AHah![x02]
+
+#4P#20AHmph![x02]
+
+#4P#20AHaaah![x02]
+
+#4PHahaha! I can't help but laugh![x02][x03]
+
+#4PI would expect no less from myself![x02][x03]
+
+#4PCome to me, my piscine friend![x02]
+
+#4PTh-The shame I feel is simply unbearable...[x02][x03]
+
+#4PTh-This is humiliating...[x02]
+
+#4PWhat a disgraceful performance...[x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+
+ [x02]
+

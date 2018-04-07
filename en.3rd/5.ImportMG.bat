@@ -10,8 +10,8 @@ title %curd% %~n0%
 
 call "%curp%\..\Common.bat"
 
-set vtxtdir=%tmp%\v.quiz.txt
-set txtdir=%curp%\quiz.txt
-set evodir=%curp%\quiz.txt.evo
+set vtxtdir=%tmp%\v.mg.txt
+set txtdir=%curp%\mg.txt
+set evodir=%curp%\mg.txt.evo
 
 "%dir_tools%\SoraInputVoiceId.exe" -sm "%txtdir%" "%evodir%" "%vtxtdir%" ""
