@@ -105,6 +105,9 @@ pack/
 # .dir files
 *.dir
 
+# ._DT files
+*._DT
+
 # dll folder
 dll/
 
