@@ -741,7 +741,7 @@ AnonymousTalk #34
 [x07][x0C][From: Intelligence Division, 1st Subdivision][x01]
 [To: General Staff Office][x02][x01]
 
-[CB has made contact with a member of our subdivision.[x02]
+[CB has made contact with a member of our subdivision.[x01]
 
 
 Currently in the process of confirming...][x02]
@@ -755,7 +755,7 @@ AnonymousTalk #35
 [x07][x0C][From: Intelligence Division, 1st Subdivision][x01]
 [To: General Staff Office][x02][x01]
 
-[The target, CB, has proposed a joint operation.[x02]
+[The target, CB, has proposed a joint operation.[x02][x01]
 
 
 Intending to meet him again at the specified date and time.][x02]
@@ -846,7 +846,7 @@ AnonymousTalk #40
 [x07][x0C][From: Intelligence Division, 1st Subdivision][x01]
 [To: General Staff Office][x01]
 [Raising the threat level of Cassius Bright[x01]
-(S-rank bracer), effectively immediately.[x02][x01]
+(S-rank bracer), effective immediately.[x02][x01]
 
 Henceforth, he will be regarded as a L5 threat.[x02][x01]
 
@@ -865,12 +865,12 @@ AnonymousTalk #41
 [x07][x0C][From: Intelligence Division, 1st Subdivision][x01]
 [To: General Staff Office][x01]
 [Confirmed that the surveillance target left the[x01]
-country today.[x02]
+country today.[x02][x01]
 
 His departure was without incident.[x02][x01]
 
 Handing control over the mission over to our[x01]
-foreign agencies.[x02]
+foreign agencies.[x02][x01]
 
 Transmission over.][x02]
 
