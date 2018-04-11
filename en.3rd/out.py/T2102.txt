@@ -1073,7 +1073,7 @@ Richard
 ChrTalk #96
 0x1D
 
-#1864F#5P...'Best of luck with your little trip.[x02][x03]
+#1864F#5P...'Best of luck with your little trip.'[x02][x03]
 
 'We'd like to know what the Red Constellation is[x01]
 up to, too, so we'd appreciate you looking into it [x01]

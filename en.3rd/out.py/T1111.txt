@@ -395,7 +395,7 @@ ChrTalk #33
 #620F#6PYou could say that, yes.[x02][x03]
 
 
-I have an important request I wish you[x01]
+I have an important request I wish to[x01]
 make of you.[x02]
 
 ;----------------------------------------------------------------------------------

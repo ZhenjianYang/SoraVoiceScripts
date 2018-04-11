@@ -225,7 +225,7 @@ so busy in Grancel, either![x02][x03]
 
 
 #1718FHmm... Well, if you don't need help with the[x01]
-cooking...I'll go and clean our room![x02][x03]
+cooking... I'll go and clean our room![x02][x03]
 
 #1710FClem went and messed it all up again this[x01]
 morning, so it could probably stand to be[x01]
