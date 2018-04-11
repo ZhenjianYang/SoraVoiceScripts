@@ -572,9 +572,10 @@ surveillance upon arrival.][x02]
 AnonymousTalk #26
 
 
-[x07][x00]Two days after the assaults began, Cassius Bright[x01]
-(S-rank) arrived in the Imperial capital.[x02][x01]
+[x07][x00]Two days after the assaults began,#1250W 
 
+#20WCassius Bright[x01]
+(S-rank) arrived in the Imperial capital.[x02][x01]
 
 He assumed the post of provisional representative[x01]
 of the Erebonian guild.[x02][x01]
