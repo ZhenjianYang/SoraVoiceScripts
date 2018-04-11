@@ -741,7 +741,7 @@ AnonymousTalk #34
 [x07][x0C][From: Intelligence Division, 1st Subdivision][x01]
 [To: General Staff Office][x02][x01]
 
-[CB has made contact with a member of our subdivision.[x01]
+[CB has made contact with a member of our subdivision.[x02][x01]
 
 
 Currently in the process of confirming...][x02]
