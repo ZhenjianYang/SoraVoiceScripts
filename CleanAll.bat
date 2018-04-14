@@ -2,5 +2,5 @@
 
 cd %~dp0
 
-for %%b in (cn.fc en.fc en.sc) do .\%%b\0.Clean.bat
+for %%b in (cn.fc cn.sc en.fc en.sc en.3rd) do .\%%b\0.Clean.bat
 

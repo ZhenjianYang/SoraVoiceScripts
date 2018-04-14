@@ -1,0 +1,482 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+ChrTalk #0
+0xE
+
+#62916J#0280211570V#1B#84Z#151FâΩÇ©å©Ç¬ÇØÇΩÇÁ[x01]
+ã≥Ç¶ÇƒÇ≠ÇæÇ≥Ç¢ÇÀÅ`ÅB[x02][x03]
+
+#62919J#0280211571V#2B#83ZÇ∫Ç–ÅAóHóÏÇ≥ÇÒÇ[x01]
+éBÇËÇΩÇ¢ÇÒÇ≈Ç∑Ç©ÇÁÅ`ÅB[x02]
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+0xFF
+
+[x07][x02]#177500JãÛä‘ìäâeëïíuÇ™Ç†ÇÈÅB[x02]
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #2
+0xFF
+
+[x07][x05]#177504Jì±óÕÇ™í‚é~ÇµÇƒÇ¢ÇÈÇÊÇ§ÇæÅB[x02]
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #3
+0xFF
+
+[x07][x05]#177507Jì±óÕÇ™í‚é~ÇµÇƒÇ¢ÇÈÇÊÇ§ÇæÅB[x02]
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG

@@ -1,0 +1,142 @@
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+0xFF
+
+[x07][x05]#180160J宝箱の中から強力な魔獣の気配を感じる。[x01]
+【推定魔獣レベル９０】[x01]
+宝箱を開きますか？[x02]
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG

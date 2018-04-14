@@ -1,0 +1,214 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+0xFF
+
+[x1F][xE0][x01][x07][x00]#177421Jのレシピが書かれた紙切れも入っていた。[x02]
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #1
+0xFF
+
+[x1F][xE0][x01][x07][x00]#177423Jのレシピを覚えた。[x02]
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG

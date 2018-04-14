@@ -7,6 +7,7 @@ Scripts for these games were done:
 |Game Title                 |Publisher|Platform        |Language          |             |
 |---------------------------|---------|----------------|------------------|-------------|
 |*Sora no Kiseki FC*        |YLT      |                |Chinese Simplified|The Original PC ver
+|*Sora no Kiseki SC*        |YLT      |                |Chinese Simplified|The Original PC ver
 |*Trails in the Sky FC*     |Xseed    |Steam           |Chinese Simplified|[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
 |*Trails in the Sky FC*     |Xseed    |Steam/GOG/Humble|English           |Done by [Raienryuu no Natsu](https://www.youtube.com/c/LilithElessar)
 |*Trails in the Sky SC*     |Xseed    |Steam/GOG/Humble|English           |Done by [Raienryuu no Natsu](https://www.youtube.com/c/LilithElessar)
@@ -47,6 +48,7 @@ PC游戏《空之轨迹》系列的语音脚本
 |游戏标题        |发行商 |平台            |语言     |              |
 |----------------|-------|----------------|---------|--------------|
 |空之轨迹 FC     |娱乐通 |                |简体中文 |原版PC
+|空之轨迹 SC     |娱乐通 |                |简体中文 |原版PC
 |空之轨迹 FC     |Xseed  |Steam           |简体中文 |[ED6-FC-Steam-CN](https://github.com/Ouroboros/ED6-FC-Steam-CN)
 |空之轨迹 FC     |Xseed  |Steam/GOG/Humble|英语     |由[Raienryuu no Natsu](https://www.youtube.com/c/LilithElessar)完成
 |空之轨迹 SC     |Xseed  |Steam/GOG/Humble|英语     |由[Raienryuu no Natsu](https://www.youtube.com/c/LilithElessar)完成

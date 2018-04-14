@@ -1,0 +1,145 @@
+
+;----------------------------------------------------------------------------------
+;----------------------------------------------------------------------------------
+
+AnonymousTalk #0
+0xFF
+
+[x07][x05]#177577Jレバーは厳重に固定されており動かせない。[x02]
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
+
+
+
+
+
+
+	;NOT_MATCHED_DIALOG
