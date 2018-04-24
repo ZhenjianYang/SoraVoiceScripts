@@ -422,8 +422,8 @@ ChrTalk #47
 AnonymousTalk #48
 
 
-[x07][x02]#40WIn my lord's place, I, [x01]
-the Schwarzritter, do decree...[x01]
+[x07][x02]#40WIn my lord's place, I, the Schwarzritter,[x01]
+do decree:[x01]
 #500W [x01]
 #40W Here lies the Black Ark.[x01]
 #500W [x01]
