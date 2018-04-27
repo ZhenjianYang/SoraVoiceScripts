@@ -1847,8 +1847,7 @@ def main():
     ChrTalk(    #78
         0x10,
         (
-            "#1125F#5PDefeat me.\x02\x01",
-
+            "#1125F#5PDefeat me.#2040W #20W \x01",
             "#1122FThat is all.\x02",
         )
     )
