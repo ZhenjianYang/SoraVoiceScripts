@@ -15,4 +15,4 @@ set outdir=%curp%\..\pack\%dt%
 
 md "%outdir%"
 
-"%Zip7%" -t7z -mx=9 a "%outdir%\%curd%_%dt%.7z" "%sndir%"
+"%Zip7%" -t7z -mx=9 a "%outdir%\%curd%.ori_%dt%.7z" "%sndir%"
