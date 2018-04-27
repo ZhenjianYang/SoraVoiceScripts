@@ -146,7 +146,7 @@ ChrTalk #18
 #1076F#6PHis name's Elmer...[x02][x03]
 
 He was a young boy turned into a flesh-eating[x01]
-monster by a fanatical devil-worshiping cult.[x01]
+monster by a fanatical devil-worshipping cult.[x01]
 They did it all through a ritual involving artifacts.[x02][x03]
 
 #1065FI tried everything I could to save him--every kind[x01]

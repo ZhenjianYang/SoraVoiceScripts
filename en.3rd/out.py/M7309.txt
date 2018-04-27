@@ -714,7 +714,7 @@ ChrTalk #60
 
 
 Two high-ranking devils AND you against just the[x01]
-two of us? Things aren't aren't lookin' so hot.[x02][x03]
+two of us? Things aren't lookin' so hot.[x02][x03]
 
 #1840FAt least, that was before I knew I'm not the man[x01]
 I once was.[x02]
@@ -1042,7 +1042,7 @@ ChrTalk #90
 
 #1224F#6PTh-The Lord of whatsit?[x02][x03]
 
-#1228F...No! Forget it! We don't have time to chitchat![x02][x03]
+#1228F...No! Forget it! We don't have time to chit-chat![x02][x03]
 
 
 #1225FWe need to run! Now! Or we're done for![x02]

@@ -458,7 +458,7 @@ like we'll be able to remain in this world for a[x01]
 while longer...[x02][x03]
 
 #202FWe should be able to help you out some, too.[x01]
-Don't be afraid to call on us if you need us.[x02]
+Don't be afraid to call on us if you need to.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
