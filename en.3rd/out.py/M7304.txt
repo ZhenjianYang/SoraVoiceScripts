@@ -125,8 +125,8 @@ AnonymousTalk #16
 
 [x07][x02]#80WPlease...[x01]
 Let me...eat you...[x01]
-#1000W [x01]
-#80WI... I'm so...#500W [x01]
+#4460W [x01]
+#80WI... I'm so...#2300W [x01]
 #80WI'm so, so hungry...[x07][x00][x02]
 
 ;----------------------------------------------------------------------------------
@@ -168,7 +168,7 @@ AnonymousTalk #20
 
 
 [x07][x02]#80WI can...right...?[x01]
-#1000W [x01]
+#2480W [x01]
 #80WYou both look so tasty...[x07][x00][x02]
 
 
@@ -179,7 +179,7 @@ AnonymousTalk #20
 AnonymousTalk #21
 
 
-[x07][x02]#80WSo go on...#500W [x01]
+[x07][x02]#80WSo go on...#2690W [x01]
 #80WIt won't hurt...[x07][x00][x02]
 
 ;----------------------------------------------------------------------------------
@@ -228,7 +228,7 @@ AnonymousTalk #25
 AnonymousTalk #26
 
 
-[x07][x02]#80WI just... I just...#1000W [x01]
+[x07][x02]#80WI just... I just...#800W [x01]
 #40W#4SI just don't want to be hungry anymore![x07][x00][x02]
 
 ;----------------------------------------------------------------------------------
