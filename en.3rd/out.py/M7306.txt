@@ -35,8 +35,8 @@ AnonymousTalk #3
 AnonymousTalk #4
 
 
-[x07][x07]#80W...I failed as your mother...#1000W [x01]
-#80W...but I'm so tired...#400W[x01]
+[x07][x07]#80W...I failed as your mother...#1680W [x01]
+#80W...but I'm so tired...#2000W [x01]
 #80WI'm so, so tired...[x07][x00][x02]
 
 
@@ -62,9 +62,9 @@ ChrTalk #6
 AnonymousTalk #7
 
 
-[x07][x07]#80W...At least this way...#500W [x01][x01]
-#1000W[x01]
-#80W...At least this way,#300W [x01]
+[x07][x07]#80W...At least this way...#4398W [x01][x01]
+[x01]
+#80W...At least this way,#890W [x01]
 #80Wthe two of us #160Wcan...[x07][x00][x02]
 
 
