@@ -6792,87 +6792,99 @@ def main():
     CloseMessageWindow()
     Sleep(100)
     Sleep(1000)
-    OP_1D(0x47)
+    OP_1D(0x00)
+
+    NpcTalk(    #999 op#A op#5
+        0x104,
+        "Golden-Haired Man",
+        "#035F#20A#0W...\x05\x02",
+    )
+
     OP_43(0x104, 0x0, 0x0, 0x2)
-    Sleep(1000)
-    Sleep(500)
     OP_DB()
+    Sleep(2000)
+    CloseMessageWindow()
+    Sleep(6515)
 
     NpcTalk(    #327 op#A op#5
         0x104,
         "Golden-Haired Man",
-        "#70A#035F#50WThe sun shines,#2000W #50Wa rainbow bridge...\x05\x02",
+        "#100A#035F#0WThe sun shines, a rainbow bridge...\x05\x02",
     )
 
-    Sleep(6500)
+    Sleep(5950)
 
     NpcTalk(    #328 op#A op#5
         0x104,
         "Golden-Haired Man",
-        "#70A#035F#50WI cross it to#1000W #50Wreach you...\x05\x02",
+        "#100A#035F#0WI cross it to reach you...\x05\x02",
     )
 
-    Sleep(6500)
+    Sleep(6040)
 
     NpcTalk(    #329 op#A op#5
         0x104,
         "Golden-Haired Man",
         (
-            "#70A#035F#50WAnd yet as I search...#1000W \x01",
-            "#50Wit fades...into the sky...\x05\x02",
+            "#100A#035F#0WAnd yet as I search...\x01",
+            "it fades...into the sky...\x05\x02",
         )
     )
 
-    Sleep(7000)
+    Sleep(6045)
 
     NpcTalk(    #330 op#A op#5
         0x104,
         "Golden-Haired Man",
-        "#70A#035F#50WDancing with loneliness#1000W #50Won the wind...\x05\x02",
+        "#100A#035F#0WDancing with loneliness on the wind...\x05\x02",
     )
 
-    Sleep(7500)
+    Sleep(6460)
 
     NpcTalk(    #331 op#A op#5
         0x104,
         "Golden-Haired Man",
         (
-            "#70A#032F#50WIf this wish is doomed to fade...#2000W \x01",
-            "#50Wwithout ever coming true...\x05\x02",
+            "#100A#032F#0WIf this wish is doomed to fade...\x01",
+            "without ever coming true...\x05\x02",
         )
     )
 
-    Sleep(7500)
+    Sleep(7045)
 
     NpcTalk(    #332 op#A op#5
         0x104,
         "Golden-Haired Man",
-        "#70A#032F#50WThen may it leave#2500W #50Wat least a scar...\x05\x02",
+        "#100A#032F#0WThen may it leave at least a scar...\x05\x02",
     )
 
-    Sleep(8000)
+    Sleep(9335)
 
     NpcTalk(    #333 op#A op#5
         0x104,
         "Golden-Haired Man",
-        "#70A#032F#50WMy first promise,#2500W #50Wa promise I cannot keep...\x05\x02",
+        "#100A#032F#0WMy first promise, a promise I cannot keep...\x05\x02",
     )
 
-    Sleep(6500)
+    Sleep(8750)
 
     NpcTalk(    #334 op#A op#5
         0x104,
         "Golden-Haired Man",
-        "#70A#035F#50WI keep your breath#3000W #50Wencased in amber...\x05\x02",
+        "#100A#035F#0WI keep your breath encased in amber...\x05\x02",
     )
 
-    Sleep(8000)
+    Sleep(9020)
 
     NpcTalk(    #335 op#A op#5
         0x104,
         "Golden-Haired Man",
-        "#70A#035F#50WSealing within this#3000W #50Weternal dream...\x05\x02",
+        "#100A#035F#0WSealing within this eternal dream...\x05\x02",
     )
+    Sleep(9065)
+    CloseMessageWindow()
+
+    Sleep(5400)
 
     OP_21()
     Sleep(300)
