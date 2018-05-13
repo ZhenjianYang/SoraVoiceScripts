@@ -453,7 +453,7 @@ I was hoping you'd do\na little better than that...%c%c
 005E26E0
 .932
 #0C#1910FWell, that's that.%c%c
-#1910FUnfortunately for you,\nI win this one.%c
+#1910FUnfortunately for you, I win this one.%c
 
 005E2730
 .932
