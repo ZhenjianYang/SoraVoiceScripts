@@ -270,7 +270,7 @@
 
 0061CFE8
 .932
-#0C#1915FIs drawing that many cards is a\nsmart move?%c%c
+#0C#1915FIs drawing that many cards a\nsmart move?%c%c
 #1916FHeehee. You didn't bust, did you?%c
 
 0061D050
