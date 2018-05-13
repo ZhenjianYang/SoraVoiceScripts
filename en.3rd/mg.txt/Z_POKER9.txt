@@ -1,0 +1,536 @@
+005E0870
+.932
+#0C#1925FLet's get this thing over with.%c%c
+#1920FMay the best man\nwin, I guess.%c
+
+005E08D0
+.932
+#0C#1925Fそれじゃ、さっそく\n始めるとするか。%c%c
+#1920Fま、お互い\nせいぜい楽しもうぜ。%c
+
+005E0928
+.932
+#1925F#0CBettin' two stars, huh?%c%c
+#1920FBring it on!\nI never turn down a challenge.%c
+
+005E0980
+.932
+#1925F#0C星２個の勝負か……%c%c
+#1920Fいいぜ、オレなら\nいつでも受けてやる。%c
+
+005E09D0
+.932
+#1923F#0CWhat? Changed your mind?%c%c
+#1926FFortune favors the bold,\nyou know.%c
+
+005E0A20
+.932
+#1923F#0Cなんだ、やめんのか？%c%c
+#1926Fそんな逃げ腰だと\n勝ちが遠のいちまうぜ？%c
+
+005E0A78
+.932
+#1920F#0CHeh. Time to redraw.%c%c
+#1920FIt's fine if that's how you wanna play it,\nbut you can't pull that every time.%c
+
+005E0AF0
+.932
+#1920F#0Cへへ、配り直すんだな。%c%c
+#1920F別に構やしねえが、\n一度までってのがルールだぜ？%c
+
+005E0B50
+.932
+#1923F#0CDon't tell me you're quitting?\nAfter I took the time to come out?%c
+
+005E0BA0
+.932
+#1926F#0C...You're gonna run away?\nYou've gotta be shittin' me.%c
+
+005E0BE8
+.932
+#1922F#0CYou're just gonna walk away?\nYou got some balls, stranger.%c
+
+005E0C30
+.932
+#1923F#0Cなに、勝負を降りるだと？\nアンタまじに言ってんのか？%c
+
+005E0C70
+.932
+#1926F#0C……逃げるのか？\nおいおい、勘弁してくれよ。%c
+
+005E0CA8
+.932
+#1922F#0C勝負を捨てるたあ……\nいい度胸してるな、アンタ？%c
+
+005E0D30
+.932
+#1920F#0CWell?\nDid you get the cards you wanted?%c
+
+005E0D64
+.932
+#1920F#0CHeh. Lookin' forward to seeing\nwhat you get.%c
+
+005E0D9C
+.932
+#1920F#0Cどうだ、\n思った通りの手札かい？%c
+
+005E0DC8
+.932
+#1920F#0Cへへっ、あんたの\nカードに期待してるぜ。%c
+
+005E0E00
+.932
+#1924F#0CHuh... You're better than\nI thought.%c%c
+#1926FSo much for 'Victory Jack,'\nyeah?%c
+
+005E0E60
+.932
+#1922F#0CDamn. You managed to get ALL my stars?%c%c
+#1920FBe proud. Not just anyone can beat me.%c
+
+005E0EC8
+.932
+#1924F#0Cふ～、まさかアンタが\nここまでやれるとはな。%c%c
+#1926Fへへっ、勝利のジャック様が\n聞いてあきれるってもんだ。%c
+
+005E0F40
+.932
+#1922F#0Cちっ、全ての星を取られたか。%c%c
+#1920F喜べ、アンタの勝ちだ。%c
+
+005E0F88
+.932
+#1925F#0CSorry. Looks like I win.%c%c
+#1921FThe Goddess just isn't on your\nside today, stranger.%c
+
+005E0FF0
+.932
+#1925F#0Cへへっ、悪いな、俺の勝ちだ。%c%c
+#1921Fどうやら、空の女神さんは\nアンタが好みじゃないだとさ。%c
+
+005E1058
+.932
+#1921F#0CAll right! Next game!%c
+
+005E107C
+.932
+#1922F#0CAll right. On to the next\none.%c
+
+005E10A8
+.932
+#1920F#0COkay...\nI'm winning the next one.%c
+
+005E10D8
+.932
+#1921F#0Cよし、ネクストゲームだ！%c
+
+005E10FC
+.932
+#1922F#0Cおし、気を取り直して\n次だ、次。%c
+
+005E1128
+.932
+#1920F#0Cさ、次こそは\n勝たせてもらうぜ。%c
+
+005E1158
+.932
+#1923F#0CA royal flush?!\nDamn!%c%c
+#1924FYou should share some of\nthat luck with me!%c
+
+005E11B0
+.932
+#1920F#0C...A straight flush?!%c%c
+#1921FPretty impressive, stranger.%c
+
+005E11F8
+.932
+#1922F#0CA four of a kind, huh?%c%c
+#1925FHeh. Nice hand.%c
+
+005E1238
+.932
+#1921F#0CWould you look at that?%c%c
+#1925FDon't expect that\nluck to hold out, stranger.%c
+
+005E1298
+.932
+#1925F#0CSorry about that.%c%c
+#1920FGuess luck was on my side today.%c
+
+005E12E0
+.932
+#1923F#0C*sigh* We both came up short,\nhuh?%c%c
+#1924FThat was a sorry round for both of us.%c
+
+005E1340
+.932
+#1920F#0CHeh. A draw, huh?%c%c
+#1925FWell, it's no fun winning\nevery time.%c
+
+005E1390
+.932
+#1923F#0Cロイヤルフラッシュ！\nおいおい、まじかよ！！%c%c
+#1924Fはあ～、その運を\nオレにも分けて欲しいぜ。%c
+
+005E1400
+.932
+#1920F#0C……ストレートフラッシュ！%c%c
+#1921Fへへっ、よく揃えたもんだ。%c
+
+005E1450
+.932
+#1922F#0Cフォアカードか……%c%c
+#1925Fへっ、いい手じゃねえか。%c
+
+005E1490
+.932
+#1921F#0Cへへっ、やるな？%c%c
+#1925Fだが、いつも\n勝てると思うなよ。%c
+
+005E14D8
+.932
+#1925F#0Cへへっ、すまねえな。%c%c
+#1920Fちょいとばかし、\n俺のがついてたみてえだ。%c
+
+005E1530
+.932
+#1923F#0Cはあ、まさか\nお互いブタとはな。%c%c
+#1924Fまったく、\nみっともねえ勝負だぜ。%c
+
+005E1588
+.932
+#1920F#0Cへへ、ドローだったか。%c%c
+#1925Fま、こうでなくちゃ\nゲームは面白くねえ。%c
+
+005E15DC
+.932
+#1924F#0C...Bah. You're no fun.%c
+
+005E1600
+.932
+#1924F#0C……ちっ、つまんねえな。%c
+
+005E1624
+.932
+#1920F#0CGlad to hear it.%c%c
+#1925FThat wasn't funny, man.%c
+
+005E1664
+.932
+#1920F#0C……だよな？%c%c
+#1925Fまったく冗談きついぜ。%c
+
+005E169C
+.932
+#1922F#0C...Are you just tryin' to mess with me?%c
+
+005E16D0
+.932
+#1922F#0C……まさか、揺さぶりか？%c
+
+005E1840
+.932
+#0C#1910FHeehee. Are you ready?%c%c
+#1910FThen let's get started!%c
+
+005E1890
+.932
+#0C#1910Fふふ、準備は大丈夫よね？%c%c
+#1910Fそれじゃ、さっそく\n始めさせてもらうわよ。%c
+
+005E18E8
+.932
+#0C#1913FYou aren't going to draw?%c%c
+#1915FHeh. That's one bold bluff if it is one.%c
+
+005E1940
+.932
+#0C#1913Fカード、引かなくていいの？%c%c
+#1915Fふふ、ブラフだったら\n大したものね。%c
+
+005E1998
+.932
+#0C#1911FSure you're cool\nwith that hand?%c%c
+#1910FWell, whatever.\nIt's my turn now.%c
+
+005E19F0
+.932
+#0C#1911Fふふ、その引きで\n本当に大丈夫なの？%c%c
+#1910Fま、いいわ。\n私も引かせてもらうわよ。%c
+
+005E1A50
+.932
+#0C#1915FYou sure you're done?%c%c
+#1910FYou look awfully confident...%c
+
+005E1AA0
+.932
+#0C#1915Fふふ、そこでストップなんだ。%c%c
+#1910Fけっこう自信がありそうね？%c
+
+005E1AF0
+.932
+#0C#1915FIs drawing that many cards is a\nsmart move?%c%c
+#1916FHeehee. You didn't bust, did you?%c
+
+005E1B58
+.932
+#0C#1915Fそんなに\n引いちゃって大丈夫？%c%c
+#1916Fふふ、さては\nバーストなんじゃない？%c
+
+005E1BB0
+.932
+#0C#1916FDid you get greedy and\ndraw one too many?%c%c
+#1915FWell, I'll find out\nsoon enough.%c
+
+005E1C10
+.932
+#0C#1916Fふふ、さては\n欲張って引きすぎちゃった？%c%c
+#1915Fま、いいわ。\nそれもすぐに分かることよ。%c
+
+005E1C78
+.932
+#0C#1913FWow. That's a lot to draw all at\nonce.%c%c
+#1910FYou've got guts, stranger.%c
+
+005E1CD0
+.932
+#0C#1913Fへ～、よくそこまで\n引いたわね。%c%c
+#1910Fその度胸、\n嫌いじゃないわよ。%c
+
+005E1D24
+.932
+#1913F#0CYou're giving up?\nWell, if that's what you want...%c
+
+005E1D64
+.932
+#1914F#0CYou're giving up?\nTalk about lame.%c
+
+005E1D94
+.932
+#1912F#0CThat's it? Seriously?%c
+
+005E1DB8
+.932
+#1913F#0Cえ、勝負を降りたいの？\n……ま、別にいいけど。%c
+
+005E1DF4
+.932
+#1914F#0Cそう、諦めるの……\nあなたってつまらない人ね。%c
+
+005E1E30
+.932
+#1912F#0Cふ～ん、勝負を途中で\n投げ出すって言うのね？%c
+
+005E1E70
+.932
+#0C#1910FLooks like you win this one.\nCongrats!%c
+
+005E1EA4
+.932
+#0C#1910Fふふ、あなたの勝ちよ。\nおめでとう。%c
+
+005E1ED8
+.932
+#0C#1914F*sigh* I never thought\nyou'd actually get all sevens.%c%c
+#1916FI didn't stand a chance.%c
+
+005E1F40
+.932
+#0C#1914Fふう、まさか\nセブンカードだったなんて。%c%c
+#1916Fさすがに\nこれじゃ勝てないわ。%c
+
+005E1FA0
+.932
+#0C#1914FOuch. I totally lost that one.%c%c
+#1916F*sigh* I must've gotten a little\nahead of myself.%c
+
+005E2008
+.932
+#0C#1914F私の負け、か。%c%c
+#1916Fふう、ちょっと\n焦っちゃったかな？%c
+
+005E2050
+.932
+#0C#1911FHeehee. Well done.\nYou're not half bad.%c
+
+005E2084
+.932
+#0C#1911Fふふ、やるわね。\n大した腕前じゃない。%c
+
+005E20B8
+.932
+#0C#1910FHeehee. A draw, huh?%c%c
+#1910FNot bad, not bad.%c
+
+005E20F4
+.932
+#0C#1910Fふふ、ドローね。%c%c
+#1910Fなかなかやるじゃない。%c
+
+005E2130
+.932
+#0C#1911FHeehee. Too bad.\nI bet you thought you could win, too.%c
+
+005E2174
+.932
+#0C#1911Fふふ、残念ね。\n勝てると思ったでしょう？%c
+
+005E21A8
+.932
+#0C#1913FI can't believe we both got all\nsevens...%c%c
+#1911FYou don't see that every day.%c
+
+005E2208
+.932
+#0C#1913Fまさか、セブンカードで\n引き分けだなんて……%c%c
+#1911Fふふ、珍しいこともあるものね。%c
+
+005E2268
+.932
+#0C#1916FCrap. Did we BOTH bust?\nI never expected that!%c%c
+#1910FHeehee. You got lucky.%c
+
+005E22C8
+.932
+#0C#1916Fあら、お互い\nバーストだったのね。%c%c
+#1910Fふふ、命拾いってとこかしら。%c
+
+005E231C
+.932
+#0C#1910FHeh! Sorry, but I win this one.%c
+
+005E2348
+.932
+#0C#1910Fふふ、ごめんなさい。\nどうやら私の勝ちみたい。%c
+
+005E2388
+.932
+#0C#1913FUh-oh. Did you go and bust?%c%c
+#1915FShould've quit while you were ahead.%c
+
+005E23E0
+.932
+#0C#1913Fあら、バーストだったの？%c%c
+#1915Fふふ、引き際を誤ったようね。%c
+
+005E2430
+.932
+#0C#1917FWoohoo! Black Jack!%c%c
+#1917FHeehee. Always feels so good to win.%c
+
+005E2480
+.932
+#0C#1917F――ブラックジャック。%c%c
+#1917Fふふ、悪いけど私の勝ちね。%c
+
+005E2518
+.932
+#0C#1915FWell, that's that.%c%c
+#1916FNice playing, stranger. You were incredible.%c
+
+005E2570
+.932
+#0C#1915FWell, that's that.%c%c
+#1910FYou won, stranger. Nice work.%c
+
+005E25B8
+.932
+#0C#1915Fさてと、どうやら\n勝負は着いたみたいね。%c%c
+#1916Fふふ……やるわね、完敗よ。%c
+
+005E2610
+.932
+#0C#1915Fさてと、どうやら\n勝負は着いたみたい。%c%c
+#1910Fふふ、おめでとう。\nあなたの勝ちよ。%c
+
+005E2670
+.932
+#0C#1913FAww. We're done already?%c%c
+I was hoping you'd do\na little better than that...%c%c
+#1916FOh, well.%c
+
+005E26E0
+.932
+#0C#1910FWell, that's that.%c%c
+#1910FUnfortunately for you,\nI win this one.%c
+
+005E2730
+.932
+#0C#1913Fあれ……まさか、もう終わり？%c%c
+てっきり、もうちょっと\n楽しめると思ったんだけど……%c%c
+#1916Fま、いっか。\nとにかくこれでゲーム終了よ。%c
+
+005E27C8
+.932
+#0C#1910Fさてと、勝負は着いたわ。%c%c
+#1910F残念だけど\nこの勝負、私の勝ちね。%c
+
+005E2818
+.932
+#0C#1911FHeehee. I'll win the next one!%c
+
+005E2844
+.932
+#0C#1910FOkay! Ready for the next round?%c
+
+005E2870
+.932
+#0C#1915FI won't lose next time!%c
+
+005E28D0
+.932
+#0C#1911Fふふ、次は\n勝たせてもらうわよ。%c
+
+005E28FC
+.932
+#0C#1910Fふふ、それじゃ\n次の勝負と行きましょ。%c
+
+005E2930
+.932
+#0C#1915Fふふ、次は負けないわよ。%c
+
+005E2958
+.932
+#0C#1916FWow! I wasn't expecting this\nto come right down to the wire.%c%c
+#1911FNow I really\ncan't lose.%c
+
+005E29C8
+.932
+#0C#1916Fふう、まさかここまで\n粘るとは思わなかったわ。%c%c
+#1911Fふふ、こうなると\n絶対に負けられないわね。%c
+
+005E2A34
+.932
+#0C#1910FAll right! Next round's the big one.%c
+
+005E2A64
+.932
+#0C#1910Fさっ、次こそは\n白黒はっきりつけましょ。%c
+
+005E2ACC
+.932
+#1916F#0COh... Well, all right.%c
+
+005E2AF0
+.932
+#1916F#0Cそっか……それじゃ\n終わりにしましょう。%c
+
+005E2B28
+.932
+#1911F#0CExactly what I wanted to hear.%c%c
+#1910FLet's hop to it!%c
+
+005E2B6C
+.932
+#1911F#0Cふふ、そうこなくっちゃ。%c%c
+#1910Fさ、勝負再開よ！%c
+
+005E2BAC
+.932
+#1914F#0C...*sigh* Are you just messing around?%c
+
+005E2BE0
+.932
+#1914F#0C……はぁ、何が楽しいの？%c
+
