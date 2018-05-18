@@ -328,7 +328,7 @@ the thought of when and how we might see[x01]
 each other next.[x02][x03]
 
 #1012FSo we put on our bravest face and promise to[x01]
-meet again--whether it comes true of not--and[x01]
+meet again--whether it comes true or not--and[x01]
 we go back to our lives and keep on going.[x02][x03]
 
 #1006FThat's how it is for everyone, I think.[x02]
@@ -372,7 +372,7 @@ forever.[x02][x03]
 #1017F#6PBut I can tell you that we really, really love you.[x02][x03]
 
 That's why I want to watch over you, at least[x01]
-until you become a grownup.[x02][x03]
+until you become a grown-up.[x02][x03]
 
 If that's what you want, too, then I'll do what[x01]
 I can to be by your side no matter what.[x02]
@@ -423,7 +423,7 @@ ChrTalk #37
 #1513F#5PYou don't need to decide what you want to do now.[x02][x03]
 
 #5PThe choice is yours to make. We've already made up[x01]
-our minds what we want to do.[x02]
+our minds about what we want to do.[x02]
 
 ;----------------------------------------------------------------------------------
 ;----------------------------------------------------------------------------------
@@ -798,7 +798,7 @@ ChrTalk #76
 
 #1225F#5PY-You're awful![x02][x03]
 
-Was giving me that halfhearted explanation[x01]
+Was giving me that half-hearted explanation[x01]
 and then vanishing the best you could do?![x02]
 
 ;----------------------------------------------------------------------------------

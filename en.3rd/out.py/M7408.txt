@@ -2664,7 +2664,7 @@ ChrTalk #264
 ChrTalk #265
 0x11
 
-#563F#5PI can't say anything thought provoking like[x01]
+#563F#5PI can't say anything thought-provoking like[x01]
 Anelace...[x02][x03]
 
 
