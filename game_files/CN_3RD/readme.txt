@@ -1,0 +1,1 @@
+Copy 'T_FISH._DT' extracted from ED6_DT22.dat/.dir (YLT ver) to this folder.
