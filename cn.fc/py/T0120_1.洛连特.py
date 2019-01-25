@@ -1105,7 +1105,7 @@ def main():
     SetChrName("")
 
     AnonymousTalk(    #84
-        "\x07\x00收下了\x07\x02妨害２\x07\x00的结晶回路。\x02",
+        "\x07\x00收下了\x07\x02妨碍２\x07\x00的结晶回路。\x02",
     )
 
     CloseMessageWindow()
@@ -1124,7 +1124,7 @@ def main():
 
     ChrTalk(    #86
         0x8,
-        "没错，妨害２的结晶回路。\x02",
+        "没错，妨碍２的结晶回路。\x02",
     )
 
     CloseMessageWindow()

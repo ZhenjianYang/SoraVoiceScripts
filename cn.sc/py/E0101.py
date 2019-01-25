@@ -321,24 +321,14 @@ def main():
 
     ChrTalk(    #4
         0x8,
-        "#210F……哟咻。\x02",
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #5
-        0x102,
         (
-            "#1032F我可不是在\x01",
-            "装模作样……\x02",
+	        "#210F……哟咻。\x02\x03",
+
+	        "#413F这并不是在\x01",
+	        "装模作样耍帅……\x02\x03",
+
+	        "#215F而是必要的，对吧？\x02",
         )
-    )
-
-    CloseMessageWindow()
-
-    ChrTalk(    #6
-        0x8,
-        "#215F那是为什么？\x02",
     )
 
     CloseMessageWindow()

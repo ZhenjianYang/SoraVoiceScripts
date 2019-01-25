@@ -7416,7 +7416,7 @@ def main():
     SetChrName("")
 
     AnonymousTalk(    #497
-        "\x07\x00得到了\x07\x02妨害３\x07\x00的结晶回路。\x02",
+        "\x07\x00得到了\x07\x02妨碍３\x07\x00的结晶回路。\x02",
     )
 
     CloseMessageWindow()
