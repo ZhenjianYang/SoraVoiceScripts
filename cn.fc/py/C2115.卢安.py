@@ -513,7 +513,7 @@ def main():
     SetMessageWindowPos(-1, -1, -1, -1)
 
     AnonymousTalk(    #5
-        "\x07\x00得到了\x07\x02美臭\x07\x00。\x02",
+        "\x07\x00得到了\x07\x02异香\x07\x00。\x02",
     )
 
     CloseMessageWindow()
@@ -529,8 +529,8 @@ def main():
 
     AnonymousTalk(    #6
         (
-            "宝箱里装有\x07\x02美臭\x07\x00。\x01",
-            "不过现有的数量太多，\x07\x02美臭\x07\x00不能再拿更多了。\x02",
+            "宝箱里装有\x07\x02异香\x07\x00。\x01",
+            "不过现有的数量太多，\x07\x02异香\x07\x00不能再拿更多了。\x02",
         )
     )
 
