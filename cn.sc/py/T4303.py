@@ -2206,7 +2206,7 @@ def main():
 
     ChrTalk(    #96
         0x105,
-        "#040F#2P是说德莱凯斯大帝吧？\x02",
+        "#040F#2P是说德莱凯尔斯大帝吧？\x02",
     )
 
     CloseMessageWindow()
