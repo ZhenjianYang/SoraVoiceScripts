@@ -2183,7 +2183,7 @@ def main():
 
     ChrTalk(    #118
         0x12,
-        "以上所说决无虚言。\x02",
+        "以上所说绝无虚言。\x02",
     )
 
     CloseMessageWindow()
