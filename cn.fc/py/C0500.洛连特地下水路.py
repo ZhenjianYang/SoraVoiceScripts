@@ -901,7 +901,6 @@ def main():
     FadeToBright(300, 0)
     OP_A2(0x0)
 #STEAM_ONLY_END
-
     EventEnd(0x2)
     SetMapFlags(0x1)
     Return()
@@ -1917,7 +1916,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0xF, 0x8)
 #STEAM_ONLY_END
-
 
     label("loc_26E1")
 

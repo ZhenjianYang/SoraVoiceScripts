@@ -6207,7 +6207,6 @@ def main():
 
     CloseMessageWindow()
 #STEAM_ONLY_END
-
     ChrTalk(    #1000
         0x101,
         (
@@ -6223,7 +6222,6 @@ def main():
         "#010F我们会充分利用的。\x02",
     )
 #STEAM_ONLY_END
-
     CloseMessageWindow()
     TurnDirection(0x101, 0x102, 400)
 

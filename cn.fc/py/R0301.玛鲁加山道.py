@@ -423,7 +423,6 @@ def main():
     OP_83(0xF, 0x7B)
 #STEAM_ONLY_END
 
-
     label("loc_4BB")
 
     FadeToBright(300, 0)

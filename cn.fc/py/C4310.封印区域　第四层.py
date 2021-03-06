@@ -600,7 +600,6 @@ def main():
     OP_83(0xF, 0x69)
 #STEAM_ONLY_END
 
-
     label("loc_734")
 
     Sleep(30)
@@ -728,7 +727,6 @@ def main():
     OP_83(0xF, 0x6A)
 #STEAM_ONLY_END
 
-
     label("loc_947")
 
     Sleep(30)
@@ -801,7 +799,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0xF, 0x6B)
 #STEAM_ONLY_END
-
 
     label("loc_A8B")
 
@@ -876,7 +873,6 @@ def main():
     OP_83(0xF, 0x6C)
 #STEAM_ONLY_END
 
-
     label("loc_BDC")
 
     Sleep(30)
@@ -949,7 +945,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0xF, 0x6D)
 #STEAM_ONLY_END
-
 
     label("loc_D1B")
 
@@ -1024,7 +1019,6 @@ def main():
     OP_83(0xF, 0x6E)
 #STEAM_ONLY_END
 
-
     label("loc_E63")
 
     Sleep(30)
@@ -1097,7 +1091,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0xF, 0x6F)
 #STEAM_ONLY_END
-
 
     label("loc_FB5")
 
@@ -1172,7 +1165,6 @@ def main():
     OP_83(0xF, 0x70)
 #STEAM_ONLY_END
 
-
     label("loc_10EB")
 
     Sleep(30)
@@ -1245,7 +1237,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0xF, 0x71)
 #STEAM_ONLY_END
-
 
     label("loc_1250")
 

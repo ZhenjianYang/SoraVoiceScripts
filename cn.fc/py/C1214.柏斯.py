@@ -310,7 +310,6 @@ def main():
     OP_83(0xF, 0xA)
 #STEAM_ONLY_END
 
-
     label("loc_37A")
 
     Sleep(30)
@@ -384,7 +383,6 @@ def main():
     OP_83(0xF, 0xB)
 #STEAM_ONLY_END
 
-
     label("loc_4B2")
 
     Sleep(30)
@@ -457,7 +455,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0xF, 0xC)
 #STEAM_ONLY_END
-
 
     label("loc_5F2")
 

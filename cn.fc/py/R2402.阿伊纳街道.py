@@ -1799,7 +1799,6 @@ def main():
     OP_83(0xF, 0x8C)
 #STEAM_ONLY_END
 
-
     label("loc_2114")
 
     Sleep(30)

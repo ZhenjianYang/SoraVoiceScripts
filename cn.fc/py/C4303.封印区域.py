@@ -1929,7 +1929,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0x19, 0x0)
 #STEAM_ONLY_END
-
     Battle(0x39C, 0x0, 0x0, 0x0, 0xFF)
     Switch(
         (scpexpr(EXPR_PUSH_VALUE_INDEX, 0x3), scpexpr(EXPR_END)),
@@ -3506,7 +3505,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0x19, 0x1)
 #STEAM_ONLY_END
-
 
     label("loc_4CE3")
 
@@ -5348,12 +5346,10 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0x19, 0x0)
 #STEAM_ONLY_END
-
     Battle(0x3B3, 0x10000A, 0x0, 0x0, 0xFF)
 #STEAM_ONLY_BEGIN
     OP_83(0x19, 0x1)
 #STEAM_ONLY_END
-
     EventBegin(0x0)
     RemoveParty(0x0, 0xFF)
     RemoveParty(0x1, 0xFF)
@@ -5453,7 +5449,6 @@ def main():
 #STEAM_ONLY_BEGIN
     OP_83(0x19, 0x1)
 #STEAM_ONLY_END
-
 
     ChrTalk(    #148
         0x101,
