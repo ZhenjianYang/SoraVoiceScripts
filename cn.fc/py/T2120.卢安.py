@@ -7448,7 +7448,10 @@ def main():
     OP_AD(0x40043, 0x0, 0x0, 0x64)
     Sleep(4000)
     OP_56(0x2)
+#STEAM_ONLY_BEGIN
     OP_83(0x13, 0x0)
+#STEAM_ONLY_END
+
     OP_A2(0x44B)
     OP_4F(0x31, (scpexpr(EXPR_PUSH_LONG, 0xF2), scpexpr(EXPR_STUB), scpexpr(EXPR_END)))
     OP_6D(100000, -100000, 100000, 0)

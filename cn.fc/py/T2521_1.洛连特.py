@@ -716,7 +716,10 @@ def main():
         )
     )
 
+#STEAM_ONLY_BEGIN
     OP_83(0x2, 0x3)
+#STEAM_ONLY_END
+
     CloseMessageWindow()
     OP_56(0x0)
     FadeToBright(300, 0)

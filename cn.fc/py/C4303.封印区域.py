@@ -1926,7 +1926,10 @@ def main():
     OP_44(0x2, 0xFF)
     OP_44(0x3, 0xFF)
     OP_23(0x90)
+#STEAM_ONLY_BEGIN
     OP_83(0x19, 0x0)
+#STEAM_ONLY_END
+
     Battle(0x39C, 0x0, 0x0, 0x0, 0xFF)
     Switch(
         (scpexpr(EXPR_PUSH_VALUE_INDEX, 0x3), scpexpr(EXPR_END)),
@@ -3500,7 +3503,10 @@ def main():
     label("loc_4CD4")
 
     Jc((scpexpr(EXPR_PUSH_VALUE_INDEX, 0x2F), scpexpr(EXPR_PUSH_LONG, 0x4), scpexpr(EXPR_LEQ), scpexpr(EXPR_END)), "loc_4CE3")
+#STEAM_ONLY_BEGIN
     OP_83(0x19, 0x1)
+#STEAM_ONLY_END
+
 
     label("loc_4CE3")
 
@@ -5339,9 +5345,15 @@ def main():
     TurnDirection(0x1, 0x17, 0)
     TurnDirection(0x2, 0x17, 0)
     TurnDirection(0x3, 0x17, 0)
+#STEAM_ONLY_BEGIN
     OP_83(0x19, 0x0)
+#STEAM_ONLY_END
+
     Battle(0x3B3, 0x10000A, 0x0, 0x0, 0xFF)
+#STEAM_ONLY_BEGIN
     OP_83(0x19, 0x1)
+#STEAM_ONLY_END
+
     EventBegin(0x0)
     RemoveParty(0x0, 0xFF)
     RemoveParty(0x1, 0xFF)
@@ -5438,7 +5450,10 @@ def main():
     OP_6C(134000, 0)
     OP_6E(262, 0)
     OP_0D()
+#STEAM_ONLY_BEGIN
     OP_83(0x19, 0x1)
+#STEAM_ONLY_END
+
 
     ChrTalk(    #148
         0x101,

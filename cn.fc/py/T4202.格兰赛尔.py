@@ -976,7 +976,10 @@ def main():
 
     label("loc_142D")
 
+#STEAM_ONLY_BEGIN
     OP_83(0x16, 0x0)
+#STEAM_ONLY_END
+
     LoadEffect(0x0, "monster\\\\msc0280.eff")
     OP_28(0x4E, 0x1, 0x10)
     OP_51(0xD, 0x8, (scpexpr(EXPR_PUSH_LONG, 0x3), scpexpr(EXPR_STUB), scpexpr(EXPR_END)))

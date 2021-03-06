@@ -572,7 +572,10 @@ def main():
     CloseMessageWindow()
     OP_56(0x0)
     FadeToBright(300, 0)
+#STEAM_ONLY_BEGIN
     OP_83(0xF, 0x53)
+#STEAM_ONLY_END
+
 
     label("loc_7EC")
 
@@ -697,7 +700,10 @@ def main():
     CloseMessageWindow()
     OP_56(0x0)
     FadeToBright(300, 0)
+#STEAM_ONLY_BEGIN
     OP_83(0xF, 0x54)
+#STEAM_ONLY_END
+
 
     label("loc_A02")
 
@@ -822,7 +828,10 @@ def main():
     CloseMessageWindow()
     OP_56(0x0)
     FadeToBright(300, 0)
+#STEAM_ONLY_BEGIN
     OP_83(0xF, 0x55)
+#STEAM_ONLY_END
+
 
     label("loc_C2F")
 
@@ -893,7 +902,10 @@ def main():
     CloseMessageWindow()
     OP_56(0x0)
     FadeToBright(300, 0)
+#STEAM_ONLY_BEGIN
     OP_83(0xF, 0x56)
+#STEAM_ONLY_END
+
 
     label("loc_D9B")
 
@@ -964,7 +976,10 @@ def main():
     CloseMessageWindow()
     OP_56(0x0)
     FadeToBright(300, 0)
+#STEAM_ONLY_BEGIN
     OP_83(0xF, 0x57)
+#STEAM_ONLY_END
+
 
     label("loc_EEC")
 
@@ -1035,7 +1050,10 @@ def main():
     CloseMessageWindow()
     OP_56(0x0)
     FadeToBright(300, 0)
+#STEAM_ONLY_BEGIN
     OP_83(0xF, 0x58)
+#STEAM_ONLY_END
+
 
     label("loc_1039")
 
