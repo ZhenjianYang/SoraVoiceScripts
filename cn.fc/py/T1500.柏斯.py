@@ -3153,52 +3153,72 @@ def main():
 
     RunExpression(0x2, (scpexpr(EXPR_PUSH_LONG, 0x1), scpexpr(EXPR_ADD_SAVE), scpexpr(EXPR_END)))
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x1), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_486A")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x1)
+#STEAM_ONLY_END
 
     label("loc_486A")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x2), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_487A")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x2)
+#STEAM_ONLY_END
 
     label("loc_487A")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x3), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_488A")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x3)
+#STEAM_ONLY_END
 
     label("loc_488A")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x4), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_489A")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x4)
+#STEAM_ONLY_END
 
     label("loc_489A")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x5), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_48AA")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x5)
+#STEAM_ONLY_END
 
     label("loc_48AA")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x6), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_48BA")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x6)
+#STEAM_ONLY_END
 
     label("loc_48BA")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x7), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_48CA")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x7)
+#STEAM_ONLY_END
 
     label("loc_48CA")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x8), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_48DA")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x8)
+#STEAM_ONLY_END
 
     label("loc_48DA")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0x9), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_48EA")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0x9)
+#STEAM_ONLY_END
 
     label("loc_48EA")
 
     Jc((scpexpr(EXPR_GET_RESULT, 0x2), scpexpr(EXPR_PUSH_LONG, 0xA), scpexpr(EXPR_EQU), scpexpr(EXPR_END)), "loc_48FA")
+#STEAM_ONLY_BEGIN
     OP_83(0xD, 0xA)
+#STEAM_ONLY_END
 
     label("loc_48FA")
 
